@@ -1,0 +1,2 @@
+# Runtime importer is standard-library only.
+# Keep this file so deployment/CI has a stable place for future parser dependencies.
