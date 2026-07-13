@@ -1,221 +1,13 @@
 window.DOTACE_EXPORT = {
-  "generated_at": "2026-07-06T06:59:57+00:00",
+  "generated_at": "2026-07-13T08:37:23+00:00",
   "stats": {
-    "total": 240,
-    "active": 31,
-    "completed": 127,
-    "unknown": 82,
+    "total": 239,
+    "active": 50,
+    "completed": 112,
+    "unknown": 77,
     "sources": 17
   },
   "items": [
-    {
-      "id": 31034652798,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2020-09-30",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/Najemne.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID – Nájemné Výzva 1 lze podávat od 26. června 2020 do 30. září 2020 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál eIdentita), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu eIdentita může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz . bankovní identitou – bankovní identity vydávají jednotlivé banky pro přístup k internetové",
-      "attachments": []
-    },
-    {
-      "id": 30872974745,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2020-12-22",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaII.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura, Výzva č. 2 - Podnikající subjekty lze podávat od 22. října 2020 od 9:00 hodin do 22. prosince 2020 do 18:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz . bankovní identitou",
-      "attachments": []
-    },
-    {
-      "id": 747043889139,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2020-12-22",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIOsvc.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura, Výzva č. 2 - Jednorázová podpora (60 000 Kč) lze podávat od 23. října 2020 od 9:00 hodin do 22. prosince 2020 do 18:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz . bankovní",
-      "attachments": []
-    },
-    {
-      "id": 135212035009,
-      "title": "AIS MPO - portál",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-02-04",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/NajemneII.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech Ministerstva průmyslu a obchodu (MPO).",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému Ministerstva průmyslu a obchodu (MPO). Portál AIS MPO slouží k podávání žádostí v dotačních programech Ministerstva průmyslu a obchodu (MPO). Pokyny pro žadatele, kteří pracovali v systému dne 21.01.2021 od 01:00 hod. Zkontrolujte si prosím údaje o žádostech v systému a v případě zjištění nedostatků se řiďte následujícími pokyny. Za způsobené problémy se všem omlouváme. Žadatel, který se nově zaregistroval 21.01.2021 od 01:00 hod. Žadatel se musí v systému AIS MPO zaregistrovat znovu (opětovná registrace do NIA již není potřeba). Žadatel založil a případně i podal novou žádost 21.01.2021 od 01:00 hod. Žadatel musí založit a podat žádost znovu (a to i v případě, že ji stihl podat). Žadatel, který upravoval existující žádost 21.01.2021 od 01:00 hod. (založenou před 21.01.2021 01:00 hod.) a nepodal ji. Tyto úpravy žádosti v systému chybí a je nutné je provést znovu. Žadatel, který podal existující žádost 21.01.2021 od 01:00 hod. (založenou před 21.01.2021 01:00 hod.). Žadatel musí žádost podat znovu (včetně případných úprav provedených po 21.01.2021 01:00). Žadatele, kteří tak neprovedou, budeme postupně kontaktovat. Žadatel, který obdržel 21.01.2021 od 01:00 hod. informaci o vrácení žádosti. V tomto případě je nutné vyčkat na opětovné vrácení a informaci o předání žádosti k doplnění. Žádosti pro program COVID – Nájemné, Výzva 2 lze podávat od 21. října 2020 od 9:00 hodin do 4. února 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita obč",
-      "attachments": []
-    },
-    {
-      "id": 464387244615,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-04-08",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/NajemneIII.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID – Nájemné, Výzva 3 lze podávat od 5. února 2021 od 9:00 hodin do 8. dubna 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz . bankovní identitou – bankovní identity vydávají je",
-      "attachments": []
-    },
-    {
-      "id": 258733455356,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-04-15",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIOsvc.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA, Výzva č. 3.1 - Jednorázová podpora pro umělecké profese lze podávat od 15. února 2021 od 10:00 hodin do 15. dubna 2021 do 17:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz .",
-      "attachments": []
-    },
-    {
-      "id": 88048862963,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-04-30",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIOsvcA.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA - Audiovize, Výzva č. 3.2A - Podpory pro fyzické osoby podnikající – osoby samostatně výdělečné činné lze podávat od 1. března 2021 od 9:00 hodin do 30. dubna 2021 do 17:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek.",
-      "attachments": []
-    },
-    {
-      "id": 577095843714,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-04-30",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIOsvcB.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA - Audiovize, Výzva č. 3.2B - Podpory pro právnické osoby lze podávat od 1. března 2021 od 10:00 hodin do 30. dubna 2021 do 17:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz .",
-      "attachments": []
-    },
-    {
-      "id": 230335941312,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-06-30",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIA.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA, Výzva č. 3.3A - Podpora pro podnikající subjekty na kontinuální činnost v kultuře lze podávat od 21. dubna 2021 od 9:00 hodin do 30. června 2021 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.",
-      "attachments": []
-    },
-    {
-      "id": 706890133477,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-06-30",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIB.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA, Výzva č. 3.3B - Podpora pro ticketingové společnosti a kolektivní správce lze podávat od 21. dubna 2021 od 9:00 hodin do 30. června 2021 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.c",
-      "attachments": []
-    },
-    {
-      "id": 862041449469,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-09-13",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/NakladyII.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID – Nepokryté náklady Výzva 2 (duben - květen 2021), Žádosti lze podávat od 28. června 2021 od 9:00 hodin do 13. září 2021 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz . bankovní identitou – ba",
-      "attachments": []
-    },
-    {
-      "id": 979861409571,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-09-21",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIII_IV.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura Výzva č. 3.4 - Kultura/kulturní dědictví lze podávat od čtvrtka 17. června 2021 od 09:00 hodin do úterý 21. září 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere na www.mojeid.cz . b",
-      "attachments": []
-    },
-    {
-      "id": 637069561692,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2021-09-22",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIV.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura Výzva č. 4 - podpora pro podnikající subjekty na kontinuální činnost v kultuře lze podávat od 3. srpna 2021 od 9:00 hodin do 22. září 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete na www.ica.cz . mojeID díky propojení mojeID s Národním bodem pro identifikaci a autentizaci (NIA) můžete svůj účet používat jako plnohodnotný autentizační prostředek. Více informací naleznere",
-      "attachments": []
-    },
     {
       "id": 160820731053,
       "title": "MPO představilo dotační možnosti z OP TAK a NPO",
@@ -2386,22 +2178,6 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         }
       ]
-    },
-    {
-      "id": 698534892406,
-      "title": "Žádosti pro program Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 lze podávat od 16.11.2022 od 9,00 hod. do 31.12.2023 do 23,59 hod.",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2023-12-31",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/RenovaceBudov.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... Žádosti pro program Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 lze podávat od 16.11.2022 od 9,00 hod. do 31.12.2023 do 23,59 hod. Pro úspěšné podání žádosti je nutné splnit 3 kroky: Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu registrace Právnická osoba , Fyzická osoba podnikající ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu žádosti ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Registrovat nového žadatele Přihlásit Podrobnější informace o programu Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 naleznete na portálu www.mpo-efekt.cz . Metodická podpora žadatelů o podporu (Pracovní dny: 8:00–16:00 hodin): (infolinka pro nejčastější dotazy žadatelů) Telefon: 267 994 383, 267 994 424 E-mail: martina.macourkova@sfzp.cz , tomas.marek@sfzp.cz Technická podpora uživatelů AIS MPO (Pracovní dny: 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Technické předpoklady Doporučené prohlížeče: Microsoft Edge Mozilla Firefox Google Chrome Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
-      "attachments": []
     },
     {
       "id": 809763243291,
@@ -5219,22 +4995,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 451746252554,
-      "title": "Žádosti pro program Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 lze podávat od 5. května 2022 od 9:00 hod. do 31. prosince 2024 do 23:59 hod.",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2024-12-31",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/RenovaceOsvetleni.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... Žádosti pro program Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 lze podávat od 5. května 2022 od 9:00 hod. do 31. prosince 2024 do 23:59 hod. Pro úspěšné podání žádosti je nutné splnit 3 kroky: Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ ( Odkaz na videonápovědu. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Registrovat nového žadatele Přihlásit Podrobnější informace o programu Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 naleznete na portálu www.mpo-efekt.cz . Metodická podpora žadatelů o podporu (po-pá 8:00 - 16:00 hodin): (Infolinka pro nejčastější dotazy žadatelů) Telefon: 224 853199, 224 853193 E-mail: justian@mpo.cz , danisova@mpo.cz Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Technické předpoklady Doporučené prohlížeče: Microsoft Edge Mozilla Firefox Google Chrome Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
-      "attachments": []
-    },
-    {
       "id": 847474502530,
       "title": "Potenciál – výzva II",
       "type": "Dotace",
@@ -6125,7 +5885,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program TREND - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program TREND Výsledky s potenciálem pro konkurenceschopnost - nové produkty, výrobní postupy a služby - program Ministerstva průmyslu a obchodu Seznam soutěží Třináctá veřejná soutěž V přípravě Dvanáctá veřejná soutěž Uzavřena Jedenáctá veřejná soutěž Uzavřena Zobrazit další soutěže Desátá veřejná soutěž Uzavřena Devátá veřejná soutěž Uzavřena Osmá veřejná soutěž Uzavřena Šestá veřejná soutěž Uzavřena Sedmá veřejná soutěž Uzavřena Čtvrtá veřejná soutěž Uzavřena Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu průmyslového výzkumu a experimentálního vývoje TREND - s účinností do 7. 5. 2025 Seznam členů a členek Odborného poradního orgánu Seznam členů a členek kolegia odborníků Program na podporu průmyslového výzkumu a inovací TREND - s účinností od 8. 5. 2025 Novinky Program TREND: Oznámení k podprogramu 2 „Nováčci“ Aktuality Trend 1. 7. 2026 - Na základě jednání s Ministerstvem průmyslu a obchodu oznamujeme, že v letošním roce nebude vyhlášena veřejná soutěž v programu TREND, podprogram 2… Program TREND: Oznámení o odložení vyhlášení 13. veřejné soutěže, podprogram 2 Aktuality Trend Třináctá veřejná soutěž 6. 2. 2026 - Technologická agentura České republiky na základě žádosti Ministerstva průmyslu a obchodu informuje, že s ohledem na aktuální rozpočtové provizorium… Program",
+      "text": "Program TREND - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program TREND Výsledky s potenciálem pro konkurenceschopnost - nové produkty, výrobní postupy a služby - program Ministerstva průmyslu a obchodu Seznam soutěží Dvanáctá veřejná soutěž Uzavřena Jedenáctá veřejná soutěž Uzavřena Desátá veřejná soutěž Uzavřena Zobrazit další soutěže Devátá veřejná soutěž Uzavřena Osmá veřejná soutěž Uzavřena Šestá veřejná soutěž Uzavřena Sedmá veřejná soutěž Uzavřena Čtvrtá veřejná soutěž Uzavřena Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Třináctá veřejná soutěž V přípravě Znění programu Program na podporu průmyslového výzkumu a experimentálního vývoje TREND - s účinností do 7. 5. 2025 Seznam členů a členek Odborného poradního orgánu Seznam členů a členek kolegia odborníků Program na podporu průmyslového výzkumu a inovací TREND - s účinností od 8. 5. 2025 Novinky Program TREND: Oznámení k podprogramu 2 „Nováčci“ Aktuality Trend 1. 7. 2026 - Na základě jednání s Ministerstvem průmyslu a obchodu oznamujeme, že v letošním roce nebude vyhlášena veřejná soutěž v programu TREND, podprogram 2… Program TREND: Oznámení o odložení vyhlášení 13. veřejné soutěže, podprogram 2 Aktuality Trend Třináctá veřejná soutěž 6. 2. 2026 - Technologická agentura České republiky na základě žádosti Ministerstva průmyslu a obchodu informuje, že s ohledem na aktuální rozpočtové provizorium… Program",
       "attachments": [
         {
           "title": "Program na podporu průmyslového výzkumu a experimentálního vývoje TREND - s účinností do 7. 5. 2025",
@@ -7096,7 +6856,7 @@ window.DOTACE_EXPORT = {
       "source_name": "API Agentura - OP TAK",
       "program": "OP TAK",
       "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva III – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva III Obnovitelné zdroje energie – větrné elektrárny – výzva III Vyhlášení výzvy 27. 06. 2025 Zahájení příjmu 14. 07. 2025 10:00:00 Ukončení příjmu 09. 07. 2026 10:00:00 Otevřená výzva Cílem je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE Upozornění pro žadatele a příjemce: 30. 10. 2025: MPO informovalo o návrhu prováděcího nařízení Evropského parlamentu a Rady (EU) 2024/1735, tzv. Net Zero Industry Act (NZIA), kterým se stanoví minimální environmentální požadavky na určité net zero technologie, čímž vznikají nové povinnosti zadavatelů nadlimitních veřejných zakázek obsahujících určité net zero technologie (více informací na odkazu https://portal-vz.cz/info-forum-vzdelavani/aktuality/nove-povinnosti-zadavatelu-nadlimitnich-verejnych-zakazek-obsahujicich-urcite-net-zero-technologie/ ). Evropská komise navrhla účinnost tohoto nařízení již k 30. 12. 2025 bez přechodných",
+      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva III – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva III Obnovitelné zdroje energie – větrné elektrárny – výzva III Vyhlášení výzvy 27. 06. 2025 Zahájení příjmu 14. 07. 2025 10:00:00 Ukončení příjmu 09. 07. 2026 10:00:00 Uzavřená výzva Cílem je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE Upozornění pro žadatele a příjemce: 30. 10. 2025: MPO informovalo o návrhu prováděcího nařízení Evropského parlamentu a Rady (EU) 2024/1735, tzv. Net Zero Industry Act (NZIA), kterým se stanoví minimální environmentální požadavky na určité net zero technologie, čímž vznikají nové povinnosti zadavatelů nadlimitních veřejných zakázek obsahujících určité net zero technologie (více informací na odkazu https://portal-vz.cz/info-forum-vzdelavani/aktuality/nove-povinnosti-zadavatelu-nadlimitnich-verejnych-zakazek-obsahujicich-urcite-net-zero-technologie/ ). Evropská komise navrhla účinnost tohoto nařízení již k 30. 12. 2025 bez přechodných",
       "attachments": [
         {
           "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva III (pdf) 27. 6. 2025",
@@ -7581,7 +7341,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 103. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (MRR) Úvod > Výzvy 2021-2027 > 103. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (MRR) zdravy 103. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS20",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 103. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (MRR) Úvod > Výzvy 2021-2027 > 103. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (MRR) zdravy 103. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro po",
       "attachments": []
     },
     {
@@ -7597,7 +7357,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 104. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (PR) Úvod > Výzvy 2021-2027 > 104. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (PR) zdravy 104. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 104. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (PR) Úvod > Výzvy 2021-2027 > 104. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (PR) zdravy 104. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podán",
       "attachments": []
     },
     {
@@ -7613,7 +7373,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) Úvod > Výzvy 2021-2027 > 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) zdravy 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) Úvod > Výzvy 2021-2027 > 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) zdravy 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podán",
       "attachments": []
     },
     {
@@ -7629,7 +7389,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 117. výzva IROP - Integrovaný záchranný systém - Praha SC 2.1 (VRR) Úvod > Výzvy 2021-2027 > 117. výzva IROP - Integrovaný záchranný systém - Praha SC 2.1 (VRR) izs 117. výzva IROP - Integrovaný záchranný systém - Praha SC 2.1 (VRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 8. 2025 Zahájení příjmu žádostí: 21. 8. 2025 Ukončení příjmu žádostí: 31. 12. 2027 Oprávnění žadatelé: hlavní město Praha, městské části hl. m. Prahy, organizace zřizované nebo zakládané hl. m. Prahou, poskytovatelé zdravotnické záchranné služby zřízené krajem - Zdravotnická záchranná služba hl. m. Prahy Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 117. výzva IROP - Integrovaný záchranný systém - Praha SC 2.1 (VRR) Úvod > Výzvy 2021-2027 > 117. výzva IROP - Integrovaný záchranný systém - Praha SC 2.1 (VRR) izs 117. výzva IROP - Integrovaný záchranný systém - Praha SC 2.1 (VRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 8. 2025 Zahájení příjmu žádostí: 21. 8. 2025 Ukončení příjmu žádostí: 31. 12. 2027 Oprávnění žadatelé: hlavní město Praha, městské části hl. m. Prahy, organizace zřizované nebo zakládané hl. m. Prahou, poskytovatelé zdravotnické záchranné služby zřízené krajem - Zdravotnická záchranná služba hl. m. Prahy Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup p",
       "attachments": []
     },
     {
@@ -7645,7 +7405,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 118. výzva IROP - eGovernment - DIA - SC 1.1 (ČR) Úvod > Výzvy 2021-2027 > 118. výzva IROP - eGovernment - DIA - SC 1.1 (ČR) gover 118. výzva IROP - eGovernment - DIA - SC 1.1 (ČR) Stav výzvy: Uzavřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 18. 9. 2025 Zahájení příjmu žádostí: 18. 9. 2025 Ukončení příjmu žádostí: 13. 4. 2026 Oprávnění žadatelé: organizační složka státu („OSS“) – Digitální a informační agentura Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 26. 2. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 1. 11. 2023 [ PDF, 6.3 MB ] Postup pro podání žádosti o podporu v MS2021+ k 17. 10. 2023 [ PDF, 6.3 MB",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 118. výzva IROP - eGovernment - DIA - SC 1.1 (ČR) Úvod > Výzvy 2021-2027 > 118. výzva IROP - eGovernment - DIA - SC 1.1 (ČR) gover 118. výzva IROP - eGovernment - DIA - SC 1.1 (ČR) Stav výzvy: Uzavřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 18. 9. 2025 Zahájení příjmu žádostí: 18. 9. 2025 Ukončení příjmu žádostí: 13. 4. 2026 Oprávnění žadatelé: organizační složka státu („OSS“) – Digitální a informační agentura Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 26. 2. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+",
       "attachments": []
     },
     {
@@ -7661,7 +7421,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) Úvod > Výzvy 2021-2027 > 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) doprava2 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 31. 3. 2026 Zahájení příjmu žádostí: 31. 3. 2026 Ukončení příjmu žádostí: 10. 9. 2026 Oprávnění žadatelé: Kraje, obce, dobrovolné svazky obcí, organizace zřizované nebo zakládané kraji, organizace zřizované nebo zakládané obcemi, organizace zřizované nebo zakládané dobrovolnými svazky obcí Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) Úvod > Výzvy 2021-2027 > 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) doprava2 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 31. 3. 2026 Zahájení příjmu žádostí: 31. 3. 2026 Ukončení příjmu žádostí: 10. 9. 2026 Oprávnění žadatelé: Kraje, obce, dobrovolné svazky obcí, organizace zřizované nebo zakládané kraji, organizace zřizované nebo zakládané obcemi, organizace zřizované nebo zakládané dobrovolnými svazky obcí Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5",
       "attachments": []
     },
     {
@@ -7677,7 +7437,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 120. výzva IROP - Kybernetická bezpečnost II. – SC 1.1 (PR) Úvod > Výzvy 2021-2027 > 120. výzva IROP - Kybernetická bezpečnost II. – SC 1.1 (PR) gover 120. výzva IROP - Kybernetická bezpečnost II. – SC 1.1 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 30. 4. 2026 Zahájení příjmu žádostí: 30. 4. 2026 Ukončení příjmu žádostí: 17. 12. 2026 Oprávnění žadatelé: organizační složky státu; příspěvkové organizace organizačních složek státu; kraje; obce; organizace zřizované nebo zakládané kraji / obcemi; státní podniky; subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů. Z uvedených typů oprávněných žadatelů jsou oprávněnými pouze ty subjekty, které jsou vymezeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podán",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 120. výzva IROP - Kybernetická bezpečnost II. – SC 1.1 (PR) Úvod > Výzvy 2021-2027 > 120. výzva IROP - Kybernetická bezpečnost II. – SC 1.1 (PR) gover 120. výzva IROP - Kybernetická bezpečnost II. – SC 1.1 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 30. 4. 2026 Zahájení příjmu žádostí: 30. 4. 2026 Ukončení příjmu žádostí: 17. 12. 2026 Oprávnění žadatelé: organizační složky státu; příspěvkové organizace organizačních složek státu; kraje; obce; organizace zřizované nebo zakládané kraji / obcemi; státní podniky; subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů. Z uvedených typů oprávněných žadatelů jsou oprávněnými pouze ty subjekty, které jsou vymezeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podp",
       "attachments": []
     },
     {
@@ -7693,7 +7453,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) Úvod > Výzvy 2021-2027 > 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) doprava2 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 26. 2. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 1. 11. 2023 [ PD",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) Úvod > Výzvy 2021-2027 > 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) doprava2 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podpor",
       "attachments": []
     },
     {
@@ -7709,7 +7469,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) Úvod > Výzvy 2021-2027 > 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) doprava2 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 26. 2. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k 1. 11. 2023 [ PDF,",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) Úvod > Výzvy 2021-2027 > 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) doprava2 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v",
       "attachments": []
     },
     {
@@ -7725,7 +7485,7 @@ window.DOTACE_EXPORT = {
       "source_name": "IROP 2021-2027",
       "program": "IROP",
       "summary": "Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ]",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 85. výzva IROP - Podpora ochrany veřejného zdraví - SC 4.3 (ČR) Úvod > Výzvy 2021-2027 > 85. výzva IROP - Podpora ochrany veřejného zdraví - SC 4.3 (ČR) zdravy 85. výzva IROP - Podpora ochrany veřejného zdraví - SC 4.3 (ČR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 31. 10. 2024 Zahájení příjmu žádostí: 31. 10. 2024 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Oprávněnými žadateli jsou subjekty vykonávající činnost dle zákona č. 258/2000 Sb., o ochraně veřejného zdraví v platném znění: • Státní zdravotní ústav Oprávněný žadatel může podat max. dva projekty. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání žádosti o podporu v MS2021+ k 27. 3. 2024 [ PDF, 6.4 MB ] Postup pro podání žádosti o podporu v MS2021+ k",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - 85. výzva IROP - Podpora ochrany veřejného zdraví - SC 4.3 (ČR) Úvod > Výzvy 2021-2027 > 85. výzva IROP - Podpora ochrany veřejného zdraví - SC 4.3 (ČR) zdravy 85. výzva IROP - Podpora ochrany veřejného zdraví - SC 4.3 (ČR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 31. 10. 2024 Zahájení příjmu žádostí: 31. 10. 2024 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Oprávněnými žadateli jsou subjekty vykonávající činnost dle zákona č. 258/2000 Sb., o ochraně veřejného zdraví v platném znění: • Státní zdravotní ústav Oprávněný žadatel může podat max. dva projekty. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 8. 7. 2026 (pro novou prezentační vrstvu) [ PDF, 8.2 MB ] Postup pro podání žádosti o podporu v MS2021+ k 15. 1. 2026 [ PDF, 6.7 MB ] Nezávazný vzor plné moci [ DOCX, 25.2 KB ] Archiv postupů pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu v MS2021+ k 26. 3. 2025 [ PDF, 6.7 MB ] Postup pro podání žádosti o podporu v MS2021+ k 25. 11. 2024 [ PDF, 6.8 MB ] Postup pro podání žádosti o podporu v MS2021+ k 30. 7. 2024 [ PDF, 6.5 MB ] Postup pro podání",
       "attachments": []
     },
     {
@@ -8189,22 +7949,6 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         }
       ]
-    },
-    {
-      "id": 1929631531,
-      "title": "Partnerství Innovative SMEs / Eurostars",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-01-26",
-      "source_url": "https://tacr.gov.cz/program/partnerstvi-innovative-smes-eurostars/",
-      "source_id": "tacr-souteze",
-      "source_name": "TA ČR - veřejné soutěže",
-      "program": "",
-      "summary": "Povinná publicita podpořených projektů",
-      "text": "Partnerství Innovative SMEs / Eurostars - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Partnerství Innovative SMEs / Eurostars Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Partnerství Eurostars 3 - Call 10 Probíhá hodnocení návrhů projektů Partnerství Eurostars 3 - Call 9 výzva uzavřena Novinky Eurostars 3 – Call 10: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars 3 Call 10 16. 1. 2026 - V pondělí 26. ledna 2026, 10:00-12:00 proběhne informační webinář pro uchazeče s názvem Applying to Eurostars – What to consider when writing a… Eurostars 3 – Call 9: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Partnerství Eurostars 3 - Call 9 4. 7. 2025 - Od 4. 7. 2025 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Partnerství Innovative SMEs - výzva Eurostars 3 - Call 9: Informační webináře Aktuality Partnerství Innovative SMEs / Eurostars Partnerství Eurostars 3 - Call 9 18. 6. 2025 - Zájemci o mezinárodní výzvu programu Eurostars s názvem „Partnerství Eurostars 3 – Call 9”, která bude otevřena od 4. 7. 2025, budou mít příležitost… Zobrazit starší příspěvky Více informací Pravidla financování českého uchazeče navazují na pravidla programu SIGMA DC4 – M",
-      "attachments": []
     },
     {
       "id": 814492965066,
@@ -9019,8 +8763,8 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         },
         {
-          "title": "Čestné prohlášení partnera k žádosti o platbu (docx) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/cestne-prohlaseni-partnera-k-zadosti-o-platbu-apl-ii.docx",
+          "title": "Čestné prohlášení partnera k žádosti o platbu (docx) 10. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/cestne-prohlaseni-partnera-k-zadosti-o-platbu-apl-ii.docx",
           "status": "Čeká"
         },
         {
@@ -9084,8 +8828,8 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         },
         {
-          "title": "Archiv (zip) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/archiv-apl-vyzva-ii-vyvoj-digitalnich-reseni.zip",
+          "title": "Archiv (zip) 10. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-apl-vyzva-ii-vyvoj-digitalnich-reseni.zip",
           "status": "Čeká"
         }
       ]
@@ -9399,7 +9143,7 @@ window.DOTACE_EXPORT = {
       "source_name": "MPO - Národní plán obnovy a dotace",
       "program": "NPO",
       "summary": "Ministerstvo průmyslu a obchodu vyhlašuje výzvu na podporu zavádění vysokokapacitních sítí elektronických komunikací z Národního plánu obnovy. Pro podnikatele v elektronických komunikacích je připraveno 2,85 miliardy korun z evropského Nástroje pro oživení a odolnost. Cílem výzvy je v maximální možné míře zajistit přístup k internetu domácnostem, školám, silně digitalizovaným podnikům, veřejné správě a dalším v odlehlejších oblastech.",
-      "text": "I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy | MPO I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy Publikováno: 14.4.2022 Autor: 61440 Ministerstvo průmyslu a obchodu vyhlašuje výzvu na podporu zavádění vysokokapacitních sítí elektronických komunikací z Národního plánu obnovy. Pro podnikatele v elektronických komunikacích je připraveno 2,85 miliardy korun z evropského Nástroje pro oživení a odolnost. Cílem výzvy je v maximální možné míře zajistit přístup k internetu domácnostem, školám, silně digitalizovaným podnikům, veřejné správě a dalším v odlehlejších oblastech. Aktualizace dne 13.4.2026 Došlo k aktualizaci u čestných prohlášení k vyloučení střetu zájmů I. výzva na podporu připojení adresních míst k VHCN z komponenty 1.3 Digitální vysokokapacitní sítě z Národního plánu obnovy: I.Výzva-Digitální vysokokapacitní sítě [pdf, 360 kB] Projekty s vydaným RoPD Projekty s vydaným RoPD [pdf, 466 kB] Návody a často kladené dotazy: Návodka_ISKP14 [pdf, 2849 kB] Často kladené dotazy Přílohy výzvy: Příloha 1 - Vymezení způsobilých výdajů [pdf, 435 kB] Příloha 2 - Model hodnocení a kritéria pro hodnocení a výběr projektů [pdf, 464 kB] Příloha 3 - Osnova podnikatelského záměru a projektové studie [pdf, 262 kB] Příloha 4 - Pravidla pro žadatele a příjemce [pdf, 1554 kB] Příloha 5 - Vzor Rozhodnutí o poskytnutí dotace [pdf, 382 kB] Příloha 6 - Čestné prohlášení příjemce k RoPD [pdf, 165 kB] Příloha 7 - Pokyny pro vytvoření a zveřejnění velkoobchodní nabídky [pdf, 626 kB] Příloha 8 - Seznam podporovaných oblastí a adresních míst [pdf, 120 kB] Příloha 9 - Formulář finanční analýzy [xlsx, 81 kB] Příloha 10 - Vzor položkového rozpočtu projektu [xlsx, 24 kB] Příloha 11 - Prohlášení k žádosti o podporu [xlsx, 84 kB] Příloha 12 - Formulář pro posouzení podniku v obtížích [xlsx, 63 kB] Příloha 13 -Čestné prohlášení a základní sběr informací k vyloučení střetu zájmů ve vztahu k poskytovalteli podpory [xlsx, 86 kB] Příloha 14-Tabulka CBA [xlsx, 108 kB] Kategorizace sankcí [pdf, 340 kB] Čestné prohlášení k vyloučení střetu zájmu v průběhu zadávacího řízení [xlsx, 81 kB] Manuál pro pořádání Open Days [pdf, 165 kB] Vzory",
+      "text": "I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy | MPO I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy Publikováno: 14.4.2022 Autor: 61440 Ministerstvo průmyslu a obchodu vyhlašuje výzvu na podporu zavádění vysokokapacitních sítí elektronických komunikací z Národního plánu obnovy. Pro podnikatele v elektronických komunikacích je připraveno 2,85 miliardy korun z evropského Nástroje pro oživení a odolnost. Cílem výzvy je v maximální možné míře zajistit přístup k internetu domácnostem, školám, silně digitalizovaným podnikům, veřejné správě a dalším v odlehlejších oblastech. Aktualizace dne 13.4.2026 Došlo k aktualizaci u čestných prohlášení k vyloučení střetu zájmů I. výzva na podporu připojení adresních míst k VHCN z komponenty 1.3 Digitální vysokokapacitní sítě z Národního plánu obnovy: I.Výzva-Digitální vysokokapacitní sítě [pdf, 360 kB] Projekty s vydaným RoPD Projekty s vydaným RoPD [pdf, 466 kB] Seznam projektů Seznam projektů [pdf, 157 kB] Návody a často kladené dotazy: Návodka_ISKP14 [pdf, 2849 kB] Často kladené dotazy Přílohy výzvy: Příloha 1 - Vymezení způsobilých výdajů [pdf, 435 kB] Příloha 2 - Model hodnocení a kritéria pro hodnocení a výběr projektů [pdf, 464 kB] Příloha 3 - Osnova podnikatelského záměru a projektové studie [pdf, 262 kB] Příloha 4 - Pravidla pro žadatele a příjemce [pdf, 1554 kB] Příloha 5 - Vzor Rozhodnutí o poskytnutí dotace [pdf, 382 kB] Příloha 6 - Čestné prohlášení příjemce k RoPD [pdf, 165 kB] Příloha 7 - Pokyny pro vytvoření a zveřejnění velkoobchodní nabídky [pdf, 626 kB] Příloha 8 - Seznam podporovaných oblastí a adresních míst [pdf, 120 kB] Příloha 9 - Formulář finanční analýzy [xlsx, 81 kB] Příloha 10 - Vzor položkového rozpočtu projektu [xlsx, 24 kB] Příloha 11 - Prohlášení k žádosti o podporu [xlsx, 84 kB] Příloha 12 - Formulář pro posouzení podniku v obtížích [xlsx, 63 kB] Příloha 13 -Čestné prohlášení a základní sběr informací k vyloučení střetu zájmů ve vztahu k poskytovalteli podpory [xlsx, 86 kB] Příloha 14-Tabulka CBA [xlsx, 108 kB] Kategorizace sankcí [pdf, 340 kB] Čestné prohlášení k vyloučení střetu zájmu v průběhu zadávacího řízení [xlsx, 81 kB] Manu",
       "attachments": [
         {
           "title": "I.Výzva-Digitální vysokokapacitní sítě",
@@ -9409,6 +9153,11 @@ window.DOTACE_EXPORT = {
         {
           "title": "Projekty s vydaným RoPD",
           "url": "https://mpo.gov.cz/assets/cz/podnikani/narodni-plan-obnovy/vyzvy/2024/11/Projekty-s-vydanym-RoPD.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Seznam projektů",
+          "url": "https://mpo.gov.cz/assets/cz/podnikani/narodni-plan-obnovy/vyzvy/2026/7/Seznam-projektu.pdf",
           "status": "Čeká"
         },
         {
@@ -9893,22 +9642,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 443654210237,
-      "title": "Žádosti pro Výzvu V. – Program podpory malých prodejen na venkově „OBCHŮDEK 2021+“ – Podpora provozního financování lze podávat od 15. 04. 2026 od 9:00 hod. do 30. 4. 2026 do 23:59 hod.",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-04-30",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/Obchudek.aspx",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. )",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... Žádosti pro Výzvu V. – Program podpory malých prodejen na venkově „OBCHŮDEK 2021+“ – Podpora provozního financování lze podávat od 15. 04. 2026 od 9:00 hod. do 30. 4. 2026 do 23:59 hod. Pro úspěšné podání žádosti je nutné splnit 3 kroky: Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu registrace Právnická osoba , Fyzická osoba podnikající ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu žádosti ) 4. ZALOŽENÍ NOVÉHO UŽIVATELE K ÚČTU ŽADATELE ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Registrovat nového žadatele Přihlásit Podrobnější informace pro Výzvu V. – Program podpory malých prodejen na venkově „OBCHŮDEK 2021+“ – Podpora provozního financování naleznete na webové stránce www.mpo.cz/obchudek2021 . Metodická podpora žadatelů o podporu (Pracovní dny: 8:30 - 16:30 hodin): (Infolinka pro nejčastější dotazy žadatelů ohledně podpůrného programu Obchůdek 2021+) E-mail: obchudek@mpo.cz Technická podpora uživatelů AIS MPO (Pracovní dny: 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpoobchudek@asd-software.cz Technické předpoklady Doporučené prohlížeče: Microsoft Edge Mozilla Firefox Google Chrome Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
-      "attachments": []
-    },
-    {
       "id": 54392194931,
       "title": "Energetická infrastruktura – Úspory v LDS – výzva I",
       "type": "Dotace",
@@ -10322,7 +10055,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program DOPRAVA 2030 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program DOPRAVA 2030 Seznam soutěží Čtvrtá veřejná soutěž Běží lhůta pro podávání návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030 Seznam členů a členek kolegia odborníků V6 Seznam členů a členek Odborného poradního orgánu Novinky Program DOPRAVA 2030: Prezentace a videozáznam z webináře pro uchazeče 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 5. 6. 2026 - Technologická agentura ČR ve spolupráci s Ministerstvem Dopravy ČR pořádala dne 28. května 2026 webinář pro uchazeče 4. veřejné soutěže v Programu… Program DOPRAVA 2030: Vyhlášení 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 13. 5. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila ve spolupráci s Ministerstvem dopravy dne 13. 5. 2026 čtvrtou veřejnou soutěž v… Program DOPRAVA 2030: Oznámení předběžných parametrů 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 24. 3. 2026 - Technologická agentura ČR (dále jen „TA ČR”) spolu s Ministerstvem dopravy informuje o přípravě 4. veřejné soutěže v Programu na podporu… Zobrazit starší příspěvky Více informací Program Ministerstva dopravy na podporu aplikovaného výzkumu a inovací v oblasti dopravy – DOPRAVA 2030 (dále jen „",
+      "text": "Program DOPRAVA 2030 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program DOPRAVA 2030 Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Čtvrtá veřejná soutěž Probíhá hodnocení návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030 Seznam členů a členek kolegia odborníků V6 Seznam členů a členek Odborného poradního orgánu Novinky Program DOPRAVA 2030: Prezentace a videozáznam z webináře pro uchazeče 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 5. 6. 2026 - Technologická agentura ČR ve spolupráci s Ministerstvem Dopravy ČR pořádala dne 28. května 2026 webinář pro uchazeče 4. veřejné soutěže v Programu… Program DOPRAVA 2030: Vyhlášení 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 13. 5. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila ve spolupráci s Ministerstvem dopravy dne 13. 5. 2026 čtvrtou veřejnou soutěž v… Program DOPRAVA 2030: Oznámení předběžných parametrů 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 24. 3. 2026 - Technologická agentura ČR (dále jen „TA ČR”) spolu s Ministerstvem dopravy informuje o přípravě 4. veřejné soutěže v Programu na podporu… Zobrazit starší příspěvky Více informací Program Ministerstva dopravy na podporu aplikovaného výzkumu a inovací v oblasti do",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030",
@@ -10374,108 +10107,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 275848579563,
-      "title": "STEP – Investice – vývoj a výroba kritických technologií",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-06-24",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step-investice-vyvoj-a-vyroba-kritickych-technologii/step-investice-vyvoj-a-vyroba-kritickych-technologii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "STEP – Investice – vývoj a výroba kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií Vyhlášení výzvy 15. 06. 2026 Zahájení příjmu 17. 07. 2026 14:00:00 Ukončení příjmu 15. 10. 2026 15:00:00 Otevřená výzva Podpora produktivních investic malých, středních a velkých podniků do vývoje a výroby kritických technologií. Upozornění pro žadatele a příjemce: 24. 6. 2026: Doplnění osnovy podnikatelského záměru o Anex E k podložení faktorů snížení nezávislosti u Přílohy č. 6 – Osnova podnikatelského záměru. Na co lze získat podporu (podporované aktivity): Vývoj a výroba kritických technologií evropského významu a jejich hodnotových řetězců v těchto oblastech: digitální technologie a deep tech inovace polovodiče, AI, kvantové technologie, pokročilá konektivita, navigace, robotika čisté technologie solární energie, baterie, vodík, tepelná čerpadla, zachycování CO₂ biotechnologie DNA/RNA, buněčné a tkáňové inženýrství, bioinformatika, nanobiotechnologie obranné technologie protivzdušná obrana, drony, kybern",
-      "attachments": [
-        {
-          "title": "Výzva Step - Investice Vývoj a výroba kritických technologií (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249v-zva-step-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 1 - Model hodnocení (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-1-model-hodnocen-step-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-2-pp-p-zvl-tn-st-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 3 - Vymezení způsobilých výdajů (pdf) 25. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-3-vymezeni-zpusobilych-vydaju-investice-step-1.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 4 - Vzor rozhodnutí o poskytnutí dotace (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-4-vzor-ropd-investice-step.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 5 Nepodporované kategorie CZ NACE (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-5-nepodporovan-kategorie-cz-nace-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 6 – Povinná osnova Podnikatelského záměru (docx) 24. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-6-osnova-podnikatelskeho-zameru-step.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 7 - Formulář k prověření zásady významně nepoškozovat (DNSH) a prověření infrastruktury z hlediska klimatického dopadu (docx) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-7-formul-k-prov-en-z-sady-v-znamn-nepo-kozovat-dnsh-a-prov-en-infrastruktury-z-hlediska-klimatick-ho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 8 - RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-8-ris3-strategie-p-loha-1-karty-tematick-ch-oblast-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 9 Odvětví platformy STEP (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-9-odv-tv-step.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 10 - Metodika pro výpočet stanovení hodnoty znovupoužitého majetku (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-10-metodika-pro-v-po-et-stanoven-hodnoty-znovupou-it-ho-majetku.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 11 - Formulář pro výpočet hodnoty znovupoužitého majetku (xlsx) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-11-formul-pro-v-po-et-hodnoty-znovupou-it-ho-majetku.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 12 - Prohlášení k jedinému investičnímu projektu (xlsx) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-12-prohl-en-k-jedin-mu-investi-n-mu-projektu.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 13 - Stupnice TRL (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-13-stupnice-trl.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 24. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "STEP – Investments in the Development and Production of Critical Technologies resume (pdf) 29. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-investice-vyvoj-a-vyroba-kritickych-technologii-en.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Leták výzvy (pdf) 16. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/investice-step-vyzva-i-final.pdf",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 949038277153,
       "title": "STEP – výzkum a vývoj kritických technologií",
       "type": "Stránka",
@@ -10502,7 +10133,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-2-pravidla-pro-adatele-a-p-jemce-v-op-tak-zvl-tn-st.pdf",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-2-pravidla-pro-zadatele-a-prijemce-v-op-tak-zvlastni-cast.pdf",
           "status": "Čeká"
         },
         {
@@ -10827,22 +10458,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 343779076574,
-      "title": "Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech.",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-07-03",
-      "source_url": "https://irop.gov.cz/cs/",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "summary": "IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů.",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - Úvod IROP 2021-2027 Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech. IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů. ZJISTIT VÍCE Výzvy 2021-2027 Konzultační servis Strategické projekty IROP Závazná stanoviska ŘO IROP 2021-2027 eGovernment a kyberbezpečnost Integrovaný záchranný systém Zelená infrastruktura měst a obcí Silnice II. třídy Vzdělávací infrastruktura Sociální infrastruktura Infrastruktura ve zdravotnictví Kulturní dědictví a cestovní ruch Komunitně vedený místní rozvoj (CLLD) Čistá a aktivní mobilita Novinky z IROP Tiskové zprávy Evropské fondy IROP 3. 7. 2026 Nová mateřská škola ve Fulneku podpořená z IROP získal nominaci na Českou cenu za architekturu eGovernment a kyberbezpečnost Revize 25. 6. 2026 Revize 120. výzvy IROP - Kybernetická bezpečnost II. (PR) - rozšíření oprávněných žadatelů Novinka Publicita 15. 6. 2026 Evropské fondy mění Jihlavu: nové školky, doprava i sociální služby Tiskové zprávy Evropské fondy IROP 8. 6. 2026 Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Novinka Publicita 8. 6. 2026 Evropské fondy podporují na Mladoboleslavsku dopravu, školy i sociální projekty Kulturní dědictví a cestovní ruch Publicita 3. 6. 2026 Knihovny jako moderní centra vzdělanosti: IROP jim otevírá nové možnosti Novinka Publicita 2. 6. 2026 ITI Plzeň: investice z IROP zlepšují dopravu a sociální infrastrukturu Zelená infrastruktura měst a obcí Revize 1. 6. 2026 Revize 65. výzvy IROP Zelená infrastruktura – úprava alokace a prodloužení příjmu žádostí eGovernment a kyberbezpečnost Revize 26. 5. 2026 Prodloužení příjmu žádostí u 78. a 79. výzvy eHealth Novinka Publicita 25. 5. 2026 Evropské fondy mění Karlovarsko: doprava, sociální služby i kulturní dědictví Novinka Publicita 18. 5. 2026 Evropské fondy mění Olomoucko: investice do",
-      "attachments": []
-    },
-    {
       "id": 340885480450,
       "title": "Technologie pro MAS (CLLD) – výzva II",
       "type": "Dotace",
@@ -10908,6 +10523,481 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         }
       ]
+    },
+    {
+      "id": 275848579563,
+      "title": "STEP – Investice – vývoj a výroba kritických technologií",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-07",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step-investice-vyvoj-a-vyroba-kritickych-technologii/step-investice-vyvoj-a-vyroba-kritickych-technologii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "STEP – Investice – vývoj a výroba kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií Vyhlášení výzvy 15. 06. 2026 Zahájení příjmu 17. 07. 2026 14:00:00 Ukončení příjmu 15. 10. 2026 15:00:00 Otevřená výzva Podpora produktivních investic malých, středních a velkých podniků do vývoje a výroby kritických technologií. Upozornění pro žadatele a příjemce: 7. 7. 2026: Ministerstvo průmyslu a obchodu informovalo o doplnění textu Výzvy, a to konkrétně přidání bodu l) do kapitoly 7. Ostatní specifické podmínky, ve znění: „Každý žadatel (1 IČ) je oprávněn podat maximálně jeden projekt do této Výzvy. Omezení se vztahuje na tzv. aktivní žádosti o podporu, tzn. žádosti ve stavu PPxx, které nebyly staženy žadatelem, ukončeny ze strany ŘO/ZS, vyřazeny či zamítnuty.“ Důvodem pro zahrnutí této podmínky a omezení počtu projektů je snaha ŘO umožnit s ohledem na omezenou alokaci a stanovenou maximální výši dotace až 250 mil. Kč zapojení většího množství jednotlivých žadatelských subjektů. Zahrnutí této podmínky do",
+      "attachments": [
+        {
+          "title": "Výzva Step - Investice Vývoj a výroba kritických technologií (pdf) 7. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/vyzva-step-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 1 - Model hodnocení (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-1-model-hodnocen-step-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-2-pp-p-zvl-tn-st-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 3 - Vymezení způsobilých výdajů (pdf) 25. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-3-vymezeni-zpusobilych-vydaju-investice-step-1.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 4 - Vzor rozhodnutí o poskytnutí dotace (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-4-vzor-ropd-investice-step.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 5 Nepodporované kategorie CZ NACE (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-5-nepodporovan-kategorie-cz-nace-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 6 – Povinná osnova Podnikatelského záměru (docx) 24. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-6-osnova-podnikatelskeho-zameru-step.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 7 - Formulář k prověření zásady významně nepoškozovat (DNSH) a prověření infrastruktury z hlediska klimatického dopadu (docx) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-7-formul-k-prov-en-z-sady-v-znamn-nepo-kozovat-dnsh-a-prov-en-infrastruktury-z-hlediska-klimatick-ho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 8 - RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-8-ris3-strategie-p-loha-1-karty-tematick-ch-oblast-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 9 Odvětví platformy STEP (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-9-odv-tv-step.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 10 - Metodika pro výpočet stanovení hodnoty znovupoužitého majetku (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-10-metodika-pro-v-po-et-stanoven-hodnoty-znovupou-it-ho-majetku.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 11 - Formulář pro výpočet hodnoty znovupoužitého majetku (xlsx) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-11-formul-pro-v-po-et-hodnoty-znovupou-it-ho-majetku.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 12 - Prohlášení k jedinému investičnímu projektu (xlsx) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-12-prohl-en-k-jedin-mu-investi-n-mu-projektu.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 13 - Stupnice TRL (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-13-stupnice-trl.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 24. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "STEP – Investments in the Development and Production of Critical Technologies resume (pdf) 29. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-investice-vyvoj-a-vyroba-kritickych-technologii-en.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Leták výzvy (pdf) 16. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/investice-step-vyzva-i-final.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 7. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-step-investice.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 1929631531,
+      "title": "Partnerství Innovative SMEs / Eurostars",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-09",
+      "source_url": "https://tacr.gov.cz/program/partnerstvi-innovative-smes-eurostars/",
+      "source_id": "tacr-souteze",
+      "source_name": "TA ČR - veřejné soutěže",
+      "program": "",
+      "summary": "Povinná publicita podpořených projektů",
+      "text": "Partnerství Innovative SMEs / Eurostars - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Partnerství Innovative SMEs / Eurostars Seznam soutěží Partnerství Eurostars 3 - Call 11 Běží lhůta pro podávání návrhů projektů Partnerství Eurostars 3 - Call 10 Probíhá hodnocení návrhů projektů Partnerství Eurostars 3 - Call 9 výzva uzavřena Novinky Eurostars 3 – Call 11: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars Call 11 9. 7. 2026 - Od 9. 7. 2026 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Eurostars 3 – Call 10: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars 3 Call 10 16. 1. 2026 - V pondělí 26. ledna 2026, 10:00-12:00 proběhne informační webinář pro uchazeče s názvem Applying to Eurostars – What to consider when writing a… Eurostars 3 – Call 9: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Partnerství Eurostars 3 - Call 9 4. 7. 2025 - Od 4. 7. 2025 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Zobrazit starší příspěvky Více informací Pravidla financování českého uchazeč",
+      "attachments": []
+    },
+    {
+      "id": 122668769888,
+      "title": "RAMP",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-09",
+      "source_url": "https://tacr.gov.cz/program/ramp/",
+      "source_id": "tacr-souteze",
+      "source_name": "TA ČR - veřejné soutěže",
+      "program": "",
+      "summary": "Povinná publicita podpořených projektů",
+      "text": "RAMP - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže RAMP těžba, zpracování a recyklace nerostných surovin Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Novinky RAMP Call 2026: Mezinárodní výzva na podporu výzkumu a inovací v oblasti těžby, zpracování a recyklace nerostných surovin je otevřena Aktuality RAMP Call 2026 9. 7. 2026 - Mezinárodní výzva RAMP Call 2026 spadajícího pod evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) je… Zobrazit starší příspěvky Více informací Evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
+      "attachments": []
+    },
+    {
+      "id": 254830509148,
+      "title": "Program THÉTA 2",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-10",
+      "source_url": "https://tacr.gov.cz/program/program-theta-2/",
+      "source_id": "tacr-souteze",
+      "source_name": "TA ČR - veřejné soutěže",
+      "program": "",
+      "summary": "Povinná publicita podpořených projektů",
+      "text": "Program THÉTA 2 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž V přípravě Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Novinky Jak v Belgii podporují inovace? Další inspirace pro TA ČR díky projektu KnowledgeAnalytics Aktuality KnowledgeAnalytics 10. 7. 2026 - Setkání projektových partnerů projektu KnowledgeAnalytics, které se uskutečnilo v červnu v belgickém Mons, bylo zaměřeno především na představení… Eurostars 3 – Call 11: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars Call 11 9. 7. 2026 - Od 9. 7. 2026 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… RAMP Call 2026: Mezinárodní výzva na podporu výzkumu a inovací v oblasti těžby, zpracování a recyklace nerostných surovin je otevřena Aktuality RAMP Call 2026 9. 7. 2026 - Mezinárodní výzva RAMP Call 2026 spadajícího pod evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) je… Zobrazit starší příspěvky Více informací Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 . ZAMĚŘENÍ PROGRAMU Program THÉTA 2 je program orientovaný na podporu aplikovaného",
+      "attachments": []
+    },
+    {
+      "id": 343779076574,
+      "title": "Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech.",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-13",
+      "source_url": "https://irop.gov.cz/cs/",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "summary": "IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů.",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - Úvod IROP 2021-2027 Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech. IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů. ZJISTIT VÍCE Výzvy 2021-2027 Konzultační servis Strategické projekty IROP Závazná stanoviska ŘO IROP 2021-2027 eGovernment a kyberbezpečnost Integrovaný záchranný systém Zelená infrastruktura měst a obcí Silnice II. třídy Vzdělávací infrastruktura Sociální infrastruktura Infrastruktura ve zdravotnictví Kulturní dědictví a cestovní ruch Komunitně vedený místní rozvoj (CLLD) Čistá a aktivní mobilita Novinky z IROP Metodika Obecné 13. 7. 2026 Nové závazné stanovisko ke způsobilosti smluvních pokut Tiskové zprávy Evropské fondy IROP 3. 7. 2026 Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu eGovernment a kyberbezpečnost Revize 25. 6. 2026 Revize 120. výzvy IROP - Kybernetická bezpečnost II. (PR) - rozšíření oprávněných žadatelů Novinka Publicita 15. 6. 2026 Evropské fondy mění Jihlavu: nové školky, doprava i sociální služby Tiskové zprávy Evropské fondy IROP 8. 6. 2026 Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Novinka Publicita 8. 6. 2026 Evropské fondy podporují na Mladoboleslavsku dopravu, školy i sociální projekty Kulturní dědictví a cestovní ruch Publicita 3. 6. 2026 Knihovny jako moderní centra vzdělanosti: IROP jim otevírá nové možnosti Novinka Publicita 2. 6. 2026 ITI Plzeň: investice z IROP zlepšují dopravu a sociální infrastrukturu Zelená infrastruktura měst a obcí Revize 1. 6. 2026 Revize 65. výzvy IROP Zelená infrastruktura – úprava alokace a prodloužení příjmu žádostí eGovernment a kyberbezpečnost Revize 26. 5. 2026 Prodloužení příjmu žádostí u 78. a 79. výzvy eHealth Novinka Publicita 25. 5. 2026 Evropské fondy mění Karlovarsko: doprava, sociální služby i kulturn",
+      "attachments": []
+    },
+    {
+      "id": 88048862963,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIOsvcA.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA - Audiovize, Výzva č. 3.2A - Podpory pro fyzické osoby podnikající – osoby samostatně výdělečné činné lze podávat od 1. března 2021 od 9:00 hodin do 30. dubna 2021 do 17:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové k",
+      "attachments": []
+    },
+    {
+      "id": 577095843714,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIOsvcB.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA - Audiovize, Výzva č. 3.2B - Podpory pro právnické osoby lze podávat od 1. března 2021 od 10:00 hodin do 30. dubna 2021 do 17:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čt",
+      "attachments": []
+    },
+    {
+      "id": 258733455356,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIOsvc.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA, Výzva č. 3.1 - Jednorázová podpora pro umělecké profese lze podávat od 15. února 2021 od 10:00 hodin do 15. dubna 2021 do 17:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čt",
+      "attachments": []
+    },
+    {
+      "id": 230335941312,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIA.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA, Výzva č. 3.3A - Podpora pro podnikající subjekty na kontinuální činnost v kultuře lze podávat od 21. dubna 2021 od 9:00 hodin do 30. června 2021 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví ka",
+      "attachments": []
+    },
+    {
+      "id": 706890133477,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIIB.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - KULTURA, Výzva č. 3.3B - Podpora pro ticketingové společnosti a kolektivní správce lze podávat od 21. dubna 2021 od 9:00 hodin do 30. června 2021 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také",
+      "attachments": []
+    },
+    {
+      "id": 979861409571,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIII_IV.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura Výzva č. 3.4 - Kultura/kulturní dědictví lze podávat od čtvrtka 17. června 2021 od 09:00 hodin do úterý 21. září 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čteč",
+      "attachments": []
+    },
+    {
+      "id": 637069561692,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIV.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura Výzva č. 4 - podpora pro podnikající subjekty na kontinuální činnost v kultuře lze podávat od 3. srpna 2021 od 9:00 hodin do 22. září 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastn",
+      "attachments": []
+    },
+    {
+      "id": 30872974745,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaII.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura, Výzva č. 2 - Podnikající subjekty lze podávat od 22. října 2020 od 9:00 hodin do 22. prosince 2020 do 18:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet",
+      "attachments": []
+    },
+    {
+      "id": 747043889139,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/KulturaIIOsvc.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID - Kultura, Výzva č. 2 - Jednorázová podpora (60 000 Kč) lze podávat od 23. října 2020 od 9:00 hodin do 22. prosince 2020 do 18:00 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipo",
+      "attachments": []
+    },
+    {
+      "id": 31034652798,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/Najemne.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID – Nájemné Výzva 1 lze podávat od 26. června 2020 do 30. září 2020 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál eIdentita), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu eIdentita může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací software SecureStore. Více informací naleznete",
+      "attachments": []
+    },
+    {
+      "id": 464387244615,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/NajemneIII.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID – Nájemné, Výzva 3 lze podávat od 5. února 2021 od 9:00 hodin do 8. dubna 2021 do 23:59 hodin . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a nainstalovaný ovládací softwa",
+      "attachments": []
+    },
+    {
+      "id": 862041449469,
+      "title": "AIS MPO - portál",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/NakladyII.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému MPO. Portál AIS MPO slouží k podávání žádostí v dotačních programech MPO. Žádosti pro program COVID – Nepokryté náklady Výzva 2 (duben - květen 2021), Žádosti lze podávat od 28. června 2021 od 9:00 hodin do 13. září 2021 . Pro úspěšné podání žádosti je nutné splnit 3 kroky : 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA Ještě před zahájením prací v AIS MPO je nezbytné si zřídit aktivní identitu fyzické osoby (účet) na portále identitaobcana.cz . To je potřebné alespoň pro jednoho uživatele žadatele. Vstup (registrace žadatele, přihlášení) do dotačního informačního systému AIS MPO je totiž umožněn výhradně prostřednictvím prostředku pro elektronickou identifikaci (portál identita občana), který byl zprovozněn v souladu se zákonem č. 250/2017 Sb. o elektronické identifikaci, ve znění pozdějších předpisů. Pro získání identity na portálu identita občana může fyzická osoba využít jednu z níže uvedených možností ověření identity: eObčankou (občanský průkaz s aktivovaným kontaktním elektronickým čipem vydaným po 1. 7. 2018). Používání eObčanky pro identifikaci uživatele vyžaduje instalaci potřebného software do PC nebo mobilního telefonu a připojení hardwarové čtečky čipu v občanském průkazu. Více informací naleznete na https://info.identitaobcana.cz/eop . NIA ID (dříve Uživatelský účet portálu identitaobcana.cz): Po registraci účtu musíte ještě daný účet na portálu identitaobcana.cz aktivovat, a to buď prostřednictvím eObčanky, přihlášením k datové schránce fyzické osoby (daného uživatele), nebo osobně na pobočce Czech POINT. Více informací naleznete na info.identitaobcana.cz/ups . čipovou kartou Starcos společnosti První certifikační autorita, a.s. Používání čipové karty vyžaduje mimo vlastnictví karty také čtečku čipových karet a na",
+      "attachments": []
+    },
+    {
+      "id": 103718457821,
+      "title": "CzechTrade (OPTAK)",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=3fa0980a-5c94-4c66-94e3-474eeb24aea0",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
+      "text": "CzechTrade (OPTAK) ≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Načítám data... CzechTrade (OPTAK) U ložit U ložit a zpět Odstranit (CzechTrade (OPTAK)) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o výzvách z CzechTrade naleznete na www.czechtrade.cz/programy-eu . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Seznam výzev CzechTrade, u kterých probíhá sběr žádostí Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
+    },
+    {
+      "id": 557740915088,
+      "title": "Národní plán obnovy",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=96dd173c-2469-4882-8b06-368c6b2f61fc",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
+      "text": "Národní plán obnovy ≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Načítám data... Národní plán obnovy U ložit U ložit a zpět Odstranit (Národní plán obnovy) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o výzvách z Národního plánu obnovy naleznete na www.mpo.cz a www.mpo-efekt.cz . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Seznam výzev Národního plánu obnovy, u kterých probíhá sběr žádostí Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
+    },
+    {
+      "id": 408147935339,
+      "title": "Pomoc po povodních 2024",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=8a6d65c7-ea71-4a11-8629-fefa06dd6d2f",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
+      "text": "Pomoc po povodních 2024 ≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Načítám data... Pomoc po povodních 2024 U ložit U ložit a zpět Odstranit (Pomoc po povodních 2024) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o podpoře po povodni naleznete na portálu www.mpo.cz . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpopovodne@asd-software.cz Seznam výzev pomoci po povodních 2024 Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
+    },
+    {
+      "id": 820215122481,
+      "title": "Program EFEKT III",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=b88877ba-47db-4f6b-8fc5-1ca2a4bd32fc",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
+      "text": "Program EFEKT III ≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Načítám data... Program EFEKT III U ložit U ložit a zpět Odstranit (Program EFEKT III) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o programu EFEKT III naleznete na portálu www.mpo-efekt.cz . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Seznam výzev programu EFEKT III, u kterých probíhá sběr žádostí Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
+    },
+    {
+      "id": 443654210237,
+      "title": "Žádosti pro Výzvu V. – Program podpory malých prodejen na venkově „OBCHŮDEK 2021+“ – Podpora provozního financování lze podávat od 15. 04. 2026 od 9:00 hod. do 30. 4. 2026 do 23:59 hod.",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/Obchudek.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. )",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Žádosti pro Výzvu V. – Program podpory malých prodejen na venkově „OBCHŮDEK 2021+“ – Podpora provozního financování lze podávat od 15. 04. 2026 od 9:00 hod. do 30. 4. 2026 do 23:59 hod. Pro úspěšné podání žádosti je nutné splnit 3 kroky: Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu registrace Právnická osoba , Fyzická osoba podnikající ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu žádosti ) 4. ZALOŽENÍ NOVÉHO UŽIVATELE K ÚČTU ŽADATELE ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Registrovat nového žadatele Přihlásit Podrobnější informace pro Výzvu V. – Program podpory malých prodejen na venkově „OBCHŮDEK 2021+“ – Podpora provozního financování naleznete na webové stránce www.mpo.cz/obchudek2021 . Metodická podpora žadatelů o podporu (Pracovní dny: 8:30 - 16:30 hodin): (Infolinka pro nejčastější dotazy žadatelů ohledně podpůrného programu Obchůdek 2021+) E-mail: obchudek@mpo.cz Technická podpora uživatelů AIS MPO (Pracovní dny: 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpoobchudek@asd-software.cz Technické předpoklady Doporučené prohlížeče: Microsoft Edge Mozilla Firefox Google Chrome Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
+    },
+    {
+      "id": 451746252554,
+      "title": "Žádosti pro program Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 lze podávat od 5. května 2022 od 9:00 hod. do 31. prosince 2024 do 23:59 hod.",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/RenovaceOsvetleni.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Žádosti pro program Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 lze podávat od 5. května 2022 od 9:00 hod. do 31. prosince 2024 do 23:59 hod. Pro úspěšné podání žádosti je nutné splnit 3 kroky: Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ ( Odkaz na videonápovědu. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Registrovat nového žadatele Přihlásit Podrobnější informace o programu Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 naleznete na portálu www.mpo-efekt.cz . Metodická podpora žadatelů o podporu (po-pá 8:00 - 16:00 hodin): (Infolinka pro nejčastější dotazy žadatelů) Telefon: 224 853199, 224 853193 E-mail: justian@mpo.cz , danisova@mpo.cz Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Technické předpoklady Doporučené prohlížeče: Microsoft Edge Mozilla Firefox Google Chrome Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
+    },
+    {
+      "id": 698534892406,
+      "title": "Žádosti pro program Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 lze podávat od 16.11.2022 od 9,00 hod. do 31.12.2023 do 23,59 hod.",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-07-14",
+      "source_url": "https://aisportal.mpo.gov.cz/aisportal/RenovaceBudov.aspx",
+      "source_id": "ais-mpo",
+      "source_name": "AIS MPO",
+      "program": "",
+      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
+      "text": "≡ MENU Upozornění na plánované omezení provozu systému: Dne 14.7. 2026 od 13:00 hod do cca 21:30 hod dojde v souvislosti s údržbou systémů Ministerstva průmyslu a obchodu k omezení provozu systému AIS MPO ČR. Během omezení provozu bude možné připravovat žádosti, ale nikoliv je podávat. Děkujeme za pochopení. Čekejte prosím ... < ZPĚT více... Žádosti pro program Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 lze podávat od 16.11.2022 od 9,00 hod. do 31.12.2023 do 23,59 hod. Pro úspěšné podání žádosti je nutné splnit 3 kroky: Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu registrace Právnická osoba , Fyzická osoba podnikající ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu žádosti ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Registrovat nového žadatele Přihlásit Podrobnější informace o programu Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 naleznete na portálu www.mpo-efekt.cz . Metodická podpora žadatelů o podporu (Pracovní dny: 8:00–16:00 hodin): (infolinka pro nejčastější dotazy žadatelů) Telefon: 267 994 383, 267 994 424 E-mail: martina.macourkova@sfzp.cz , tomas.marek@sfzp.cz Technická podpora uživatelů AIS MPO (Pracovní dny: 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Technické předpoklady Doporučené prohlížeče: Microsoft Edge Mozilla Firefox Google Chrome Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
+      "attachments": []
     },
     {
       "id": 542529508997,
@@ -11518,22 +11608,6 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         }
       ]
-    },
-    {
-      "id": 254830509148,
-      "title": "Program THÉTA 2",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "deadline": "2026-08-31",
-      "source_url": "https://tacr.gov.cz/program/program-theta-2/",
-      "source_id": "tacr-souteze",
-      "source_name": "TA ČR - veřejné soutěže",
-      "program": "",
-      "summary": "Povinná publicita podpořených projektů",
-      "text": "Program THÉTA 2 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž V přípravě Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Novinky Zprávy o využití výsledků: odevzdávání v roce 2026 a výhled do dalších let Aktuality 3. 7. 2026 - Technologická agentura České republiky (TA ČR) informuje příjemce o novém způsobu odevzdávání Zpráv o využití výsledků (dříve nazvaných Zpráv o… Program TREND: Oznámení k podprogramu 2 „Nováčci“ Aktuality Trend 1. 7. 2026 - Na základě jednání s Ministerstvem průmyslu a obchodu oznamujeme, že v letošním roce nebude vyhlášena veřejná soutěž v programu TREND, podprogram 2… Program SIGMA: Vyhlášení 4. národní výzvy - dílčí cíl 4, Seal of Excellence - EIC Accelerator - 06/2026 Aktuality Program Sigma 4. výzva - DC 4 30. 6. 2026 - Od 1. 8. do 31. 8. 2026 bude otevřena národní výzva Technologické agentury ČR pro projekty vybrané na mezinárodní úrovni s názvem 4. národní výzva… Zobrazit starší příspěvky Více informací Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 . ZAMĚŘENÍ PROGRAMU Program THÉTA 2 je program orientovaný na podporu aplikovaného výzkumu a inovací v energetice, který bezprostředně navazuje na program THÉTA. Zaměření programu je, stejně jako u předcházejícího programu, poměrně širo",
-      "attachments": []
     },
     {
       "id": 176171455744,
@@ -12509,7 +12583,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "(stáhnout)",
-          "url": "https://sfzp.gov.cz/files/documents/storage/2026/02/12/1770906914_Pokyny SFŽP ČR pro hodnocení podniku v obtížích vč. příloh.zip",
+          "url": "https://sfzp.gov.cz/files/documents/storage/2026/07/08/1783509768_Pokyny SFŽP ČR pro hodnocení podniku v obtížích vč. příloh.zip",
           "status": "Čeká"
         }
       ]
@@ -12527,7 +12601,7 @@ window.DOTACE_EXPORT = {
       "source_name": "OP JAK",
       "program": "OP JAK",
       "summary": "Harmonogramy výzev OP JAK 2022 – 2026",
-      "text": "Výzvy Archiv - OP JAK Harmonogram výzev Harmonogramy výzev OP JAK 2022 – 2026 Harmonogram výzev 2026 Vše Aktuální Avíza Ukončené Stav: Aktuální Vše Aktuální Avíza Ukončené Určeno pro: Vše Vše Dobrovolné svazky obcí Kraje Mateřské školy Místní akční skupiny Neziskové organizace Obce Organizační složky státu Pedagogicko psychlogické poradny Školská výchovná a ubytovací zařízení Soukromý sektor Střediska volného času Střediska výchovné péče Střední školy Veřejný sektor Vysoké školy Vyšší odborné školy Výzkumné instituce Základní školy Základní umělecké školy Priorita: Vše Vše Priorita 1 – Výzkum a vývoj Priorita 2 – Vzdělávání Priorita 3 - Technická pomoc – ERDF Priorita 4 – Technická pomoc – ESF+ Řadit: Abecedně Abecedně Dle data uzávěrky Dle data vydání Celková alokace 500 mil. Kč Název výzvy Výzva č. 02_25_043 Open Science III Datum ukončení příjmu žádosti o podporu: 31. 03. 2027 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy. Více informací Podpořené žádosti 0 % Celková alokace 300 mil. Kč Název výzvy Výzva č. 02_26_048 Poradím se s AI Datum ukončení příjmu žádosti o podporu: 30. 12. 2026 Datum zahájení příjmu žádostí o podporu 23. 6. 2026. Více informací Podpořené žádosti 0 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_24_036 Teaming-CZ III Datum ukončení příjmu žádosti o podporu: 20. 11. 2026 Více informací Podpořené žádosti 0 % Celková alokace 1 000 mil. Kč Název výzvy Výzva č. 02_25_042 Smart Akcelerátor+ II Datum ukončení příjmu žádosti o podporu: 01. 03. 2027 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Více informací Podpořené žádosti 10 % Celková alokace 600 mil. Kč Název výzvy Výzva č. 02_25_041 Akční plánování v území – MAP II Datum ukončení příjmu žádosti o podporu: 01. 12. 2026 Datum zahájení příjmu žádostí o podporu 7. července 2025. Více informací Podpořené žádosti 37 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_22_007 Technická pomoc – ESF+ Datum ukončení příjmu žádosti o podporu: 29. 06. 2029 Více informací Podpořené žádosti 100 % Celková alokace 2 000 mil. Kč Název výzvy Výzva č. 02_22_006 Technická",
+      "text": "Výzvy Archiv - OP JAK Harmonogram výzev Harmonogramy výzev OP JAK 2022 – 2026 Harmonogram výzev 2026 Vše Aktuální Avíza Ukončené Stav: Aktuální Vše Aktuální Avíza Ukončené Určeno pro: Vše Vše Dobrovolné svazky obcí Kraje Mateřské školy Místní akční skupiny Neziskové organizace Obce Organizační složky státu Pedagogicko psychlogické poradny Školská výchovná a ubytovací zařízení Soukromý sektor Střediska volného času Střediska výchovné péče Střední školy Veřejný sektor Vysoké školy Vyšší odborné školy Výzkumné instituce Základní školy Základní umělecké školy Priorita: Vše Vše Priorita 1 – Výzkum a vývoj Priorita 2 – Vzdělávání Priorita 3 - Technická pomoc – ERDF Priorita 4 – Technická pomoc – ESF+ Řadit: Abecedně Abecedně Dle data uzávěrky Dle data vydání Celková alokace 500 mil. Kč Název výzvy Výzva č. 02_25_043 Open Science III Datum ukončení příjmu žádosti o podporu: 31. 03. 2027 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod. Více informací Podpořené žádosti 0 % Celková alokace 300 mil. Kč Název výzvy Výzva č. 02_26_048 Poradím se s AI Datum ukončení příjmu žádosti o podporu: 30. 12. 2026 Datum zahájení příjmu žádostí o podporu 23. 6. 2026. Více informací Podpořené žádosti 0 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_24_036 Teaming-CZ III Datum ukončení příjmu žádosti o podporu: 20. 11. 2026 Více informací Podpořené žádosti 0 % Celková alokace 1 000 mil. Kč Název výzvy Výzva č. 02_25_042 Smart Akcelerátor+ II Datum ukončení příjmu žádosti o podporu: 01. 03. 2027 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Více informací Podpořené žádosti 10 % Celková alokace 600 mil. Kč Název výzvy Výzva č. 02_25_041 Akční plánování v území – MAP II Datum ukončení příjmu žádosti o podporu: 01. 12. 2026 Datum zahájení příjmu žádostí o podporu 7. července 2025. Více informací Podpořené žádosti 37 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_22_007 Technická pomoc – ESF+ Datum ukončení příjmu žádosti o podporu: 29.",
       "attachments": [
         {
           "title": "Harmonogram výzev 2026",
@@ -12612,7 +12686,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "(stáhnout)",
-          "url": "https://sfzp.gov.cz/files/documents/storage/2026/02/12/1770906914_Pokyny SFŽP ČR pro hodnocení podniku v obtížích vč. příloh.zip",
+          "url": "https://sfzp.gov.cz/files/documents/storage/2026/07/08/1783509768_Pokyny SFŽP ČR pro hodnocení podniku v obtížích vč. příloh.zip",
           "status": "Čeká"
         },
         {
@@ -12685,7 +12759,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "(stáhnout)",
-          "url": "https://sfzp.gov.cz/files/documents/storage/2026/02/12/1770906914_Pokyny SFŽP ČR pro hodnocení podniku v obtížích vč. příloh.zip",
+          "url": "https://sfzp.gov.cz/files/documents/storage/2026/07/08/1783509768_Pokyny SFŽP ČR pro hodnocení podniku v obtížích vč. příloh.zip",
           "status": "Čeká"
         },
         {
@@ -12799,22 +12873,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 404207772661,
-      "title": "AIS MPO - portál",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/default",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Portál AIS MPO slouží k podávání žádostí v dotačních programech Ministerstva průmyslu a obchodu (MPO).",
-      "text": "≡ MENU Čekejte prosím ... < ZPĚT více... AIS MPO - portál Vítejte na stránkách portálu Agendového informačního systému Ministerstva průmyslu a obchodu (MPO). Portál AIS MPO slouží k podávání žádostí v dotačních programech Ministerstva průmyslu a obchodu (MPO). Výzvy s probíhajícím příjmem žádostí: Pomoc po povodních 2024 Program EFEKT III Státní program na podporu úspor energie 2022-2027 Národní plán obnovy CzechTrade OP TAK Obchůdek 2021+ – Výzva V. Výzvy s ukončeným příjmem žádostí: COVID – 2021 COVID – 2022 – Sektorová podpora COVID – Adventní trhy COVID – Gastro – Uzavřené provozovny COVID – KULTURA – Audiovize, Výzva č. 3.2A – Podpory pro fyzické osoby podnikující – osoby samostatně výdělečné činné COVID – KULTURA – Audiovize, Výzva č. 3.2B – Podpory pro právnické osoby COVID – KULTURA, Výzva č. 3.1 – Jednorázová podpora pro umělecké profese COVID – KULTURA, Výzva č. 3.3A – Podpora pro podnikající subjekty na kontinuální činnost v kultuře COVID – KULTURA, Výzva č. 3.3B – Podpora pro ticketingové společnosti a kolektivní správce COVID – Kultura, Výzva č. 3.4 – Kultura/kulturní dědictví COVID – Kultura, Výzva č. 4 – podpora pro podnikající subjekty na kontinuální činnost v kultuře COVID – Kultura COVID – Kultura, Výzva č. 2 – Podnikající subjekty COVID – Kultura, Výzva č. 2 – Jednorázová podpora (60 000 Kč) COVID – Nájemné, Výzva 1 COVID – Nájemné, Výzva 2 COVID – Nájemné, Výzva 3 COVID – Nepokryté náklady (leden – březen 2021) COVID – Nepokryté náklady (duben – květen 2021) Výzva 2 COVID – Nepokryté náklady – Sektorová podpora COVID – SPORT II., Oblast A COVID – SPORT II., Oblast B COVID – SPORT III., Lyžařská střediska COVID – Veletrhy/kongresy EFEKT III – Osa podpory 2 – EKIS Kompenzace nepřímých nákladů za rok 2020 z řad průmyslových ohrožených odvětví Kompenzace nepřímých nákladů za rok 2021 z řad průmyslových ohrožených odvětví Kompenzace nepřímých nákladů za rok 2022 z řad průmyslových ohrožených odvětví Kompenzace nepřímých nákladů za rok 2024 z řad průmyslových ohrožených odvětví Národní plán obnovy – Snížení energetické náročnosti budov organizačních složek státu – Komponenta 2.2.1 Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta",
-      "attachments": []
-    },
-    {
       "id": 615787922035,
       "title": "ALMA - mezinárodní mobilita znevýhodněné mládeže (2)",
       "type": "Dotace",
@@ -12859,7 +12917,7 @@ window.DOTACE_EXPORT = {
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
       "summary": "",
-      "text": "Agregátor obsahu https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss Agregátor obsahu Mon, 06 Jul 2026 06:58:31 GMT 2026-07-06T06:58:31Z Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Mon, 29 Jun 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Magda Cabrnochová 2026-06-29T07:00:00Z Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Thu, 28 May 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Michala Trličíková 2026-05-28T07:00:00Z Vybudování dětských skupin (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Thu, 02 Apr 2026 06:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Magda Cabrnochová 2026-04-02T06:00:00Z Podpora sociálního podnikání (3) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Mon, 22 Dec 2025 08:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Magda Cabrnochová 2025-12-22T08:00:00Z Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Wed, 17 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Magda Cabrnochová 2025-12-17T07:00:00Z Společně za vzděláváním (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Tue, 16 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Alžběta Hoffmannová 2025-12-16T07:00:00Z Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22046830 Mon, 15 Dec 2",
+      "text": "Agregátor obsahu https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss Agregátor obsahu Mon, 13 Jul 2026 08:35:58 GMT 2026-07-13T08:35:58Z Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Mon, 29 Jun 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Magda Cabrnochová 2026-06-29T07:00:00Z Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Thu, 28 May 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Michala Trličíková 2026-05-28T07:00:00Z Vybudování dětských skupin (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Thu, 02 Apr 2026 06:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Magda Cabrnochová 2026-04-02T06:00:00Z Podpora sociálního podnikání (3) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Mon, 22 Dec 2025 08:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Magda Cabrnochová 2025-12-22T08:00:00Z Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Wed, 17 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Magda Cabrnochová 2025-12-17T07:00:00Z Společně za vzděláváním (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Tue, 16 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Alžběta Hoffmannová 2025-12-16T07:00:00Z Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22046830 Mon, 15 Dec 2",
       "attachments": []
     },
     {
@@ -12876,22 +12934,6 @@ window.DOTACE_EXPORT = {
       "program": "OPZ+",
       "summary": "Operační program Zaměstnanost plus",
       "text": "CLLD V OPZ: VÝZVY A METODICKÁ PODPORA - www.esfcr.cz Přejít k obsahu Menu Programy OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Akce řídicího orgánu Akce projektů OPZ+ Dokumenty OPZ+ Operační program Zaměstnanost plus Pravidla pro žadatele a příjemce Hodnocení a výběr projektů Vzory a postupy pro zadávací/výběrová řízení Monitorování podpořených osob Šablony a vzory pro vizuální identitu Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Formuláře a pokyny pro uzavření právního aktu a vzory právních aktů Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře a pokyny ke zprávě o realizaci projektu, žádosti o platbu a žádosti o změnu Údaje o programu Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů Zpracování osobních údajů v OPZ+ Pověřenec na ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Poučení pro registrované uživatele portálu OPZ+ Záznamy o činnostech zpracování Využití IT nástroje ARACHNE v OPZ+ PROJEKTY Starší operační programy OPZ 2014-2020 Aktuality Akce Akce projektů Dokumenty Operační program Zaměstnanost Pravidla pro žadatele a příjemce Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Příručka pro hodnotitele a pravidla výběrových komisí Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře pro uzavření právního aktu a vzory právních aktů o poskytnutí podpory na projekt Obvyklé ceny a mzdy/platy Pracovní výkaz Monitorování podpořených osob Pokyny k vyplnění zprávy o realizaci, žádosti o platbu a žádosti o změnu Šablony a vzory pro vizuální identitu Vzory a postupy pro zadávací/výběrová řízení Žádosti o přezkum, námitky proti neproplacení dotace Závěrečný dotazník o výsledcích, produkty projektů, sebeevaluace Projekty přeměny subjektu příjemce dotace Pravidla zapojení místních akčních skupin do OPZ Časté dotazy Výzvy OPZ Přehled výzev OPZ Harmonogram výzev Projekty Produkty Zadávací řízení Monitorovací výbor Ochrana osobních údajů Zpracování osobních údajů v OPZ Pověřenec pro ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Záznamy o činnostech zpracování Poučení pro registrované uživ",
-      "attachments": []
-    },
-    {
-      "id": 103718457821,
-      "title": "CzechTrade (OPTAK)",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=3fa0980a-5c94-4c66-94e3-474eeb24aea0",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
-      "text": "CzechTrade (OPTAK) ≡ MENU Čekejte prosím ... < ZPĚT více... Načítám data... CzechTrade (OPTAK) U ložit U ložit a zpět Odstranit (CzechTrade (OPTAK)) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o výzvách z CzechTrade naleznete na www.czechtrade.cz/programy-eu . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Seznam výzev CzechTrade, u kterých probíhá sběr žádostí Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
       "attachments": []
     },
     {
@@ -13457,22 +13499,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 557740915088,
-      "title": "Národní plán obnovy",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=96dd173c-2469-4882-8b06-368c6b2f61fc",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
-      "text": "Národní plán obnovy ≡ MENU Čekejte prosím ... < ZPĚT více... Načítám data... Národní plán obnovy U ložit U ložit a zpět Odstranit (Národní plán obnovy) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o výzvách z Národního plánu obnovy naleznete na www.mpo.cz a www.mpo-efekt.cz . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Seznam výzev Národního plánu obnovy, u kterých probíhá sběr žádostí Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
-      "attachments": []
-    },
-    {
       "id": 675892603235,
       "title": "OP Zaměstnanost plus 2021-2027",
       "type": "Stránka",
@@ -13533,7 +13559,7 @@ window.DOTACE_EXPORT = {
       "source_name": "CzechInvest - investiční pobídky a dotace",
       "program": "",
       "summary": "CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů.",
-      "text": "﻿ Investiční pobídky a dotace - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en de Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 23. čvc. Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky Seminář | 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | 15. zář. Online konzultační den pro podnikatele z Pardubického kraje Událost | ONLINE 24. zář. HR News: Novinky ze světa HR Konference | Plzeň všechny akce Služby pro investory > Investiční pobídky a dotace Investiční pobídky a dotace Naše služby CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů. Investiční pobídky a dotační příležitosti Investiční pobídky jsou poskytovány ve formě slevy na dani, příspěvku na zaměstnance, jejich školení a rekvalifikaci či přímého finančního grantu. Neváhejte nás kontaktovat , rádi s vámi probereme vaši investici, rozsah podpory i jakékoliv další otázky související s možnostmi financování. Další informace najdete také v přiložených souborech . David Pejšek ředitel Odboru financování investic +420 725 523 350 david.pejsek@czechinvest.gov.cz Markéta Dvořáková Specialista financování investic +420 720 071 302 marketa.dvorakova@czechinvest.gov.cz Tereza Šafářová Specialista financování investic +420 724 334 331 tereza.safarova@czechinvest.gov.cz David Mićević Projektový manažer programu Digital Europe +420 725 978 210 david.micevic@czechinvest.gov.cz Přip",
+      "text": "﻿ Investiční pobídky a dotace - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en de Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 23. čvc. Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky Seminář | 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | 15. zář. Online konzultační den pro podnikatele z Pardubického kraje Událost | ONLINE všechny akce Služby pro investory > Investiční pobídky a dotace Investiční pobídky a dotace Naše služby CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů. Investiční pobídky a dotační příležitosti Investiční pobídky jsou poskytovány ve formě slevy na dani, příspěvku na zaměstnance, jejich školení a rekvalifikaci či přímého finančního grantu. Neváhejte nás kontaktovat , rádi s vámi probereme vaši investici, rozsah podpory i jakékoliv další otázky související s možnostmi financování. Další informace najdete také v přiložených souborech . David Pejšek ředitel Odboru financování investic +420 725 523 350 david.pejsek@czechinvest.gov.cz Markéta Dvořáková Specialista financování investic +420 720 071 302 marketa.dvorakova@czechinvest.gov.cz Tereza Šafářová Specialista financování investic +420 724 334 331 tereza.safarova@czechinvest.gov.cz David Mićević Projektový manažer programu Digita",
       "attachments": [
         {
           "title": "Investicni-pobidky_MFG_2026_CZE_online",
@@ -13570,7 +13596,7 @@ window.DOTACE_EXPORT = {
       "source_name": "CzechInvest - investiční pobídky a dotace",
       "program": "",
       "summary": "Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit.",
-      "text": "﻿ Are you interested in investment incentives in the Czech Republic? - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 23. čvc. Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky Seminář | 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | 15. zář. Online konzultační den pro podnikatele z Pardubického kraje Událost | ONLINE 24. zář. HR News: Novinky ze světa HR Konference | Plzeň všechny akce Služby pro investory > Investiční pobídky a dotace > Dotační matice Dotační matice Dotace z evropských a národních fondů Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit. Najděte vhodnou dotaci pro vaši společnost Sdílet poslat e-mailem tisk článku K ukládání nastavení a správnému fungování využíváme soubory cookies. Používáním webu s jejich používáním souhlasíte. Více info o cookies }",
+      "text": "﻿ Are you interested in investment incentives in the Czech Republic? - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 23. čvc. Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky Seminář | 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | 15. zář. Online konzultační den pro podnikatele z Pardubického kraje Událost | ONLINE všechny akce Služby pro investory > Investiční pobídky a dotace > Dotační matice Dotační matice Dotace z evropských a národních fondů Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit. Najděte vhodnou dotaci pro vaši společnost Sdílet poslat e-mailem tisk článku K ukládání nastavení a správnému fungování využíváme soubory cookies. Používáním webu s jejich používáním souhlasíte. Více info o cookies }",
       "attachments": []
     },
     {
@@ -13734,14 +13760,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 926724372200,
+      "id": 463929605445,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=zziaEo9k&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeLabelFilter&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelFieldName=operacniProgram&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelValue=2C000000-0000-0000-0000-000000000010&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelNameVisible=03+Opera%C4%8Dn%C3%AD+program+Zam%C4%9Bstnanost+plus",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=TZ7g0Lbh&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeLabelFilter&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelFieldName=operacniProgram&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelValue=2C000000-0000-0000-0000-000000000010&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelNameVisible=03+Opera%C4%8Dn%C3%AD+program+Zam%C4%9Bstnanost+plus",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13750,14 +13776,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 266136629208,
+      "id": 749197969835,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=zziaEo9k&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeAllFilter",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=TZ7g0Lbh&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeAllFilter",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13766,14 +13792,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 330339490803,
+      "id": 177764533827,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=zziaEo9k&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=resetFilter",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=TZ7g0Lbh&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=resetFilter",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13830,22 +13856,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 408147935339,
-      "title": "Pomoc po povodních 2024",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=8a6d65c7-ea71-4a11-8629-fefa06dd6d2f",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
-      "text": "Pomoc po povodních 2024 ≡ MENU Čekejte prosím ... < ZPĚT více... Načítám data... Pomoc po povodních 2024 U ložit U ložit a zpět Odstranit (Pomoc po povodních 2024) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o podpoře po povodni naleznete na portálu www.mpo.cz . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpopovodne@asd-software.cz Seznam výzev pomoci po povodních 2024 Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
-      "attachments": []
-    },
-    {
       "id": 155820180098,
       "title": "Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2)",
       "type": "Dotace",
@@ -13875,22 +13885,6 @@ window.DOTACE_EXPORT = {
       "program": "OPZ+",
       "summary": "Operační program Zaměstnanost plus",
       "text": "Poučení pro registrované uživatele portálu OPZ+ - www.esfcr.cz Přejít k obsahu Menu Programy OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Akce řídicího orgánu Akce projektů OPZ+ Dokumenty OPZ+ Operační program Zaměstnanost plus Pravidla pro žadatele a příjemce Hodnocení a výběr projektů Vzory a postupy pro zadávací/výběrová řízení Monitorování podpořených osob Šablony a vzory pro vizuální identitu Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Formuláře a pokyny pro uzavření právního aktu a vzory právních aktů Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře a pokyny ke zprávě o realizaci projektu, žádosti o platbu a žádosti o změnu Údaje o programu Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů Zpracování osobních údajů v OPZ+ Pověřenec na ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Poučení pro registrované uživatele portálu OPZ+ Záznamy o činnostech zpracování Využití IT nástroje ARACHNE v OPZ+ PROJEKTY Starší operační programy OPZ 2014-2020 Aktuality Akce Akce projektů Dokumenty Operační program Zaměstnanost Pravidla pro žadatele a příjemce Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Příručka pro hodnotitele a pravidla výběrových komisí Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře pro uzavření právního aktu a vzory právních aktů o poskytnutí podpory na projekt Obvyklé ceny a mzdy/platy Pracovní výkaz Monitorování podpořených osob Pokyny k vyplnění zprávy o realizaci, žádosti o platbu a žádosti o změnu Šablony a vzory pro vizuální identitu Vzory a postupy pro zadávací/výběrová řízení Žádosti o přezkum, námitky proti neproplacení dotace Závěrečný dotazník o výsledcích, produkty projektů, sebeevaluace Projekty přeměny subjektu příjemce dotace Pravidla zapojení místních akčních skupin do OPZ Časté dotazy Výzvy OPZ Přehled výzev OPZ Harmonogram výzev Projekty Produkty Zadávací řízení Monitorovací výbor Ochrana osobních údajů Zpracování osobních údajů v OPZ Pověřenec pro ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Záznamy o činnostech zpracování Poučení pro registr",
-      "attachments": []
-    },
-    {
-      "id": 820215122481,
-      "title": "Program EFEKT III",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://aisportal.mpo.gov.cz/aisportal/LW/Views/Core/Detail?action=get&id=365A80FE-A452-490B-9D9D-63161564A311&idbo=b6faa0e4-7fdf-413e-b134-ae1e3516fcb8&idForm=b88877ba-47db-4f6b-8fc5-1ca2a4bd32fc",
-      "source_id": "ais-mpo",
-      "source_name": "AIS MPO",
-      "program": "",
-      "summary": "Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3.",
-      "text": "Program EFEKT III ≡ MENU Čekejte prosím ... < ZPĚT více... Načítám data... Program EFEKT III U ložit U ložit a zpět Odstranit (Program EFEKT III) Pro úspěšné podání žádosti je nutné splnit 3 kroky: Kroky Žadatele je možné v Systému registrovat pouze jednou. Pokud je žadatel již v Systému registrován, není opětovná registrace nutná a rovnou pokračujte krokem 3. 1. KROK – ZALOŽENÍ A AKTIVACE IDENTITY NA PORTÁLU IDENTITA OBČANA ( Odkaz na pořízení digitální identity. ) 2. KROK - REGISTRACE ŽADATELE DO AIS MPO, PŘIHLÁŠENÍ (Odkaz na videonápovědu Právnická osoba , Fyzická osoba podnikající. ) 3. KROK – ZALOŽENÍ, VYPLNĚNÍ A PODÁNÍ ŽÁDOSTI ( Odkaz na videonápovědu. ) Pro každého žadatele je možné založit více uživatelů. Návod pro založení dalšího uživatele žadatele ( Odkaz na videonápovědu ) Tlačítka Registrovat nového žadatele Přihlásit Odkaz na podklady Podrobnější informace o programu EFEKT III naleznete na portálu www.mpo-efekt.cz . Info pro techn. podporu Technická podpora uživatelů AIS MPO (Pracovní dny 8:00 - 16:00 hodin): (Infolinka pro dotazy na ovládání aplikace AIS MPO) Telefon: 841 135 135 E-mail: hotline-aismpo@asd-software.cz Seznam výzev programu EFEKT III, u kterých probíhá sběr žádostí Na začátek stránky Přihlášení Z důvodu přetížení Vás nemůžeme příhlásit do systému. Opakujte prosím přihlášení později. Děkujeme Vám.",
       "attachments": []
     },
     {
@@ -13953,7 +13947,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a soutěže - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Programy Mezinárodní spolupráce Průvodce pro uchazeče Informace pro experty Podpora ukrajinských vědců Aktuální možnosti podpory Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) V přípravě Program DOPRAVA 2030 Běží lhůta pro podávání návrhů projektů Program PRODEF Beží lhůta pro podávání návrhů projektů Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) LEDEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Probíhá hodnocení návrhů projektů ÚNOR BŘEZEN M-ERA.NET Běží lhůta pro podávání návrhů projektů Materiálový výzkum a inovace DUBEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství KVĚTEN Program DOPRAVA 2030 Běží lhůta pro podávání návrhů projektů Clean Energy Transition (CET) V přípravě ČERVEN Program",
+      "text": "Programy a soutěže - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Programy Mezinárodní spolupráce Průvodce pro uchazeče Informace pro experty Podpora ukrajinských vědců Aktuální možnosti podpory Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Program PRODEF Beží lhůta pro podávání návrhů projektů Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) LEDEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů ÚNOR BŘEZEN M-ERA.NET Probíhá hodnocení návrhů projektů Materiálový výzkum a inovace DUBEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství KVĚTEN Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů ČERVEN",
       "attachments": [
         {
           "title": "Harmonogram pro období 2026-2027 (PDF)",
@@ -13975,7 +13969,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a výzvy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Běží lhůta pro podávání návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Beží lhůta pro podávání návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravní",
+      "text": "Programy a výzvy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Beží lhůta pro podávání návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sek",
       "attachments": []
     },
     {
@@ -13991,7 +13985,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a výzvy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Běží lhůta pro podávání návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Beží lhůta pro podávání návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravní",
+      "text": "Programy a výzvy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Beží lhůta pro podávání návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sek",
       "attachments": []
     },
     {
@@ -14039,7 +14033,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Resortní programy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Resortní programy Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s ohledem na udržitelnost, bezpečnost a společenské potřeby – program Ministerstva dopravy Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program DOPRAVA 2030 Běží lhůta pro podávání návrhů projektů INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
+      "text": "Resortní programy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Resortní programy Program TREND V přípravě Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s ohledem na udržitelnost, bezpečnost a společenské potřeby – program Ministerstva dopravy Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
       "attachments": []
     },
     {
@@ -14076,7 +14070,7 @@ window.DOTACE_EXPORT = {
     },
     {
       "id": 116428636274,
-      "title": "Seminář pro příjemce v rámci výzvy 088 OPZ+ (online)",
+      "title": "Seminář pro příjemce v rámci výzvy 083 OPZ+ II. (online)",
       "type": "Akce",
       "type_code": "event",
       "status": "Neznámé",
@@ -14092,7 +14086,7 @@ window.DOTACE_EXPORT = {
     },
     {
       "id": 316539078611,
-      "title": "Seminář pro příjemce v rámci výzvy 088 OPZ+ (online)",
+      "title": "Seminář pro příjemce v rámci výzvy 083 OPZ+ II. (online)",
       "type": "Akce",
       "type_code": "event",
       "status": "Neznámé",
