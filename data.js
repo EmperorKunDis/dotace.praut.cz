@@ -1,9 +1,9 @@
 window.DOTACE_EXPORT = {
-  "generated_at": "2026-07-20T08:27:54+00:00",
+  "generated_at": "2026-07-27T08:57:47+00:00",
   "stats": {
     "total": 241,
-    "active": 31,
-    "completed": 128,
+    "active": 33,
+    "completed": 126,
     "unknown": 82,
     "sources": 17
   },
@@ -5142,83 +5142,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 190320211913,
-      "title": "Obnovitelné zdroje energie – větrné elektrárny – výzva II",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2024-12-16",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-ii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva II – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva II Obnovitelné zdroje energie – větrné elektrárny – výzva II Vyhlášení výzvy 14. 06. 2024 Zahájení příjmu 28. 06. 2024 14:00:00 Ukončení příjmu 02. 12. 2024 14:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE. UPOZORNĚNÍ PRO ŽADATELE A PŘÍJEMCE: 16.12.2024: Příprava výzvy III. pro aktivitu Obnovitelné zdroje energie – větrné elektrárny Ministerstvo průmyslu a obchodu jakožto Řídící orgán OP TAK (dále jen „ŘO“) oznamuje, že dne 2. 12. 2024 ve 14:00 byl zastaven , v souladu s podmínkami výzvy Obnovitelné zdroje energie – větrné elektrárny – výzva II. (dále jen „Výzva“), příjem žádostí o podporu z důvodu překročení 200 % výše alokace Výzvy . Plánovaná alokace výzvy byla překročena více než pětinásobně. V reakci na převis poptávky ŘO realizoval průzkum připravenosti podaných projektů. Z průzkumu vyplynulo, že velké množství projektů vykaz",
-      "attachments": [
-        {
-          "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva II (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456oze-vte-v-zva-ii.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-1-model-hodnocen-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-2-pravidla-pro-adatele-a-p-jemce-z-op-tak-zvl-tn-st-verze-1-0.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 16. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1734338267p-loha-4-vzor-rozhodnut-o-poskytnut-dotace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-5-nepodporovan-kat-cz-nace-oze-vte.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Posudek plnění DNSH (docx) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-6-posudek-pln-n-dnsh.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "FAQ_Příloha č. 6 Posudek plnění DNSH (docx) 19. 8. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/faq-priloha-c.-6-posudek-plneni-dnsh.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Specifické podmínky (docx) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355457p-loha-7-specifick-podm-nky.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Nejvýznamnější změny výzvy oproti předchozí výzvě (docx) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456nejv-znamn-j-zm-ny-v-zvy-oproti-p-edchoz-v-zv-.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "VTE FAQ- CP_EA_žadatel_název projektu_datum zpracování_diskont (xlsx) 19. 8. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/vte-faq-cp-ea-zadetel-nazev-projektu-datum-zpracovani.-diskontxlsx.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Renewable energy sources - wind farms - Call II resume (pdf) 24. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/obnovitelne-zdroje-energie-vyzva-ii-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 451746252554,
       "title": "Žádosti pro program Národní plán obnovy – Rekonstrukce veřejného osvětlení – Komponenta 2.2.2 lze podávat od 5. května 2022 od 9:00 hod. do 31. prosince 2024 do 23:59 hod.",
       "type": "Stránka",
@@ -5327,83 +5250,6 @@ window.DOTACE_EXPORT = {
         {
           "title": "Archiv (zip) 24. 3. 2025",
           "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/03/potencial-vyzva-ii.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
-      "id": 1021531901786,
-      "title": "Obnovitelné zdroje energie – vtláčení biometanu – výzva I",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2025-01-31",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vtlaceni-biometanu-vyzva-i/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – vtláčení biometanu – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – vtláčení biometanu – výzva I Obnovitelné zdroje energie – vtláčení biometanu – výzva I Vyhlášení výzvy 16. 08. 2023 Zahájení příjmu 06. 09. 2023 10:00:00 Ukončení příjmu 31. 01. 2025 10:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, konkrétně podpora úpravy bioplynu na biometan a jeho plnění nebo vtláčeni do distribuční sítě. Upozornění pro žadatele a příjemce: 30. 9. 2025: MPO informuje o zveřejnění vzoru Rozhodnutí o poskytnutí dotace pro výzvu Obnovitelné zdroje energie – vtláčení biometanu – výzva I. 12. 12. 2024: MPO informuje o prodloužení termínu příjmu žádostí o podporu do 31. ledna 2025 . ŘO příjem žádostí prodloužil na základě požadavků žadatelů, z důvodu vyšší administrativní zátěže. 18. 6. 2024: Ministerstvo průmyslu a obchodu informovalo o změně nařízení podpory malého rozsahu (de minimis), kdy Nařízení Komise (EU) č. 1407/2013 o podpoře de minimis bylo nahrazeno aktuálním Nařízením Komise (EU) č. 2023/2381 ze dne 13. prosince 2023 o použití článků 107 a 108 Smlouvy o fungování Evropsk",
-      "attachments": [
-        {
-          "title": "Obnovitelné zdroje energie – vtláčení biometanu – výzva I (pdf) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/vyzva-obnovitelne-zdroje-energie-vtlaceni-biometanu-vyzva-i.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 – Model hodnocení (pdf) 16. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-1-model-hodnoceni-biometan.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 – Pravidla pro žadatele a příjemce z OP TAK – zvláštní část (pdf) 16. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-2-pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast-biometan.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 – Vymezení způsobilých výdajů (pdf) 18. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718715530p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 30. 9. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/09/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-1.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 – Specifické podmínky Výzvy (docx) 16. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-5-specificke-podminky-vyzvy-1.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 – Osnova Podnikatelského záměru (pdf) 18. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718715530p-loha-6-osnova-podnikatelsk-ho-z-m-ru.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 – Posudek plnění DNSH a klimatického dopadu (docx) 16. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-7-posudek-plneni-dnsh-a-klimatickeho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 8 – Nepodporované kategorie CZ NACE (pdf) 18. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718715530p-loha-8-nepodporovan-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 6. 9. 2023 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-biometan-i.vyzva-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Renewable energy sources - injection of biomethane - Call I resume (pdf) 29. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/obnovitelne-zdroje-energie-vtlaceni-biotemu-vyzva-i-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/archiv-oze-vtlaceni-biometanu-vyzva-i.zip",
           "status": "Čeká"
         }
       ]
@@ -6385,22 +6231,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 193395570,
-      "title": "Driving Urban Transitions (DUT)",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2025-07-04",
-      "source_url": "https://tacr.gov.cz/program/driving-urban-transitions/",
-      "source_id": "tacr-souteze",
-      "source_name": "TA ČR - veřejné soutěže",
-      "program": "",
-      "summary": "Povinná publicita podpořených projektů",
-      "text": "Driving Urban Transitions (DUT) - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Driving Urban Transitions (DUT) Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Call 2025 Probíhá hodnocení návrhů projektů Call 2024 probíhá hodnocení návrhů projektů CALL 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Driving Urban Transitions (DUT) Call 2025: Mezinárodní výzva je otevřená Aktuality Driving Urban Transitions Call 2025 1. 9. 2025 - Mezinárodní výzva Evropského partnerství Driving Urban Transitions (DUT) Call 2025 je otevřena od 1. 9. 2025. Výzva je zaměřena na podporu… Blíží se vyhlášení čtvrté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2025 4. 7. 2025 - V září 2025 dostanou výzkumníci příležitost zapojit se již do čtvrté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzvu… Znovuotevření výzvy Partnerství DUT Call 2024 pro možný přístup nových uchazečů do fáze full proposal (2. kolo) Aktuality Driving Urban Transitions Call 2024 28. 2. 2025 - Rádi bychom informovali o znovuotevření výzvy Partnerství DUT Call 2024, a tím i možnosti přistoupení českých uchazečů do již vytvořených… Zobrazit starší příspěvky Více informací Partnerství DUT (Driving Urban Transitions to a Sustainable Future) je novým programem strategické sítě JPI Urban Europe, který začíná v roce 2022. Pomocí výzkumu a inovací pomáhá městům, obcím, podnikům a občanům roz",
-      "attachments": []
-    },
-    {
       "id": 671544230473,
       "title": "Marketing – Odborné služby pro start-upy – výzva I",
       "type": "Dotace",
@@ -6996,73 +6826,6 @@ window.DOTACE_EXPORT = {
         {
           "title": "Archiv (zip) 1. 4. 2026",
           "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/archiv.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
-      "id": 1011736747611,
-      "title": "Energetická infrastruktura – OZE v LDS – výzva I",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2025-10-29",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/energeticka-infrastruktura-optak/energeticka-infrastruktura-oze-v-lds-vyzva-i/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Energetická infrastruktura – OZE v LDS – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Energetická infrastruktura Energetická infrastruktura – OZE v LDS – výzva I Energetická infrastruktura – OZE v LDS – výzva I Vyhlášení výzvy 21. 12. 2023 Zahájení příjmu 02. 04. 2024 10:00:00 Ukončení příjmu 30. 12. 2024 23:59:59 Uzavřená výzva Cílem výzvy je posílení distribučních sítí a navýšení jejich připojitelného výkonu OZE podporou rozvoje chytrých sítí a konvenčním posílením sítí v souvislosti s rozvojem obnovitelných zdrojů v ČR. Upozornění pro žadatele a příjemce: 29. 10. 2025: MPO informovalo o zveřejnění vzoru Rozhodnutí o poskytnutí dotace pro výzvu Energetická infrastruktura – OZE v LDS – výzva I. OP TAK. Na co lze získat podporu (podporované aktivity): A) Modernizace silové (konvenční) infrastruktury Posílení venkovního vedení/kabelového vedení. Výstavba a modernizace rozvodny/elektrické stanice. Nákup a instalace rozváděčů/transformátorů. Nákup a instalace vnitřní TS, kobky TS, dovybavení TS/přípoložek trubky HDPE a optického kabelu/trafostanice (TS) stožárové, kioskové a zděné. B) Instalace chytrých prvků distribučních sítí Dálková ovládání, sledování automatizace, re",
-      "attachments": [
-        {
-          "title": "Energetická infrastruktura - OZE v LDS - výzva I (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/energeticka-infrastruktura---oze-v-lds---vyzva-i-op-tak.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení a kritéria pro hodnocení a výběr projektů (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-1---model-hodnoceni-a-kriteria-pro-hodnoceni-a-vyber-projektu-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-2---pravidla-pro-zadatele-a-prijemce-z-op-tak---zvlastni-cast-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-3---vymezeni-zpusobilych-vydaju-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 29. 10. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/10/priloha-c.-4.-vzor-rozhodnuti-o-poskytnuti-dotace-oze-v-lds.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 5 - Nepodporované kategorie CZ NACE (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-5---nepodporovane-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Posudek přínosu (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-6-posudek-prinosu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Posudek DNSH a CP (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-7-posudek-dnsh-a-cp.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 14. 3. 2024 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/03/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-oze-v-lds.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Resume Energetická infrastruktura – OZE v LDS - výzva I (pdf) 15. 1. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/01/energeticka-infrastruktura-oze-v-lds-vyzva-i.-cs-en-gb-c.pdf",
           "status": "Čeká"
         }
       ]
@@ -7914,88 +7677,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 1011299354957,
-      "title": "Obnovitelné zdroje energie – malé vodní elektrárny – výzva I",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-01-14",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-male-vodni-elektrarny-vyzva-i/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – malé vodní elektrárny – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – malé vodní elektrárny – výzva I Obnovitelné zdroje energie – malé vodní elektrárny – výzva I Vyhlášení výzvy 16. 08. 2023 Zahájení příjmu 06. 09. 2023 10:00:00 Ukončení příjmu 30. 06. 2026 10:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, konkrétně podpora výstavby a modernizace malých vodních elektráren. Upozornění pro žadatele a příjemce: 14. 1. 2026: Změna Výzvy a Pravidel pro žadatele a příjemce – zvláštní část výzvy Obnovitelné zdroje energie – malé vodní elektrárny – výzva I. (dále jen „Výzva“). MPO informovalo o aktualizaci požadavku týkající se CZ NACE, který bude ověřován při předložení první Zprávy o udržitelnosti projektu. Nově bude v Registru ekonomických subjektů (RES) ověřeno zapsání CZ NACE 35.11 Výroba elektřiny nebo 35.12 Výroba elektřiny z obnovitelných zdrojů dle Klasifikace ekonomických činností platné od 1. 1. 2025. Odůvodnění aktualizace: Pro účely této Výzvy je dostačující zápis příslušných podkategorií týkajících se výroby elektřiny, nikoli zápis celé skupiny 35.1 zahrnuj",
-      "attachments": [
-        {
-          "title": "Obnovitelné zdroje energie – malé vodní elektrárny – výzva I. (pdf) 14. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/obnovitelne-zdroje-energie-male-vodni-elektrarny-vyzva-i.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 – Model hodnocení (pdf) 9. 10. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/priloha-1-model-hodnoceni.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 – Pravidla pro žadatele a příjemce (pdf) 14. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/priloha-2-pravidla-pro-zadatele-a-prijemce.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 – Vymezení způsobilých výdajů (pdf) 18. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718716068p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 15. 10. 2024 Žádost podána do 10. 10. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/priloha-c.-4-vzor-rozhodnuti-o-poskytnuti-dotace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 2. 2025 Žádost podána od 11. 10. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/02/1740041042p-loha-4-vzor-rozhodnut-o-poskytnut-dotace-dost-pod-na-od-11-10-2024.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 – Specifické podmínky Výzvy (pdf) 9. 10. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/priloha-5-specificke-podminky-vyzvy.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 – Posudek plnění DNSH a klimatického dopadu (docx) 16. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-6-posudek-plneni-dnsh-a-klimatickeho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 – Nepodporované kategorie CZ NACE (pdf) 18. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718716068p-loha-7-nepodporovan-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 8 – Souhrnný rozpočet projektu (docx) 16. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-8-souhrnny-rozpocet-projektu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-mve.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Renewable energy sources - small hydropower plants - Call I resume (pdf) 29. 8. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/obnovitelne-zdroje-energie-male-vodni-elektrarny-vyzva-i-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 14. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/archiv-oze-mve-vyzva-i.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 159117925068,
       "title": "Inovace – výzva IV",
       "type": "Dotace",
@@ -8103,78 +7784,6 @@ window.DOTACE_EXPORT = {
         {
           "title": "Archiv (zip) 16. 7. 2026",
           "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
-      "id": 63724936042,
-      "title": "Obnovitelné zdroje energie – biomasa – výzva I",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-01-22",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-biomasa-vyzva-i/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – biomasa – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – biomasa – výzva I Obnovitelné zdroje energie – biomasa – výzva I Vyhlášení výzvy 12. 12. 2024 Zahájení příjmu 09. 01. 2025 10:00:00 Ukončení příjmu 31. 03. 2026 10:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE. Upozornění pro žadatele a příjemce: 22. 1. 2026: Změna textace výzvy a Pravidel pro žadatele a příjemce – zvláštní část výzvy Obnovitelné zdroje energie – biomasa – výzva I. MPO informovalo o změně v dokládání licence na výrobu elektrické energie a/nebo licence na výrobu a rozvod tepelné energie a provedení zápisu CZ NACE. Nově bude nutné splnění těchto požadavků nejpozději k podání první zprávy o udržitelnosti. Důvodem je skutečnost, že možnost zapsání CZ NACE souvisí s kolaudačním souhlasem, přičemž kolaudační souhlas je příjemce povinen dodat spolu s první Zprávou o udržitelnosti, případně nejpozději do 24 měsíců od skutečného ukončení. Změny jsou platné od",
-      "attachments": [
-        {
-          "title": "Obnovitelné zdroje energie - biomasa - výzva I (pdf) 22. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/vyzva-oze-biomasa-i.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989803p-loha-1-model-hodnocen-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 22. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/priloha-2-ppzp-zvlastni-cast--ciste.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989820p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989867p-loha-5-nepodporovan-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Posudek plnění DNSH a klimatického dopadu (docx) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989885p-iloha-6-posudek-pln-n-dnsh-a-klimatick-ho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "FAQ k DNSH a klimatickému dopadu (pdf) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989903faq-k-dnsh-a-klimatick-mu-dopadu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Specifické podmínky výzvy (docx) 12. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989921p-iloha-7-specifick-podmi-nky-v-zvy.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-biomasa.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Renewable energy sources - biomass - Call I Resume (pdf) 9. 1. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/01/obnovitelne-zdroje-energie-biomasa-vyzva-i-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 22. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/archiv-oze-biomasa-vyzva-i.zip",
           "status": "Čeká"
         }
       ]
@@ -9887,78 +9496,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 54392194931,
-      "title": "Energetická infrastruktura – Úspory v LDS – výzva I",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-05-18",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/energeticka-infrastruktura-optak/energeticka-infrastruktura-uspory-v-lds-vyzva-i/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Energetická infrastruktura – Úspory v LDS – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Energetická infrastruktura Energetická infrastruktura – Úspory v LDS – výzva I Energetická infrastruktura – Úspory v LDS – výzva I Vyhlášení výzvy 21. 12. 2023 Zahájení příjmu 02. 04. 2024 10:00:00 Ukončení příjmu 30. 12. 2024 23:59:59 Uzavřená výzva Cílem výzvy je úspora primární energie v rámci distribuce elektřiny. Upozornění pro žadatele a příjemce: 18. 5. 2026: MPO informovalo o úpravě Pravidel pro žadatele a příjemce z OP TAK – zvláštní část a Rozhodnutí o poskytnutí dotace. Jedná se o úpravu názvu Posudku přínosů tak, aby byl v souladu s přílohou č. 6 Výzvy. Změny jsou platné od 20. 5. 2026. 29. 10. 2025: MPO informovalo o zveřejnění vzoru Rozhodnutí o poskytnutí dotace pro výzvu Energetická infrastruktura – úspory v LDS – výzva I. OP TAK. Na co lze získat podporu (podporované aktivity): Snížení technických ztrát distribučních trafostanic Nákup a instalace: transformátorů všech napěťových hladin vnitřní TS, kobky VN TS, dovybavení TS trafostanice stožárové, kioskové a zděné Kdo může žádat (příjemci podpory): malé a střední podniky velké podniky Systém sběru žádostí: průběžný",
-      "attachments": [
-        {
-          "title": "Energetická infrastruktura - Úspory v LDS - výzva I (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/energeticka-infrastruktura---uspory-v-lds---vyzva-i-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení a kritéria pro hodnocení a výběr projektů (pdf) 26. 4. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/04/priloha-1-model-hodnoceni-a-kriteria-pro-hodnoceni-a-vyber-projektu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 18. 5. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/05/priloha-2-pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-3---vymezeni-zpusobilych-vydaju.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 18. 5. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/05/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-5---nepodporovane-kategorie-cz-nace-1.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Posudek přínosu (pdf) 26. 4. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/04/priloha-6-posudek-prinosu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Posudek DNSH a CP (pdf) 21. 12. 2023",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-7-posudek-dnsh-a-cp-1.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 16. 9. 2024 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-uspory-v-lds-2.vydani.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Resume Energy infrastructure - Savings in LDS - Call I (pdf) 15. 1. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/01/energeticka-infrastruktura-uspory-v-lds-vyzva-i.-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 18. 5. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/05/archiv-ei-uspory-v-lds-vyzva-i.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 100097822587,
       "title": "Výzva dle subkomponenty 1.4.2.4 Internacionalizace začínajících podniků",
       "type": "Dotace",
@@ -10161,133 +9698,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 695059747408,
-      "title": "Úspory energie – výzva II",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-06-03",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/uspory-energie-optak/uspory-energie-vyzva-ii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Úspory energie – výzva II – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Úspory energie Úspory energie – výzva II Úspory energie – výzva II Vyhlášení výzvy 10. 05. 2024 Zahájení příjmu 24. 05. 2024 10:00:00 Ukončení příjmu 31. 10. 2025 10:00:00 Uzavřená výzva Snížení energetické náročnosti podnikatelských nemovitostí a úspory energií v podniku. Upozornění pro žadatele a příjemce: 3. 6. 2026: Nápravná opatření ke kontrolám alternativní investice/hypotetického srovnávacího scénáře na základě proběhlých auditů a připomínek Evropské komise, které se týkají OP TAK Úspory energie a stanovení alternativní investice/hypotetického srovnávacího scénáře, byly z výstupů, zjištěných nedostatků systémového charakteru a podnětů z jednotlivých prováděných auditů operací vypracovaná nápravná opatření, které má Řídící orgán provést. Mezi tyto nápravná opatření patří i požadavek, že u všech kontrol musí příjemce dotace být schopen na vyžádání doložit, jak stanovil alternativní investici/hypotetický srovnávací scénář, a to podle schválené metodiky „ Přístup k alternativní investici/hypotetickému srovnávacímu scénáři – dokumentace a kontrola “ , která je předmětná pro výzvu II. Úspory energie. Odhad",
-      "attachments": [
-        {
-          "title": "Přístup k alternativní investici/hypotetickému srovnávacímu scénáři – dokumentace a kontrola",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/pristup-k-alternativnim-scenarum-uspory-energie-ii.-vyzva.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "FAQ k výzvě II",
-          "url": "https://www.apiagentura.gov.cz/wp-content/uploads/2024/06/faq-na-web-28.6.2024.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Úspory energie - výzva II (pdf) 19. 3. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/03/uspory-energie-vyzva-ii.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p1-model-hodnocen-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 22. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/priloha-c.-2-ppzp-z-op-tak-zvlastni-cast-1.2-ciste.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 3. 10. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/p3-vymezeni-zpusobilych-vydaju.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 5. 2. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/02/p4-vzor-rozhodnuti-o-poskytnuti-dotace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha RoPD - Metodický postup problematiky recyklace šedých a srážkových vod v sídlech ČR (pdf) 5. 2. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/02/priloha-ropd-metodicky-postup-problematiky-recyklace-sedych-a-srazkovych-vod-v-sidlech-cr.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha RoPD - Metodika pro ukládání energie (podíl z OZE) (pdf) 5. 2. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/02/priloha-ropd-metodika-pro-ukladani-energie-podil-z-oze.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p5-nepodporovan-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Report (xlsx) 20. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/priloha-c.6-report-ii.-vyzva-ue-op-tak-verze-20.6.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Posudek plnění DNSH a klimatického dopadu (docx) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p7-posudek-pln-n-dnsh-a-klimatick-ho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "FAQ k DNSH a CP (pdf) 28. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/faq-k-dnsh-a-cp-28.6.2024.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 8 - Výčet specifických podmínek programu (docx) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p8-v-et-specifick-ch-podm-nek-programu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 9 - Podporovaný druh biomasy a požadované úspory skleníkových plynů (docx) 11. 12. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733911637p-loha-9-druhy-pevn-biomasy.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 10 - Faktory celkové primární energie a primární energie z neobnovitelných zdrojů (pdf) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p10-faktory-celkov-prim-rn-energie-a-prim-rn-energie-z-neobnoviteln-ch-zdroj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 11 - Požadavky na fluorované skleníkové plyny (pdf) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p11-po-adavky-na-fluorovan-sklen-kov-plyny.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 12 - Způsobilé výrobky (pdf) 10. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p12-zp-sobil-v-robky.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 24. 5. 2024 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-uspory-ii-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Leták výzvy (pdf) 13. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/uspory-energie-vyzva-ii-web.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Resumé Energy savings - Call II (pdf) 22. 5. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/uspory-energie-vyzva-ii-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 19. 3. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/03/archiv-ue-vyzva-ii.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 753199950778,
       "title": "Program DOPRAVA 2030",
       "type": "Dotace",
@@ -10352,136 +9762,20 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 949038277153,
-      "title": "STEP – výzkum a vývoj kritických technologií",
-      "type": "Stránka",
-      "type_code": "page",
+      "id": 254830509148,
+      "title": "Program THÉTA 2",
+      "type": "Dotace",
+      "type_code": "grant",
       "status": "Ukončené",
       "status_code": "completed",
-      "deadline": "2026-06-24",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step/vyzkum-a-vyvoj-kritickych-technologii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "STEP – výzkum a vývoj kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií Vyhlášení výzvy 19. 06. 2026 Zahájení příjmu 17. 07. 2026 10:00:00 Ukončení příjmu 30. 09. 2026 09:59:59 Otevřená výzva Projekty průmyslového výzkumu a experimentálního vývoje kritických technologií evropského významu a jejich hodnotových řetězců. Upozornění pro žadatele a příjemce: 24. 6. 2026: Ministerstvo průmyslu a obchodu upozornilo žadatele na zveřejnění aktualizované šablony podnikatelského záměru s doplněnými návodnými otázkami ke kritériu snižování strategické závislosti. Na co lze získat podporu (podporované aktivity): digitální technologie a deep tech inovace polovodiče, AI, kvantové technologie, pokročilá konektivita, navigace, robotika čisté technologie solární energie, baterie, vodík, tepelná čerpadla, zachycování CO₂ biotechnologie DNA/RNA, buněčné a tkáňové inženýrství, bioinformatika, nanobiotechnologie obranné technologie protivzdušná obrana, drony, kybernetická bezpečnost, vojenská mobilita Kdo může žádat (příjemci podpory): malé a střed",
-      "attachments": [
-        {
-          "title": "Výzva STEP - výzkum a vývoj kritických technologií (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416step-v-zkum-a-v-voj-kritick-ch-technologi-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-1-model-hodnocen-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-2-pravidla-pro-zadatele-a-prijemce-v-op-tak-zvlastni-cast.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "a) Definice druhů výsledků (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416definice-druh-v-sledk-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "b) Čestné prohlášení k žádosti o platbu (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-estn-prohl-en-partnera-k-dosti-o-platbu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "c) Přílohy k oponentnímu řízení (zip) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-lohy-k-oponentn-mu-zen-.zip",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované CZ NACE (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-5-nepodporovan-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Podnikatelský záměr (docx) 24. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-6-podnikatelsky-zamer-v2.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Tabulka rozpočtových položek (xlsx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415priloha-6-rozpoctove-tabulky-xls-step-newlogo-final.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Formulář k DNSH (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-7-formul-k-dnsh.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 8 - Národní RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-8-n-rodn-ris3-strategie-p-1-karty-t-matick-ch-oblast-verze-8.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 9 - Čestné prohlášení partnera k žádosti o podporu (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-9-estn-prohl-en-partnera-k-dosti-o-podporu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 10 - Čestné prohlášení partnera - výzkumné organizace k žádosti o podporu (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-10-estn-prohl-en-partnera-v-zkumn-organizace-k-dosti-o-podporu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 11 - Odvětví STEP (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-11-odv-tv-step.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Národní RIS3 Strategie - Příloha 3 - Cíle RIS3 monitorovací indikátory a financování (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416n-rodn-ris3-strategie-p-loha-3-c-le-ris3-monitorovac-indik-tory-a-financov-n-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Číselník skupin oborů podle Frascati manuálu (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-seln-k-skupin-obor-podle-frascati-manu-lu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Výkaz projektového pracovníka (xlsx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/optak-vykaz-prace-projektoveho-pracovnika-pro-step-1.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Stupnice TRL (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416stupnice-trl.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (pdf) 2. 7. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-vav.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Leták výzvy (pdf) 22. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "STEP – Research and Development of Critical Technologies resume (pdf) 29. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.en-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 24. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/archiv.zip",
-          "status": "Čeká"
-        }
-      ]
+      "deadline": "2026-06-30",
+      "source_url": "https://tacr.gov.cz/program/program-theta-2/",
+      "source_id": "tacr-souteze",
+      "source_name": "TA ČR - veřejné soutěže",
+      "program": "",
+      "summary": "Povinná publicita podpořených projektů",
+      "text": "Program THÉTA 2 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž V přípravě Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Novinky Program THÉTA 2: Oznámení předběžných parametrů 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 30. 6. 2026 - Technologická agentura ČR (dále jen „TA ČR”) informuje o přípravě 4. veřejné soutěže v Programu na podporu aplikovaného výzkumu a inovací - THÉTA 2 … Program THÉTA 2: Vyhlášení výsledků 3. veřejné soutěže Aktuality Théta 2 Třetí veřejná soutěž 27. 4. 2026 - Technologická agentura České republiky (dále jen “TA ČR”) vyhlašuje výsledky 3. veřejné soutěže programu THÉTA 2, vyhlášené dne 27. srpna 2025. … Program THÉTA 2: Vyhlášení výsledků formální kontroly 3. veřejné soutěže Aktuality Théta 2 Třetí veřejná soutěž 14. 11. 2025 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 3. veřejné soutěže… Zobrazit starší příspěvky Více informací Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 . ZAMĚŘENÍ PROGRAMU Program THÉTA 2 je program orientovaný na podporu aplikovaného výzkumu a inovací v energetice, který bezprostředně navazuje na program THÉTA. Zaměření programu je, stejně jako u předcházejícího prog",
+      "attachments": []
     },
     {
       "id": 56503395615,
@@ -10723,113 +10017,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 275848579563,
-      "title": "STEP – Investice – vývoj a výroba kritických technologií",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-07-07",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step-investice-vyvoj-a-vyroba-kritickych-technologii/step-investice-vyvoj-a-vyroba-kritickych-technologii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "STEP – Investice – vývoj a výroba kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií Vyhlášení výzvy 15. 06. 2026 Zahájení příjmu 17. 07. 2026 10:00:00 Ukončení příjmu 15. 10. 2026 15:00:00 Otevřená výzva Podpora produktivních investic malých, středních a velkých podniků do vývoje a výroby kritických technologií. Upozornění pro žadatele a příjemce: 7. 7. 2026: Ministerstvo průmyslu a obchodu informovalo o doplnění textu Výzvy, a to konkrétně přidání bodu l) do kapitoly 7. Ostatní specifické podmínky, ve znění: „Každý žadatel (1 IČ) je oprávněn podat maximálně jeden projekt do této Výzvy. Omezení se vztahuje na tzv. aktivní žádosti o podporu, tzn. žádosti ve stavu PPxx, které nebyly staženy žadatelem, ukončeny ze strany ŘO/ZS, vyřazeny či zamítnuty.“ Důvodem pro zahrnutí této podmínky a omezení počtu projektů je snaha ŘO umožnit s ohledem na omezenou alokaci a stanovenou maximální výši dotace až 250 mil. Kč zapojení většího množství jednotlivých žadatelských subjektů. Zahrnutí této podmínky do",
-      "attachments": [
-        {
-          "title": "Výzva Step - Investice Vývoj a výroba kritických technologií (pdf) 7. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/vyzva-step-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 1 - Model hodnocení (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-1-model-hodnocen-step-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-2-pp-p-zvl-tn-st-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 3 - Vymezení způsobilých výdajů (pdf) 25. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-3-vymezeni-zpusobilych-vydaju-investice-step-1.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 4 - Vzor rozhodnutí o poskytnutí dotace (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-4-vzor-ropd-investice-step.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 5 Nepodporované kategorie CZ NACE (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-5-nepodporovan-kategorie-cz-nace-investice.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 6 – Povinná osnova Podnikatelského záměru (docx) 24. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-6-osnova-podnikatelskeho-zameru-step.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 7 - Formulář k prověření zásady významně nepoškozovat (DNSH) a prověření infrastruktury z hlediska klimatického dopadu (docx) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-7-formul-k-prov-en-z-sady-v-znamn-nepo-kozovat-dnsh-a-prov-en-infrastruktury-z-hlediska-klimatick-ho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 8 - RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-8-ris3-strategie-p-loha-1-karty-tematick-ch-oblast-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 9 Odvětví platformy STEP (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-9-odv-tv-step.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 10 - Metodika pro výpočet stanovení hodnoty znovupoužitého majetku (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-10-metodika-pro-v-po-et-stanoven-hodnoty-znovupou-it-ho-majetku.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 11 - Formulář pro výpočet hodnoty znovupoužitého majetku (xlsx) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-11-formul-pro-v-po-et-hodnoty-znovupou-it-ho-majetku.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 12 - Prohlášení k jedinému investičnímu projektu (xlsx) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-12-prohl-en-k-jedin-mu-investi-n-mu-projektu.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha č. 13 - Stupnice TRL (pdf) 15. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-13-stupnice-trl.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu (pdf) 22. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-investice-1.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "STEP – Investments in the Development and Production of Critical Technologies resume (pdf) 29. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-investice-vyvoj-a-vyroba-kritickych-technologii-en.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Leták výzvy (pdf) 16. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/investice-step-vyzva-i-final.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 7. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-step-investice.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 1929631531,
       "title": "Partnerství Innovative SMEs / Eurostars",
       "type": "Dotace",
@@ -10862,22 +10049,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 343779076574,
-      "title": "Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech.",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-07-13",
-      "source_url": "https://irop.gov.cz/cs/",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "summary": "IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů.",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - Úvod IROP 2021-2027 Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech. IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů. ZJISTIT VÍCE Výzvy 2021-2027 Konzultační servis Strategické projekty IROP Závazná stanoviska ŘO IROP 2021-2027 eGovernment a kyberbezpečnost Integrovaný záchranný systém Zelená infrastruktura měst a obcí Silnice II. třídy Vzdělávací infrastruktura Sociální infrastruktura Infrastruktura ve zdravotnictví Kulturní dědictví a cestovní ruch Komunitně vedený místní rozvoj (CLLD) Čistá a aktivní mobilita Novinky z IROP Metodika Obecné 13. 7. 2026 Nové závazné stanovisko ke způsobilosti smluvních pokut Tiskové zprávy Evropské fondy IROP 3. 7. 2026 Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu eGovernment a kyberbezpečnost Revize 25. 6. 2026 Revize 120. výzvy IROP - Kybernetická bezpečnost II. (PR) - rozšíření oprávněných žadatelů Novinka Publicita 15. 6. 2026 Evropské fondy mění Jihlavu: nové školky, doprava i sociální služby Tiskové zprávy Evropské fondy IROP 8. 6. 2026 Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Novinka Publicita 8. 6. 2026 Evropské fondy podporují na Mladoboleslavsku dopravu, školy i sociální projekty Kulturní dědictví a cestovní ruch Publicita 3. 6. 2026 Knihovny jako moderní centra vzdělanosti: IROP jim otevírá nové možnosti Novinka Publicita 2. 6. 2026 ITI Plzeň: investice z IROP zlepšují dopravu a sociální infrastrukturu Zelená infrastruktura měst a obcí Revize 1. 6. 2026 Revize 65. výzvy IROP Zelená infrastruktura – úprava alokace a prodloužení příjmu žádostí eGovernment a kyberbezpečnost Revize 26. 5. 2026 Prodloužení příjmu žádostí u 78. a 79. výzvy eHealth Novinka Publicita 25. 5. 2026 Evropské fondy mění Karlovarsko: doprava, sociální služby i kulturn",
-      "attachments": []
-    },
-    {
       "id": 97090694448,
       "title": "Clean Energy Transition (CET)",
       "type": "Dotace",
@@ -10894,19 +10065,624 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 254830509148,
-      "title": "Program THÉTA 2",
+      "id": 1011736747611,
+      "title": "Energetická infrastruktura – OZE v LDS – výzva I",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Ukončené",
       "status_code": "completed",
-      "deadline": "2026-07-14",
-      "source_url": "https://tacr.gov.cz/program/program-theta-2/",
+      "deadline": "2026-07-20",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/energeticka-infrastruktura-optak/energeticka-infrastruktura-oze-v-lds-vyzva-i/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Energetická infrastruktura – OZE v LDS – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Energetická infrastruktura Energetická infrastruktura – OZE v LDS – výzva I Energetická infrastruktura – OZE v LDS – výzva I Vyhlášení výzvy 21. 12. 2023 Zahájení příjmu 02. 04. 2024 10:00:00 Ukončení příjmu 30. 12. 2024 23:59:59 Uzavřená výzva Cílem výzvy je posílení distribučních sítí a navýšení jejich připojitelného výkonu OZE podporou rozvoje chytrých sítí a konvenčním posílením sítí v souvislosti s rozvojem obnovitelných zdrojů v ČR. Upozornění pro žadatele a příjemce: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 29. 10. 2025: MPO informovalo o zveřejnění vzoru Rozhodnutí o poskytnutí dotace pro vý",
+      "attachments": [
+        {
+          "title": "Energetická infrastruktura - OZE v LDS - výzva I (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/energeticka-infrastruktura---oze-v-lds---vyzva-i-op-tak.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení a kritéria pro hodnocení a výběr projektů (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-1---model-hodnoceni-a-kriteria-pro-hodnoceni-a-vyber-projektu-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-2---pravidla-pro-zadatele-a-prijemce-z-op-tak---zvlastni-cast-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-3---vymezeni-zpusobilych-vydaju-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-c.-4.-vzor-rozhodnuti-o-poskytnuti-dotace-oze-v-lds.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 5 - Nepodporované kategorie CZ NACE (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-5---nepodporovane-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Posudek přínosu (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-6-posudek-prinosu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Posudek DNSH a CP (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-7-posudek-dnsh-a-cp.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 14. 3. 2024 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/03/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-oze-v-lds.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Resume Energetická infrastruktura – OZE v LDS - výzva I (pdf) 15. 1. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/01/energeticka-infrastruktura-oze-v-lds-vyzva-i.-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-vyzvy.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 54392194931,
+      "title": "Energetická infrastruktura – Úspory v LDS – výzva I",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-20",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/energeticka-infrastruktura-optak/energeticka-infrastruktura-uspory-v-lds-vyzva-i/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Energetická infrastruktura – Úspory v LDS – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Energetická infrastruktura Energetická infrastruktura – Úspory v LDS – výzva I Energetická infrastruktura – Úspory v LDS – výzva I Vyhlášení výzvy 21. 12. 2023 Zahájení příjmu 02. 04. 2024 10:00:00 Ukončení příjmu 30. 12. 2024 23:59:59 Uzavřená výzva Cílem výzvy je úspora primární energie v rámci distribuce elektřiny. Upozornění pro žadatele a příjemce: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 18. 5. 2026: MPO informovalo o úpravě Pravidel pro žadatele a příjemce z OP TAK – zvláštní část a Rozhodnutí o poskytnutí dotace. Jedná se o úpravu názvu Posudku přínosů tak, aby byl v souladu s přílohou č.",
+      "attachments": [
+        {
+          "title": "Energetická infrastruktura - Úspory v LDS - výzva I (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/energeticka-infrastruktura---uspory-v-lds---vyzva-i-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení a kritéria pro hodnocení a výběr projektů (pdf) 26. 4. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/04/priloha-1-model-hodnoceni-a-kriteria-pro-hodnoceni-a-vyber-projektu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 18. 5. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/05/priloha-2-pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-3---vymezeni-zpusobilych-vydaju.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-uspory-v-lds.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-5---nepodporovane-kategorie-cz-nace-1.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Posudek přínosu (pdf) 26. 4. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/04/priloha-6-posudek-prinosu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Posudek DNSH a CP (pdf) 21. 12. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/12/priloha-7-posudek-dnsh-a-cp-1.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 16. 9. 2024 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-uspory-v-lds-2.vydani.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Resume Energy infrastructure - Savings in LDS - Call I (pdf) 15. 1. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/01/energeticka-infrastruktura-uspory-v-lds-vyzva-i.-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-ei-uspory-v-lds-vyzva-i.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 1011299354957,
+      "title": "Obnovitelné zdroje energie – malé vodní elektrárny – výzva I",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-20",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-male-vodni-elektrarny-vyzva-i/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Obnovitelné zdroje energie – malé vodní elektrárny – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – malé vodní elektrárny – výzva I Obnovitelné zdroje energie – malé vodní elektrárny – výzva I Vyhlášení výzvy 16. 08. 2023 Zahájení příjmu 06. 09. 2023 10:00:00 Ukončení příjmu 30. 06. 2026 10:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, konkrétně podpora výstavby a modernizace malých vodních elektráren. Upozornění pro žadatele a příjemce: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 14. 1. 2026: Změna Výzvy a Pravidel pro žadatele a příjemce – zvláštní část výzvy Obnovitelné zdroje energie – malé vodní elektrárn",
+      "attachments": [
+        {
+          "title": "Obnovitelné zdroje energie – malé vodní elektrárny – výzva I. (pdf) 14. 1. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/obnovitelne-zdroje-energie-male-vodni-elektrarny-vyzva-i.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 – Model hodnocení (pdf) 9. 10. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/priloha-1-model-hodnoceni.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 – Pravidla pro žadatele a příjemce (pdf) 14. 1. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/priloha-2-pravidla-pro-zadatele-a-prijemce.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 – Vymezení způsobilých výdajů (pdf) 18. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718716068p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 2. 2025 Žádost podána do 10. 10. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/1729777969p-loha-4-vzor-rozhodnut-o-poskytnut-dotace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026 Žádost podána od 11. 10. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-zadost-podana-od-11.10.2024-male-vodni-elekt.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 – Specifické podmínky Výzvy (pdf) 9. 10. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/priloha-5-specificke-podminky-vyzvy.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 – Posudek plnění DNSH a klimatického dopadu (docx) 16. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-6-posudek-plneni-dnsh-a-klimatickeho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 – Nepodporované kategorie CZ NACE (pdf) 18. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718716068p-loha-7-nepodporovan-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 8 – Souhrnný rozpočet projektu (docx) 16. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-8-souhrnny-rozpocet-projektu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-mve.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Renewable energy sources - small hydropower plants - Call I resume (pdf) 29. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/obnovitelne-zdroje-energie-male-vodni-elektrarny-vyzva-i-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-oze-mve-vyzva-i.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 1021531901786,
+      "title": "Obnovitelné zdroje energie – vtláčení biometanu – výzva I",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-20",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vtlaceni-biometanu-vyzva-i/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Obnovitelné zdroje energie – vtláčení biometanu – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – vtláčení biometanu – výzva I Obnovitelné zdroje energie – vtláčení biometanu – výzva I Vyhlášení výzvy 16. 08. 2023 Zahájení příjmu 06. 09. 2023 10:00:00 Ukončení příjmu 31. 01. 2025 10:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, konkrétně podpora úpravy bioplynu na biometan a jeho plnění nebo vtláčeni do distribuční sítě. Upozornění pro žadatele a příjemce: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 30. 9. 2025: MPO informuje o zveřejnění vzoru Rozhodnutí o poskytnutí dotace pro výzvu Obnovitelné zdroje energie",
+      "attachments": [
+        {
+          "title": "Obnovitelné zdroje energie – vtláčení biometanu – výzva I (pdf) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/vyzva-obnovitelne-zdroje-energie-vtlaceni-biometanu-vyzva-i.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 – Model hodnocení (pdf) 16. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-1-model-hodnoceni-biometan.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 – Pravidla pro žadatele a příjemce z OP TAK – zvláštní část (pdf) 16. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-2-pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast-biometan.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 – Vymezení způsobilých výdajů (pdf) 18. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718715530p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 – Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-vtlaceni-biometanu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 – Specifické podmínky Výzvy (docx) 16. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-5-specificke-podminky-vyzvy-1.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 – Osnova Podnikatelského záměru (pdf) 18. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718715530p-loha-6-osnova-podnikatelsk-ho-z-m-ru.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 – Posudek plnění DNSH a klimatického dopadu (docx) 16. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/priloha-c-7-posudek-plneni-dnsh-a-klimatickeho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 8 – Nepodporované kategorie CZ NACE (pdf) 18. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718715530p-loha-8-nepodporovan-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 6. 9. 2023 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-biometan-i.vyzva-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Renewable energy sources - injection of biomethane - Call I resume (pdf) 29. 8. 2023",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2023/08/obnovitelne-zdroje-energie-vtlaceni-biotemu-vyzva-i-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-oze-vtlaceni-biometanu-vyzva-i.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 190320211913,
+      "title": "Obnovitelné zdroje energie – větrné elektrárny – výzva II",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-20",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-ii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva II – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva II Obnovitelné zdroje energie – větrné elektrárny – výzva II Vyhlášení výzvy 14. 06. 2024 Zahájení příjmu 28. 06. 2024 14:00:00 Ukončení příjmu 02. 12. 2024 14:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE. UPOZORNĚNÍ PRO ŽADATELE A PŘÍJEMCE: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 16.12.2024: Příprava výzvy III. pro aktivitu Obnovitelné zdroje",
+      "attachments": [
+        {
+          "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva II (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456oze-vte-v-zva-ii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-1-model-hodnocen-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-2-pravidla-pro-adatele-a-p-jemce-z-op-tak-zvl-tn-st-verze-1-0.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-vetrne-elektrarny.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-5-nepodporovan-kat-cz-nace-oze-vte.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Posudek plnění DNSH (docx) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-6-posudek-pln-n-dnsh.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "FAQ_Příloha č. 6 Posudek plnění DNSH (docx) 19. 8. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/faq-priloha-c.-6-posudek-plneni-dnsh.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Specifické podmínky (docx) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355457p-loha-7-specifick-podm-nky.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Nejvýznamnější změny výzvy oproti předchozí výzvě (docx) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456nejv-znamn-j-zm-ny-v-zvy-oproti-p-edchoz-v-zv-.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "VTE FAQ- CP_EA_žadatel_název projektu_datum zpracování_diskont (xlsx) 19. 8. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/vte-faq-cp-ea-zadetel-nazev-projektu-datum-zpracovani.-diskontxlsx.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Renewable energy sources - wind farms - Call II resume (pdf) 24. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/obnovitelne-zdroje-energie-vyzva-ii-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-oze-ve-ii.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 695059747408,
+      "title": "Úspory energie – výzva II",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-20",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/uspory-energie-optak/uspory-energie-vyzva-ii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Úspory energie – výzva II – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Úspory energie Úspory energie – výzva II Úspory energie – výzva II Vyhlášení výzvy 10. 05. 2024 Zahájení příjmu 24. 05. 2024 10:00:00 Ukončení příjmu 31. 10. 2025 10:00:00 Uzavřená výzva Snížení energetické náročnosti podnikatelských nemovitostí a úspory energií v podniku. Upozornění pro žadatele a příjemce: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 3. 6. 2026: Nápravná opatření ke kontrolám alternativní investice/hypotetického srovnávacího scénáře na základě proběhlých auditů a připomínek Evropské komise, které se týkají OP TAK Úspory energie a stanovení alternativní investice/hypotetického srovnávacího scénáře, byly z vý",
+      "attachments": [
+        {
+          "title": "Přístup k alternativní investici/hypotetickému srovnávacímu scénáři – dokumentace a kontrola",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/pristup-k-alternativnim-scenarum-uspory-energie-ii.-vyzva.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "FAQ k výzvě II",
+          "url": "https://www.apiagentura.gov.cz/wp-content/uploads/2024/06/faq-na-web-28.6.2024.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Úspory energie - výzva II (pdf) 19. 3. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/03/uspory-energie-vyzva-ii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p1-model-hodnocen-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 22. 1. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/priloha-c.-2-ppzp-z-op-tak-zvlastni-cast-1.2-ciste.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 3. 10. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/10/p3-vymezeni-zpusobilych-vydaju.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/p4-vzor-rozhodnuti-o-poskytnuti-dotace-uspory-energie-ii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha RoPD - Metodický postup problematiky recyklace šedých a srážkových vod v sídlech ČR (pdf) 5. 2. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/02/priloha-ropd-metodicky-postup-problematiky-recyklace-sedych-a-srazkovych-vod-v-sidlech-cr.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha RoPD - Metodika pro ukládání energie (podíl z OZE) (pdf) 5. 2. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/02/priloha-ropd-metodika-pro-ukladani-energie-podil-z-oze.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p5-nepodporovan-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Report (xlsx) 20. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/priloha-c.6-report-ii.-vyzva-ue-op-tak-verze-20.6.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Posudek plnění DNSH a klimatického dopadu (docx) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p7-posudek-pln-n-dnsh-a-klimatick-ho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "FAQ k DNSH a CP (pdf) 28. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/faq-k-dnsh-a-cp-28.6.2024.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 8 - Výčet specifických podmínek programu (docx) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p8-v-et-specifick-ch-podm-nek-programu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 9 - Podporovaný druh biomasy a požadované úspory skleníkových plynů (docx) 11. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733911637p-loha-9-druhy-pevn-biomasy.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 10 - Faktory celkové primární energie a primární energie z neobnovitelných zdrojů (pdf) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p10-faktory-celkov-prim-rn-energie-a-prim-rn-energie-z-neobnoviteln-ch-zdroj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 11 - Požadavky na fluorované skleníkové plyny (pdf) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p11-po-adavky-na-fluorovan-sklen-kov-plyny.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 12 - Způsobilé výrobky (pdf) 10. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/1715263066p12-zp-sobil-v-robky.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 24. 5. 2024 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-uspory-ii-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Leták výzvy (pdf) 13. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/uspory-energie-vyzva-ii-web.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Resumé Energy savings - Call II (pdf) 22. 5. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/05/uspory-energie-vyzva-ii-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 20. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-ue-vyzva-ii.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 343779076574,
+      "title": "Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech.",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-22",
+      "source_url": "https://irop.gov.cz/cs/",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "summary": "IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů.",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - Úvod IROP 2021-2027 Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech. IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů. ZJISTIT VÍCE Výzvy 2021-2027 Konzultační servis Strategické projekty IROP Závazná stanoviska ŘO IROP 2021-2027 eGovernment a kyberbezpečnost Integrovaný záchranný systém Zelená infrastruktura měst a obcí Silnice II. třídy Vzdělávací infrastruktura Sociální infrastruktura Infrastruktura ve zdravotnictví Kulturní dědictví a cestovní ruch Komunitně vedený místní rozvoj (CLLD) Čistá a aktivní mobilita Novinky z IROP Kulturní dědictví a cestovní ruch Revize 22. 7. 2026 Přesun alokace - Kulturní dědictví a cestovní ruch - 34. výzva Muzea (PR) a 82. výzva Cestovní ruch (PR) Metodika Obecné 13. 7. 2026 Nové závazné stanovisko ke způsobilosti smluvních pokut Tiskové zprávy Evropské fondy IROP 3. 7. 2026 Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu eGovernment a kyberbezpečnost Revize 25. 6. 2026 Revize 120. výzvy IROP - Kybernetická bezpečnost II. (PR) - rozšíření oprávněných žadatelů Novinka Publicita 15. 6. 2026 Evropské fondy mění Jihlavu: nové školky, doprava i sociální služby Tiskové zprávy Evropské fondy IROP 8. 6. 2026 Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Novinka Publicita 8. 6. 2026 Evropské fondy podporují na Mladoboleslavsku dopravu, školy i sociální projekty Kulturní dědictví a cestovní ruch Publicita 3. 6. 2026 Knihovny jako moderní centra vzdělanosti: IROP jim otevírá nové možnosti Novinka Publicita 2. 6. 2026 ITI Plzeň: investice z IROP zlepšují dopravu a sociální infrastrukturu Zelená infrastruktura měst a obcí Revize 1. 6. 2026 Revize 65. výzvy IROP Zelená infrastruktura – úprava alokace a prodloužení příjmu žádostí eGovernment a kyberbezpečnost Revize 26.",
+      "attachments": []
+    },
+    {
+      "id": 63724936042,
+      "title": "Obnovitelné zdroje energie – biomasa – výzva I",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-22",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-biomasa-vyzva-i/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Obnovitelné zdroje energie – biomasa – výzva I – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – biomasa – výzva I Obnovitelné zdroje energie – biomasa – výzva I Vyhlášení výzvy 12. 12. 2024 Zahájení příjmu 09. 01. 2025 10:00:00 Ukončení příjmu 31. 03. 2026 10:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE. Upozornění pro žadatele a příjemce: 22. 7. 2026: Zveřejnění vzoru Rozhodnutí o poskytnutí dotace a aktualizace Pravidel pro žadatele a příjemce – zvláštní část (verze 1.3) Ministerstvo průmyslu a obchodu informovalo o zveřejnění vzoru Rozhodnutí o poskytnutí dotace (RoPD) a aktualizaci Pravidel pro žadatele a příjemce – zvláštní část (PpŽP). V PpŽP byly v souladu se zveřejněným RoPD upřesněny podmínky týkající se kolaudačního souhlasu/rozhodnutí nebo kolaudačního souhlasu s částí stavby. Dále byly upřesněny podmínky pro prokazování splnění indikátoru. Změny PpŽP jsou popsány v Přehledu provedených změn (verze 1.3) na straně 3. 22. 1. 2026: Změna textace výzvy a",
+      "attachments": [
+        {
+          "title": "Obnovitelné zdroje energie - biomasa - výzva I (pdf) 22. 1. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/vyzva-oze-biomasa-i.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989803p-loha-1-model-hodnocen-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 22. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-2-pravidla-pro-zadatele-a-prijemce-zvlastni-cast-biomasa.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989820p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 22. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-biomasa.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989867p-loha-5-nepodporovan-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Posudek plnění DNSH a klimatického dopadu (docx) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989885p-iloha-6-posudek-pln-n-dnsh-a-klimatick-ho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "FAQ k DNSH a klimatickému dopadu (pdf) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989903faq-k-dnsh-a-klimatick-mu-dopadu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Specifické podmínky výzvy (docx) 12. 12. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/12/1733989921p-iloha-7-specifick-podmi-nky-v-zvy.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-biomasa.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Renewable energy sources - biomass - Call I Resume (pdf) 9. 1. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/01/obnovitelne-zdroje-energie-biomasa-vyzva-i-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 22. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-oze-biomasa-vyzva-i.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 193395570,
+      "title": "Driving Urban Transitions (DUT)",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-07-24",
+      "source_url": "https://tacr.gov.cz/program/driving-urban-transitions/",
       "source_id": "tacr-souteze",
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program THÉTA 2 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž V přípravě Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Novinky Předběžná tržní konzultace: Dokončení vývoje ekosystému SISTA Aktuality 17. 7. 2026 - Technologická agentura ČR připravuje čtvrtou rámcovou dohodu (RD4) na dokončení vývoje ekosystému SISTA. Realizace RD4 nám umožní vyvinout systém do… Program SIGMA: Prezentace a videozáznam z webináře pro uchazeče 17. veřejné soutěže - Dílčí cíl 2, Industrial Chairs Aktuality Program Sigma Sedmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ DC 2 14. 7. 2026 - Technologická agentura České republiky pořádala dne 8. července 2026 webinář k 17. veřejné soutěži Programu na podporu aplikovaného výzkumu a… Partnerství CET Call 2025: Výsledky mezinárodní výzvy Aktuality Clean Energy Transition Call 2025 14. 7. 2026 - Do mezinárodní výzvy Partnerství CET Call 2025, která byla zaměřená na výzkum v oblasti energetické transformace (čisté energie), se přihlásilo 44… Zobrazit starší příspěvky Více informací Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 . ZAMĚŘENÍ PROGRAMU Program THÉTA 2 je program orientovaný na podporu aplikovaného výzkumu a inovací v energetice, který bezprostředně navazuje na program THÉTA. Zaměření programu j",
+      "text": "Driving Urban Transitions (DUT) - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Driving Urban Transitions (DUT) Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 probíhá hodnocení návrhů projektů CALL 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Blíží se vyhlášení páté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2026 24. 7. 2026 - V září 2026 dostanou výzkumníci příležitost zapojit se již do páté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzva… Driving Urban Transitions (DUT) Call 2025: Mezinárodní výzva je otevřená Aktuality Driving Urban Transitions Call 2025 1. 9. 2025 - Mezinárodní výzva Evropského partnerství Driving Urban Transitions (DUT) Call 2025 je otevřena od 1. 9. 2025. Výzva je zaměřena na podporu… Blíží se vyhlášení čtvrté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2025 4. 7. 2025 - V září 2025 dostanou výzkumníci příležitost zapojit se již do čtvrté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzvu… Zobrazit starší příspěvky Více informací Partnerství DUT (Driving Urban Transitions to a Sustainable Future) je novým programem strategické sítě JPI Urban Europe, který začíná v roce 2022. Pomocí výzkumu a inovací pomáhá městům, obcím, podnikům a občanům rozvíjet nástroje a dovednosti potřebné k řešení výze",
       "attachments": []
     },
     {
@@ -11967,6 +11743,245 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
+      "id": 949038277153,
+      "title": "STEP – výzkum a vývoj kritických technologií",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-09-30",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step/vyzkum-a-vyvoj-kritickych-technologii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "STEP – výzkum a vývoj kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií Vyhlášení výzvy 19. 06. 2026 Zahájení příjmu 17. 07. 2026 10:00:00 Ukončení příjmu 30. 09. 2026 09:59:59 Otevřená výzva Projekty průmyslového výzkumu a experimentálního vývoje kritických technologií evropského významu a jejich hodnotových řetězců. Upozornění pro žadatele a příjemce: Aktuální evidovaný počet podaných žádostí o podporu a výši se dozvíte na webu MPO zde . 24. 6. 2026: Ministerstvo průmyslu a obchodu upozornilo žadatele na zveřejnění aktualizované šablony podnikatelského záměru s doplněnými návodnými otázkami ke kritériu snižování strategické závislosti. Na co lze získat podporu (podporované aktivity): digitální technologie a deep tech inovace polovodiče, AI, kvantové technologie, pokročilá konektivita, navigace, robotika čisté technologie solární energie, baterie, vodík, tepelná čerpadla, zachycování CO₂ biotechnologie DNA/RNA, buněčné a tkáňové inženýrství, bioinformatika, nanobiotechnologie obranné technologie protivzdušná obrana, drony, ky",
+      "attachments": [
+        {
+          "title": "Výzva STEP - výzkum a vývoj kritických technologií (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416step-v-zkum-a-v-voj-kritick-ch-technologi-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-1-model-hodnocen-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-2-pravidla-pro-zadatele-a-prijemce-v-op-tak-zvlastni-cast.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "a) Definice druhů výsledků (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416definice-druh-v-sledk-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "b) Čestné prohlášení k žádosti o platbu (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-estn-prohl-en-partnera-k-dosti-o-platbu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "c) Přílohy k oponentnímu řízení (zip) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-lohy-k-oponentn-mu-zen-.zip",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované CZ NACE (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-5-nepodporovan-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Podnikatelský záměr (docx) 24. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-6-podnikatelsky-zamer-v2.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Tabulka rozpočtových položek (xlsx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415priloha-6-rozpoctove-tabulky-xls-step-newlogo-final.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Formulář k DNSH (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-7-formul-k-dnsh.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 8 - Národní RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-8-n-rodn-ris3-strategie-p-1-karty-t-matick-ch-oblast-verze-8.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 9 - Čestné prohlášení partnera k žádosti o podporu (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-9-estn-prohl-en-partnera-k-dosti-o-podporu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 10 - Čestné prohlášení partnera - výzkumné organizace k žádosti o podporu (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-10-estn-prohl-en-partnera-v-zkumn-organizace-k-dosti-o-podporu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 11 - Odvětví STEP (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-11-odv-tv-step.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Národní RIS3 Strategie - Příloha 3 - Cíle RIS3 monitorovací indikátory a financování (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416n-rodn-ris3-strategie-p-loha-3-c-le-ris3-monitorovac-indik-tory-a-financov-n-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Číselník skupin oborů podle Frascati manuálu (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-seln-k-skupin-obor-podle-frascati-manu-lu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Výkaz projektového pracovníka (xlsx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/optak-vykaz-prace-projektoveho-pracovnika-pro-step-1.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Stupnice TRL (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416stupnice-trl.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (pdf) 2. 7. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-vav.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Leták výzvy (pdf) 22. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "STEP – Research and Development of Critical Technologies resume (pdf) 29. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.en-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 24. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/archiv.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 275848579563,
+      "title": "STEP – Investice – vývoj a výroba kritických technologií",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Probíhající",
+      "status_code": "active",
+      "deadline": "2026-10-15",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step-investice-vyvoj-a-vyroba-kritickych-technologii/step-investice-vyvoj-a-vyroba-kritickych-technologii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "STEP – Investice – vývoj a výroba kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií STEP – Investice – vývoj a výroba kritických technologií Vyhlášení výzvy 15. 06. 2026 Zahájení příjmu 17. 07. 2026 10:00:00 Ukončení příjmu 15. 10. 2026 15:00:00 Otevřená výzva Podpora produktivních investic malých, středních a velkých podniků do vývoje a výroby kritických technologií. Upozornění pro žadatele a příjemce: Aktuální evidovaný počet podaných žádostí o podporu a výši se dozvíte na webu MPO zde . 7. 7. 2026: Ministerstvo průmyslu a obchodu informovalo o doplnění textu Výzvy, a to konkrétně přidání bodu l) do kapitoly 7. Ostatní specifické podmínky, ve znění: „Každý žadatel (1 IČ) je oprávněn podat maximálně jeden projekt do této Výzvy. Omezení se vztahuje na tzv. aktivní žádosti o podporu, tzn. žádosti ve stavu PPxx, které nebyly staženy žadatelem, ukončeny ze strany ŘO/ZS, vyřazeny či zamítnuty.“ Důvodem pro zahrnutí této podmínky a omezení počtu projektů je snaha ŘO umožnit s ohledem na omezenou alokaci a stanovenou maximální výši dotace až 250 mil. Kč",
+      "attachments": [
+        {
+          "title": "Výzva Step - Investice Vývoj a výroba kritických technologií (pdf) 7. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/vyzva-step-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 1 - Model hodnocení (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-1-model-hodnocen-step-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-2-pp-p-zvl-tn-st-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 3 - Vymezení způsobilých výdajů (pdf) 25. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-3-vymezeni-zpusobilych-vydaju-investice-step-1.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 4 - Vzor rozhodnutí o poskytnutí dotace (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-4-vzor-ropd-investice-step.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 5 Nepodporované kategorie CZ NACE (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-5-nepodporovan-kategorie-cz-nace-investice.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 6 – Povinná osnova Podnikatelského záměru (docx) 24. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-c.-6-osnova-podnikatelskeho-zameru-step.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 7 - Formulář k prověření zásady významně nepoškozovat (DNSH) a prověření infrastruktury z hlediska klimatického dopadu (docx) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492249p-loha-7-formul-k-prov-en-z-sady-v-znamn-nepo-kozovat-dnsh-a-prov-en-infrastruktury-z-hlediska-klimatick-ho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 8 - RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-8-ris3-strategie-p-loha-1-karty-tematick-ch-oblast-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 9 Odvětví platformy STEP (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-9-odv-tv-step.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 10 - Metodika pro výpočet stanovení hodnoty znovupoužitého majetku (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-10-metodika-pro-v-po-et-stanoven-hodnoty-znovupou-it-ho-majetku.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 11 - Formulář pro výpočet hodnoty znovupoužitého majetku (xlsx) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-11-formul-pro-v-po-et-hodnoty-znovupou-it-ho-majetku.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 12 - Prohlášení k jedinému investičnímu projektu (xlsx) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-12-prohl-en-k-jedin-mu-investi-n-mu-projektu.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha č. 13 - Stupnice TRL (pdf) 15. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781492250p-loha-13-stupnice-trl.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu (pdf) 22. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-investice-1.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "STEP – Investments in the Development and Production of Critical Technologies resume (pdf) 29. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-investice-vyvoj-a-vyroba-kritickych-technologii-en.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Leták výzvy (pdf) 16. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/investice-step-vyzva-i-final.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 7. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-step-investice.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
       "id": 408890179004,
       "title": "Marketing – výzva III",
       "type": "Dotace",
@@ -12273,7 +12288,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "(stáhnout)",
-          "url": "https://sfzp.gov.cz/files/documents/storage/2026/02/04/1770195593_Příloha_1_Vypocetni_nastroj.xlsx",
+          "url": "https://sfzp.gov.cz/files/documents/storage/2026/07/21/1784638068_1770195593_Příloha_1_Vypocetni_nastroj_02.xlsx",
           "status": "Čeká"
         },
         {
@@ -12563,7 +12578,7 @@ window.DOTACE_EXPORT = {
       "source_name": "OP JAK",
       "program": "OP JAK",
       "summary": "Harmonogramy výzev OP JAK 2022 – 2026",
-      "text": "Výzvy Archiv - OP JAK Harmonogram výzev Harmonogramy výzev OP JAK 2022 – 2026 Harmonogram výzev 2026 Vše Aktuální Avíza Ukončené Stav: Aktuální Vše Aktuální Avíza Ukončené Určeno pro: Vše Vše Dobrovolné svazky obcí Kraje Mateřské školy Místní akční skupiny Neziskové organizace Obce Organizační složky státu Pedagogicko psychlogické poradny Školská výchovná a ubytovací zařízení Soukromý sektor Střediska volného času Střediska výchovné péče Střední školy Veřejný sektor Vysoké školy Vyšší odborné školy Výzkumné instituce Základní školy Základní umělecké školy Priorita: Vše Vše Priorita 1 – Výzkum a vývoj Priorita 2 – Vzdělávání Priorita 3 - Technická pomoc – ERDF Priorita 4 – Technická pomoc – ESF+ Řadit: Abecedně Abecedně Dle data uzávěrky Dle data vydání Celková alokace 500 mil. Kč Název výzvy Výzva č. 02_25_043 Open Science III Datum ukončení příjmu žádosti o podporu: 31. 03. 2027 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod. Více informací Podpořené žádosti 0 % Celková alokace 300 mil. Kč Název výzvy Výzva č. 02_26_048 Poradím se s AI Datum ukončení příjmu žádosti o podporu: 30. 12. 2026 Datum zahájení příjmu žádostí o podporu 23. 6. 2026. Více informací Podpořené žádosti 0 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_24_036 Teaming-CZ III Datum ukončení příjmu žádosti o podporu: 20. 11. 2026 Více informací Podpořené žádosti 0 % Celková alokace 1 000 mil. Kč Název výzvy Výzva č. 02_25_042 Smart Akcelerátor+ II Datum ukončení příjmu žádosti o podporu: 01. 03. 2027 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Více informací Podpořené žádosti 10 % Celková alokace 600 mil. Kč Název výzvy Výzva č. 02_25_041 Akční plánování v území – MAP II Datum ukončení příjmu žádosti o podporu: 01. 12. 2026 Datum zahájení příjmu žádostí o podporu 7. července 2025. Více informací Podpořené žádosti 37 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_22_007 Technická pomoc – ESF+ Datum ukončení příjmu žádosti o podporu: 29.",
+      "text": "Výzvy Archiv - OP JAK Harmonogram výzev Harmonogramy výzev OP JAK 2022 – 2026 Harmonogram výzev 2026 Vše Aktuální Avíza Ukončené Stav: Aktuální Vše Aktuální Avíza Ukončené Určeno pro: Vše Vše Dobrovolné svazky obcí Kraje Mateřské školy Místní akční skupiny Neziskové organizace Obce Organizační složky státu Pedagogicko psychlogické poradny Školská výchovná a ubytovací zařízení Soukromý sektor Střediska volného času Střediska výchovné péče Střední školy Veřejný sektor Vysoké školy Vyšší odborné školy Výzkumné instituce Základní školy Základní umělecké školy Priorita: Vše Vše Priorita 1 – Výzkum a vývoj Priorita 2 – Vzdělávání Priorita 3 - Technická pomoc – ERDF Priorita 4 – Technická pomoc – ESF+ Řadit: Abecedně Abecedně Dle data uzávěrky Dle data vydání Celková alokace 500 mil. Kč Název výzvy Výzva č. 02_25_043 Open Science III Datum ukončení příjmu žádosti o podporu: 31. 03. 2027 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod. Více informací Podpořené žádosti 0 % Celková alokace 300 mil. Kč Název výzvy Výzva č. 02_26_048 Poradím se s AI Datum ukončení příjmu žádosti o podporu: 30. 12. 2026 Datum zahájení příjmu žádostí o podporu 23. 6. 2026. Více informací Podpořené žádosti 0 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_24_036 Teaming-CZ III Datum ukončení příjmu žádosti o podporu: 20. 11. 2026 Více informací Podpořené žádosti 0 % Celková alokace 1 000 mil. Kč Název výzvy Výzva č. 02_25_042 Smart Akcelerátor+ II Datum ukončení příjmu žádosti o podporu: 01. 03. 2027 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Více informací Podpořené žádosti 10 % Celková alokace 600 mil. Kč Název výzvy Výzva č. 02_25_041 Akční plánování v území – MAP II Datum ukončení příjmu žádosti o podporu: 01. 12. 2026 Datum zahájení příjmu žádostí o podporu 7. července 2025. Více informací Podpořené žádosti 40 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_22_007 Technická pomoc – ESF+ Datum ukončení příjmu žádosti o podporu: 29.",
       "attachments": [
         {
           "title": "Harmonogram výzev 2026",
@@ -12879,7 +12894,7 @@ window.DOTACE_EXPORT = {
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
       "summary": "",
-      "text": "Agregátor obsahu https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss Agregátor obsahu Mon, 20 Jul 2026 08:26:40 GMT 2026-07-20T08:26:40Z Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Mon, 29 Jun 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Magda Cabrnochová 2026-06-29T07:00:00Z Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Thu, 28 May 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Michala Trličíková 2026-05-28T07:00:00Z Vybudování dětských skupin (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Thu, 02 Apr 2026 06:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Magda Cabrnochová 2026-04-02T06:00:00Z Podpora sociálního podnikání (3) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Mon, 22 Dec 2025 08:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Magda Cabrnochová 2025-12-22T08:00:00Z Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Wed, 17 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Magda Cabrnochová 2025-12-17T07:00:00Z Společně za vzděláváním (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Tue, 16 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Alžběta Hoffmannová 2025-12-16T07:00:00Z Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22046830 Mon, 15 Dec 2",
+      "text": "Agregátor obsahu https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss Agregátor obsahu Mon, 27 Jul 2026 08:56:45 GMT 2026-07-27T08:56:45Z Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Mon, 29 Jun 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Magda Cabrnochová 2026-06-29T07:00:00Z Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Thu, 28 May 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Michala Trličíková 2026-05-28T07:00:00Z Vybudování dětských skupin (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Thu, 02 Apr 2026 06:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Magda Cabrnochová 2026-04-02T06:00:00Z Podpora sociálního podnikání (3) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Mon, 22 Dec 2025 08:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Magda Cabrnochová 2025-12-22T08:00:00Z Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Wed, 17 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052453 Magda Cabrnochová 2025-12-17T07:00:00Z Společně za vzděláváním (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Tue, 16 Dec 2025 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22049953 Alžběta Hoffmannová 2025-12-16T07:00:00Z Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22046830 Mon, 15 Dec 2",
       "attachments": []
     },
     {
@@ -13333,6 +13348,59 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
+      "id": 452850936089,
+      "title": "Exportní online konzultační den pro firmy a podnikatele z Moravskoslezského kraje",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Neznámé",
+      "status_code": "unknown",
+      "deadline": "",
+      "source_url": "https://czechinvest.gov.cz/cz/Sluzby-pro-investory/Investicni-pobidky-a-dotace",
+      "source_id": "czechinvest-dotace",
+      "source_name": "CzechInvest - investiční pobídky a dotace",
+      "program": "",
+      "summary": "CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů.",
+      "text": "﻿ Investiční pobídky a dotace - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en de Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 28. čvc. Exportní online konzultační den pro firmy a podnikatele z Moravskoslezského kraje Seminář | ONLINE 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | všechny akce Služby pro investory > Investiční pobídky a dotace Investiční pobídky a dotace Naše služby CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů. Investiční pobídky a dotační příležitosti Investiční pobídky jsou poskytovány ve formě slevy na dani, příspěvku na zaměstnance, jejich školení a rekvalifikaci či přímého finančního grantu. Neváhejte nás kontaktovat , rádi s vámi probereme vaši investici, rozsah podpory i jakékoliv další otázky související s možnostmi financování. Další informace najdete také v přiložených souborech . David Pejšek ředitel Odboru financování investic +420 725 523 350 david.pejsek@czechinvest.gov.cz Markéta Dvořáková Specialista financování investic +420 720 071 302 marketa.dvorakova@czechinvest.gov.cz Tereza Šafářová Specialista financování investic +420 724 334 331 tereza.safarova@czechinvest.gov.cz David Mićević Projektový manažer programu Digital Europe +420 725 978 210",
+      "attachments": [
+        {
+          "title": "Investicni-pobidky_MFG_2026_CZE_online",
+          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/Investicni-pobidky_MFG_2026_CZE_online.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Investicni-pobidky_BSS_TC_2024_CZE_online",
+          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/Investicni-pobidky_BSS_TC_2024_CZE_online.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "dokumenty-zadosti-o-investicni-pobidku-2026",
+          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/dokumenty-zadosti-o-investicni-pobidku-2026.zip",
+          "status": "Čeká"
+        },
+        {
+          "title": "Legislativa",
+          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/Legislativa.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 1005530567330,
+      "title": "Exportní online konzultační den pro firmy a podnikatele z Moravskoslezského kraje",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Neznámé",
+      "status_code": "unknown",
+      "deadline": "",
+      "source_url": "https://czechinvest.gov.cz/cz/Sluzby-pro-investory/Investicni-pobidky-a-dotace/Dotacni-matice",
+      "source_id": "czechinvest-dotace",
+      "source_name": "CzechInvest - investiční pobídky a dotace",
+      "program": "",
+      "summary": "Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit.",
+      "text": "﻿ Are you interested in investment incentives in the Czech Republic? - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 28. čvc. Exportní online konzultační den pro firmy a podnikatele z Moravskoslezského kraje Seminář | ONLINE 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | všechny akce Služby pro investory > Investiční pobídky a dotace > Dotační matice Dotační matice Dotace z evropských a národních fondů Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit. Najděte vhodnou dotaci pro vaši společnost Sdílet poslat e-mailem tisk článku K ukládání nastavení a správnému fungování využíváme soubory cookies. Používáním webu s jejich používáním souhlasíte. Více info o cookies }",
+      "attachments": []
+    },
+    {
       "id": 649221435476,
       "title": "Formuláře týkající se ochrany osobních údajů",
       "type": "Stránka",
@@ -13525,59 +13593,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 452850936089,
-      "title": "Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://czechinvest.gov.cz/cz/Sluzby-pro-investory/Investicni-pobidky-a-dotace",
-      "source_id": "czechinvest-dotace",
-      "source_name": "CzechInvest - investiční pobídky a dotace",
-      "program": "",
-      "summary": "CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů.",
-      "text": "﻿ Investiční pobídky a dotace - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en de Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 23. čvc. Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky Seminář | 28. čvc. Exportní online konzultační den pro firmy a podnikatele z Moravskoslezského kraje Seminář | ONLINE 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo všechny akce Služby pro investory > Investiční pobídky a dotace Investiční pobídky a dotace Naše služby CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů. Investiční pobídky a dotační příležitosti Investiční pobídky jsou poskytovány ve formě slevy na dani, příspěvku na zaměstnance, jejich školení a rekvalifikaci či přímého finančního grantu. Neváhejte nás kontaktovat , rádi s vámi probereme vaši investici, rozsah podpory i jakékoliv další otázky související s možnostmi financování. Další informace najdete také v přiložených souborech . David Pejšek ředitel Odboru financování investic +420 725 523 350 david.pejsek@czechinvest.gov.cz Markéta Dvořáková Specialista financování investic +420 720 071 302 marketa.dvorakova@czechinvest.gov.cz Tereza Šafářová Specialista financování investic +420 724 334 331 tereza.safarova@czechinvest.gov.cz David Mićević Projektový manažer programu Digital Europe +420 725 978 2",
-      "attachments": [
-        {
-          "title": "Investicni-pobidky_MFG_2026_CZE_online",
-          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/Investicni-pobidky_MFG_2026_CZE_online.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Investicni-pobidky_BSS_TC_2024_CZE_online",
-          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/Investicni-pobidky_BSS_TC_2024_CZE_online.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "dokumenty-zadosti-o-investicni-pobidku-2026",
-          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/dokumenty-zadosti-o-investicni-pobidku-2026.zip",
-          "status": "Čeká"
-        },
-        {
-          "title": "Legislativa",
-          "url": "https://czechinvest.gov.cz/getattachment/Unsere-Dienstleistungen/Investitionsanreize/Legislativa.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
-      "id": 1005530567330,
-      "title": "Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://czechinvest.gov.cz/cz/Sluzby-pro-investory/Investicni-pobidky-a-dotace/Dotacni-matice",
-      "source_id": "czechinvest-dotace",
-      "source_name": "CzechInvest - investiční pobídky a dotace",
-      "program": "",
-      "summary": "Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit.",
-      "text": "﻿ Are you interested in investment incentives in the Czech Republic? - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en Novinky Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 Srpen 2025 všechny novinky Akce 23. čvc. Online Akademie pro inovativní podnikavé ženy: Praktické využití AI v marketingu pro začátečníky Seminář | 28. čvc. Exportní online konzultační den pro firmy a podnikatele z Moravskoslezského kraje Seminář | ONLINE 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo všechny akce Služby pro investory > Investiční pobídky a dotace > Dotační matice Dotační matice Dotace z evropských a národních fondů Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit. Najděte vhodnou dotaci pro vaši společnost Sdílet poslat e-mailem tisk článku K ukládání nastavení a správnému fungování využíváme soubory cookies. Používáním webu s jejich používáním souhlasíte. Více info o cookies }",
-      "attachments": []
-    },
-    {
       "id": 370751993663,
       "title": "PODKLADY K EVALUACÍM OPZ+",
       "type": "Stránka",
@@ -13754,14 +13769,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 129492137611,
+      "id": 560294083945,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=ZDhzTdli&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeLabelFilter&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelFieldName=operacniProgram&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelValue=2C000000-0000-0000-0000-000000000010&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelNameVisible=03+Opera%C4%8Dn%C3%AD+program+Zam%C4%9Bstnanost+plus",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=QK09V7ED&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeLabelFilter&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelFieldName=operacniProgram&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelValue=2C000000-0000-0000-0000-000000000010&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelNameVisible=03+Opera%C4%8Dn%C3%AD+program+Zam%C4%9Bstnanost+plus",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13770,14 +13785,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 1023909157817,
+      "id": 1063683076351,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=ZDhzTdli&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeAllFilter",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=QK09V7ED&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeAllFilter",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13786,14 +13801,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 38111413655,
+      "id": 942349064356,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=ZDhzTdli&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=resetFilter",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=QK09V7ED&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=resetFilter",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13935,7 +13950,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "Seznam členů a členek Odborného poradního orgánu pro dílčí cíl 1",
-          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/06/04/1780570741_SIGMA - seznam členů Odborného poradního orgánu V32.pdf",
+          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/07/22/1784708381_SIGMA - Seznam členů Odborného poradního orgánu V34.pdf",
           "status": "Čeká"
         },
         {
@@ -13973,7 +13988,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a soutěže - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Programy Mezinárodní spolupráce Průvodce pro uchazeče Informace pro experty Podpora ukrajinských vědců Aktuální možnosti podpory Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Program PRODEF Beží lhůta pro podávání návrhů projektů Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) LEDEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů ÚNOR BŘEZEN M-ERA.NET Probíhá hodnocení návrhů projektů Materiálový výzkum a inovace DUBEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství KVĚTEN Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů ČERVEN",
+      "text": "Programy a soutěže - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Programy Mezinárodní spolupráce Průvodce pro uchazeče Informace pro experty Podpora ukrajinských vědců Aktuální možnosti podpory Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) LEDEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů ÚNOR BŘEZEN M-ERA.NET Probíhá hodnocení návrhů projektů Materiálový výzkum a inovace DUBEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství KVĚTEN Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů ČERVEN Program SIGMA Probíhá hodnocení návrhů projektů Komple",
       "attachments": [
         {
           "title": "Harmonogram pro období 2026-2027 (PDF)",
