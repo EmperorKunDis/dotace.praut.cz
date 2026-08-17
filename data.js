@@ -1,9 +1,9 @@
 window.DOTACE_EXPORT = {
-  "generated_at": "2026-08-10T06:56:18+00:00",
+  "generated_at": "2026-08-17T06:04:16+00:00",
   "stats": {
     "total": 241,
-    "active": 28,
-    "completed": 131,
+    "active": 27,
+    "completed": 132,
     "unknown": 82,
     "sources": 17
   },
@@ -5971,7 +5971,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program TREND - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program TREND Výsledky s potenciálem pro konkurenceschopnost - nové produkty, výrobní postupy a služby - program Ministerstva průmyslu a obchodu Seznam soutěží Dvanáctá veřejná soutěž Uzavřena Jedenáctá veřejná soutěž Uzavřena Desátá veřejná soutěž Uzavřena Zobrazit další soutěže Devátá veřejná soutěž Uzavřena Osmá veřejná soutěž Uzavřena Šestá veřejná soutěž Uzavřena Sedmá veřejná soutěž Uzavřena Čtvrtá veřejná soutěž Uzavřena Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Třináctá veřejná soutěž V přípravě Znění programu Program na podporu průmyslového výzkumu a experimentálního vývoje TREND - s účinností do 7. 5. 2025 Seznam členů a členek Odborného poradního orgánu Seznam členů a členek kolegia odborníků Program na podporu průmyslového výzkumu a inovací TREND - s účinností od 8. 5. 2025 Novinky Program TREND: Oznámení k podprogramu 2 „Nováčci“ Aktuality Trend 1. 7. 2026 - Na základě jednání s Ministerstvem průmyslu a obchodu oznamujeme, že v letošním roce nebude vyhlášena veřejná soutěž v programu TREND, podprogram 2… Program TREND: Oznámení o odložení vyhlášení 13. veřejné soutěže, podprogram 2 Aktuality Trend Třináctá veřejná soutěž 6. 2. 2026 - Technologická agentura České republiky na základě žádosti Ministerstva průmyslu a obchodu informuje, že s ohledem na aktuální rozpočtové provizorium… Program",
+      "text": "Program TREND - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program TREND Výsledky s potenciálem pro konkurenceschopnost - nové produkty, výrobní postupy a služby - program Ministerstva průmyslu a obchodu Seznam soutěží Dvanáctá veřejná soutěž Uzavřena Jedenáctá veřejná soutěž Uzavřena Desátá veřejná soutěž Uzavřena Zobrazit další soutěže Devátá veřejná soutěž Uzavřena Osmá veřejná soutěž Uzavřena Šestá veřejná soutěž Uzavřena Sedmá veřejná soutěž Uzavřena Čtvrtá veřejná soutěž Uzavřena Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Třináctá veřejná soutěž V přípravě Znění programu Program na podporu průmyslového výzkumu a experimentálního vývoje TREND - s účinností do 7. 5. 2025 Seznam členů a členek Odborného poradního orgánu Seznam členů a členek kolegia odborníků Program na podporu průmyslového výzkumu a inovací TREND - s účinností od 8. 5. 2025 Novinky Program TREND: Oznámení k podprogramu 2 „Nováčci“ Aktuality Trend 1. 7. 2026 - Na základě jednání s Ministerstvem průmyslu a obchodu oznamujeme, že v letošním roce nebude vyhlášena veřejná soutěž v programu TREND, podprogram 2… Program TREND: Oznámení o odložení vyhlášení 13. veřejné soutěže, podprogram 2 Aktuality Trend Třináctá veřejná soutěž 6. 2. 2026 - Technologická agentura České republiky na základě žádosti Ministerstva průmyslu a obchodu informuje, že s ohledem na aktuální rozpočtové provizorium… Program TR",
       "attachments": [
         {
           "title": "Program na podporu průmyslového výzkumu a experimentálního vývoje TREND - s účinností do 7. 5. 2025",
@@ -6831,98 +6831,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 280260922391,
-      "title": "Obnovitelné zdroje energie – větrné elektrárny – výzva III",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2025-10-30",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-iii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva III – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva III Obnovitelné zdroje energie – větrné elektrárny – výzva III Vyhlášení výzvy 27. 06. 2025 Zahájení příjmu 14. 07. 2025 10:00:00 Ukončení příjmu 09. 07. 2026 10:00:00 Uzavřená výzva Cílem je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE Upozornění pro žadatele a příjemce: 30. 10. 2025: MPO informovalo o návrhu prováděcího nařízení Evropského parlamentu a Rady (EU) 2024/1735, tzv. Net Zero Industry Act (NZIA), kterým se stanoví minimální environmentální požadavky na určité net zero technologie, čímž vznikají nové povinnosti zadavatelů nadlimitních veřejných zakázek obsahujících určité net zero technologie (více informací na odkazu https://portal-vz.cz/info-forum-vzdelavani/aktuality/nove-povinnosti-zadavatelu-nadlimitnich-verejnych-zakazek-obsahujicich-urcite-net-zero-technologie/ ). Evropská komise navrhla účinnost tohoto nařízení již k 30. 12. 2025 bez přechodných",
-      "attachments": [
-        {
-          "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva III (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/obnovitelne-zdroje-energie--vetrne-elektrarny--vyzva-iii.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-1--model-hodnoceni.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-2--pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-3--vymezeni-zpusobilych-vydaju.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 26. 9. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/09/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-5--nepodporovane-kategorie-cz-nace-ciste.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Posudek plnění DNSH (docx) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-6--posudek-plneni-dnsh-a-klimatickeho-dopadu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "FAQ_Příloha č. 6 Posudek plnění DNSH (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/faq--priloha-6--posudek-plneni-dnsh-a-klimetickeho-dopadu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Specifické podmínky (docx) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-7--specificke-podminky-vyzvy.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 8 - Prohlášení k max. výši dotace 30 mil. EUR (xlsx) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-8--prohlaseni-k-max.-vysi-dotace-30-mil.-eur.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Aplikace podmínek prahových hodnot v rámci přílohy č. 8 (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/aplikace-podminek-prahovych-hodnot-v-ramci-prilohy-c.-8.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Nejvýznamnější změny výzvy oproti předchozí výzvě (pdf) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/nejvyznamnejsi-zmeny-vyzvy-oproti-predchozi-vyzve.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "VTE FAQ - CP_EA_žadatel_název projektu_datum zpracování_diskont (xlsx) 27. 6. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/faq--cp-ea-zadetel-nazev-projektu-datum-zpracovani-diskont.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání Žádosti o podporu v IS KP21+ (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-vte-iii-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Renewable energy sources - wind farms - Call III resume (pdf) 4. 7. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/07/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-iii-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 708849062787,
       "title": "Potenciál – výzva III",
       "type": "Dotace",
@@ -7179,7 +7087,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program BETA3 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program BETA3 Veřejné zakázky Informace o vyhlášených zadávacích řízeních jsou v souladu se zákonem o zadávání veřejných zakázek zveřejňovány: – na profilu zadavatele – ve věstníku veřejných zakázek – v Průvodci veřejnou zakázkou VAVAI (elektronický nástroj) Registrací v tomto elektronickém nástroji budete automaticky notifikováni. Znění programu Usnesení vlády ČR ze dne 30. srpna 2023 č. 670 Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy BETA3 – s účinností od 6. 11. 2025 Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy BETA3 – s účinností od 30.8.2023 do 5. 11. 2025 Seznam zástupců Rady programu Realizace programu BETA3 MET-22 Realizace programu BETA3 F-486 Jmenování Zástupce odborného gestora v BETA3 F-487 Návrh na člena Rady programu BETA3 (.docx) F-488 Žádost o přistoupení do programu BETA3 Novinky Usnesení předsednictva TA ČR k situaci v rámci Programu BETA3 Aktuality Beta3 17. 6. 2026 – Předsednictvo TA ČR (PřTA) reaguje na usnesení Rady pro výzkum, vývoj a inovace (RVVI) z 422. zasedání dne 29. května 2026 k „Návrhu výdajů státního… Důležité sdělení ke konzultaci k možnostem řešení výzkumné potřeby: TTMPO0001 „Výzkum tuzemských surovinových zdrojů TITANU“ Aktuality Beta3 17. 3. 2026 – Omlouváme se, ale plánovaná konzultace k výzkumné potřebě TTMPO0001 se dne 19. března 2026 od 10:00 ho",
+      "text": "Program BETA3 - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program BETA3 Veřejné zakázky Informace o vyhlášených zadávacích řízeních jsou v souladu se zákonem o zadávání veřejných zakázek zveřejňovány: – na profilu zadavatele – ve věstníku veřejných zakázek – v Průvodci veřejnou zakázkou VAVAI (elektronický nástroj) Registrací v tomto elektronickém nástroji budete automaticky notifikováni. Znění programu Usnesení vlády ČR ze dne 30. srpna 2023 č. 670 Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy BETA3 – s účinností od 6. 11. 2025 Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy BETA3 – s účinností od 30.8.2023 do 5. 11. 2025 Seznam zástupců Rady programu Realizace programu BETA3 MET-22 Realizace programu BETA3 F-486 Jmenování Zástupce odborného gestora v BETA3 F-487 Návrh na člena Rady programu BETA3 (.docx) F-488 Žádost o přistoupení do programu BETA3 Novinky Usnesení předsednictva TA ČR k situaci v rámci Programu BETA3 Aktuality Beta3 17. 6. 2026 – Předsednictvo TA ČR (PřTA) reaguje na usnesení Rady pro výzkum, vývoj a inovace (RVVI) z 422. zasedání dne 29. května 2026 k „Návrhu výdajů státního… Důležité sdělení ke konzultaci k možnostem řešení výzkumné potřeby: TTMPO0001 „Výzkum tuzemských surovinových zdrojů TITANU“ Aktuality Beta3 17. 3. 2026 – Omlouváme se, ale plánovaná konzultace k výzkumné potřebě TTMPO0001 se dne 19. března 2026 od 10:00 hodi",
       "attachments": [
         {
           "title": "Usnesení vlády ČR ze dne 30. srpna 2023 č. 670",
@@ -7667,7 +7575,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Partnerství pro biodiverzitu - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Partnerství pro biodiverzitu Podpora biodiverzity a ochrana ekosystémů Seznam soutěží Call 2026 v přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Call 2021 výzva uzavřena Novinky Partnerství pro biodiverzitu Call 2026: Blíží se vyhlášení další mezinárodní výzvy v oblasti biodiverzity Aktuality Partnerství pro biodiverzitu Call 2026 18. 6. 2026 - Dne 9. září 2026 bude vyhlášena již šestá a poslední mezinárodní výzva evropského Partnerství pro biodiverzitu – Call 2026: „Novel ecosystems:… Partnerství pro biodiverzitu Call 2024: Výsledky mezinárodní výzvy Aktuality Partnerství pro biodiverzitu Call 2024 6. 1. 2026 - Do mezinárodní výzvy Partnerství pro biodiverzitu Call 2024, která je zaměřená na výzkum v oblasti podpory biodiverzity a ochrany ekosystémů, se… Záznam z webináře pro zájemce o výzvu Partnerství pro biodiverzitu Call 2025 Aktuality Partnerství pro biodiverzitu Call 2025 15. 9. 2025 - Technologická agentura České republiky (TA ČR) uspořádala 11. 9. 2025 národní session v rámci informačního webináře Evropského partnerství… Zobrazit starší příspěvky Více informací Pravidla financování českého uchazeče navazují na pravidla programu Prostředí pro život. Více o Partnerství pro biodiverzitu Partnerství pro biodiverzitu (s podtitulem „Rescuing biodiversi",
+      "text": "Partnerství pro biodiverzitu - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Partnerství pro biodiverzitu Podpora biodiverzity a ochrana ekosystémů Seznam soutěží Call 2026 v přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Call 2021 výzva uzavřena Novinky Partnerství pro biodiverzitu Call 2026: Blíží se vyhlášení další mezinárodní výzvy v oblasti biodiverzity Aktuality Partnerství pro biodiverzitu Call 2026 18. 6. 2026 - Dne 9. září 2026 bude vyhlášena již šestá a poslední mezinárodní výzva evropského Partnerství pro biodiverzitu – Call 2026: „Novel ecosystems:… Partnerství pro biodiverzitu Call 2024: Výsledky mezinárodní výzvy Aktuality Partnerství pro biodiverzitu Call 2024 6. 1. 2026 - Do mezinárodní výzvy Partnerství pro biodiverzitu Call 2024, která je zaměřená na výzkum v oblasti podpory biodiverzity a ochrany ekosystémů, se… Záznam z webináře pro zájemce o výzvu Partnerství pro biodiverzitu Call 2025 Aktuality Partnerství pro biodiverzitu Call 2025 15. 9. 2025 - Technologická agentura České republiky (TA ČR) uspořádala 11. 9. 2025 národní session v rámci informačního webináře Evropského partnerství… Zobrazit starší příspěvky Více informací Pravidla financování českého uchazeče navazují na pravidla programu Prostředí pro život. Více o Partnerství pro biodiverzitu Partnerství pro biodiverzitu (s podtitulem „Rescuing biodiversity",
       "attachments": [
         {
           "title": "návrh",
@@ -8182,7 +8090,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Water4All - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Water4All Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Water4All TAP Action on Water and Biodiversity výzva uzavřena Call 2022 výzva uzavřena Novinky Water4All Call 2026: Mezinárodní výzva pro udržitelné hospodaření s vodou se blíží! Aktuality Water4All Call 2026 25. 6. 2026 - Dne 8. září 2026 bude vyhlášena mezinárodní výzva Water4All Call 2026 s názvem „Sustainable Water Management“. Termín pro příjem zkrácených návrhů… Most mezi obory i státy: Výsledky dvouleté mezinárodní spolupráce v rámci TAP Action Aktuality Water4All TAP Action 31. 3. 2026 - Výzva Thematic Annual Programming (TAP Action) v rámci partnerství Water4All úspěšně završila svůj dvouletý cyklus závěrečným setkáním klastru AQUA… Znovuotevření výzvy Water4All Call 2025 pro přístup nových uchazečů do fáze full proposal (2. kolo) Aktuality Water4All Call 2025 3. 3. 2026 - Rádi bychom informovali o znovuotevření výzvy Watar4All Call 2025 a tím i možnosti přistoupení českých uchazečů do již vytvořených projektových… Zobrazit starší příspěvky Více informací Více informací o Partnerství Water4All Bezpečnost vody znamená schopnost obyvatelstva zajistit si udržitelný přístup k dostatečnému množství vody přijatelné kvality pro udržení živobytí, lidského blahobytu a socioekonomické rovnováhy, pro zajištění ochrany",
+      "text": "Water4All - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Water4All Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Water4All TAP Action on Water and Biodiversity výzva uzavřena Call 2022 výzva uzavřena Novinky Water4All Call 2026: Mezinárodní výzva pro udržitelné hospodaření s vodou se blíží! Aktuality Water4All Call 2026 25. 6. 2026 - Dne 8. září 2026 bude vyhlášena mezinárodní výzva Water4All Call 2026 s názvem „Sustainable Water Management“. Termín pro příjem zkrácených návrhů… Most mezi obory i státy: Výsledky dvouleté mezinárodní spolupráce v rámci TAP Action Aktuality Water4All TAP Action 31. 3. 2026 - Výzva Thematic Annual Programming (TAP Action) v rámci partnerství Water4All úspěšně završila svůj dvouletý cyklus závěrečným setkáním klastru AQUA… Znovuotevření výzvy Water4All Call 2025 pro přístup nových uchazečů do fáze full proposal (2. kolo) Aktuality Water4All Call 2025 3. 3. 2026 - Rádi bychom informovali o znovuotevření výzvy Watar4All Call 2025 a tím i možnosti přistoupení českých uchazečů do již vytvořených projektových… Zobrazit starší příspěvky Více informací Více informací o Partnerství Water4All Bezpečnost vody znamená schopnost obyvatelstva zajistit si udržitelný přístup k dostatečnému množství vody přijatelné kvality pro udržení živobytí, lidského blahobytu a socioekonomické rovnováhy, pro zajištění ochrany p",
       "attachments": []
     },
     {
@@ -8198,7 +8106,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "M-ERA.NET - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže M-ERA.NET Materiálový výzkum a inovace Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 výzva uzavřena Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Call 2021 výzva uzavřena Call 2020 výzva uzavřena Call 2019 výzva uzavřena Call 2018 výzva uzavřena Novinky M-ERA.NET Call 2026: Mezinárodní výzva v oblasti materiálového výzkumu a inovací je otevřena Aktuality M-era.Net Call 2026 5. 3. 2026 - Od 4. 3. 2026 je otevřena mezinárodní výzva ERA-NET Cofund M-ERA.NET Call 2026, která je zaměřena na podporu projektů v oblasti materiálového… M-ERA.NET 3 Call 2025: Výsledky mezinárodní výzvy Aktuality M-era.Net Call 2025 4. 3. 2026 - Do mezinárodní výzvy M-ERA.NET 3 Call 2025, která byla zaměřená na materiálový výzkum a inovace, se přihlásilo 123 českých uchazečů v rámci 97… M-ERA.NET 3 Call 2025: Mezinárodní výzva v oblasti materiálového výzkumu a inovací je otevřena Aktuality M-era.Net Call 2025 6. 3. 2025 - Od 4. 3. 2025 je otevřena mezinárodní výzva ERA-NET Cofund M-ERA.NET 3 Call 2025, která je zaměřena na podporu projektů v oblasti materiálového… Zobrazit starší příspěvky Více informací Kateřina Volfová katerina.volfova@tacr.cz +420 778 463 138 Více o M-ERA.NET Cílem projektu M-ERA.NET je podpora spolupráce výzkumníků ze zúčastněných zemí na multidisciplinárních projek",
+      "text": "M-ERA.NET - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže M-ERA.NET Materiálový výzkum a inovace Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 výzva uzavřena Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Call 2021 výzva uzavřena Call 2020 výzva uzavřena Call 2019 výzva uzavřena Call 2018 výzva uzavřena Novinky M-ERA.NET Call 2026: Mezinárodní výzva v oblasti materiálového výzkumu a inovací je otevřena Aktuality M-era.Net Call 2026 5. 3. 2026 - Od 4. 3. 2026 je otevřena mezinárodní výzva ERA-NET Cofund M-ERA.NET Call 2026, která je zaměřena na podporu projektů v oblasti materiálového… M-ERA.NET 3 Call 2025: Výsledky mezinárodní výzvy Aktuality M-era.Net Call 2025 4. 3. 2026 - Do mezinárodní výzvy M-ERA.NET 3 Call 2025, která byla zaměřená na materiálový výzkum a inovace, se přihlásilo 123 českých uchazečů v rámci 97… M-ERA.NET 3 Call 2025: Mezinárodní výzva v oblasti materiálového výzkumu a inovací je otevřena Aktuality M-era.Net Call 2025 6. 3. 2025 - Od 4. 3. 2025 je otevřena mezinárodní výzva ERA-NET Cofund M-ERA.NET 3 Call 2025, která je zaměřena na podporu projektů v oblasti materiálového… Zobrazit starší příspěvky Více informací Kateřina Volfová katerina.volfova@tacr.cz +420 778 463 138 Více o M-ERA.NET Cílem projektu M-ERA.NET je podpora spolupráce výzkumníků ze zúčastněných zemí na multidisciplinárních projekte",
       "attachments": []
     },
     {
@@ -8981,7 +8889,7 @@ window.DOTACE_EXPORT = {
       "source_name": "MPO - Národní plán obnovy a dotace",
       "program": "NPO",
       "summary": "Ministerstvo průmyslu a obchodu vyhlašuje výzvu na podporu zavádění vysokokapacitních sítí elektronických komunikací z Národního plánu obnovy. Pro podnikatele v elektronických komunikacích je připraveno 2,85 miliardy korun z evropského Nástroje pro oživení a odolnost. Cílem výzvy je v maximální možné míře zajistit přístup k internetu domácnostem, školám, silně digitalizovaným podnikům, veřejné správě a dalším v odlehlejších oblastech.",
-      "text": "I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy | MPO I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy Publikováno: 14.4.2022 Autor: 61440 Ministerstvo průmyslu a obchodu vyhlašuje výzvu na podporu zavádění vysokokapacitních sítí elektronických komunikací z Národního plánu obnovy. Pro podnikatele v elektronických komunikacích je připraveno 2,85 miliardy korun z evropského Nástroje pro oživení a odolnost. Cílem výzvy je v maximální možné míře zajistit přístup k internetu domácnostem, školám, silně digitalizovaným podnikům, veřejné správě a dalším v odlehlejších oblastech. Aktualizace dne 13.4.2026 Došlo k aktualizaci u čestných prohlášení k vyloučení střetu zájmů I. výzva na podporu připojení adresních míst k VHCN z komponenty 1.3 Digitální vysokokapacitní sítě z Národního plánu obnovy: I. Výzva Digitální vysokokapacitní sítě [pdf, 511 kB] Projekty s vydaným RoPD Projekty s vydaným RoPD [pdf, 466 kB] Seznam projektů Seznam projektů [pdf, 157 kB] Návody a často kladené dotazy: Návodka_ISKP14 [pdf, 2849 kB] Často kladené dotazy Přílohy výzvy: Příloha 1 - Vymezení způsobilých výdajů [pdf, 435 kB] Příloha 2 - Model hodnocení a kritéria pro hodnocení a výběr projektů [pdf, 464 kB] Příloha 3 - Osnova podnikatelského záměru a projektové studie [pdf, 262 kB] Příloha 4 - Pravidla pro žadatele a příjemce [pdf, 1554 kB] Příloha 5 - Vzor Rozhodnutí o poskytnutí dotace [pdf, 382 kB] Příloha 6 - Čestné prohlášení příjemce k RoPD [pdf, 165 kB] Příloha 7 - Pokyny pro vytvoření a zveřejnění velkoobchodní nabídky [pdf, 626 kB] Příloha 8 - Seznam podporovaných oblastí a adresních míst [pdf, 120 kB] Příloha 9 - Formulář finanční analýzy [xlsx, 81 kB] Příloha 10 - Vzor položkového rozpočtu projektu [xlsx, 24 kB] Příloha 11 - Prohlášení k žádosti o podporu [xlsx, 84 kB] Příloha 12 - Formulář pro posouzení podniku v obtížích [xlsx, 63 kB] Příloha 13 -Čestné prohlášení a základní sběr informací k vyloučení střetu zájmů ve vztahu k poskytovalteli podpory [xlsx, 86 kB] Příloha 14-Tabulka CBA [xlsx, 108 kB] Kategorizace sankcí [pdf, 340 kB] Čestné prohlášení k vyloučení střetu zájmu v průběhu zadávacího řízení [xlsx, 81 kB] Man",
+      "text": "I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy | MPO I. výzva Digitální vysokokapacitní sítě z komponenty 1.3 Národního plánu obnovy Publikováno: 14.4.2022 Autor: 61440 Ministerstvo průmyslu a obchodu vyhlašuje výzvu na podporu zavádění vysokokapacitních sítí elektronických komunikací z Národního plánu obnovy. Pro podnikatele v elektronických komunikacích je připraveno 2,85 miliardy korun z evropského Nástroje pro oživení a odolnost. Cílem výzvy je v maximální možné míře zajistit přístup k internetu domácnostem, školám, silně digitalizovaným podnikům, veřejné správě a dalším v odlehlejších oblastech. Aktualizace dne 13.4.2026 Došlo k aktualizaci u čestných prohlášení k vyloučení střetu zájmů I. výzva na podporu připojení adresních míst k VHCN z komponenty 1.3 Digitální vysokokapacitní sítě z Národního plánu obnovy: I. Výzva Digitální vysokokapacitní sítě [pdf, 511 kB] Projekty s vydaným RoPD Projekty s vydaným RoPD [pdf, 466 kB] Seznam projektů s počty základních sídelních jednotek Seznam projektů [pdf, 157 kB] Seznam projektů s počty základních sídelních jednotek s měřicími protokoly Seznam projektů se ZSJ s protokoly [pdf, 151 kB] Návody a často kladené dotazy: Návodka_ISKP14 [pdf, 2849 kB] Často kladené dotazy Přílohy výzvy: Příloha 1 - Vymezení způsobilých výdajů [pdf, 435 kB] Příloha 2 - Model hodnocení a kritéria pro hodnocení a výběr projektů [pdf, 464 kB] Příloha 3 - Osnova podnikatelského záměru a projektové studie [pdf, 262 kB] Příloha 4 - Pravidla pro žadatele a příjemce [pdf, 1554 kB] Příloha 5 - Vzor Rozhodnutí o poskytnutí dotace [pdf, 382 kB] Příloha 6 - Čestné prohlášení příjemce k RoPD [pdf, 165 kB] Příloha 7 - Pokyny pro vytvoření a zveřejnění velkoobchodní nabídky [pdf, 626 kB] Příloha 8 - Seznam podporovaných oblastí a adresních míst [pdf, 120 kB] Příloha 9 - Formulář finanční analýzy [xlsx, 81 kB] Příloha 10 - Vzor položkového rozpočtu projektu [xlsx, 24 kB] Příloha 11 - Prohlášení k žádosti o podporu [xlsx, 84 kB] Příloha 12 - Formulář pro posouzení podniku v obtížích [xlsx, 63 kB] Příloha 13 -Čestné prohlášení a základní sběr informací k vyloučení střetu zájmů ve vztahu k poskytovalteli podpory [xlsx, 86 kB",
       "attachments": [
         {
           "title": "I. Výzva Digitální vysokokapacitní sítě",
@@ -8996,6 +8904,11 @@ window.DOTACE_EXPORT = {
         {
           "title": "Seznam projektů",
           "url": "https://mpo.gov.cz/assets/cz/podnikani/narodni-plan-obnovy/vyzvy/2026/7/Seznam-projektu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Seznam projektů se ZSJ s protokoly",
+          "url": "https://mpo.gov.cz/assets/cz/podnikani/narodni-plan-obnovy/vyzvy/2026/8/Seznam-projektu-se-ZSJ-s-protokoly.pdf",
           "status": "Čeká"
         },
         {
@@ -9705,7 +9618,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program PRODEF - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program PRODEF Seznam soutěží Druhá veřejná soutěž Probíhá hodnocení návrhů projektů První veřejná soutěž Uzavřena Znění programu Program PRODEF Usnesení vlády České republiky Seznam členů a členek odborného poradního orgánu PRODEF Novinky Program PRODEF: Základní informace pro uchazeče k vyhlášení 2. veřejné soutěže PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 24. 6. 2026 - Technologická agentura České republiky připravila informační prezentaci pro uchazeče 2. veřejné soutěže v Programu Ministerstva obrany na podporu… Upozornění pro uchazeče 2. VS PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 15. 6. 2026 - Pro garantované posouzení projektu a zpracování povinné přílohy Potvrzení zájmu aplikačního garanta o využití výstupů/výsledků projektu, zašlete… Program PRODEF: Vyhlášení 2. veřejné soutěže, podprogram 2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 3. 6. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila ve spolupráci s Ministerstvem obrany dne 3. 6. 2026 druhou veřejnou soutěž v… Zobrazit starší příspěvky Více informací BLIŽŠÍ INFORMACE K PRIORITNÍM VÝZKUMNÝM CÍLŮM (PVC) PVC PRO 1. VEŘEJNOU SOUTĚŽ Program na podporu aplikovaného výzkumu a inovací PRODEF (dále též “program”) byl schválen usnesením vlády České republiky č. 300 ze dne 7. května 2024 . ZAMĚŘENÍ PROGRAMU Program PR",
+      "text": "Program PRODEF - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program PRODEF Seznam soutěží Druhá veřejná soutěž Probíhá hodnocení návrhů projektů První veřejná soutěž Uzavřena Znění programu Program PRODEF Usnesení vlády České republiky Seznam členů a členek odborného poradního orgánu PRODEF Novinky Program PRODEF: Základní informace pro uchazeče k vyhlášení 2. veřejné soutěže PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 24. 6. 2026 - Technologická agentura České republiky připravila informační prezentaci pro uchazeče 2. veřejné soutěže v Programu Ministerstva obrany na podporu… Upozornění pro uchazeče 2. VS PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 15. 6. 2026 - Pro garantované posouzení projektu a zpracování povinné přílohy Potvrzení zájmu aplikačního garanta o využití výstupů/výsledků projektu, zašlete… Program PRODEF: Vyhlášení 2. veřejné soutěže, podprogram 2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 3. 6. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila ve spolupráci s Ministerstvem obrany dne 3. 6. 2026 druhou veřejnou soutěž v… Zobrazit starší příspěvky Více informací BLIŽŠÍ INFORMACE K PRIORITNÍM VÝZKUMNÝM CÍLŮM (PVC) PVC PRO 1. VEŘEJNOU SOUTĚŽ Program na podporu aplikovaného výzkumu a inovací PRODEF (dále též “program”) byl schválen usnesením vlády České republiky č. 300 ze dne 7. května 2024 . ZAMĚŘENÍ PROGRAMU Program PROD",
       "attachments": [
         {
           "title": "Program PRODEF",
@@ -9737,7 +9650,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program THÉTA 2 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž V přípravě Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Novinky Program THÉTA 2: Oznámení předběžných parametrů 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 30. 6. 2026 - Technologická agentura ČR (dále jen „TA ČR”) informuje o přípravě 4. veřejné soutěže v Programu na podporu aplikovaného výzkumu a inovací - THÉTA 2 … Program THÉTA 2: Vyhlášení výsledků 3. veřejné soutěže Aktuality Théta 2 Třetí veřejná soutěž 27. 4. 2026 - Technologická agentura České republiky (dále jen “TA ČR”) vyhlašuje výsledky 3. veřejné soutěže programu THÉTA 2, vyhlášené dne 27. srpna 2025. … Program THÉTA 2: Vyhlášení výsledků formální kontroly 3. veřejné soutěže Aktuality Théta 2 Třetí veřejná soutěž 14. 11. 2025 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 3. veřejné soutěže… Zobrazit starší příspěvky Více informací Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 . ZAMĚŘENÍ PROGRAMU Program THÉTA 2 je program orientovaný na podporu aplikovaného výzkumu a inovací v energetice, který bezprostředně navazuje na program THÉTA. Zaměření programu je, stejně jako u předcházejícího prog",
+      "text": "Program THÉTA 2 - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž V přípravě Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Novinky Program THÉTA 2: Oznámení předběžných parametrů 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 30. 6. 2026 - Technologická agentura ČR (dále jen „TA ČR”) informuje o přípravě 4. veřejné soutěže v Programu na podporu aplikovaného výzkumu a inovací - THÉTA 2 … Program THÉTA 2: Vyhlášení výsledků 3. veřejné soutěže Aktuality Théta 2 Třetí veřejná soutěž 27. 4. 2026 - Technologická agentura České republiky (dále jen “TA ČR”) vyhlašuje výsledky 3. veřejné soutěže programu THÉTA 2, vyhlášené dne 27. srpna 2025. … Program THÉTA 2: Vyhlášení výsledků formální kontroly 3. veřejné soutěže Aktuality Théta 2 Třetí veřejná soutěž 14. 11. 2025 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 3. veřejné soutěže… Zobrazit starší příspěvky Více informací Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 . ZAMĚŘENÍ PROGRAMU Program THÉTA 2 je program orientovaný na podporu aplikovaného výzkumu a inovací v energetice, který bezprostředně navazuje na program THÉTA. Zaměření programu je, stejně jako u předcházejícího progra",
       "attachments": []
     },
     {
@@ -9948,6 +9861,11 @@ window.DOTACE_EXPORT = {
           "status": "Čeká"
         },
         {
+          "title": "Příloha č. 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 14. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/priloha-c.-4-vzor-rozhodnuti-o-poskytnuti-dotace.pdf",
+          "status": "Čeká"
+        },
+        {
           "title": "Příloha č. 5 - Nepodporované kategorie CZ-NACE (pdf) 7. 4. 2026",
           "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-5-nepodporovane-kategorie-cz-nace.pdf",
           "status": "Čeká"
@@ -9992,7 +9910,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Partnerství Innovative SMEs / Eurostars - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Partnerství Innovative SMEs / Eurostars Seznam soutěží Partnerství Eurostars 3 - Call 11 Běží lhůta pro podávání návrhů projektů Partnerství Eurostars 3 - Call 10 Probíhá hodnocení návrhů projektů Partnerství Eurostars 3 - Call 9 výzva uzavřena Novinky Eurostars 3 – Call 11: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars Call 11 9. 7. 2026 - Od 9. 7. 2026 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Eurostars 3 – Call 10: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars 3 Call 10 16. 1. 2026 - V pondělí 26. ledna 2026, 10:00-12:00 proběhne informační webinář pro uchazeče s názvem Applying to Eurostars – What to consider when writing a… Eurostars 3 – Call 9: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Partnerství Eurostars 3 - Call 9 4. 7. 2025 - Od 4. 7. 2025 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Zobrazit starší příspěvky Více informací Pravidla financování českého uchazeč",
+      "text": "Partnerství Innovative SMEs / Eurostars - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Partnerství Innovative SMEs / Eurostars Seznam soutěží Partnerství Eurostars 3 - Call 11 Běží lhůta pro podávání návrhů projektů Partnerství Eurostars 3 - Call 10 Probíhá hodnocení návrhů projektů Partnerství Eurostars 3 - Call 9 výzva uzavřena Novinky Eurostars 3 – Call 11: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars Call 11 9. 7. 2026 - Od 9. 7. 2026 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Eurostars 3 – Call 10: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars 3 Call 10 16. 1. 2026 - V pondělí 26. ledna 2026, 10:00-12:00 proběhne informační webinář pro uchazeče s názvem Applying to Eurostars – What to consider when writing a… Eurostars 3 – Call 9: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Partnerství Eurostars 3 - Call 9 4. 7. 2025 - Od 4. 7. 2025 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Zobrazit starší příspěvky Více informací Pravidla financování českého uchazeče",
       "attachments": []
     },
     {
@@ -10008,7 +9926,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "RAMP - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže RAMP těžba, zpracování a recyklace nerostných surovin Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Novinky RAMP Call 2026: Mezinárodní výzva na podporu výzkumu a inovací v oblasti těžby, zpracování a recyklace nerostných surovin je otevřena Aktuality RAMP Call 2026 9. 7. 2026 - Mezinárodní výzva RAMP Call 2026 spadajícího pod evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) je… Zobrazit starší příspěvky Více informací Evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
+      "text": "RAMP - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže RAMP těžba, zpracování a recyklace nerostných surovin Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Novinky RAMP Call 2026: Mezinárodní výzva na podporu výzkumu a inovací v oblasti těžby, zpracování a recyklace nerostných surovin je otevřena Aktuality RAMP Call 2026 9. 7. 2026 - Mezinárodní výzva RAMP Call 2026 spadajícího pod evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) je… Zobrazit starší příspěvky Více informací Evropské Partnerství Raw Materials Partnership for the Green and Digital Transition (RAMP) INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
       "attachments": []
     },
     {
@@ -10024,7 +9942,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Clean Energy Transition (CET) - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Clean Energy Transition (CET) Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Partnerství CET Call 2025: Výsledky mezinárodní výzvy Aktuality Clean Energy Transition Call 2025 14. 7. 2026 - Do mezinárodní výzvy Partnerství CET Call 2025, která byla zaměřená na výzkum v oblasti energetické transformace (čisté energie), se přihlásilo 44… POZVÁNKA: Partnerství CET workshop (TRI 1) Aktuality Clean Energy Transition Call 2024 Call 2025 Call 2026 14. 5. 2026 - Partnerství CET zve zájemce o témata v rámci TRI 1 (TRI 1: Integrated Net-zero-emissions Energy System) na workshop „Flexibility solutions for… Partnerství CET Call 2026: Blíží se vyhlášení mezinárodní výzvy v oblasti čisté energetiky Aktuality Clean Energy Transition Call 2026 29. 4. 2026 - Dne 26. května 2026 se otevře již pátá mezinárodní výzva Evropského partnerství Clean Energy Transition Partnership (CETP), zaměřená na výzkum v… Zobrazit starší příspěvky Více informací Kontaktní osoba: Gabriela Satková gabriela.satkova@tacr.cz +420 770 397 874 Partnerství CET (Clean Energy Transition Partnership) je multilaterální strategické Partnerství s rámcovým cílem výrazně podpořit implementaci “Evropského strategického plánu pro energetické techn",
+      "text": "Clean Energy Transition (CET) - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Clean Energy Transition (CET) Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Partnerství CET Call 2025: Výsledky mezinárodní výzvy Aktuality Clean Energy Transition Call 2025 14. 7. 2026 - Do mezinárodní výzvy Partnerství CET Call 2025, která byla zaměřená na výzkum v oblasti energetické transformace (čisté energie), se přihlásilo 44… POZVÁNKA: Partnerství CET workshop (TRI 1) Aktuality Clean Energy Transition Call 2024 Call 2025 Call 2026 14. 5. 2026 - Partnerství CET zve zájemce o témata v rámci TRI 1 (TRI 1: Integrated Net-zero-emissions Energy System) na workshop „Flexibility solutions for… Partnerství CET Call 2026: Blíží se vyhlášení mezinárodní výzvy v oblasti čisté energetiky Aktuality Clean Energy Transition Call 2026 29. 4. 2026 - Dne 26. května 2026 se otevře již pátá mezinárodní výzva Evropského partnerství Clean Energy Transition Partnership (CETP), zaměřená na výzkum v… Zobrazit starší příspěvky Více informací Kontaktní osoba: Gabriela Satková gabriela.satkova@tacr.cz +420 770 397 874 Partnerství CET (Clean Energy Transition Partnership) je multilaterální strategické Partnerství s rámcovým cílem výrazně podpořit implementaci “Evropského strategického plánu pro energetické technol",
       "attachments": []
     },
     {
@@ -10331,88 +10249,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 190320211913,
-      "title": "Obnovitelné zdroje energie – větrné elektrárny – výzva II",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-07-20",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-ii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva II – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva II Obnovitelné zdroje energie – větrné elektrárny – výzva II Vyhlášení výzvy 14. 06. 2024 Zahájení příjmu 28. 06. 2024 14:00:00 Ukončení příjmu 02. 12. 2024 14:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE. UPOZORNĚNÍ PRO ŽADATELE A PŘÍJEMCE: 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 16.12.2024: Příprava výzvy III. pro aktivitu Obnovitelné zdroje",
-      "attachments": [
-        {
-          "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva II (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456oze-vte-v-zva-ii.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-1-model-hodnocen-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-2-pravidla-pro-adatele-a-p-jemce-z-op-tak-zvl-tn-st-verze-1-0.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 20. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-vetrne-elektrarny.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-5-nepodporovan-kat-cz-nace-oze-vte.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Posudek plnění DNSH (docx) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-6-posudek-pln-n-dnsh.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "FAQ_Příloha č. 6 Posudek plnění DNSH (docx) 19. 8. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/faq-priloha-c.-6-posudek-plneni-dnsh.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Specifické podmínky (docx) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355457p-loha-7-specifick-podm-nky.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Nejvýznamnější změny výzvy oproti předchozí výzvě (docx) 14. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456nejv-znamn-j-zm-ny-v-zvy-oproti-p-edchoz-v-zv-.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "VTE FAQ- CP_EA_žadatel_název projektu_datum zpracování_diskont (xlsx) 19. 8. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/vte-faq-cp-ea-zadetel-nazev-projektu-datum-zpracovani.-diskontxlsx.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Renewable energy sources - wind farms - Call II resume (pdf) 24. 6. 2024",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/obnovitelne-zdroje-energie-vyzva-ii-cs-en-gb-c.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 20. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-oze-ve-ii.zip",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
       "id": 695059747408,
       "title": "Úspory energie – výzva II",
       "type": "Dotace",
@@ -10540,22 +10376,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 343779076574,
-      "title": "Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech.",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "deadline": "2026-07-22",
-      "source_url": "https://irop.gov.cz/cs/",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "summary": "IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů.",
-      "text": "IROP - Ministerstvo pro místní rozvoj ČR - Úvod IROP 2021-2027 Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech. IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů. ZJISTIT VÍCE Výzvy 2021-2027 Konzultační servis Strategické projekty IROP Závazná stanoviska ŘO IROP 2021-2027 eGovernment a kyberbezpečnost Integrovaný záchranný systém Zelená infrastruktura měst a obcí Silnice II. třídy Vzdělávací infrastruktura Sociální infrastruktura Infrastruktura ve zdravotnictví Kulturní dědictví a cestovní ruch Komunitně vedený místní rozvoj (CLLD) Čistá a aktivní mobilita Novinky z IROP Kulturní dědictví a cestovní ruch Revize 22. 7. 2026 Přesun alokace - Kulturní dědictví a cestovní ruch - 34. výzva Muzea (PR) a 82. výzva Cestovní ruch (PR) Metodika Obecné 13. 7. 2026 Nové závazné stanovisko ke způsobilosti smluvních pokut Tiskové zprávy Evropské fondy IROP 3. 7. 2026 Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu eGovernment a kyberbezpečnost Revize 25. 6. 2026 Revize 120. výzvy IROP - Kybernetická bezpečnost II. (PR) - rozšíření oprávněných žadatelů Novinka Publicita 15. 6. 2026 Evropské fondy mění Jihlavu: nové školky, doprava i sociální služby Tiskové zprávy Evropské fondy IROP 8. 6. 2026 Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Novinka Publicita 8. 6. 2026 Evropské fondy podporují na Mladoboleslavsku dopravu, školy i sociální projekty Kulturní dědictví a cestovní ruch Publicita 3. 6. 2026 Knihovny jako moderní centra vzdělanosti: IROP jim otevírá nové možnosti Novinka Publicita 2. 6. 2026 ITI Plzeň: investice z IROP zlepšují dopravu a sociální infrastrukturu Zelená infrastruktura měst a obcí Revize 1. 6. 2026 Revize 65. výzvy IROP Zelená infrastruktura – úprava alokace a prodloužení příjmu žádostí eGovernment a kyberbezpečnost Revize 26.",
-      "attachments": []
-    },
-    {
       "id": 63724936042,
       "title": "Obnovitelné zdroje energie – biomasa – výzva I",
       "type": "Dotace",
@@ -10645,7 +10465,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Driving Urban Transitions (DUT) - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Driving Urban Transitions (DUT) Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 probíhá hodnocení návrhů projektů CALL 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Blíží se vyhlášení páté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2026 24. 7. 2026 - V září 2026 dostanou výzkumníci příležitost zapojit se již do páté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzva… Driving Urban Transitions (DUT) Call 2025: Mezinárodní výzva je otevřená Aktuality Driving Urban Transitions Call 2025 1. 9. 2025 - Mezinárodní výzva Evropského partnerství Driving Urban Transitions (DUT) Call 2025 je otevřena od 1. 9. 2025. Výzva je zaměřena na podporu… Blíží se vyhlášení čtvrté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2025 4. 7. 2025 - V září 2025 dostanou výzkumníci příležitost zapojit se již do čtvrté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzvu… Zobrazit starší příspěvky Více informací Partnerství DUT (Driving Urban Transitions to a Sustainable Future) je novým programem strategické sítě JPI Urban Europe, který začíná v roce 2022. Pomocí výzkumu a inovací pomáhá městům, obcím, podnikům a občanům rozvíjet nástroje a dovednosti potřebné k řešení výze",
+      "text": "Driving Urban Transitions (DUT) - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Driving Urban Transitions (DUT) Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 probíhá hodnocení návrhů projektů CALL 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Blíží se vyhlášení páté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2026 24. 7. 2026 - V září 2026 dostanou výzkumníci příležitost zapojit se již do páté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzva… Driving Urban Transitions (DUT) Call 2025: Mezinárodní výzva je otevřená Aktuality Driving Urban Transitions Call 2025 1. 9. 2025 - Mezinárodní výzva Evropského partnerství Driving Urban Transitions (DUT) Call 2025 je otevřena od 1. 9. 2025. Výzva je zaměřena na podporu… Blíží se vyhlášení čtvrté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2025 4. 7. 2025 - V září 2025 dostanou výzkumníci příležitost zapojit se již do čtvrté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzvu… Zobrazit starší příspěvky Více informací Partnerství DUT (Driving Urban Transitions to a Sustainable Future) je novým programem strategické sítě JPI Urban Europe, který začíná v roce 2022. Pomocí výzkumu a inovací pomáhá městům, obcím, podnikům a občanům rozvíjet nástroje a dovednosti potřebné k řešení výzev",
       "attachments": []
     },
     {
@@ -11324,19 +11144,35 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
+      "id": 343779076574,
+      "title": "Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech.",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-08-10",
+      "source_url": "https://irop.gov.cz/cs/",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "summary": "IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů.",
+      "text": "IROP - Ministerstvo pro místní rozvoj ČR - Úvod IROP 2021-2027 Integrovaný regionální operační program poskytuje dotace na zlepšení kvality života v regionech. IROP je jeden z operačních programů, přes které se v České republice rozdělují peníze poskytnuté z evropských fondů, konkrétně z Evropského fondu pro regionální rozvoj. Projekty v IROP 2021-2027 mohou dobíhat až do roku 2029. IROP má v tomto období vyčleněnu částku přibližně 117,7 miliard Kč z evropských fondů. ZJISTIT VÍCE Výzvy 2021-2027 Konzultační servis Strategické projekty IROP Závazná stanoviska ŘO IROP 2021-2027 eGovernment a kyberbezpečnost Integrovaný záchranný systém Zelená infrastruktura měst a obcí Silnice II. třídy Vzdělávací infrastruktura Sociální infrastruktura Infrastruktura ve zdravotnictví Kulturní dědictví a cestovní ruch Komunitně vedený místní rozvoj (CLLD) Čistá a aktivní mobilita Novinky z IROP Zelená infrastruktura měst a obcí Publicita 10. 8. 2026 IROP podporuje odolnější regiony: 5 miliard korun na ochranu před extrémy počasí a zelenější veřejný prostor Kulturní dědictví a cestovní ruch Revize 22. 7. 2026 Přesun alokace - Kulturní dědictví a cestovní ruch - 34. výzva Muzea (PR) a 82. výzva Cestovní ruch (PR) Metodika Obecné 13. 7. 2026 Nové závazné stanovisko ke způsobilosti smluvních pokut Tiskové zprávy Evropské fondy IROP 3. 7. 2026 Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu eGovernment a kyberbezpečnost Revize 25. 6. 2026 Revize 120. výzvy IROP - Kybernetická bezpečnost II. (PR) - rozšíření oprávněných žadatelů Novinka Publicita 15. 6. 2026 Evropské fondy mění Jihlavu: nové školky, doprava i sociální služby Tiskové zprávy Evropské fondy IROP 8. 6. 2026 Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Novinka Publicita 8. 6. 2026 Evropské fondy podporují na Mladoboleslavsku dopravu, školy i sociální projekty Kulturní dědictví a cestovní ruch Publicita 3. 6. 2026 Knihovny jako moderní centra vzdělanosti: IROP jim otevírá nové možnosti Novinka Publicita 2. 6. 2026 ITI Plzeň: investice z IROP zlepšují dopravu a sociální infrastrukturu Zelená infrastrukt",
+      "attachments": []
+    },
+    {
       "id": 753199950778,
       "title": "Program DOPRAVA 2030",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Ukončené",
       "status_code": "completed",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-11",
       "source_url": "https://tacr.gov.cz/program/doprava-2030/",
       "source_id": "tacr-souteze",
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program DOPRAVA 2030 - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program DOPRAVA 2030 Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Čtvrtá veřejná soutěž Uzavřena Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030 Seznam členů a členek kolegia odborníků V6 Seznam členů a členek Odborného poradního orgánu Novinky Program DOPRAVA 2030: Vyhlášení výsledků formální kontroly 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 5. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 4. veřejné soutěže… Program DOPRAVA 2030: Prezentace a videozáznam z webináře pro uchazeče 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 5. 6. 2026 - Technologická agentura ČR ve spolupráci s Ministerstvem Dopravy ČR pořádala dne 28. května 2026 webinář pro uchazeče 4. veřejné soutěže v Programu… Program DOPRAVA 2030: Vyhlášení 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 13. 5. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila ve spolupráci s Ministerstvem dopravy dne 13. 5. 2026 čtvrtou veřejnou soutěž v… Zobrazit starší příspěvky Více informací Program Ministerstva dopravy na podporu aplikovaného výzkumu a inovací v oblasti dopravy – DOPRAVA",
+      "text": "Program DOPRAVA 2030 - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program DOPRAVA 2030 Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Čtvrtá veřejná soutěž Uzavřena Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030 Seznam členů a členek kolegia odborníků V6 Seznam členů a členek Odborného poradního orgánu Novinky Program DOPRAVA 2030: Vyhlášení výsledků formální kontroly 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 11. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 4. veřejné soutěže… Program DOPRAVA 2030: Prezentace a videozáznam z webináře pro uchazeče 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 5. 6. 2026 - Technologická agentura ČR ve spolupráci s Ministerstvem Dopravy ČR pořádala dne 28. května 2026 webinář pro uchazeče 4. veřejné soutěže v Programu… Program DOPRAVA 2030: Vyhlášení 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 13. 5. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila ve spolupráci s Ministerstvem dopravy dne 13. 5. 2026 čtvrtou veřejnou soutěž v… Zobrazit starší příspěvky Více informací Program Ministerstva dopravy na podporu aplikovaného výzkumu a inovací v oblasti dopravy – DOPRAVA",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030",
@@ -11351,6 +11187,317 @@ window.DOTACE_EXPORT = {
         {
           "title": "Seznam členů a členek Odborného poradního orgánu",
           "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/06/04/1780569375_DOPRAVA 2030 Seznam členů a členek Odborného poradního orgánu V5.pdf",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 949038277153,
+      "title": "STEP – výzkum a vývoj kritických technologií",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-08-11",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step/vyzkum-a-vyvoj-kritickych-technologii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "STEP – výzkum a vývoj kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií Vyhlášení výzvy 19. 06. 2026 Zahájení příjmu 17. 07. 2026 10:00:00 Ukončení příjmu 11. 08. 2026 00:01:00 Uzavřená výzva Projekty průmyslového výzkumu a experimentálního vývoje kritických technologií evropského významu a jejich hodnotových řetězců. Upozornění pro žadatele a příjemce: 11. 8. 2026: Z důvodu naplnění finančního objemu podaných žádostí ve výši 300 % alokace výzvy byl dne 11. 8. 2026 v 0:01 ukončen příjem žádostí o podporu dle podmínek stanovených ve výzvě. Celkem bylo podáno 169 žádostí o podporu v celkové výši 5 632 256 725,15 Kč požadované dotace. 24. 6. 2026: Ministerstvo průmyslu a obchodu upozornilo žadatele na zveřejnění aktualizované šablony podnikatelského záměru s doplněnými návodnými otázkami ke kritériu snižování strategické závislosti. Na co lze získat podporu (podporované aktivity): digitální technologie a deep tech inovace polovodiče, AI, kvantové technologie, pokročilá konektivita, navigace, robotika čisté technologie solární ene",
+      "attachments": [
+        {
+          "title": "Výzva STEP - výzkum a vývoj kritických technologií (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416step-v-zkum-a-v-voj-kritick-ch-technologi-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-1-model-hodnocen-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-2-pravidla-pro-zadatele-a-prijemce-v-op-tak-zvlastni-cast.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "a) Definice druhů výsledků (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416definice-druh-v-sledk-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "b) Čestné prohlášení k žádosti o platbu (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-estn-prohl-en-partnera-k-dosti-o-platbu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "c) Přílohy k oponentnímu řízení (zip) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-lohy-k-oponentn-mu-zen-.zip",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované CZ NACE (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-5-nepodporovan-kategorie-cz-nace.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Podnikatelský záměr (docx) 24. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-6-podnikatelsky-zamer-v2.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Tabulka rozpočtových položek (xlsx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415priloha-6-rozpoctove-tabulky-xls-step-newlogo-final.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Formulář k DNSH (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-7-formul-k-dnsh.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 8 - Národní RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-8-n-rodn-ris3-strategie-p-1-karty-t-matick-ch-oblast-verze-8.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 9 - Čestné prohlášení partnera k žádosti o podporu (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-9-estn-prohl-en-partnera-k-dosti-o-podporu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 10 - Čestné prohlášení partnera - výzkumné organizace k žádosti o podporu (docx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-10-estn-prohl-en-partnera-v-zkumn-organizace-k-dosti-o-podporu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 11 - Odvětví STEP (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-11-odv-tv-step.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Národní RIS3 Strategie - Příloha 3 - Cíle RIS3 monitorovací indikátory a financování (pdf) 13. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/narodni-ris3-strategie-priloha-3-cile-ris3-monitorovaci-indikatory-a-financovani.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Číselník skupin oborů podle Frascati manuálu (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-seln-k-skupin-obor-podle-frascati-manu-lu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Výkaz projektového pracovníka (xlsx) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/optak-vykaz-prace-projektoveho-pracovnika-pro-step-1.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Stupnice TRL (pdf) 19. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416stupnice-trl.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 7. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-vav.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Leták výzvy (pdf) 22. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "STEP – Research and Development of Critical Technologies resume (pdf) 29. 6. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.en-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 13. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/archiv-step-vav.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 190320211913,
+      "title": "Obnovitelné zdroje energie – větrné elektrárny – výzva II",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-08-12",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-ii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva II – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva II Obnovitelné zdroje energie – větrné elektrárny – výzva II Vyhlášení výzvy 14. 06. 2024 Zahájení příjmu 28. 06. 2024 14:00:00 Ukončení příjmu 02. 12. 2024 14:00:00 Uzavřená výzva Cílem výzvy je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE. UPOZORNĚNÍ PRO ŽADATELE A PŘÍJEMCE: 12. 8. 2026: Zveřejnění správné verze vzoru Rozhodnutí o poskytnutí dotace MPO informovalo, že dne 20.7.2026 byla zveřejněna na webu chybná verze Rozhodnutí o poskytnutí dotace (RoPD), která náleží k výzvě na větrné elektrárny III. V MS2021+ je generována a zasílána k odsouhlasení žadatelům správná verze RoPD. Touto aktualizací je zveřejněno RoPD pro výzvu II. 20. 7. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace Ministerstvo průmyslu a obchodu informovalo o vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podniká",
+      "attachments": [
+        {
+          "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva II (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456oze-vte-v-zva-ii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-1-model-hodnocen-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-2-pravidla-pro-adatele-a-p-jemce-z-op-tak-zvl-tn-st-verze-1-0.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 12. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-vetrne-elektrarny.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-5-nepodporovan-kat-cz-nace-oze-vte.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Posudek plnění DNSH (docx) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456p-loha-6-posudek-pln-n-dnsh.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "FAQ_Příloha č. 6 Posudek plnění DNSH (docx) 19. 8. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/faq-priloha-c.-6-posudek-plneni-dnsh.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Specifické podmínky (docx) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355457p-loha-7-specifick-podm-nky.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Nejvýznamnější změny výzvy oproti předchozí výzvě (docx) 14. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/1718355456nejv-znamn-j-zm-ny-v-zvy-oproti-p-edchoz-v-zv-.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "VTE FAQ- CP_EA_žadatel_název projektu_datum zpracování_diskont (xlsx) 19. 8. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/08/vte-faq-cp-ea-zadetel-nazev-projektu-datum-zpracovani.-diskontxlsx.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Renewable energy sources - wind farms - Call II resume (pdf) 24. 6. 2024",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2024/06/obnovitelne-zdroje-energie-vyzva-ii-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 12. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/archiv-oze-ve-ii.zip",
+          "status": "Čeká"
+        }
+      ]
+    },
+    {
+      "id": 280260922391,
+      "title": "Obnovitelné zdroje energie – větrné elektrárny – výzva III",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "deadline": "2026-08-12",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/obnovitelne-zdroje-energie/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-iii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "summary": "Služby infrastruktury",
+      "text": "Obnovitelné zdroje energie – větrné elektrárny – výzva III – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity Obnovitelné zdroje energie Obnovitelné zdroje energie – větrné elektrárny – výzva III Obnovitelné zdroje energie – větrné elektrárny – výzva III Vyhlášení výzvy 27. 06. 2025 Zahájení příjmu 14. 07. 2025 10:00:00 Ukončení příjmu 09. 07. 2026 10:00:00 Uzavřená výzva Cílem je efektivní a šetrné využívání OZE, zvyšování jejich podílu a tím pádem snížení spotřeby primárních energetických zdrojů či podpora podnikatelských subjektů v oblasti využití OZE Upozornění pro žadatele a příjemce: 12. 8. 2026: Úprava textace vzoru Rozhodnutí o poskytnutí dotace MPO informovalo o úpravě vzoru Rozhodnutí o poskytnutí dotace. Jedná se o úpravu v článku 4.3, ve kterém byla změněna adresa sídla Agentury pro podnikání a inovace. Dále byla upravena textace článku 6.9.6 a 9.4 ve vztahu na ukončení Operačního programu Technologie a aplikace pro konkurenceschopnost (OP TAK). V článku 9.4 byl prodloužen termín pro nárok příjemce na příslušnou část dotace ze závěrečné žádosti o platbu s ohledem na ukončení OP TAK. 30. 10. 2025: MPO informovalo o návrhu prováděcího nařízení Evropského parlamentu a Rady",
+      "attachments": [
+        {
+          "title": "Obnovitelné zdroje energie – větrné elektrárny - výzva III (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/obnovitelne-zdroje-energie--vetrne-elektrarny--vyzva-iii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 1 - Model hodnocení (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-1--model-hodnoceni.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-2--pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-3--vymezeni-zpusobilych-vydaju.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 12. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/priloha-4-vzor-rozhodnuti-o-poskytnuti-dotace-vetrne-elektrarny-iii.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 5 - Nepodporované kategorie CZ NACE (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-5--nepodporovane-kategorie-cz-nace-ciste.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 6 - Posudek plnění DNSH (docx) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-6--posudek-plneni-dnsh-a-klimatickeho-dopadu.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "FAQ_Příloha č. 6 Posudek plnění DNSH (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/faq--priloha-6--posudek-plneni-dnsh-a-klimetickeho-dopadu.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 7 - Specifické podmínky (docx) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-7--specificke-podminky-vyzvy.docx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příloha 8 - Prohlášení k max. výši dotace 30 mil. EUR (xlsx) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/priloha-8--prohlaseni-k-max.-vysi-dotace-30-mil.-eur.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Aplikace podmínek prahových hodnot v rámci přílohy č. 8 (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/aplikace-podminek-prahovych-hodnot-v-ramci-prilohy-c.-8.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Nejvýznamnější změny výzvy oproti předchozí výzvě (pdf) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/nejvyznamnejsi-zmeny-vyzvy-oproti-predchozi-vyzve.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "VTE FAQ - CP_EA_žadatel_název projektu_datum zpracování_diskont (xlsx) 27. 6. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/06/faq--cp-ea-zadetel-nazev-projektu-datum-zpracovani-diskont.xlsx",
+          "status": "Čeká"
+        },
+        {
+          "title": "Příručka pro podání Žádosti o podporu v IS KP21+ (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-vte-iii-.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Renewable energy sources - wind farms - Call III resume (pdf) 4. 7. 2025",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/07/obnovitelne-zdroje-energie-vetrne-elektrarny-vyzva-iii-cs-en-gb-c.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "Archiv (zip) 12. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/archiv-oze-ve-iii.zip",
           "status": "Čeká"
         }
       ]
@@ -11840,138 +11987,6 @@ window.DOTACE_EXPORT = {
         {
           "title": "stáhnout",
           "url": "https://opzp.cz/files/documents/storage/2026/06/19/1781844737_PrZaP21_verze_16_verze.pdf",
-          "status": "Čeká"
-        }
-      ]
-    },
-    {
-      "id": 949038277153,
-      "title": "STEP – výzkum a vývoj kritických technologií",
-      "type": "Stránka",
-      "type_code": "page",
-      "status": "Probíhající",
-      "status_code": "active",
-      "deadline": "2026-09-30",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/step/vyzkum-a-vyvoj-kritickych-technologii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "summary": "Služby infrastruktury",
-      "text": "STEP – výzkum a vývoj kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií Vyhlášení výzvy 19. 06. 2026 Zahájení příjmu 17. 07. 2026 10:00:00 Ukončení příjmu 30. 09. 2026 09:59:59 Otevřená výzva Projekty průmyslového výzkumu a experimentálního vývoje kritických technologií evropského významu a jejich hodnotových řetězců. Upozornění pro žadatele a příjemce: Aktuální evidovaný počet podaných žádostí o podporu a výši se dozvíte na webu MPO zde . 24. 6. 2026: Ministerstvo průmyslu a obchodu upozornilo žadatele na zveřejnění aktualizované šablony podnikatelského záměru s doplněnými návodnými otázkami ke kritériu snižování strategické závislosti. Na co lze získat podporu (podporované aktivity): digitální technologie a deep tech inovace polovodiče, AI, kvantové technologie, pokročilá konektivita, navigace, robotika čisté technologie solární energie, baterie, vodík, tepelná čerpadla, zachycování CO₂ biotechnologie DNA/RNA, buněčné a tkáňové inženýrství, bioinformatika, nanobiotechnologie obranné technologie protivzdušná obrana, drony, ky",
-      "attachments": [
-        {
-          "title": "Výzva STEP - výzkum a vývoj kritických technologií (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416step-v-zkum-a-v-voj-kritick-ch-technologi-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 1 - Model hodnocení (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-1-model-hodnocen-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/priloha-2-pravidla-pro-zadatele-a-prijemce-v-op-tak-zvlastni-cast.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "a) Definice druhů výsledků (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416definice-druh-v-sledk-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "b) Čestné prohlášení k žádosti o platbu (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-estn-prohl-en-partnera-k-dosti-o-platbu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "c) Přílohy k oponentnímu řízení (zip) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-lohy-k-oponentn-mu-zen-.zip",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 3 - Vymezení způsobilých výdajů (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-3-vymezen-zp-sobil-ch-v-daj-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 5 - Nepodporované CZ NACE (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-5-nepodporovan-kategorie-cz-nace.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Podnikatelský záměr (docx) 24. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/priloha-6-podnikatelsky-zamer-v2.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 6 - Tabulka rozpočtových položek (xlsx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415priloha-6-rozpoctove-tabulky-xls-step-newlogo-final.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 7 - Formulář k DNSH (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859415p-loha-7-formul-k-dnsh.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 8 - Národní RIS3 Strategie - Příloha 1 - Karty tematických oblastí (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-8-n-rodn-ris3-strategie-p-1-karty-t-matick-ch-oblast-verze-8.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 9 - Čestné prohlášení partnera k žádosti o podporu (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-9-estn-prohl-en-partnera-k-dosti-o-podporu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 10 - Čestné prohlášení partnera - výzkumné organizace k žádosti o podporu (docx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-10-estn-prohl-en-partnera-v-zkumn-organizace-k-dosti-o-podporu.docx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příloha 11 - Odvětví STEP (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416p-loha-11-odv-tv-step.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Národní RIS3 Strategie - Příloha 3 - Cíle RIS3 monitorovací indikátory a financování (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416n-rodn-ris3-strategie-p-loha-3-c-le-ris3-monitorovac-indik-tory-a-financov-n-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Číselník skupin oborů podle Frascati manuálu (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416-seln-k-skupin-obor-podle-frascati-manu-lu.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Výkaz projektového pracovníka (xlsx) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/optak-vykaz-prace-projektoveho-pracovnika-pro-step-1.xlsx",
-          "status": "Čeká"
-        },
-        {
-          "title": "Stupnice TRL (pdf) 19. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/1781859416stupnice-trl.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 7. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-vav.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Leták výzvy (pdf) 22. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "STEP – Research and Development of Critical Technologies resume (pdf) 29. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/step-vyzkum-a-vyvoj-kritickych-technologii.en-.pdf",
-          "status": "Čeká"
-        },
-        {
-          "title": "Archiv (zip) 24. 6. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/archiv.zip",
           "status": "Čeká"
         }
       ]
@@ -12583,7 +12598,7 @@ window.DOTACE_EXPORT = {
       "source_name": "OP JAK",
       "program": "OP JAK",
       "summary": "Harmonogramy výzev OP JAK 2022 – 2026",
-      "text": "Výzvy Archiv - OP JAK Harmonogram výzev Harmonogramy výzev OP JAK 2022 – 2026 Harmonogram výzev 2026 Vše Aktuální Avíza Ukončené Stav: Aktuální Vše Aktuální Avíza Ukončené Určeno pro: Vše Vše Dobrovolné svazky obcí Kraje Mateřské školy Místní akční skupiny Neziskové organizace Obce Organizační složky státu Pedagogicko psychlogické poradny Školská výchovná a ubytovací zařízení Soukromý sektor Střediska volného času Střediska výchovné péče Střední školy Veřejný sektor Vysoké školy Vyšší odborné školy Výzkumné instituce Základní školy Základní umělecké školy Priorita: Vše Vše Priorita 1 – Výzkum a vývoj Priorita 2 – Vzdělávání Priorita 3 - Technická pomoc – ERDF Priorita 4 – Technická pomoc – ESF+ Řadit: Abecedně Abecedně Dle data uzávěrky Dle data vydání Celková alokace 500 mil. Kč Název výzvy Výzva č. 02_25_043 Open Science III Datum ukončení příjmu žádosti o podporu: 31. 03. 2027 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod. Více informací Podpořené žádosti 0 % Celková alokace 300 mil. Kč Název výzvy Výzva č. 02_26_048 Poradím se s AI Datum ukončení příjmu žádosti o podporu: 30. 12. 2026 Datum zahájení příjmu žádostí o podporu 23. 6. 2026. Více informací Podpořené žádosti 0 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_24_036 Teaming-CZ III Datum ukončení příjmu žádosti o podporu: 20. 11. 2026 Více informací Podpořené žádosti 0 % Celková alokace 1 000 mil. Kč Název výzvy Výzva č. 02_25_042 Smart Akcelerátor+ II Datum ukončení příjmu žádosti o podporu: 01. 03. 2027 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Více informací Podpořené žádosti 19 % Celková alokace 600 mil. Kč Název výzvy Výzva č. 02_25_041 Akční plánování v území – MAP II Datum ukončení příjmu žádosti o podporu: 01. 12. 2026 Datum zahájení příjmu žádostí o podporu 7. července 2025. Více informací Podpořené žádosti 43 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_22_007 Technická pomoc – ESF+ Datum ukončení příjmu žádosti o podporu: 29.",
+      "text": "Výzvy Archiv - OP JAK Harmonogram výzev Harmonogramy výzev OP JAK 2022 – 2026 Harmonogram výzev 2026 Vše Aktuální Avíza Ukončené Stav: Aktuální Vše Aktuální Avíza Ukončené Určeno pro: Vše Vše Dobrovolné svazky obcí Kraje Mateřské školy Místní akční skupiny Neziskové organizace Obce Organizační složky státu Pedagogicko psychlogické poradny Školská výchovná a ubytovací zařízení Soukromý sektor Střediska volného času Střediska výchovné péče Střední školy Veřejný sektor Vysoké školy Vyšší odborné školy Výzkumné instituce Základní školy Základní umělecké školy Priorita: Vše Vše Priorita 1 – Výzkum a vývoj Priorita 2 – Vzdělávání Priorita 3 - Technická pomoc – ERDF Priorita 4 – Technická pomoc – ESF+ Řadit: Abecedně Abecedně Dle data uzávěrky Dle data vydání Celková alokace 500 mil. Kč Název výzvy Výzva č. 02_25_043 Open Science III Datum ukončení příjmu žádosti o podporu: 31. 03. 2027 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod. Více informací Podpořené žádosti 0 % Celková alokace 300 mil. Kč Název výzvy Výzva č. 02_26_048 Poradím se s AI Datum ukončení příjmu žádosti o podporu: 30. 12. 2026 Datum zahájení příjmu žádostí o podporu 23. 6. 2026. Více informací Podpořené žádosti 0 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_24_036 Teaming-CZ III Datum ukončení příjmu žádosti o podporu: 20. 11. 2026 Více informací Podpořené žádosti 0 % Celková alokace 1 000 mil. Kč Název výzvy Výzva č. 02_25_042 Smart Akcelerátor+ II Datum ukončení příjmu žádosti o podporu: 01. 03. 2027 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Více informací Podpořené žádosti 19 % Celková alokace 600 mil. Kč Název výzvy Výzva č. 02_25_041 Akční plánování v území – MAP II Datum ukončení příjmu žádosti o podporu: 01. 12. 2026 Datum zahájení příjmu žádostí o podporu 7. července 2025. Více informací Podpořené žádosti 45 % Celková alokace 1 500 mil. Kč Název výzvy Výzva č. 02_22_007 Technická pomoc – ESF+ Datum ukončení příjmu žádosti o podporu: 29.",
       "attachments": [
         {
           "title": "Harmonogram výzev 2026",
@@ -12642,6 +12657,11 @@ window.DOTACE_EXPORT = {
         {
           "title": "(stáhnout)",
           "url": "https://sfzp.gov.cz/files/documents/storage/2025/11/04/1762256942_TRANSGov_1_2024_II.kolo.pdf",
+          "status": "Čeká"
+        },
+        {
+          "title": "(stáhnout)",
+          "url": "https://sfzp.gov.cz/files/documents/storage/2026/08/14/1786709476_Smlouva_o_poskytnutí_podpory_ModF_Transgov_1_2024_bez tagu_vzor.pdf",
           "status": "Čeká"
         }
       ]
@@ -12883,7 +12903,7 @@ window.DOTACE_EXPORT = {
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
       "summary": "",
-      "text": "Agregátor obsahu https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss Agregátor obsahu Mon, 10 Aug 2026 06:54:47 GMT 2026-08-10T06:54:47Z Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508426 Thu, 30 Jul 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508426 Michala Trličíková 2026-07-30T07:00:00Z Podpora transformace Sídliště Šluknov https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508169 Wed, 29 Jul 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508169 Radka Pospíšilová 2026-07-29T07:00:00Z Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Mon, 29 Jun 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Magda Cabrnochová 2026-06-29T07:00:00Z Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Thu, 28 May 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Michala Trličíková 2026-05-28T07:00:00Z Vybudování dětských skupin (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Thu, 02 Apr 2026 06:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Magda Cabrnochová 2026-04-02T06:00:00Z Podpora sociálního podnikání (3) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Mon, 22 Dec 2025 08:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Magda Cabrnochová 2025-12-22T08:00:00Z Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052",
+      "text": "Agregátor obsahu https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss Agregátor obsahu Mon, 17 Aug 2026 06:03:00 GMT 2026-08-17T06:03:00Z Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508426 Thu, 30 Jul 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508426 Michala Trličíková 2026-07-30T07:00:00Z Podpora transformace Sídliště Šluknov https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508169 Wed, 29 Jul 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22508169 Radka Pospíšilová 2026-07-29T07:00:00Z Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Mon, 29 Jun 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22436366 Magda Cabrnochová 2026-06-29T07:00:00Z Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Thu, 28 May 2026 07:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22376946 Michala Trličíková 2026-05-28T07:00:00Z Vybudování dětských skupin (4) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Thu, 02 Apr 2026 06:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22267464 Magda Cabrnochová 2026-04-02T06:00:00Z Podpora sociálního podnikání (3) https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Mon, 22 Dec 2025 08:00:00 GMT https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22060132 Magda Cabrnochová 2025-12-22T08:00:00Z Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22052",
       "attachments": []
     },
     {
@@ -13187,7 +13207,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Evaluace a hodnocení programů",
-      "text": "Evaluace a hodnocení programů - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Evaluace a hodnocení programů Realizované evaluace Program ALFA Hodnocení dopadů Průběžné hodnocení Program BETA3 Ex-ante evaluace Program ÉTA Průběžné hodnocení Závěrečné hodnocení Program BETA Závěrečné hodnocení Program DELTA 2 Průběžné hodnocení Program GAMA Závěrečné hodnocení Průběžné hodnocení Hodnocení dopadů Program BETA2 Průběžné hodnocení Závěrečné hodnocení Program DELTA Závěrečné hodnocení Průběžné hodnocení Program GAMA 2 Závěrečné hodnocení Program OMEGA Průběžné hodnocení Závěrečné hodnocení Program Centra kompetence Průběžné hodnocení Závěrečné hodnocení Hodnocení dopadů Program ZÉTA Závěrečné hodnocení Průběžné hodnocení Program THÉTA Průběžné hodnocení Ex-ante hodnocení Program Národní centra kompetence Průběžné hodnocení Program THÉTA 2 Ex-ante evaluace Program SIGMA Průběžné hodnocení Metodické dokumenty Metodika hodnocení programů podpory TA ČR (projekt ProEval) Metodika hodnocení podpory R&D z hlediska konkurenceschopnosti podpořených subjektů Metodika hodnocení hospodárnosti účelové podpory pro aplikovaný výzkum a vývoj ve firmách Návrh metodiky pro provádění kontrafaktuálních analýz s pilotním ověřením Návrh postupu pro závěrečné hodnocení programů veřejných zakázek Návrh využití referenčního modelu TAF",
+      "text": "Evaluace a hodnocení programů - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Evaluace a hodnocení programů Realizované evaluace Program ALFA Hodnocení dopadů Průběžné hodnocení Program BETA3 Ex-ante evaluace Program ÉTA Průběžné hodnocení Závěrečné hodnocení Program BETA Závěrečné hodnocení Program DELTA 2 Průběžné hodnocení Program GAMA Závěrečné hodnocení Průběžné hodnocení Hodnocení dopadů Program BETA2 Průběžné hodnocení Závěrečné hodnocení Program DELTA Závěrečné hodnocení Průběžné hodnocení Program GAMA 2 Závěrečné hodnocení Program OMEGA Průběžné hodnocení Závěrečné hodnocení Program Centra kompetence Průběžné hodnocení Závěrečné hodnocení Hodnocení dopadů Program ZÉTA Závěrečné hodnocení Průběžné hodnocení Program THÉTA Průběžné hodnocení Ex-ante hodnocení Program Národní centra kompetence Průběžné hodnocení Program THÉTA 2 Ex-ante evaluace Program SIGMA Průběžné hodnocení Metodické dokumenty Metodika hodnocení programů podpory TA ČR (projekt ProEval) Metodika hodnocení podpory R&D z hlediska konkurenceschopnosti podpořených subjektů Metodika hodnocení hospodárnosti účelové podpory pro aplikovaný výzkum a vývoj ve firmách Návrh metodiky pro provádění kontrafaktuálních analýz s pilotním ověřením Návrh postupu pro závěrečné hodnocení programů veřejných zakázek Návrh využití referenčního modelu TAFTI",
       "attachments": [
         {
           "title": "Hodnocení dopadů",
@@ -13417,6 +13437,22 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
+      "id": 661323947570,
+      "title": "Klub pečujících",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Neznámé",
+      "status_code": "unknown",
+      "deadline": "",
+      "source_url": "https://www.esfcr.cz/akce-projektu-opz-plus",
+      "source_id": "mpsv-esf-opz-plus",
+      "source_name": "MPSV / ESF ČR - OPZ+",
+      "program": "OPZ+",
+      "summary": "Operační program Zaměstnanost plus",
+      "text": "Akce projektů OPZ+ - www.esfcr.cz Přejít k obsahu Menu Programy OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Akce řídicího orgánu Akce projektů OPZ+ Dokumenty OPZ+ Operační program Zaměstnanost plus Pravidla pro žadatele a příjemce Hodnocení a výběr projektů Vzory a postupy pro zadávací/výběrová řízení Monitorování podpořených osob Šablony a vzory pro vizuální identitu Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Formuláře a pokyny pro uzavření právního aktu a vzory právních aktů Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře a pokyny ke zprávě o realizaci projektu, žádosti o platbu a žádosti o změnu Údaje o programu Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů Zpracování osobních údajů v OPZ+ Pověřenec na ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Poučení pro registrované uživatele portálu OPZ+ Záznamy o činnostech zpracování Využití IT nástroje ARACHNE v OPZ+ PROJEKTY Starší operační programy OPZ 2014-2020 Aktuality Akce Akce projektů Dokumenty Operační program Zaměstnanost Pravidla pro žadatele a příjemce Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Příručka pro hodnotitele a pravidla výběrových komisí Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře pro uzavření právního aktu a vzory právních aktů o poskytnutí podpory na projekt Obvyklé ceny a mzdy/platy Pracovní výkaz Monitorování podpořených osob Pokyny k vyplnění zprávy o realizaci, žádosti o platbu a žádosti o změnu Šablony a vzory pro vizuální identitu Vzory a postupy pro zadávací/výběrová řízení Žádosti o přezkum, námitky proti neproplacení dotace Závěrečný dotazník o výsledcích, produkty projektů, sebeevaluace Projekty přeměny subjektu příjemce dotace Pravidla zapojení místních akčních skupin do OPZ Časté dotazy Výzvy OPZ Přehled výzev OPZ Harmonogram výzev Projekty Produkty Zadávací řízení Monitorovací výbor Ochrana osobních údajů Zpracování osobních údajů v OPZ Pověřenec pro ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Záznamy o činnostech zpracování Poučení pro registrované uživatele portálu OPZ V",
+      "attachments": []
+    },
+    {
       "id": 453697270727,
       "title": "Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí",
       "type": "Dotace",
@@ -13430,22 +13466,6 @@ window.DOTACE_EXPORT = {
       "program": "OPZ+",
       "summary": "Operační program Zaměstnanost plus",
       "text": "Výzva 062 OPZ+ - www.esfcr.cz Přejít k obsahu Menu Programy OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Akce řídicího orgánu Akce projektů OPZ+ Dokumenty OPZ+ Operační program Zaměstnanost plus Pravidla pro žadatele a příjemce Hodnocení a výběr projektů Vzory a postupy pro zadávací/výběrová řízení Monitorování podpořených osob Šablony a vzory pro vizuální identitu Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Formuláře a pokyny pro uzavření právního aktu a vzory právních aktů Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře a pokyny ke zprávě o realizaci projektu, žádosti o platbu a žádosti o změnu Údaje o programu Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů Zpracování osobních údajů v OPZ+ Pověřenec na ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Poučení pro registrované uživatele portálu OPZ+ Záznamy o činnostech zpracování Využití IT nástroje ARACHNE v OPZ+ PROJEKTY Starší operační programy OPZ 2014-2020 Aktuality Akce Akce projektů Dokumenty Operační program Zaměstnanost Pravidla pro žadatele a příjemce Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Příručka pro hodnotitele a pravidla výběrových komisí Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře pro uzavření právního aktu a vzory právních aktů o poskytnutí podpory na projekt Obvyklé ceny a mzdy/platy Pracovní výkaz Monitorování podpořených osob Pokyny k vyplnění zprávy o realizaci, žádosti o platbu a žádosti o změnu Šablony a vzory pro vizuální identitu Vzory a postupy pro zadávací/výběrová řízení Žádosti o přezkum, námitky proti neproplacení dotace Závěrečný dotazník o výsledcích, produkty projektů, sebeevaluace Projekty přeměny subjektu příjemce dotace Pravidla zapojení místních akčních skupin do OPZ Časté dotazy Výzvy OPZ Přehled výzev OPZ Harmonogram výzev Projekty Produkty Zadávací řízení Monitorovací výbor Ochrana osobních údajů Zpracování osobních údajů v OPZ Pověřenec pro ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Záznamy o činnostech zpracování Poučení pro registrované uživatele portálu OPZ Využi",
-      "attachments": []
-    },
-    {
-      "id": 661323947570,
-      "title": "Konference Společnost přátelská lidem s demencí",
-      "type": "Akce",
-      "type_code": "event",
-      "status": "Neznámé",
-      "status_code": "unknown",
-      "deadline": "",
-      "source_url": "https://www.esfcr.cz/akce-projektu-opz-plus",
-      "source_id": "mpsv-esf-opz-plus",
-      "source_name": "MPSV / ESF ČR - OPZ+",
-      "program": "OPZ+",
-      "summary": "Operační program Zaměstnanost plus",
-      "text": "Akce projektů OPZ+ - www.esfcr.cz Přejít k obsahu Menu Programy OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Akce řídicího orgánu Akce projektů OPZ+ Dokumenty OPZ+ Operační program Zaměstnanost plus Pravidla pro žadatele a příjemce Hodnocení a výběr projektů Vzory a postupy pro zadávací/výběrová řízení Monitorování podpořených osob Šablony a vzory pro vizuální identitu Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Formuláře a pokyny pro uzavření právního aktu a vzory právních aktů Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře a pokyny ke zprávě o realizaci projektu, žádosti o platbu a žádosti o změnu Údaje o programu Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů Zpracování osobních údajů v OPZ+ Pověřenec na ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Poučení pro registrované uživatele portálu OPZ+ Záznamy o činnostech zpracování Využití IT nástroje ARACHNE v OPZ+ PROJEKTY Starší operační programy OPZ 2014-2020 Aktuality Akce Akce projektů Dokumenty Operační program Zaměstnanost Pravidla pro žadatele a příjemce Formuláře a pokyny potřebné v rámci přípravy žádosti o podporu Příručka pro hodnotitele a pravidla výběrových komisí Formuláře z oblasti veřejné podpory a podpory de minimis Formuláře pro uzavření právního aktu a vzory právních aktů o poskytnutí podpory na projekt Obvyklé ceny a mzdy/platy Pracovní výkaz Monitorování podpořených osob Pokyny k vyplnění zprávy o realizaci, žádosti o platbu a žádosti o změnu Šablony a vzory pro vizuální identitu Vzory a postupy pro zadávací/výběrová řízení Žádosti o přezkum, námitky proti neproplacení dotace Závěrečný dotazník o výsledcích, produkty projektů, sebeevaluace Projekty přeměny subjektu příjemce dotace Pravidla zapojení místních akčních skupin do OPZ Časté dotazy Výzvy OPZ Přehled výzev OPZ Harmonogram výzev Projekty Produkty Zadávací řízení Monitorovací výbor Ochrana osobních údajů Zpracování osobních údajů v OPZ Pověřenec pro ochranu osobních údajů Formuláře týkající se ochrany osobních údajů Záznamy o činnostech zpracování Poučení pro registrované uživatele portálu OPZ V",
       "attachments": []
     },
     {
@@ -13753,14 +13773,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 1077852104825,
+      "id": 396699320879,
       "title": "Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=d8lsk4SL&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeLabelFilter&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelFieldName=operacniProgram&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelValue=2C000000-0000-0000-0000-000000000010&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelNameVisible=03+Opera%C4%8Dn%C3%AD+program+Zam%C4%9Bstnanost+plus",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=heHm1eiE&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeLabelFilter&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelFieldName=operacniProgram&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelValue=2C000000-0000-0000-0000-000000000010&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_labelNameVisible=03+Opera%C4%8Dn%C3%AD+program+Zam%C4%9Bstnanost+plus",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13769,14 +13789,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 1008756457513,
+      "id": 824973377223,
       "title": "Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=d8lsk4SL&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeAllFilter",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=heHm1eiE&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=removeAllFilter",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13785,14 +13805,14 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 1001091584526,
+      "id": 606348652192,
       "title": "Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2)",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Neznámé",
       "status_code": "unknown",
       "deadline": "",
-      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=d8lsk4SL&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=resetFilter",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus?p_auth=heHm1eiE&p_p_id=AssetPublisherFilterPortlet_WAR_esfportalportletapplication&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_AssetPublisherFilterPortlet_WAR_esfportalportletapplication_javax.portlet.action=resetFilter",
       "source_id": "mpsv-esf-opz-plus",
       "source_name": "MPSV / ESF ČR - OPZ+",
       "program": "OPZ+",
@@ -13909,7 +13929,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Program SIGMA - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program SIGMA Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Seznam soutěží Osmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ V přípravě Čtvrtá národní výzva - Dílčí cíl 4: Seal of Excellence - EIC Accelerator - 06/2026 V přípravě Sedmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 2: Industrial Chairs Běží lhůta pro podávání návrhů projektů Zobrazit další soutěže Šestnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 4: Bilaterální spolupráce Probíhá hodnocení návrhů projektů Patnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 3: Podpora inovačního potenciálu společenských věd, humanitních věd a umění Probíhá hodnocení návrhů projektů Čtrnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ Uzavřena Třináctá veřejná soutěž – Dílčí cíl 5: Centra aplikovaného výzkumu Uzavřena Dvanáctá veřejná soutěž – Dílčí cíl 1: Z výzkumu do byznysu Uzavřena Jedenáctá veřejná soutěž – Dílčí cíl 4: Bilaterální spolupráce Uzavřena Třetí národní výzva - Dílčí cíl 4: Seal of Excellence - EIC Accelerator - 04/2025 Uzavřena Desátá veřejná soutěž – Dílčí cíl 3: Podpora inovačního potenciálu společenských věd, humanitních věd a umění Uzavřena Devátá veřejná soutěž – Dílčí cíl 1: Podpora komercializace VaVaI+ Uzavřena Osmá veřejná soutěž – Dílčí cíl 4: Bilaterální spolupráce Uzavřena Sedmá veřejná soutěž – Dílčí cí",
+      "text": "Program SIGMA - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Program SIGMA Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Seznam soutěží Osmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ V přípravě Čtvrtá národní výzva - Dílčí cíl 4: Seal of Excellence - EIC Accelerator - 06/2026 V přípravě Sedmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 2: Industrial Chairs Probíhá hodnocení návrhů projektů Zobrazit další soutěže Šestnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 4: Bilaterální spolupráce Probíhá hodnocení návrhů projektů Patnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 3: Podpora inovačního potenciálu společenských věd, humanitních věd a umění Probíhá hodnocení návrhů projektů Čtrnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ Uzavřena Třináctá veřejná soutěž – Dílčí cíl 5: Centra aplikovaného výzkumu Uzavřena Dvanáctá veřejná soutěž – Dílčí cíl 1: Z výzkumu do byznysu Uzavřena Jedenáctá veřejná soutěž – Dílčí cíl 4: Bilaterální spolupráce Uzavřena Třetí národní výzva - Dílčí cíl 4: Seal of Excellence - EIC Accelerator - 04/2025 Uzavřena Desátá veřejná soutěž – Dílčí cíl 3: Podpora inovačního potenciálu společenských věd, humanitních věd a umění Uzavřena Devátá veřejná soutěž – Dílčí cíl 1: Podpora komercializace VaVaI+ Uzavřena Osmá veřejná soutěž – Dílčí cíl 4: Bilaterální spolupráce Uzavřena Sedmá veřejná soutěž – Dílčí cíl 2: Zač",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací SIGMA - s účinností do 6. 9. 2023",
@@ -13956,7 +13976,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a soutěže - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Programy Mezinárodní spolupráce Průvodce pro uchazeče Informace pro experty Podpora ukrajinských vědců Aktuální možnosti podpory Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) LEDEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů ÚNOR BŘEZEN M-ERA.NET Probíhá hodnocení návrhů projektů Materiálový výzkum a inovace DUBEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství KVĚTEN Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů ČERVEN Program SIGMA Probíhá hodnocení návrhů projektů Komple",
+      "text": "Programy a soutěže - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Programy Mezinárodní spolupráce Průvodce pro uchazeče Informace pro experty Podpora ukrajinských vědců Aktuální možnosti podpory Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) LEDEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů ÚNOR BŘEZEN M-ERA.NET Probíhá hodnocení návrhů projektů Materiálový výzkum a inovace DUBEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství KVĚTEN Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů ČERVEN Program SIGMA Probíhá hodnocení návrhů projektů Komplexn",
       "attachments": [
         {
           "title": "Harmonogram pro období 2026-2027 (PDF)",
@@ -13978,7 +13998,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a výzvy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND Uzavřen Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Probíhá hodnocení návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s oh",
+      "text": "Programy a výzvy - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND Uzavřen Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Probíhá hodnocení návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s ohle",
       "attachments": []
     },
     {
@@ -13994,7 +14014,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Programy a výzvy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND Uzavřen Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Probíhá hodnocení návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s oh",
+      "text": "Programy a výzvy - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a výzvy Stavy veřejných soutěží u programů jsou označeny barevným semaforem. Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program BETA2 Uzavřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Program GAMA 2 Uzavřen Ověřování výsledků VaV vzniklých ve výzkumných organizacích pro praktické uplatnění a komerční využití Program Národní centra kompetence Uzavřen Podpora budování stabilní a dlouhodobé základny aplikovaného výzkumu Program THÉTA Uzavřen Modernizace energetického sektoru, včetně výzkumu ve veřejném zájmu a energetických strategií Program THÉTA 2 V přípravě Resortní programy Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program TREND Uzavřen Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program PRODEF Probíhá hodnocení návrhů projektů Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s ohle",
       "attachments": []
     },
     {
@@ -14042,7 +14062,7 @@ window.DOTACE_EXPORT = {
       "source_name": "TA ČR - veřejné soutěže",
       "program": "",
       "summary": "Povinná publicita podpořených projektů",
-      "text": "Resortní programy - Technologická agentura ČR # Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Resortní programy Program TREND Uzavřen Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s ohledem na udržitelnost, bezpečnost a společenské potřeby – program Ministerstva dopravy Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
+      "text": "Resortní programy - Technologická agentura ČR Programy a soutěže Metodická podpora VÝSLEDKY A VÝSTUPY O nás Kontakty SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Resortní programy Program TREND Uzavřen Výsledky s potenciálem pro konkurenceschopnost – nové produkty, výrobní postupy a služby – program Ministerstva průmyslu a obchodu Program Prostředí pro život Uzavřen Zdravé a kvalitní životní prostředí a udržitelnost využívání přírodních zdrojů – program Ministerstva životního prostředí Program DOPRAVA 2020+ Uzavřen Modernizace dopravního sektoru s ohledem na udržitelnost, bezpečnost a společenské potřeby – program Ministerstva dopravy Program Prostředí pro život 2 Probíhá hodnocení návrhů projektů Program DOPRAVA 2030 Probíhá hodnocení návrhů projektů INKAviz Prezentace dat z mapování inovačního potenciálu ČR Starfos Fulltextový vyhledávač nejen nad VaV projekty podpořenými ze státního rozpočtu SISTA Systém zajišťující všechny procesy administrace výzkumných projektů ISRB Realizace programu BETA Helpdesk Neváhejte nám poslat váš dotaz TA ČR Expo Prezentace úspěšných výsledků Přihlaste se k odběru newsletteru Základní informace Kde nás najdete Úřední deska Proti korupci Kariéra Pro média Partneři TA ČR O programech Programy a soutěže Všeobecné podmínky (soutěž a program) Vnitřní předpisy Pravidla pro publicitu Pro experty Resortní programy Prohlášení Cookies Prohlášení o přístupnosti Zásady zpracování osobních údajů Sledujte nás Facebook LinkedIn X Instagram YouTube Newsletter Copyright © 2026 - TA ČR",
       "attachments": []
     },
     {
@@ -14074,7 +14094,7 @@ window.DOTACE_EXPORT = {
       "source_name": "API Agentura - OP TAK",
       "program": "OP TAK",
       "summary": "Služby infrastruktury",
-      "text": "STEP – výzkum a vývoj kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií Otevřené výzvy STEP – výzkum a vývoj kritických technologií IPCEI – mikroelektronika a komunikační technologie Uzavřené výzvy V současné chvíli ještě nebyla zavřena žádná výzva",
+      "text": "STEP – výzkum a vývoj kritických technologií – API Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Úvodní stránka Podporované aktivity STEP – výzkum a vývoj kritických technologií STEP – výzkum a vývoj kritických technologií Otevřené výzvy IPCEI – mikroelektronika a komunikační technologie Uzavřené výzvy STEP – výzkum a vývoj kritických technologií",
       "attachments": []
     },
     {
@@ -14122,7 +14142,7 @@ window.DOTACE_EXPORT = {
       "source_name": "CzechInvest - investiční pobídky a dotace",
       "program": "",
       "summary": "CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů.",
-      "text": "﻿ Investiční pobídky a dotace - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en de Novinky Srpen 2026 Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 všechny novinky Akce 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 25. srp. Green Evolution Lab: Od obalů po opravu – co se mění pro evropské firmy Seminář | Čejkovice 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | všechny akce Služby pro investory > Investiční pobídky a dotace Investiční pobídky a dotace Naše služby CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů. Investiční pobídky a dotační příležitosti Investiční pobídky jsou poskytovány ve formě slevy na dani, příspěvku na zaměstnance, jejich školení a rekvalifikaci či přímého finančního grantu. Neváhejte nás kontaktovat , rádi s vámi probereme vaši investici, rozsah podpory i jakékoliv další otázky související s možnostmi financování. Další informace najdete také v přiložených souborech . David Pejšek ředitel Odboru financování investic +420 725 523 350 david.pejsek@czechinvest.gov.cz Markéta Dvořáková Specialista financování investic +420 720 071 302 marketa.dvorakova@czechinvest.gov.cz Tereza Šafářová Specialista financování investic +420 724 334 331 tereza.safarova@czechinvest.gov.cz David Mićević Projektový manažer programu Digital Europe +420 725 978 210 david.",
+      "text": "﻿ Investiční pobídky a dotace - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en de Novinky Srpen 2026 Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 všechny novinky Akce 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 25. srp. Green Evolution Lab: Od obalů po opravu – co se mění pro evropské firmy Seminář | Čejkovice 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: Gemini Notebook - Vaše osobní AI pro začátečníky Seminář | všechny akce Služby pro investory > Investiční pobídky a dotace Investiční pobídky a dotace Naše služby CzechInvest je vaším bezplatným průvodcem při získávání investičních pobídek. Naši odborníci vás celým procesem provedou od úvodní konzultace přes posouzení způsobilosti vaší investice až po samotné podání žádosti a její následné zpracování. Investiční pobídky, řídící se zákonem č. 72/2000 Sb. ve znění pozdějších předpisů, jsou dostupné pro projekty v oblasti technologických center, center strategických služeb, zpracovatelského průmyslu a výroby strategických produktů. Investiční pobídky a dotační příležitosti Investiční pobídky jsou poskytovány ve formě slevy na dani, příspěvku na zaměstnance, jejich školení a rekvalifikaci či přímého finančního grantu. Neváhejte nás kontaktovat , rádi s vámi probereme vaši investici, rozsah podpory i jakékoliv další otázky související s možnostmi financování. Další informace najdete také v přiložených souborech . David Pejšek ředitel Odboru financování investic +420 725 523 350 david.pejsek@czechinvest.gov.cz Markéta Dvořáková Specialista financování investic +420 720 071 302 marketa.dvorakova@czechinvest.gov.cz Tereza Šafářová Specialista financování investic +420 724 334 331 tereza.safarova@czechinvest.gov.cz David Mićević Projektový manažer programu Digital Europe +420 725 978 210 d",
       "attachments": [
         {
           "title": "Investicni-pobidky_MFG_2026_CZE_online",
@@ -14159,7 +14179,7 @@ window.DOTACE_EXPORT = {
       "source_name": "CzechInvest - investiční pobídky a dotace",
       "program": "",
       "summary": "Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit.",
-      "text": "﻿ Are you interested in investment incentives in the Czech Republic? - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en Novinky Srpen 2026 Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 všechny novinky Akce 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 25. srp. Green Evolution Lab: Od obalů po opravu – co se mění pro evropské firmy Seminář | Čejkovice 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: NotebookLM - Vaše osobní AI pro začátečníky Seminář | všechny akce Služby pro investory > Investiční pobídky a dotace > Dotační matice Dotační matice Dotace z evropských a národních fondů Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit. Najděte vhodnou dotaci pro vaši společnost Sdílet poslat e-mailem tisk článku K ukládání nastavení a správnému fungování využíváme soubory cookies. Používáním webu s jejich používáním souhlasíte. Více info o cookies }",
+      "text": "﻿ Are you interested in investment incentives in the Czech Republic? - CzechInvest Hlavní město Praha Jihomoravský kraj Jihočeský kraj Vysočina Karlovarský kraj Královéhradecký kraj Liberecký kraj Olomoucký kraj Moravskoslezský kraj Pardubický kraj Plzeňský kraj Středočeský kraj Ústecký kraj Zlínský kraj cz en Novinky Srpen 2026 Červenec 2026 Červen 2026 Květen 2026 Duben 2026 Březen 2026 Únor 2026 Leden 2026 Prosinec 2025 Listopad 2025 Říjen 2025 Září 2025 všechny novinky Akce 18. srp. Setkání podnikavých žen Karlovarského kraje Seminář | Loket 25. srp. - 28. srp. Podnikatelská mise ve videoherním průmyslu do Německa a Gamescom 2026 Událost | Düsseldorf, Německo 25. srp. Green Evolution Lab: Od obalů po opravu – co se mění pro evropské firmy Seminář | Čejkovice 8. zář. Online Akademie pro inovativní podnikavé ženy 2026: Gemini Notebook - Vaše osobní AI pro začátečníky Seminář | všechny akce Služby pro investory > Investiční pobídky a dotace > Dotační matice Dotační matice Dotace z evropských a národních fondů Přinášíme Vám přehled dalších dotačních možností z evropských a národních fondů. Dokážeme Vám poradit, který dotační titul je pro Vaši společnost vhodný. Poskytneme základní informace o dotačním programu. Pro bližší informace se neváhejte na nás obrátit. Najděte vhodnou dotaci pro vaši společnost Sdílet poslat e-mailem tisk článku K ukládání nastavení a správnému fungování využíváme soubory cookies. Používáním webu s jejich používáním souhlasíte. Více info o cookies }",
       "attachments": []
     },
     {
