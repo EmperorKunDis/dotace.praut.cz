@@ -7,126 +7,178 @@
     "url": "https://apiagentura.gov.cz/cs/xmlsitemap.xml",
     "target_groups": "podniky, MSP, výzkumné organizace",
     "topics": "OP TAK, inovace, energie, digitalizace, poradenské programy",
-    "notes": "Aktuální jádro aplikace. Portál má přehled výzev OP TAK a detailní stránky s přílohami.",
+    "notes": "Jádro nabídky pro podnikatele. Detailní stránky výzev nesou přílohy i podmínky.",
     "integration": "automatizováno",
     "adapter": "sitemap",
-    "include_url_patterns": ["vyzva", "vyzvy", "podporovane-aktivity-optak", "programy-podpory"],
-    "exclude_url_patterns": ["/udalosti/", "/akce/", "/kariera", "/kontakty", "/novinky/"]
-  },
-  {
-    "id": "dotaceeu-vyzvy",
-    "name": "DotaceEU - centrální výzvy fondů EU v ČR",
-    "category": "Fondy EU v ČR",
-    "type": "HTML katalog",
-    "url": "https://www.dotaceeu.cz/cs/jak-ziskat-dotaci/vyzvy",
-    "target_groups": "firmy, obce, školy, neziskové organizace, veřejný sektor",
-    "topics": "IROP, OPŽP, OP JAK, OPZ+, OP TAK, Interreg, NPO",
-    "notes": "Zastřešující portál evropských fondů v ČR; dobrý agregátor, ale detail často vede na programový web.",
-    "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv"],
-    "candidate_keywords": ["výzva", "vyzva", "dotace", "program"]
-  },
-  {
-    "id": "eu-funding-tenders",
-    "name": "EU Funding & Tenders Portal",
-    "category": "EU přímo řízené programy",
-    "type": "Otevřená data/API",
-    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-    "target_groups": "podniky, výzkum, univerzity, konsorcia, veřejné instituce",
-    "topics": "Horizon Europe, EIC, LIFE, Digital Europe, Erasmus+, Creative Europe, tendry",
-    "notes": "Klíčový zdroj přímo řízených EU grantů a tendrů. Vyžaduje zvláštní parser kvůli parametrizovanému vyhledávání.",
-    "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["topic", "call", "opportunity"],
-    "candidate_keywords": ["call", "topic", "grant", "tender", "deadline"],
-    "allow_external": true
-  },
-  {
-    "id": "sfzp-modernizacni-fond",
-    "name": "SFŽP - Modernizační fond",
-    "category": "Státní programy",
-    "type": "HTML katalog",
-    "url": "https://www.sfzp.cz/dotace-a-pujcky/modernizacni-fond/vyzvy/",
-    "target_groups": "obce, kraje, firmy, energetika, veřejný sektor",
-    "topics": "Modernizační fond, energetika, veřejné osvětlení, doprava, teplárenství",
-    "notes": "Silný zdroj energetických a klimatických dotačních příležitostí.",
-    "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv", "dotace-a-pujcky"],
-    "candidate_keywords": ["výzva", "vyzva", "dotace"]
-  },
-  {
-    "id": "sfzp-npzp",
-    "name": "SFŽP - Národní program Životní prostředí",
-    "category": "Státní programy",
-    "type": "HTML katalog",
-    "url": "https://www.sfzp.cz/dotace-a-pujcky/narodni-program-zivotni-prostredi/",
-    "target_groups": "obce, kraje, školy, neziskové organizace, veřejný sektor",
-    "topics": "životní prostředí, klima, odpady, voda, EVVO, NPO",
-    "notes": "Doplňuje OPŽP a Novou zelenou úsporám; výzvy mají dokumenty a pravidla v přílohách.",
-    "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv", "dotace-a-pujcky"],
-    "candidate_keywords": ["výzva", "vyzva", "dotace"]
+    "for_business": true,
+    "min_items": 20,
+    "limit": 90,
+    "include_url_patterns": [
+      "vyzva",
+      "vyzvy",
+      "podporovane-aktivity-optak",
+      "programy-podpory"
+    ],
+    "exclude_url_patterns": [
+      "/udalosti/",
+      "/akce/",
+      "/kariera",
+      "/kontakty",
+      "/novinky/"
+    ]
   },
   {
     "id": "mpo-npo",
-    "name": "MPO - Národní plán obnovy a dotace",
+    "name": "MPO - Národní plán obnovy",
     "category": "Státní programy",
     "type": "HTML katalog",
     "url": "https://mpo.gov.cz/cz/podnikani/narodni-plan-obnovy/vyzvy/",
     "target_groups": "podniky, průmysl, energetika, digitalizace",
     "topics": "NPO, fotovoltaika, distribuční sítě, energetické úspory, podnikání",
-    "notes": "NPO/MPO výzvy často žijí jako články s přílohami PDF a aktualizačními zprávami.",
+    "notes": "Výzvy NPO žijí jako články s přílohami. Robots.txt MPO plošně zakazuje roboty, sběr proto běží s výslovnou výjimkou a nízkou frekvencí.",
     "integration": "automatizováno",
     "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv", "dotace", "narodni-plan-obnovy"],
-    "candidate_keywords": ["výzva", "vyzva", "dotace", "npo"]
+    "for_business": true,
+    "ignore_robots": true,
+    "min_items": 5,
+    "limit": 60,
+    "include_url_patterns": [
+      "vyzv",
+      "dotace",
+      "narodni-plan-obnovy"
+    ],
+    "candidate_keywords": [
+      "výzva",
+      "vyzva",
+      "dotace",
+      "npo"
+    ]
+  },
+  {
+    "id": "mpo-optak",
+    "name": "MPO - OP TAK",
+    "category": "Státní programy",
+    "type": "HTML katalog",
+    "url": "https://mpo.gov.cz/cz/podnikani/dotace-a-podpora-podnikani/optak-2021-2027/",
+    "target_groups": "podniky, MSP",
+    "topics": "OP TAK, aktuální informace, harmonogram výzev",
+    "notes": "Pohled řídícího orgánu na OP TAK; doplňuje detailní stránky API Agentury.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "for_business": true,
+    "ignore_robots": true,
+    "limit": 40,
+    "include_url_patterns": [
+      "optak",
+      "vyzv",
+      "dotace"
+    ],
+    "candidate_keywords": [
+      "výzva",
+      "vyzva",
+      "dotace",
+      "op tak"
+    ]
   },
   {
     "id": "ais-mpo",
-    "name": "AIS MPO",
+    "name": "AIS MPO - příjem žádostí",
     "category": "Státní programy",
     "type": "HTML katalog",
     "url": "https://aisportal.mpo.gov.cz/aisportal/default",
-    "target_groups": "žadatelé MPO programů",
+    "target_groups": "žadatelé v programech MPO",
     "topics": "běžící příjem žádostí, AIS MPO",
-    "notes": "Důležité pro provozní stav výzev s probíhajícím příjmem žádostí.",
+    "notes": "Provozní stav výzev s otevřeným příjmem žádostí.",
     "integration": "automatizováno",
     "adapter": "html_catalog",
-    "include_url_patterns": [],
-    "exclude_url_patterns": ["registrace", "zapomenuteheslo", "help/"],
-    "candidate_keywords": ["pomoc", "program", "národní plán", "narodni plan", "czechtrade", "obchůdek", "obchudek", "výzva", "vyzva"]
+    "for_business": true,
+    "limit": 40,
+    "exclude_url_patterns": [
+      "registrace",
+      "zapomenuteheslo",
+      "help/"
+    ],
+    "candidate_keywords": [
+      "program",
+      "národní plán",
+      "narodni plan",
+      "czechtrade",
+      "výzva",
+      "vyzva"
+    ]
   },
   {
-    "id": "szif",
-    "name": "SZIF - zemědělské dotace",
-    "category": "Oborové agentury",
+    "id": "dotaceeu-vyzvy",
+    "name": "DotaceEU - centrální přehled výzev",
+    "category": "Fondy EU v ČR",
     "type": "HTML katalog",
-    "url": "https://szif.gov.cz/cs/nd",
-    "target_groups": "zemědělci, potravináři, MAS, obce, venkov",
-    "topics": "Společná zemědělská politika, národní zemědělské dotace, MAS výzvy",
-    "notes": "Zásadní zdroj pro zemědělství a rozvoj venkova; data bude nutné normalizovat zvlášť.",
+    "url": "https://www.dotaceeu.cz/cs/jak-ziskat-dotaci/vyzvy",
+    "target_groups": "firmy, obce, školy, neziskové organizace, veřejný sektor",
+    "topics": "IROP, OPŽP, OP JAK, OPZ+, OP TAK, OP ST, unijní programy, finanční nástroje",
+    "notes": "Zastřešující portál evropských fondů. Přehled zahrnuje i finanční nástroje typu Expanze nebo Záruka Transformace.",
     "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["nd-dotacni-programy"],
-    "exclude_url_patterns": ["CmDocument"],
-    "candidate_keywords": ["nd-dotacni-programy", "dotace", "program", "žádosti", "zadosti"]
+    "adapter": "dotaceeu",
+    "min_items": 8,
+    "limit": 60
+  },
+  {
+    "id": "eu-funding-tenders",
+    "name": "EU Funding & Tenders Portal",
+    "category": "EU přímo řízené programy",
+    "type": "Otevřené API",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+    "target_groups": "podniky, výzkum, univerzity, konsorcia",
+    "topics": "Horizon Europe, EIC, Digital Europe, LIFE, Innovation Fund, Erasmus+, CEF",
+    "notes": "Portál je Angular aplikace, data se proto berou z oficiálního SEDIA API. Ukládají se jen výzvy s termínem v budoucnu.",
+    "integration": "automatizováno",
+    "adapter": "sedia_api",
+    "for_business": true,
+    "min_items": 20,
+    "limit": 120
+  },
+  {
+    "id": "opzp-2021-2027",
+    "name": "OPŽP 2021-2027",
+    "category": "Fondy EU v ČR",
+    "type": "HTML katalog",
+    "url": "https://opzp.cz/nabidka-dotaci/",
+    "target_groups": "obce, kraje, veřejný sektor, školy, podnikající fyzické osoby",
+    "topics": "životní prostředí, voda, odpady, klima, veřejné budovy, obnovitelné zdroje",
+    "notes": "Detaily výzev nemají H1, název se proto bere z titulku stránky a společná koncovka se ořezává.",
+    "integration": "automatizováno",
+    "adapter": "wordpress_vyzvy",
+    "min_items": 5,
+    "limit": 40
+  },
+  {
+    "id": "opst-2021-2027",
+    "name": "OP Spravedlivá transformace",
+    "category": "Fondy EU v ČR",
+    "type": "HTML katalog",
+    "url": "https://opst.cz/nabidka-dotaci/",
+    "target_groups": "firmy, obce, kraje, výzkumné organizace v uhelných regionech",
+    "topics": "transformace regionů, Moravskoslezský, Ústecký a Karlovarský kraj, brownfieldy, energetika",
+    "notes": "Klíčový program pro firmy ve třech uhelných krajích. Běží na stejné šabloně jako OPŽP.",
+    "integration": "automatizováno",
+    "adapter": "wordpress_vyzvy",
+    "for_business": true,
+    "min_items": 3,
+    "limit": 40
   },
   {
     "id": "mpsv-esf-opz-plus",
     "name": "MPSV / ESF ČR - OPZ+",
     "category": "Fondy EU v ČR",
-    "type": "HTML katalog",
-    "url": "https://www.esfcr.cz/vyzvy-opz-plus",
-    "target_groups": "obce, neziskové organizace, sociální služby, zaměstnavatelé",
-    "topics": "OPZ+, zaměstnanost, sociální začleňování, sociální bydlení",
-    "notes": "Sociální a zaměstnanostní výzvy jsou často mimo podnikatelský OP TAK, ale analyticky důležité.",
+    "type": "RSS kanál",
+    "url": "https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/rss",
+    "target_groups": "zaměstnavatelé, obce, neziskové organizace, sociální služby",
+    "topics": "OPZ+, zaměstnanost, sociální začleňování, dětské skupiny, sociální podnikání",
+    "notes": "Kanál vrací přímo výzvy s číslem, alokací i termíny. Server odpovídá i přes dvacet sekund, proto má zdroj vlastní delší timeout.",
     "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv", "opz-plus"],
-    "candidate_keywords": ["výzva", "vyzva", "opz", "dotace"]
+    "adapter": "rss",
+    "min_items": 10,
+    "limit": 40,
+    "timeout": 75
   },
   {
     "id": "irop-2021-2027",
@@ -135,40 +187,115 @@
     "type": "HTML katalog",
     "url": "https://irop.gov.cz/cs/vyzvy-2021-2027",
     "target_groups": "obce, kraje, veřejné instituce, sociální a zdravotní služby, školství",
-    "topics": "regionální rozvoj, eGovernment, sociální infrastruktura, doprava, kultura",
-    "notes": "IROP je široký program pro regionální infrastrukturu a veřejné služby, často mimo podnikatelské dotace.",
+    "topics": "regionální rozvoj, eGovernment, sociální infrastruktura, doprava, kultura, cestovní ruch",
+    "notes": "Široký program pro regionální infrastrukturu; pro firmy relevantní hlavně přes cestovní ruch a kulturní dědictví.",
     "integration": "automatizováno",
     "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv", "irop"],
-    "candidate_keywords": ["výzva", "vyzva", "irop"]
-  },
-  {
-    "id": "opzp-2021-2027",
-    "name": "OPŽP 2021-2027",
-    "category": "Fondy EU v ČR",
-    "type": "HTML katalog",
-    "url": "https://opzp.cz/nabidka-dotaci/",
-    "target_groups": "obce, kraje, veřejný sektor, školy, neziskové organizace, podnikající fyzické osoby",
-    "topics": "životní prostředí, voda, odpady, klima, veřejné budovy, obnovitelné zdroje",
-    "notes": "OPŽP je primární zdroj environmentálních výzev; vhodný kandidát na další plně automatický parser.",
-    "integration": "automatizováno",
-    "adapter": "html_catalog",
-    "include_url_patterns": ["nabidka-dotaci", "vyzv", "dotace"],
-    "candidate_keywords": ["výzva", "vyzva", "dotace", "opžp", "opzp"]
+    "limit": 60,
+    "include_url_patterns": [
+      "vyzv",
+      "irop"
+    ],
+    "candidate_keywords": [
+      "výzva",
+      "vyzva",
+      "irop"
+    ]
   },
   {
     "id": "op-jak",
     "name": "OP JAK",
     "category": "Fondy EU v ČR",
+    "type": "Sitemap",
+    "url": "https://www.opjak.cz/wp-sitemap.xml",
+    "target_groups": "školy, univerzity, výzkumné organizace",
+    "topics": "vzdělávání, výzkum, vývoj, inovace",
+    "notes": "Doména opjak.gov.cz má nesedící TLS certifikát, funkční je opjak.cz. Přehled výzev se dotahuje ze sitemapy, protože výpis je vykreslovaný v prohlížeči.",
+    "integration": "automatizováno",
+    "adapter": "sitemap",
+    "limit": 40,
+    "include_url_patterns": [
+      "/vyzvy/"
+    ],
+    "exclude_url_patterns": [
+      "/udalosti/",
+      "/faq/",
+      "/aktuality/"
+    ]
+  },
+  {
+    "id": "op-doprava",
+    "name": "OP Doprava 2021-2027",
+    "category": "Fondy EU v ČR",
     "type": "HTML katalog",
-    "url": "https://opjak.gov.cz/vyzvy/",
-    "target_groups": "školy, univerzity, výzkumné organizace, veřejná správa",
-    "topics": "vzdělávání, výzkum, vývoj, inovace, regionální školství",
-    "notes": "Důležitý pro akademické, školské a výzkumné projekty mimo TA ČR a OP TAK.",
+    "url": "https://www.opd.cz/stranka/vyzvy-opd3",
+    "target_groups": "správci infrastruktury, dopravci, obce, firmy v dopravě",
+    "topics": "železnice, silnice, městská mobilita, alternativní paliva, dobíjecí infrastruktura",
+    "notes": "Výzvy jsou vypsané přímo na jedné stránce, samostatné detaily program nemá. Evidujeme proto přehledovou stránku.",
+    "integration": "automatizováno",
+    "adapter": "reference_page",
+    "for_business": true,
+    "limit": 40
+  },
+  {
+    "id": "sfzp",
+    "name": "SFŽP - dotace a půjčky",
+    "category": "Státní programy",
+    "type": "HTML katalog",
+    "url": "https://sfzp.gov.cz/dotace-a-pujcky/modernizacni-fond/vyzvy/",
+    "target_groups": "firmy, energetika, teplárenství, obce, kraje, veřejný sektor",
+    "topics": "Modernizační fond, finanční nástroje, Norské fondy, Národní program Životní prostředí, energetika",
+    "notes": "Fond spravuje několik programů na jedné doméně a stránky sdílejí navigaci; sbírá se proto celá sekce dotací a půjček najednou, včetně Norských fondů.",
     "integration": "automatizováno",
     "adapter": "html_catalog",
-    "include_url_patterns": ["vyzv", "opjak"],
-    "candidate_keywords": ["výzva", "vyzva", "op jak", "dotace"]
+    "for_business": true,
+    "limit": 60,
+    "include_url_patterns": [
+      "/dotace-a-pujcky/"
+    ],
+    "candidate_keywords": [
+      "výzva",
+      "vyzva",
+      "dotace",
+      "půjčk",
+      "pujck",
+      "fond",
+      "program"
+    ],
+    "min_items": 8,
+    "exclude_url_patterns": [
+      "/o-sfzp-cr/",
+      "/legislativa/",
+      "/kariera"
+    ]
+  },
+  {
+    "id": "nrb",
+    "name": "Národní rozvojová banka",
+    "category": "Finanční nástroje",
+    "type": "HTML katalog",
+    "url": "https://www.nrb.cz/podnikatele/",
+    "target_groups": "MSP, začínající podnikatelé, střední firmy",
+    "topics": "zvýhodněné úvěry, záruky, Expanze, Fenix, úvěry s dotací EK, provozní financování",
+    "notes": "Záruky a zvýhodněné úvěry jsou pro řadu firem dostupnější než dotace. Dřív v přehledu úplně chyběly.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "for_business": true,
+    "limit": 40,
+    "include_url_patterns": [
+      "/produkt/",
+      "/podnikatele",
+      "/program"
+    ],
+    "candidate_keywords": [
+      "úvěr",
+      "uver",
+      "záruka",
+      "zaruka",
+      "program",
+      "podpora",
+      "financování"
+    ]
   },
   {
     "id": "tacr-souteze",
@@ -177,39 +304,215 @@
     "type": "HTML katalog",
     "url": "https://tacr.gov.cz/programy-a-souteze/",
     "target_groups": "firmy, výzkumné organizace, univerzity",
-    "topics": "aplikovaný výzkum, inovace, SIGMA, TREND, DOPRAVA",
-    "notes": "Klíčové mimo strukturální fondy pro R&D a inovační projekty.",
+    "topics": "aplikovaný výzkum, inovace, SIGMA, TREND, THÉTA, DOPRAVA 2030",
+    "notes": "Klíčový mimostrukturální zdroj pro firemní výzkum a vývoj.",
     "integration": "automatizováno",
     "adapter": "html_catalog",
-    "include_url_patterns": ["soutez", "souteze", "program"],
-    "candidate_keywords": ["soutěž", "soutez", "výzva", "vyzva", "program"]
+    "for_business": true,
+    "min_items": 5,
+    "limit": 50,
+    "include_url_patterns": [
+      "soutez",
+      "souteze",
+      "program"
+    ],
+    "candidate_keywords": [
+      "soutěž",
+      "soutez",
+      "výzva",
+      "vyzva",
+      "program"
+    ]
+  },
+  {
+    "id": "gacr",
+    "name": "GA ČR - grantové soutěže",
+    "category": "Oborové agentury",
+    "type": "HTML katalog",
+    "url": "https://gacr.cz/aktualni-vyzvy/",
+    "target_groups": "výzkumné organizace, univerzity, výzkumné týmy ve firmách",
+    "topics": "základní výzkum, standardní projekty, juniorské granty, mezinárodní spolupráce",
+    "notes": "Doplňuje TA ČR o základní výzkum, který strukturální fondy nepokrývají.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "limit": 30,
+    "include_url_patterns": [
+      "vyzv",
+      "soutez"
+    ],
+    "candidate_keywords": [
+      "výzva",
+      "vyzva",
+      "soutěž",
+      "soutez"
+    ]
   },
   {
     "id": "czechinvest-dotace",
-    "name": "CzechInvest - investiční pobídky a dotace",
+    "name": "CzechInvest - pobídky a programy",
     "category": "Oborové agentury",
     "type": "HTML katalog",
     "url": "https://czechinvest.gov.cz/cz/Sluzby-pro-investory/Investicni-pobidky-a-dotace",
     "target_groups": "investoři, výrobní firmy, technologické firmy",
-    "topics": "investiční pobídky, přímé granty, zaměstnanci, školení",
-    "notes": "Důležité pro větší investiční projekty a pobídky mimo běžné dotační výzvy.",
+    "topics": "investiční pobídky, přímé granty, školení zaměstnanců",
+    "notes": "Důležité pro větší investiční projekty mimo běžné dotační výzvy.",
     "integration": "automatizováno",
     "adapter": "html_catalog",
-    "include_url_patterns": ["pobidky", "dotace", "program"],
-    "candidate_keywords": ["dotace", "pobídky", "pobidky", "výzva", "vyzva"]
+    "for_business": true,
+    "limit": 30,
+    "include_url_patterns": [
+      "pobidky",
+      "dotace",
+      "program"
+    ],
+    "candidate_keywords": [
+      "dotace",
+      "pobídky",
+      "pobidky",
+      "výzva",
+      "vyzva"
+    ]
+  },
+  {
+    "id": "pgrlf",
+    "name": "PGRLF - podpora zemědělství a lesnictví",
+    "category": "Oborové agentury",
+    "type": "HTML katalog",
+    "url": "https://www.pgrlf.cz/programy/",
+    "target_groups": "zemědělské podniky, potravináři, lesní hospodáři",
+    "topics": "zvýhodněné úvěry, dotace úroků, nákup půdy, pojištění, zpracovatelé",
+    "notes": "Provozní a investiční podpora pro zemědělské a potravinářské firmy.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "for_business": true,
+    "limit": 40,
+    "include_url_patterns": [
+      "program",
+      "podpor"
+    ],
+    "candidate_keywords": [
+      "program",
+      "podpora",
+      "úvěr",
+      "uver",
+      "dotace",
+      "zemědělec",
+      "zemedelec"
+    ]
+  },
+  {
+    "id": "szif",
+    "name": "SZIF - zemědělské dotace",
+    "category": "Oborové agentury",
+    "type": "Ruční monitoring",
+    "url": "https://szif.gov.cz/cs/nd",
+    "target_groups": "zemědělci, potravináři, MAS, obce, venkov",
+    "topics": "Společná zemědělská politika, národní dotace, Strategický plán SZP",
+    "notes": "Portál se celý vykresluje až v prohlížeči, ze serveru přijde prázdná kostra. Automatický sběr proto zatím není možný; dotační programy je nutné sledovat ručně.",
+    "integration": "ruční monitoring",
+    "adapter": "manual",
+    "for_business": true,
+    "limit": 40
+  },
+  {
+    "id": "fond-kinematografie",
+    "name": "Státní fond kinematografie",
+    "category": "Oborové agentury",
+    "type": "HTML katalog",
+    "url": "https://fondkinematografie.cz/vyzvy/",
+    "target_groups": "producenti, audiovizuální firmy, distributoři",
+    "topics": "vývoj a výroba filmu, distribuce, filmové pobídky, videoherní průmysl",
+    "notes": "Výzvy jsou seskupené do okruhů A–D; každý okruh má vlastní stránku s texty i formuláři.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "for_business": true,
+    "limit": 40,
+    "include_url_patterns": [
+      "/vyzvy/"
+    ],
+    "candidate_keywords": [
+      "vyzv",
+      "výzv",
+      "kinematografie",
+      "televizn",
+      "animace",
+      "infrastruktura"
+    ]
+  },
+  {
+    "id": "mmr-narodni-dotace",
+    "name": "MMR - národní dotace",
+    "category": "Státní programy",
+    "type": "HTML katalog",
+    "url": "https://mmr.gov.cz/cs/narodni-dotace",
+    "target_groups": "obce, kraje, podnikatelé v cestovním ruchu",
+    "topics": "cestovní ruch, bydlení, regionální rozvoj, obnova území",
+    "notes": "Národní programy mimo evropské fondy; pro firmy hlavně cestovní ruch.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "limit": 40,
+    "include_url_patterns": [
+      "narodni-dotace",
+      "vyzv",
+      "podpora"
+    ],
+    "candidate_keywords": [
+      "výzva",
+      "vyzva",
+      "dotace",
+      "podpora",
+      "program"
+    ]
+  },
+  {
+    "id": "interreg-sn-cz",
+    "name": "Interreg Česko - Sasko",
+    "category": "Přeshraniční spolupráce",
+    "type": "HTML katalog",
+    "url": "https://www.sn-cz2027.eu/cz/pro-zadatele",
+    "target_groups": "firmy, obce, školy a spolky v příhraničí",
+    "topics": "přeshraniční projekty, inovace, cestovní ruch, vzdělávání, krizové řízení",
+    "notes": "Program nemá samostatné stránky výzev; evidujeme rozcestník pro žadatele.",
+    "integration": "automatizováno",
+    "adapter": "reference_page",
+    "limit": 30
+  },
+  {
+    "id": "interreg-sk-cz",
+    "name": "Interreg Slovensko - Česko",
+    "category": "Přeshraniční spolupráce",
+    "type": "HTML katalog",
+    "url": "https://www.sk-cz.eu/category/vyzvynapredkladaniezonfp/",
+    "target_groups": "firmy, obce, školy a spolky v příhraničí",
+    "topics": "přeshraniční projekty, cestovní ruch, vzdělávání, životní prostředí",
+    "notes": "Kategorie s vyhlášenými výzvami. Texty jsou slovensky.",
+    "integration": "automatizováno",
+    "adapter": "html_catalog",
+    "limit": 30,
+    "include_url_patterns": [
+      "vyzv",
+      "dotac",
+      "nfp"
+    ],
+    "candidate_keywords": [
+      "vyzv",
+      "výzv",
+      "dotac",
+      "podpor",
+      "zonfp"
+    ]
   },
   {
     "id": "mfcr-isred",
-    "name": "MF ČR otevřená data - IS ReD / dotace",
+    "name": "MF ČR otevřená data - dotace",
     "category": "Registry a otevřená data",
-    "type": "Otevřená data/API",
+    "type": "Ruční monitoring",
     "url": "https://data.mf.gov.cz/topics/dotace.html",
     "target_groups": "analytici, kontrola příjemců, audit",
     "topics": "registr dotací, příjemci, poskytovatelé, čerpání",
-    "notes": "Použít pro enrichment, historii příjemců a kontrolu vazeb, ne jako primární zdroj aktuálních výzev.",
-    "integration": "automatizováno",
-    "adapter": "reference_page",
-    "candidate_keywords": ["dotace", "dataset", "is red", "registr"]
+    "notes": "Registr dotací slouží k ověření historie příjemců, ne k hledání výzev. Datové sady se stahují ručně podle potřeby.",
+    "integration": "ruční monitoring",
+    "adapter": "manual"
   },
   {
     "id": "krajske-dotacni-portaly",
@@ -217,9 +520,9 @@
     "category": "Kraje a obce",
     "type": "Ruční monitoring",
     "url": "https://www.kr-kralovehradecky.cz/dotace",
-    "target_groups": "obce, neziskové organizace, školy, sport, kultura, sociální služby",
+    "target_groups": "firmy, obce, neziskové organizace, školy",
     "topics": "krajské dotace, granty, příspěvky, lokální programy",
-    "notes": "Regionální dotace jsou velký samostatný blok. Seed zatím reprezentuje kategorii, ne kompletní automatizaci všech krajů.",
+    "notes": "Každý ze čtrnácti krajů má vlastní systém. Zatím jde o zástupce kategorie, ne o plnou automatizaci.",
     "integration": "ruční monitoring",
     "adapter": "manual"
   },
@@ -230,8 +533,8 @@
     "type": "Ruční monitoring",
     "url": "https://www.dotacni.info/",
     "target_groups": "firmy, obce, neziskové organizace",
-    "topics": "komerční monitoring výzev, newslettery, orientační přehled",
-    "notes": "Užitečné pro objevování slepých míst, ale databáze z oficiálních zdrojů musí zůstat zdroj pravdy.",
+    "topics": "komerční monitoring výzev, newslettery",
+    "notes": "Užitečné pro objevování slepých míst, zdrojem pravdy zůstávají oficiální portály.",
     "integration": "ruční monitoring",
     "adapter": "manual"
   }
