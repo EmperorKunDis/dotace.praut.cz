@@ -3,235 +3,771 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Dotace Manager - statický přehled</title>
+  <title>Dotace Manager — otevřené dotační výzvy pro firmy v ČR</title>
+  <meta name="description" content="Přehled otevřených dotačních výzev, úvěrů a záruk pro firmy se sídlem v České republice. Data z oficiálních zdrojů, aktualizovaná každý týden.">
+  <meta name="color-scheme" content="light dark">
+  <meta property="og:title" content="Dotace Manager">
+  <meta property="og:description" content="Na co si může vaše firma podat žádost a do kdy. Z oficiálních zdrojů.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dotace.praut.cz/">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23146c5f'/><path d='M9 21V11h5.4c2.9 0 4.6 1.9 4.6 5s-1.7 5-4.6 5H9Zm3-2.4h2.2c1.3 0 2-.9 2-2.6s-.7-2.6-2-2.6H12v5.2Z' fill='white'/><circle cx='23' cy='19.5' r='1.8' fill='%237ee0c6'/></svg>">
   <style>
-    :root { --bg:#f6f7f9; --surface:#fff; --line:#d9e0e7; --text:#17202a; --muted:#667085; --accent:#146c5f; --blue:#1f4e79; --ok:#027a48; --warn:#b54708; --danger:#b42318; }
-    * { box-sizing:border-box; }
-    body { margin:0; font-family:Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:var(--bg); color:var(--text); }
-    header { position:sticky; top:0; z-index:5; background:#14212b; color:white; padding:16px 22px; display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; }
-    h1 { margin:0; font-size:22px; letter-spacing:0; }
-    .generated { color:#cbd5df; font-size:13px; }
-    main { padding:22px; max-width:1500px; margin:0 auto; }
-    .metrics { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
-    .control-panel { background:var(--surface); border:1px solid var(--line); border-radius:8px; padding:16px; margin-bottom:16px; box-shadow:0 1px 2px rgba(16,24,40,.04); }
-    .control-title { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:12px; flex-wrap:wrap; }
-    .control-title h2 { margin:0; font-size:18px; }
-    .tabs, .quick-filters { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:14px; }
-    .filters { display:grid; grid-template-columns:minmax(260px, 1fr) 180px 180px 160px; gap:10px; align-items:end; }
-    .field { display:grid; gap:5px; }
-    .field label { color:var(--muted); font-size:12px; font-weight:700; text-transform:uppercase; }
-    button, select, input { border:1px solid var(--line); border-radius:6px; min-height:38px; padding:8px 10px; font:inherit; background:white; }
-    button { cursor:pointer; font-weight:700; }
-    button.active { background:var(--accent); color:white; border-color:var(--accent); }
-    .tab-button { min-height:48px; padding:10px 18px; font-size:15px; }
-    .quick-button { min-height:36px; border-radius:999px; }
-    .reset { color:var(--danger); border-color:#fecdca; }
-    input { min-width:300px; flex:1; }
-    .metric { background:var(--surface); border:1px solid var(--line); border-radius:8px; padding:12px 14px; min-width:160px; }
-    .metric span { display:block; color:var(--muted); font-size:12px; }
-    .metric strong { font-size:26px; }
-    .panel { background:var(--surface); border:1px solid var(--line); border-radius:8px; padding:14px; margin-bottom:16px; }
-    .notice { border-left:4px solid var(--accent); line-height:1.5; }
-    table { width:100%; border-collapse:collapse; font-size:14px; }
-    th, td { border-bottom:1px solid var(--line); padding:9px 8px; text-align:left; vertical-align:top; }
-    th { background:#eef2f6; color:var(--muted); }
-    a { color:var(--blue); text-decoration:none; }
-    a:hover { text-decoration:underline; }
-    .badge { display:inline-flex; border-radius:999px; padding:3px 8px; font-size:12px; font-weight:700; background:#eef2f6; }
-    .active-badge, .automatizováno { background:#d1fadf; color:var(--ok); }
-    .completed-badge { background:#eceff3; color:#475467; }
-    .unknown-badge, .ready-badge { background:#fef0c7; color:var(--warn); }
-    .muted { color:var(--muted); }
-    .compact { margin:6px 0 0; font-size:12px; line-height:1.4; }
-    .hidden { display:none; }
-    .results-bar { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:12px; flex-wrap:wrap; }
-    .cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:12px; }
-    .card { background:white; border:1px solid var(--line); border-radius:8px; padding:14px; display:grid; gap:8px; }
-    .card h3 { margin:0; font-size:16px; line-height:1.3; }
-    .card p { margin:0; line-height:1.45; }
-    @media (max-width: 900px) { .filters { grid-template-columns:1fr; } input { min-width:100%; } main { padding:14px; } table { font-size:12px; } }
+    :root {
+      --bg: #f4f6f7;
+      --surface: #ffffff;
+      --surface-2: #eef1f3;
+      --line: #dde3e7;
+      --line-strong: #c3ccd2;
+      --text: #14201c;
+      --muted: #5d6b73;
+      --accent: #146c5f;
+      --accent-soft: #e3f2ee;
+      --urgent: #a8321f;
+      --urgent-soft: #fbeae7;
+      --soon: #8a5206;
+      --soon-soft: #fdf1de;
+      --calm: #2c5a86;
+      --calm-soft: #e8f0f7;
+      --shadow: 0 1px 2px rgba(16, 32, 28, .05);
+      --radius: 10px;
+      --focus: #0f6fd1;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #101614;
+        --surface: #17201e;
+        --surface-2: #1e2826;
+        --line: #2a3733;
+        --line-strong: #3c4d47;
+        --text: #e8efec;
+        --muted: #96a5a0;
+        --accent: #4fbfa5;
+        --accent-soft: #16302a;
+        --urgent: #ff9a86;
+        --urgent-soft: #3a1f1a;
+        --soon: #f0c07a;
+        --soon-soft: #372a16;
+        --calm: #8fbde9;
+        --calm-soft: #16283a;
+        --shadow: none;
+        --focus: #6fb2f5;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 15px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-feature-settings: "tnum" 1;
+    }
+    :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+    a { color: inherit; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .shell { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
+
+    /* ---- hlavička -------------------------------------------------- */
+    .topbar { border-bottom: 1px solid var(--line); background: var(--surface); }
+    .topbar .shell {
+      display: flex; align-items: baseline; justify-content: space-between;
+      gap: 20px; flex-wrap: wrap; padding-top: 18px; padding-bottom: 18px;
+    }
+    .wordmark { display: flex; align-items: baseline; gap: 10px; }
+    .wordmark strong { font-size: 19px; letter-spacing: -.01em; }
+    .wordmark span { color: var(--muted); font-size: 13px; }
+    .freshness { font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 7px; }
+    .freshness::before {
+      content: ""; width: 7px; height: 7px; border-radius: 50%;
+      background: var(--accent); flex: none;
+    }
+    .freshness.stale { color: var(--soon); }
+    .freshness.stale::before { background: var(--soon); }
+
+    /* ---- úvodní řádek ---------------------------------------------- */
+    .lede { padding: 30px 0 22px; }
+    .lede h1 { margin: 0 0 8px; font-size: clamp(23px, 3.4vw, 32px); letter-spacing: -.02em; line-height: 1.2; }
+    .lede p { margin: 0; color: var(--muted); max-width: 62ch; }
+
+    .figures { display: flex; gap: 28px; flex-wrap: wrap; margin: 22px 0 26px; }
+    .figure { display: flex; flex-direction: column; gap: 2px; }
+    .figure b { font-size: 26px; font-weight: 650; letter-spacing: -.02em; line-height: 1.1; }
+    .figure span { font-size: 12.5px; color: var(--muted); text-transform: lowercase; }
+
+    /* ---- ovládání --------------------------------------------------- */
+    .controls { display: grid; gap: 12px; margin-bottom: 8px; }
+    .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+    .row.spread { justify-content: space-between; }
+    .grow { flex: 1 1 260px; min-width: 0; }
+
+    input[type=search], select, button {
+      font: inherit; color: inherit;
+      background: var(--surface);
+      border: 1px solid var(--line-strong);
+      border-radius: 8px;
+      min-height: 40px;
+      padding: 8px 11px;
+    }
+    input[type=search] { width: 100%; }
+    select { cursor: pointer; padding-right: 28px; }
+    button { cursor: pointer; }
+    button:hover, select:hover { border-color: var(--muted); }
+
+    .segmented { display: inline-flex; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 8px; padding: 3px; gap: 3px; }
+    .segmented button { border: 0; background: transparent; min-height: 32px; padding: 4px 13px; border-radius: 6px; color: var(--muted); font-weight: 550; }
+    .segmented button[aria-pressed=true] { background: var(--accent); color: #fff; }
+
+    .toggle { display: inline-flex; align-items: center; gap: 8px; min-height: 40px; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface); font-weight: 550; }
+    .toggle[aria-pressed=true] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+    .linkish { border: 0; background: none; padding: 4px 2px; min-height: auto; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; }
+    .linkish:hover { color: var(--text); }
+
+    .facets { display: grid; grid-template-columns: repeat(auto-fit, minmax(184px, 1fr)); gap: 10px; }
+    .facets.hidden { display: none; }
+    .facets label { display: grid; gap: 4px; font-size: 12px; color: var(--muted); font-weight: 600; }
+
+    .resultline { display: flex; justify-content: space-between; align-items: baseline; gap: 14px; flex-wrap: wrap; padding: 18px 0 12px; border-bottom: 1px solid var(--line); margin-bottom: 18px; }
+    .resultline strong { font-size: 15px; font-weight: 600; }
+    .resultline span { color: var(--muted); font-size: 13px; }
+
+    /* ---- karty ------------------------------------------------------ */
+    .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 14px; align-items: start; }
+    .card {
+      background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+      box-shadow: var(--shadow); padding: 16px 17px 15px; display: grid; gap: 10px;
+      text-align: left; width: 100%; cursor: pointer; min-height: 0;
+      transition: border-color .12s ease, transform .12s ease;
+    }
+    .card:hover { border-color: var(--line-strong); transform: translateY(-1px); }
+    .card-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+    .clock { font-size: 13px; font-weight: 650; white-space: nowrap; color: var(--muted); }
+    .clock.urgent { color: var(--urgent); }
+    .clock.soon { color: var(--soon); }
+    .eyebrow { font-size: 12px; color: var(--muted); letter-spacing: .02em; text-transform: uppercase; font-weight: 600; }
+    .card h3 { margin: 0; font-size: 15.5px; line-height: 1.35; font-weight: 620; letter-spacing: -.005em; }
+    .card p { margin: 0; color: var(--muted); font-size: 13.5px; line-height: 1.5; }
+    .facts { display: flex; gap: 6px 14px; flex-wrap: wrap; font-size: 12.5px; color: var(--muted); }
+    .facts b { font-weight: 620; color: var(--text); }
+
+    .tag { display: inline-flex; align-items: center; gap: 5px; font-size: 11.5px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--surface-2); color: var(--muted); }
+    .tag.state-active { background: var(--accent-soft); color: var(--accent); }
+    .tag.state-upcoming { background: var(--calm-soft); color: var(--calm); }
+    .tag.state-completed { background: var(--surface-2); color: var(--muted); }
+    .tag.state-unknown { background: var(--soon-soft); color: var(--soon); }
+    .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+
+    .empty { border: 1px dashed var(--line-strong); border-radius: var(--radius); padding: 44px 20px; text-align: center; color: var(--muted); }
+    .more { display: flex; justify-content: center; padding: 26px 0 6px; }
+
+    /* ---- detail ------------------------------------------------------ */
+    dialog {
+      position: relative;
+      border: 1px solid var(--line); border-radius: 14px; padding: 0; max-width: 760px; width: min(94vw, 760px);
+      background: var(--surface); color: var(--text); box-shadow: 0 24px 60px rgba(10, 20, 18, .28);
+    }
+    dialog::backdrop { background: rgba(10, 20, 18, .5); }
+    .sheet { display: grid; gap: 18px; padding: 22px 24px 24px; max-height: 86vh; overflow: auto; overscroll-behavior: contain; }
+    .sheet header { display: grid; gap: 10px; padding-right: 84px; }
+    .sheet h2 { margin: 0; font-size: 20px; line-height: 1.3; letter-spacing: -.015em; }
+    .sheet-close {
+      position: absolute; top: 14px; right: 16px; z-index: 1;
+      min-height: 32px; padding: 4px 12px; font-size: 13px; color: var(--muted);
+      background: var(--surface-2); border-color: transparent;
+    }
+    .sheet-close:hover { color: var(--text); border-color: var(--line-strong); }
+    dl.params { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px 20px; margin: 0; padding: 15px 16px; background: var(--surface-2); border-radius: var(--radius); }
+    dl.params div { display: grid; gap: 2px; }
+    dl.params dt { font-size: 12px; color: var(--muted); font-weight: 600; }
+    dl.params dd { margin: 0; font-size: 14.5px; font-weight: 600; }
+    .sheet section h3 { margin: 0 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+    .sheet section p { margin: 0; line-height: 1.6; }
+    .files { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+    .files li { background: var(--surface); }
+    .files a { display: flex; justify-content: space-between; align-items: center; gap: 14px; padding: 10px 13px; font-size: 13.5px; }
+    .files a:hover { background: var(--surface-2); text-decoration: none; }
+    .files .ext { font-size: 11px; font-weight: 700; color: var(--muted); flex: none; }
+    .cta { display: inline-flex; align-items: center; gap: 8px; background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 600; padding: 10px 16px; border-radius: 8px; }
+    .cta:hover { text-decoration: none; filter: brightness(1.08); }
+
+    /* ---- tabulka zdrojů ---------------------------------------------- */
+    .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+    table { width: 100%; border-collapse: collapse; font-size: 13.5px; min-width: 720px; }
+    th, td { text-align: left; padding: 11px 13px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { font-size: 12px; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); background: var(--surface-2); position: sticky; top: 0; }
+    tbody tr:last-child td { border-bottom: 0; }
+    td .note { color: var(--muted); font-size: 12.5px; margin: 4px 0 0; }
+
+    .notices { display: grid; gap: 8px; margin-bottom: 20px; }
+    .notice { border-left: 3px solid var(--soon); background: var(--soon-soft); color: var(--soon); padding: 10px 14px; border-radius: 0 8px 8px 0; font-size: 13px; }
+
+    footer { border-top: 1px solid var(--line); margin-top: 52px; padding: 26px 0 40px; color: var(--muted); font-size: 13px; }
+    footer .shell { display: flex; gap: 18px; justify-content: space-between; flex-wrap: wrap; }
+
+    .hidden { display: none !important; }
+    .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+    @media (max-width: 700px) {
+      .shell { padding: 0 16px; }
+      .cards { grid-template-columns: 1fr; }
+      .figures { gap: 18px; }
+      .figure b { font-size: 22px; }
+    }
+    @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Dotace Manager</h1>
-    <div class="generated" id="generated"></div>
-  </header>
-  <main>
-    <section class="panel notice">
-      <strong>Read-only GitHub Pages export.</strong>
-      Tady je statický snapshot dat. Nový import zdrojů generuje soubor data.js lokálně přes Python pipeline.
-    </section>
-    <section class="metrics" id="metrics"></section>
-    <section class="control-panel">
-      <div class="control-title">
-        <h2>Menu a filtry</h2>
-        <span class="muted" id="resultCount"></span>
+  <div class="topbar">
+    <div class="shell">
+      <div class="wordmark"><strong>Dotace Manager</strong><span>veřejné dotace pro firmy v ČR</span></div>
+      <div class="freshness" id="freshness"></div>
+    </div>
+  </div>
+
+  <main class="shell">
+    <div class="lede">
+      <h1>Na co si vaše firma může podat žádost</h1>
+      <p>Otevřené výzvy, zvýhodněné úvěry a záruky z oficiálních českých a evropských zdrojů. Řazeno podle toho, co končí nejdřív.</p>
+    </div>
+
+    <section class="figures" id="figures" aria-label="Souhrnná čísla"></section>
+
+    <div class="notices" id="notices"></div>
+
+    <nav class="row" aria-label="Hlavní přepínač">
+      <div class="segmented" role="group" aria-label="Zobrazení">
+        <button type="button" data-view="items" aria-pressed="true">Výzvy</button>
+        <button type="button" data-view="sources" aria-pressed="false">Zdroje dat</button>
       </div>
-      <nav class="tabs">
-        <button class="tab-button active" data-view="items">Výzvy a obsah</button>
-        <button class="tab-button" data-view="sources">Dotační zdroje</button>
-      </nav>
-      <section class="quick-filters" id="quickFilters">
-        <button class="quick-button active" data-status="">Vše</button>
-        <button class="quick-button" data-status="active">Probíhající</button>
-        <button class="quick-button" data-status="completed">Ukončené</button>
-        <button class="quick-button" data-status="unknown">Bez termínu</button>
-        <button class="quick-button reset" id="resetFilters" type="button">Reset filtrů</button>
-      </section>
-      <section class="filters" id="itemFilters">
-        <div class="field">
-          <label for="q">Fulltext</label>
-          <input id="q" type="search" placeholder="Hledat název, text, téma nebo zdroj">
+    </nav>
+
+    <section class="controls" id="itemControls" aria-label="Filtry výzev">
+      <div class="row">
+        <div class="grow">
+          <label class="visually-hidden" for="q">Hledat ve výzvách</label>
+          <input id="q" type="search" placeholder="Hledat: fotovoltaika, digitalizace, úvěr, Horizon…" autocomplete="off">
         </div>
-        <div class="field">
-          <label for="status">Stav</label>
-          <select id="status">
-            <option value="">Všechny stavy</option>
-            <option value="active">Probíhající</option>
-            <option value="completed">Ukončené</option>
-            <option value="unknown">Bez jasného termínu</option>
-          </select>
+        <div class="segmented" role="group" aria-label="Stav výzvy">
+          <button type="button" data-status="open" aria-pressed="true">Otevřené</button>
+          <button type="button" data-status="upcoming" aria-pressed="false">Připravované</button>
+          <button type="button" data-status="unknown" aria-pressed="false">Bez termínu</button>
+          <button type="button" data-status="completed" aria-pressed="false">Ukončené</button>
+          <button type="button" data-status="" aria-pressed="false">Vše</button>
         </div>
-        <div class="field">
-          <label for="type">Typ obsahu</label>
-          <select id="type">
-            <option value="">Všechny typy</option>
-            <option value="grant">Dotace</option>
-            <option value="article">Článek</option>
-            <option value="event">Akce</option>
-            <option value="page">Stránka</option>
-            <option value="faq">FAQ</option>
-          </select>
-        </div>
-        <div class="field">
-          <label for="sort">Řazení</label>
+        <button type="button" class="toggle" id="businessOnly" aria-pressed="true">Jen pro firmy</button>
+      </div>
+
+      <div class="row spread">
+        <button type="button" class="linkish" id="toggleFacets" aria-expanded="false" aria-controls="facets">Další filtry</button>
+        <button type="button" class="linkish" id="reset">Zrušit filtry</button>
+      </div>
+
+      <div class="facets hidden" id="facets">
+        <label>Program
+          <select id="program"><option value="">Všechny programy</option></select>
+        </label>
+        <label>Zdroj
+          <select id="source"><option value="">Všechny zdroje</option></select>
+        </label>
+        <label>Kdo může žádat
+          <select id="applicant"><option value="">Kdokoli</option></select>
+        </label>
+        <label>Region
+          <select id="region"><option value="">Celá ČR</option></select>
+        </label>
+        <label>Řazení
           <select id="sort">
-            <option value="deadline">Termín</option>
-            <option value="title">Název</option>
-            <option value="status">Stav</option>
+            <option value="deadline">Nejbližší termín</option>
+            <option value="allocation">Největší alokace</option>
+            <option value="title">Název A–Z</option>
           </select>
-        </div>
-      </section>
-      <section class="filters hidden" id="sourceFilters">
-        <div class="field">
-          <label for="sourceQ">Hledat ve zdrojích</label>
-          <input id="sourceQ" type="search" placeholder="Např. IROP, OPŽP, kraj, EU">
-        </div>
-        <div class="field">
-          <label for="integration">Napojení</label>
-          <select id="integration">
-            <option value="">Vše</option>
-            <option value="automatizováno">Automatizováno</option>
-            <option value="připraveno k napojení">Připraveno k napojení</option>
-            <option value="ruční monitoring">Ruční monitoring</option>
-          </select>
-        </div>
-      </section>
+        </label>
+      </div>
     </section>
-    <div class="results-bar"><strong id="viewTitle">Výzvy a obsah</strong><span class="muted" id="viewHint"></span></div>
-    <section id="itemsView" class="cards"></section>
-    <section id="sourcesView" class="panel hidden"></section>
+
+    <section class="controls hidden" id="sourceControls" aria-label="Filtry zdrojů">
+      <div class="row">
+        <div class="grow">
+          <label class="visually-hidden" for="sourceQ">Hledat ve zdrojích</label>
+          <input id="sourceQ" type="search" placeholder="Hledat zdroj: IROP, OP TAK, Interreg, úvěry…" autocomplete="off">
+        </div>
+      </div>
+    </section>
+
+    <div class="resultline">
+      <strong id="resultCount"></strong>
+      <span id="resultHint"></span>
+    </div>
+
+    <section id="itemsView" class="cards" aria-live="polite"></section>
+    <div class="more hidden" id="moreWrap"><button type="button" id="more">Zobrazit dalších 60</button></div>
+    <section id="sourcesView" class="table-wrap hidden"></section>
   </main>
-  <script src="data.js?v=20260517-124006"></script>
+
+  <dialog id="detail" aria-labelledby="detailTitle">
+    <button type="button" class="sheet-close" id="detailClose" aria-label="Zavřít detail">Zavřít</button>
+    <div class="sheet" id="detailBody"></div>
+  </dialog>
+
+  <footer>
+    <div class="shell">
+      <span id="footerNote"></span>
+      <span>Data z veřejných portálů. Závazné znění vždy najdete u vyhlašovatele.</span>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
   <script>
-    const data = window.DOTACE_EXPORT;
-    let view = "items";
-    const el = (id) => document.getElementById(id);
-    const norm = (value) => String(value || "").toLowerCase();
-    document.getElementById("generated").textContent = `Vygenerováno: ${data.generated_at}`;
-    document.getElementById("metrics").innerHTML = [
-      ["Položky celkem", data.stats.total],
-      ["Probíhající", data.stats.active],
-      ["Ukončené", data.stats.completed],
-      ["Bez termínu", data.stats.unknown],
-      ["Zdroje", data.stats.sources],
-    ].map(([label, value]) => `<article class="metric"><span>${label}</span><strong>${value}</strong></article>`).join("");
-    document.querySelectorAll("[data-view]").forEach((button) => {
-      button.addEventListener("click", () => {
-        view = button.dataset.view;
-        document.querySelectorAll("[data-view]").forEach((b) => b.classList.toggle("active", b === button));
-        el("itemsView").classList.toggle("hidden", view !== "items");
-        el("sourcesView").classList.toggle("hidden", view !== "sources");
-        el("itemFilters").classList.toggle("hidden", view !== "items");
-        el("quickFilters").classList.toggle("hidden", view !== "items");
-        el("sourceFilters").classList.toggle("hidden", view !== "sources");
-        el("viewTitle").textContent = view === "items" ? "Výzvy a obsah" : "Dotační zdroje";
-        render();
-      });
-    });
-    ["q", "status", "type", "sort", "sourceQ", "integration"].forEach((id) => el(id).addEventListener("input", render));
-    document.querySelectorAll("[data-status]").forEach((button) => {
-      button.addEventListener("click", () => {
-        el("status").value = button.dataset.status;
-        document.querySelectorAll("[data-status]").forEach((b) => b.classList.toggle("active", b === button));
-        render();
-      });
-    });
-    el("resetFilters").addEventListener("click", () => {
-      ["q", "status", "type", "sourceQ", "integration"].forEach((id) => el(id).value = "");
-      document.querySelectorAll("[data-status]").forEach((b) => b.classList.toggle("active", b.dataset.status === ""));
-      render();
-    });
-    function render() {
-      if (view === "sources") return renderSources();
-      const query = norm(el("q").value);
-      const status = el("status").value;
-      const type = el("type").value;
-      const sort = el("sort").value;
-      const allFiltered = data.items.filter((item) => {
-        const haystack = norm([item.title, item.text, item.summary, item.type, item.status, item.source_name, item.program].join(" "));
-        return (!query || haystack.includes(query)) && (!status || item.status_code === status) && (!type || item.type_code === type);
-      }).sort((a, b) => {
-        if (sort === "title") return a.title.localeCompare(b.title, "cs");
-        if (sort === "status") return a.status.localeCompare(b.status, "cs") || a.title.localeCompare(b.title, "cs");
-        return (a.deadline || "9999-99-99").localeCompare(b.deadline || "9999-99-99") || a.title.localeCompare(b.title, "cs");
-      });
-      const filtered = allFiltered.slice(0, 400);
-      el("resultCount").textContent = `${allFiltered.length} výsledků`;
-      el("viewHint").textContent = `Zobrazeno ${filtered.length} z ${allFiltered.length}.`;
-      el("itemsView").innerHTML = filtered.map((item) => `
-        <article class="card">
-          <h3><a href="${item.source_url}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a></h3>
-          <div>
-            <span class="badge ${item.status_code}-badge">${item.status}</span>
-            <span class="badge">${item.type}</span>
-            ${item.source_name ? `<span class="badge">${escapeHtml(item.source_name)}</span>` : ""}
-            ${item.program ? `<span class="badge">${escapeHtml(item.program)}</span>` : ""}
-            ${item.deadline ? `<span class="badge">Termín ${item.deadline}</span>` : ""}
-            <span class="badge">${(item.attachments || []).length} příloh</span>
-          </div>
-          <p class="muted">${escapeHtml(item.text || item.summary || "Bez extrahovaného textu.")}</p>
-        </article>
-      `).join("") || `<article class="panel">Nic nenalezeno.</article>`;
+  (() => {
+    "use strict";
+
+    const data = window.DOTACE_EXPORT || { items: [], sources: [], stats: {}, warnings: [] };
+    const items = data.items || [];
+    const sources = data.sources || [];
+    const byId = (id) => document.getElementById(id);
+    const TODAY = new Date(); TODAY.setHours(0, 0, 0, 0);
+    const PAGE = 60;
+
+    const czNumber = new Intl.NumberFormat("cs-CZ");
+    const czDate = new Intl.DateTimeFormat("cs-CZ", { day: "numeric", month: "long", year: "numeric" });
+    const collator = new Intl.Collator("cs");
+
+    const APPLICANTS = {
+      msp: "Malé a střední podniky",
+      velky_podnik: "Velké podniky",
+      osvc: "OSVČ",
+      vyzkumna_organizace: "Výzkumné organizace",
+      obec_kraj: "Obce a kraje",
+      nezisk: "Neziskové organizace",
+      skola: "Školy",
+    };
+    const STATES = {
+      active: "Probíhá příjem",
+      upcoming: "Připravuje se",
+      completed: "Ukončeno",
+      unknown: "Termín neuveden",
+    };
+
+    const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (ch) => (
+      { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]
+    ));
+    const safeUrl = (value) => (/^https?:\/\//i.test(String(value || "")) ? String(value) : "");
+    const norm = (value) => String(value ?? "").toLowerCase();
+
+    const parseDate = (iso) => {
+      if (!iso) return null;
+      const date = new Date(`${iso}T00:00:00`);
+      return Number.isNaN(date.getTime()) ? null : date;
+    };
+    const daysUntil = (iso) => {
+      const date = parseDate(iso);
+      return date ? Math.round((date - TODAY) / 86400000) : null;
+    };
+    const formatDate = (iso) => {
+      const date = parseDate(iso);
+      return date ? czDate.format(date) : "";
+    };
+    const formatMoney = (value) => {
+      if (!value) return "";
+      if (value >= 1e9) return `${czNumber.format(Math.round(value / 1e8) / 10)} mld. Kč`;
+      if (value >= 1e6) return `${czNumber.format(Math.round(value / 1e5) / 10)} mil. Kč`;
+      return `${czNumber.format(value)} Kč`;
+    };
+
+    /** Čeština skloňuje jinak pro 1, 2–4 a 5 a více. */
+    const dayCount = (n) => (n === 1 ? "1 den" : n >= 2 && n <= 4 ? `${n} dny` : `${czNumber.format(n)} dní`);
+    const remaining = (n) => (n >= 2 && n <= 4 ? `zbývají ${dayCount(n)}` : `zbývá ${dayCount(n)}`);
+
+    /** Zbývající čas je to jediné, co uživatel opravdu potřebuje vidět hned. */
+    function countdown(item) {
+      if (item.status_code === "upcoming") {
+        const days = daysUntil(item.opening_date);
+        if (days !== null && days > 0) return { text: `otevře se za ${dayCount(days)}`, tone: "" };
+        return { text: "brzy se otevře", tone: "" };
+      }
+      if (item.status_code === "completed") return { text: "ukončeno", tone: "" };
+      const days = daysUntil(item.closing_date);
+      if (days === null) return { text: "termín neuveden", tone: "" };
+      if (days < 0) return { text: "po termínu", tone: "" };
+      if (days === 0) return { text: "končí dnes", tone: "urgent" };
+      if (days <= 7) return { text: remaining(days), tone: "urgent" };
+      if (days <= 30) return { text: remaining(days), tone: "soon" };
+      return { text: remaining(days), tone: "" };
     }
-    function renderSources() {
-      const query = norm(el("sourceQ").value);
-      const integration = el("integration").value;
-      const sources = data.sources.filter((source) => {
-        const haystack = norm([source.name, source.category, source.type, source.topics, source.target_groups, source.notes, source.integration].join(" "));
-        return (!query || haystack.includes(query)) && (!integration || source.integration === integration);
+
+    const state = {
+      view: "items",
+      q: "",
+      status: "open",
+      business: true,
+      program: "",
+      source: "",
+      applicant: "",
+      region: "",
+      sort: "deadline",
+      sourceQ: "",
+      limit: PAGE,
+    };
+
+    // ---- stav dat --------------------------------------------------------
+    (function renderFreshness() {
+      const generated = data.generated_at ? new Date(data.generated_at) : null;
+      const node = byId("freshness");
+      if (!generated || Number.isNaN(generated.getTime())) {
+        node.textContent = "Datum aktualizace není známé";
+        node.classList.add("stale");
+        return;
+      }
+      const ageDays = Math.round((TODAY - generated) / 86400000);
+      const label = ageDays <= 0 ? "dnes" : ageDays === 1 ? "včera" : `před ${ageDays} dny`;
+      node.textContent = `Aktualizováno ${label}`;
+      node.title = generated.toLocaleString("cs-CZ");
+      if (ageDays > 10) {
+        node.classList.add("stale");
+        node.textContent = `Data jsou stará ${ageDays} dní`;
+      }
+      byId("footerNote").textContent =
+        `${items.length} položek z ${sources.length} zdrojů · poslední sběr ${generated.toLocaleDateString("cs-CZ")}`;
+    })();
+
+    (function renderNotices() {
+      const failures = (data.warnings || []).filter((w) => /nevrátil|nepodařilo|selhal|nedostupn/i.test(w));
+      if (!failures.length) return;
+      byId("notices").innerHTML =
+        `<p class="notice">Při posledním sběru se neozvalo ${failures.length} ze ${sources.length} zdrojů. Jejich výzvy proto nemusí být v seznamu.</p>`;
+    })();
+
+    (function renderFigures() {
+      const open = items.filter((i) => i.status_code === "active");
+      const business = open.filter((i) => i.for_business);
+      const closingSoon = open.filter((i) => {
+        const days = daysUntil(i.closing_date);
+        return days !== null && days >= 0 && days <= 30;
       });
-      el("resultCount").textContent = `${sources.length} zdrojů`;
-      el("viewHint").textContent = "Katalog zdrojů, ne seznam stažených výzev.";
-      el("sourcesView").innerHTML = `
+      byId("figures").innerHTML = [
+        [open.length, "otevřených výzev"],
+        [business.length, "z toho pro firmy"],
+        [closingSoon.length, "končí do 30 dnů"],
+        [items.filter((i) => i.status_code === "upcoming").length, "se teprve otevřou"],
+        [sources.length, "sledovaných zdrojů"],
+      ].map(([value, label]) =>
+        `<div class="figure"><b>${czNumber.format(value)}</b><span>${label}</span></div>`
+      ).join("");
+    })();
+
+    // ---- naplnění filtrů z dat ------------------------------------------
+    function fillSelect(id, values, formatter = (v) => v) {
+      const select = byId(id);
+      const options = values.map((value) =>
+        `<option value="${escapeHtml(value)}">${escapeHtml(formatter(value))}</option>`
+      );
+      select.insertAdjacentHTML("beforeend", options.join(""));
+    }
+    const uniqueSorted = (list) => [...new Set(list.filter(Boolean))].sort(collator.compare);
+
+    fillSelect("program", uniqueSorted(items.map((i) => i.program)));
+    fillSelect("source", uniqueSorted(items.map((i) => i.source_name)));
+    fillSelect("region", uniqueSorted(items.flatMap((i) => i.regions || [])));
+    fillSelect(
+      "applicant",
+      uniqueSorted(items.flatMap((i) => i.applicant_types || [])),
+      (key) => APPLICANTS[key] || key
+    );
+
+    // ---- filtrování ------------------------------------------------------
+    function matchesStatus(item) {
+      if (!state.status) return true;
+      if (state.status === "open") return item.status_code === "active";
+      return item.status_code === state.status;
+    }
+
+    function filtered() {
+      const query = norm(state.q).trim();
+      const words = query ? query.split(/\s+/) : [];
+      const list = items.filter((item) => {
+        if (!matchesStatus(item)) return false;
+        if (state.business && !item.for_business) return false;
+        if (state.program && item.program !== state.program) return false;
+        if (state.source && item.source_name !== state.source) return false;
+        if (state.applicant && !(item.applicant_types || []).includes(state.applicant)) return false;
+        if (state.region && !(item.regions || []).includes(state.region)) return false;
+        if (!words.length) return true;
+        const haystack = norm([
+          item.title, item.summary, item.text, item.program, item.source_name, item.code,
+          (item.regions || []).join(" "),
+        ].join(" "));
+        return words.every((word) => haystack.includes(word));
+      });
+
+      const far = "9999-12-31";
+      return list.sort((a, b) => {
+        if (state.sort === "title") return collator.compare(a.title, b.title);
+        if (state.sort === "allocation") return (b.allocation_czk || 0) - (a.allocation_czk || 0);
+        const aKey = state.status === "upcoming" ? a.opening_date : a.closing_date;
+        const bKey = state.status === "upcoming" ? b.opening_date : b.closing_date;
+        return String(aKey || far).localeCompare(String(bKey || far)) || collator.compare(a.title, b.title);
+      });
+    }
+
+    // ---- karty -----------------------------------------------------------
+    function cardHtml(item, index) {
+      const clock = countdown(item);
+      const facts = [];
+      if (item.closing_date && item.status_code !== "upcoming") {
+        facts.push(`Uzávěrka <b>${escapeHtml(formatDate(item.closing_date))}</b>`);
+      } else if (item.opening_date && item.status_code === "upcoming") {
+        facts.push(`Otevírá <b>${escapeHtml(formatDate(item.opening_date))}</b>`);
+      }
+      if (item.allocation_czk) facts.push(`Alokace <b>${escapeHtml(formatMoney(item.allocation_czk))}</b>`);
+      if (item.support_rate_pct) facts.push(`Podpora až <b>${item.support_rate_pct} %</b>`);
+      const attachments = (item.attachments || []).length;
+      if (attachments) facts.push(`<b>${attachments}</b> ${attachments === 1 ? "dokument" : "dokumentů"}`);
+
+      return `
+        <button class="card" type="button" data-index="${index}">
+          <div class="card-top">
+            <span class="eyebrow">${escapeHtml(item.program || item.source_name || "")}</span>
+            <span class="clock ${clock.tone}">${escapeHtml(clock.text)}</span>
+          </div>
+          <h3>${escapeHtml(item.title)}</h3>
+          ${item.summary ? `<p>${escapeHtml(item.summary.slice(0, 190))}${item.summary.length > 190 ? "…" : ""}</p>` : ""}
+          ${facts.length ? `<div class="facts">${facts.map((f) => `<span>${f}</span>`).join("")}</div>` : ""}
+          <div class="tags">
+            <span class="tag state-${escapeHtml(item.status_code)}">${escapeHtml(STATES[item.status_code] || item.status)}</span>
+            ${item.code ? `<span class="tag">č. ${escapeHtml(item.code)}</span>` : ""}
+            ${item.program && item.source_name ? `<span class="tag">${escapeHtml(item.source_name)}</span>` : ""}
+          </div>
+        </button>`;
+    }
+
+    let current = [];
+
+    /** Kolik položek by prošlo filtry, kdyby nevadil chybějící termín. */
+    function countUndated() {
+      const saved = state.status;
+      state.status = "unknown";
+      const count = filtered().length;
+      state.status = saved;
+      return count;
+    }
+
+    function renderItems() {
+      current = filtered();
+      const page = current.slice(0, state.limit);
+      byId("resultCount").textContent = current.length === 1
+        ? "1 výzva"
+        : `${czNumber.format(current.length)} ${current.length >= 5 || current.length === 0 ? "výzev" : "výzvy"}`;
+      const shown = current.length > page.length ? `Zobrazeno prvních ${page.length}. ` : "";
+      const hint = byId("resultHint");
+      hint.textContent = shown;
+      // Část programů termín nikde neuvádí. Do „Otevřených" nepatří, ale
+      // uživatel o nich musí vědět — jinak si myslí, že žádné další nejsou.
+      if (state.status === "open") {
+        const undated = countUndated();
+        if (undated) {
+          hint.insertAdjacentHTML("beforeend",
+            `Dalších ${czNumber.format(undated)} bez uvedeného termínu — <button type="button" class="linkish" id="showUndated">zobrazit</button>`);
+          byId("showUndated").addEventListener("click", () => {
+            state.status = "unknown";
+            state.limit = PAGE;
+            pressGroup("[data-status]", "status", "unknown");
+            render();
+          });
+        }
+      }
+      byId("itemsView").innerHTML = page.length
+        ? page.map(cardHtml).join("")
+        : `<div class="empty">Nic neodpovídá. Zkuste rozšířit stav na <em>Vše</em> nebo vypnout filtr <em>Jen pro firmy</em>.</div>`;
+      byId("moreWrap").classList.toggle("hidden", current.length <= page.length);
+    }
+
+    function renderSources() {
+      const query = norm(state.sourceQ);
+      const rows = sources.filter((source) => {
+        if (!query) return true;
+        return norm([source.name, source.category, source.topics, source.target_groups, source.notes].join(" ")).includes(query);
+      });
+      const counts = items.reduce((acc, item) => {
+        acc[item.source_name] = (acc[item.source_name] || 0) + 1;
+        return acc;
+      }, {});
+      byId("resultCount").textContent = `${rows.length} zdrojů`;
+      byId("resultHint").textContent = "Odkud se data berou a co který zdroj pokrývá.";
+      byId("sourcesView").innerHTML = `
         <table>
-          <thead><tr><th>Zdroj</th><th>Kategorie</th><th>Typ</th><th>Témata</th><th>Napojení</th></tr></thead>
-          <tbody>${sources.map((source) => `
+          <thead><tr><th scope="col">Zdroj</th><th scope="col">Kategorie</th><th scope="col">Témata</th><th scope="col">Položek</th></tr></thead>
+          <tbody>${rows.map((source) => `
             <tr>
-              <td><a href="${source.url}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a><p class="muted compact">${escapeHtml(source.notes)}</p></td>
+              <td>
+                <a href="${escapeHtml(safeUrl(source.url))}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.name)}</a>
+                ${source.for_business ? ' <span class="tag state-active">pro firmy</span>' : ""}
+                <p class="note">${escapeHtml(source.notes)}</p>
+              </td>
               <td>${escapeHtml(source.category)}</td>
-              <td>${escapeHtml(source.type)}</td>
               <td>${escapeHtml(source.topics)}</td>
-              <td><span class="badge ${source.integration === "automatizováno" ? "active-badge" : "ready-badge"}">${escapeHtml(source.integration)}</span></td>
-            </tr>
-          `).join("")}</tbody>
+              <td>${czNumber.format(counts[source.name] || 0)}</td>
+            </tr>`).join("")}
+          </tbody>
         </table>`;
     }
-    function escapeHtml(value) {
-      return String(value || "").replace(/[&<>"']/g, (ch) => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;" }[ch]));
+
+    function render() {
+      byId("itemsView").classList.toggle("hidden", state.view !== "items");
+      byId("moreWrap").classList.toggle("hidden", state.view !== "items" || current.length <= state.limit);
+      byId("sourcesView").classList.toggle("hidden", state.view !== "sources");
+      byId("itemControls").classList.toggle("hidden", state.view !== "items");
+      byId("sourceControls").classList.toggle("hidden", state.view !== "sources");
+      if (state.view === "items") renderItems(); else renderSources();
+      syncUrl();
     }
+
+    // ---- detail ----------------------------------------------------------
+    const dialog = byId("detail");
+
+    function openDetail(item) {
+      const clock = countdown(item);
+      const params = [
+        ["Stav", STATES[item.status_code] || item.status],
+        ["Příjem žádostí od", formatDate(item.opening_date)],
+        ["Uzávěrka", formatDate(item.closing_date)],
+        ["Zbývá", clock.text],
+        ["Alokace", formatMoney(item.allocation_czk)],
+        ["Míra podpory", item.support_rate_pct ? `až ${item.support_rate_pct} %` : ""],
+        ["Číslo výzvy", item.code],
+        ["Program", item.program],
+        ["Region", (item.regions || []).join(", ")],
+        ["Kdo může žádat", (item.applicant_types || []).map((k) => APPLICANTS[k] || k).join(", ")],
+      ].filter(([, value]) => value);
+
+      const files = (item.attachments || []).filter((file) => safeUrl(file.url));
+      byId("detailBody").innerHTML = `
+        <header>
+          <span class="eyebrow">${escapeHtml(item.source_name || "")}</span>
+          <h2 id="detailTitle">${escapeHtml(item.title)}</h2>
+        </header>
+        <dl class="params">${params.map(([key, value]) =>
+          `<div><dt>${escapeHtml(key)}</dt><dd>${escapeHtml(value)}</dd></div>`).join("")}
+        </dl>
+        ${item.text || item.summary ? `<section><h3>Co je podstatné</h3><p>${escapeHtml(item.text || item.summary)}</p></section>` : ""}
+        ${files.length ? `<section><h3>Dokumentace (${files.length})</h3><ul class="files">${files.map((file) => `
+            <li><a href="${escapeHtml(safeUrl(file.url))}" target="_blank" rel="noopener noreferrer">
+              <span>${escapeHtml(file.title || "Dokument")}</span>
+              <span class="ext">${escapeHtml(file.format || "")}</span></a></li>`).join("")}</ul></section>` : ""}
+        <div><a class="cta" href="${escapeHtml(safeUrl(item.source_url))}" target="_blank" rel="noopener noreferrer">Otevřít u vyhlašovatele →</a></div>`;
+      if (typeof dialog.showModal === "function") dialog.showModal();
+      else dialog.setAttribute("open", "");
+    }
+
+    byId("itemsView").addEventListener("click", (event) => {
+      const card = event.target.closest(".card");
+      if (card) openDetail(current[Number(card.dataset.index)]);
+    });
+    const closeDetail = () => {
+      if (typeof dialog.close === "function") dialog.close();
+      else dialog.removeAttribute("open");
+    };
+    byId("detailClose").addEventListener("click", closeDetail);
+    dialog.addEventListener("click", (event) => { if (event.target === dialog) closeDetail(); });
+
+    // ---- ovládací prvky ---------------------------------------------------
+    function pressGroup(selector, attribute, value) {
+      document.querySelectorAll(selector).forEach((button) => {
+        button.setAttribute("aria-pressed", String(button.dataset[attribute] === value));
+      });
+    }
+
+    document.querySelectorAll("[data-view]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.view = button.dataset.view;
+        pressGroup("[data-view]", "view", state.view);
+        render();
+      });
+    });
+    document.querySelectorAll("[data-status]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.status = button.dataset.status;
+        state.limit = PAGE;
+        pressGroup("[data-status]", "status", state.status);
+        render();
+      });
+    });
+    byId("businessOnly").addEventListener("click", (event) => {
+      state.business = !state.business;
+      event.currentTarget.setAttribute("aria-pressed", String(state.business));
+      state.limit = PAGE;
+      render();
+    });
+    byId("toggleFacets").addEventListener("click", (event) => {
+      const open = byId("facets").classList.toggle("hidden") === false;
+      event.currentTarget.setAttribute("aria-expanded", String(open));
+      event.currentTarget.textContent = open ? "Skrýt filtry" : "Další filtry";
+    });
+    byId("more").addEventListener("click", () => { state.limit += PAGE; render(); });
+    byId("reset").addEventListener("click", () => {
+      Object.assign(state, { q: "", status: "open", business: true, program: "", source: "", applicant: "", region: "", sort: "deadline", limit: PAGE });
+      ["q", "program", "source", "applicant", "region"].forEach((id) => { byId(id).value = ""; });
+      byId("sort").value = "deadline";
+      byId("businessOnly").setAttribute("aria-pressed", "true");
+      pressGroup("[data-status]", "status", "open");
+      render();
+    });
+
+    [["q", "q"], ["program", "program"], ["source", "source"], ["applicant", "applicant"], ["region", "region"], ["sort", "sort"], ["sourceQ", "sourceQ"]]
+      .forEach(([id, key]) => {
+        byId(id).addEventListener("input", (event) => {
+          state[key] = event.target.value;
+          state.limit = PAGE;
+          render();
+        });
+      });
+
+    // ---- sdílitelná adresa -------------------------------------------------
+    function syncUrl() {
+      const params = new URLSearchParams();
+      if (state.q) params.set("q", state.q);
+      if (state.status !== "open") params.set("stav", state.status || "vse");
+      if (!state.business) params.set("firmy", "0");
+      if (state.program) params.set("program", state.program);
+      if (state.source) params.set("zdroj", state.source);
+      if (state.applicant) params.set("zadatel", state.applicant);
+      if (state.region) params.set("region", state.region);
+      if (state.sort !== "deadline") params.set("razeni", state.sort);
+      if (state.view !== "items") params.set("pohled", state.view);
+      const query = params.toString();
+      history.replaceState(null, "", query ? `?${query}` : location.pathname);
+    }
+
+    (function restoreFromUrl() {
+      const params = new URLSearchParams(location.search);
+      if (!params.toString()) return;
+      const setIfPresent = (param, key, node) => {
+        if (!params.has(param)) return;
+        state[key] = params.get(param);
+        if (node) byId(node).value = state[key];
+      };
+      setIfPresent("q", "q", "q");
+      setIfPresent("program", "program", "program");
+      setIfPresent("zdroj", "source", "source");
+      setIfPresent("zadatel", "applicant", "applicant");
+      setIfPresent("region", "region", "region");
+      setIfPresent("razeni", "sort", "sort");
+      if (params.has("stav")) {
+        const value = params.get("stav");
+        state.status = value === "vse" ? "" : value;
+        pressGroup("[data-status]", "status", state.status);
+      }
+      if (params.get("firmy") === "0") { state.business = false; byId("businessOnly").setAttribute("aria-pressed", "false"); }
+      if (params.get("pohled") === "sources") { state.view = "sources"; pressGroup("[data-view]", "view", "sources"); }
+      if (params.has("program") || params.has("zdroj") || params.has("zadatel") || params.has("region") || params.has("razeni")) {
+        byId("facets").classList.remove("hidden");
+        byId("toggleFacets").setAttribute("aria-expanded", "true");
+        byId("toggleFacets").textContent = "Skrýt filtry";
+      }
+    })();
+
     render();
+  })();
   </script>
 </body>
 </html>

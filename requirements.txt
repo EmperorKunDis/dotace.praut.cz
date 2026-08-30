@@ -1,2 +1,5 @@
-# Runtime importer is standard-library only.
-# Keep this file so deployment/CI has a stable place for future parser dependencies.
+# Sběr dat běží na dvou knihovnách: tolerantní HTML parser a HTTP klient
+# s retry. Ručně psaný parser ze standardní knihovny se u reálného HTML
+# rozbíjel (jediný nevyvážený <svg> zahodil zbytek stránky).
+httpx>=0.27,<1.0
+selectolax>=0.3.21,<0.4

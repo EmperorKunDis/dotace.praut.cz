@@ -4,9 +4,19 @@ on:
   schedule:
     - cron: "27 5 * * 1"
   workflow_dispatch:
+    inputs:
+      fresh:
+        description: "Nepřebírat položky ze stávajícího data.js"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  issues: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
 
 jobs:
   update-data:
@@ -19,18 +29,66 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -t . -v
 
       - name: Refresh data
-        run: python scripts/build_data.py --fresh --verbose
+        run: |
+          python scripts/build_data.py --verbose \
+            ${{ inputs.fresh && '--fresh' || '' }}
 
       - name: Commit changes
         run: |
           if [[ -z "$(git status --porcelain data.js)" ]]; then
-            echo "No data changes."
+            echo "Data se nezměnila."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.js
           git commit -m "chore: refresh grant radar data"
+          # Mezi checkoutem a pushem mohl přijít jiný commit.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
+
+      - name: Report failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = 'Aktualizace dotačních dat selhala';
+            const body = [
+              'Naplánovaný sběr dat skončil chybou.',
+              '',
+              `Běh: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              '',
+              'Nejčastější příčiny: zdroj změnil strukturu stránky, nedodal',
+              'očekávaný počet položek (`min_items`), nebo je dlouhodobě nedostupný.',
+            ].join('\n');
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-refresh',
+            });
+            if (existing.data.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.data[0].number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['data-refresh'],
+              });
+            }
