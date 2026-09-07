@@ -1,714 +1,23 @@
 window.DOTACE_EXPORT = {
-  "generated_at": "2026-08-31T11:54:50+00:00",
+  "generated_at": "2026-09-07T10:46:57+00:00",
   "stats": {
-    "total": 517,
-    "active": 178,
-    "upcoming": 58,
-    "completed": 68,
-    "unknown": 213,
-    "business": 393,
-    "attachments": 2516,
+    "total": 547,
+    "active": 169,
+    "upcoming": 75,
+    "completed": 89,
+    "unknown": 214,
+    "business": 415,
+    "attachments": 2561,
     "sources": 26
   },
   "warnings": [
     "API Agentura - OP TAK: dosažen limit 90 položek, zbytek nebyl načten",
     "MPO - Národní plán obnovy: dosažen limit 60 položek, zbytek nebyl načten",
     "MPO - OP TAK: dosažen limit 40 položek, zbytek nebyl načten",
-    "EU Funding & Tenders Portal: nalezeno 191 otevřených výzev, uloženo nejbližších 120",
+    "EU Funding & Tenders Portal: nalezeno 206 otevřených výzev, uloženo nejbližších 120",
     "OP JAK: dosažen limit 40 položek, zbytek nebyl načten"
   ],
   "items": [
-    {
-      "id": 778119399901,
-      "title": "103. výzva - Kulturní a kreativní centra – Karlovarský kraj",
-      "code": "103",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2025-12-03",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://opst.cz/dotace/103-vyzva/",
-      "source_id": "opst-2021-2027",
-      "source_name": "OP Spravedlivá transformace",
-      "program": "OP ST",
-      "allocation_czk": 70000000,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj",
-        "nezisk"
-      ],
-      "regions": [
-        "Karlovarský kraj"
-      ],
-      "for_business": true,
-      "summary": "Žadatelé se řídí Pravidly pro žadatele a příjemce podpory pro programové období 2021–2027 (PrŽaP21+). Pro žadatele z této výzvy je při podání žádosti platné ustanovení části B.1.1, B.1.2, D (mimo D.1.2 – D.1.5) PrŽaP21+ podle verze č. 30. V dalších fázích administrace se žadatelé budou řídit tou verzí, která bude právě aktuální (tj. poslední verze). Jednotlivé verze dokumentu naleznete na této stránce.",
-      "text": "Vyhledávání 103. výzva - Kulturní a kreativní centra – Karlovarský kraj Cílem výzvy je podpořit rozvoj kulturních a kreativních odvětví v regionu vytvořením technického zázemí a infastruktury prostřednictvím dílčích či celkových rekonstrukcí stávajících objektů (včetně dlouhodobě nevyužívaných budov) a nákupu potřebného vybavení pro jejich aktivity. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 3. 12. 2025 - 31. 8. 2026 Alokace 70 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl Fondu spravedlivé transformace – umožnit regionům a lidem řešit (negativní) sociální, hospodářské a environmentální dopady transformace na klimaticky neutrální ekonomiku. Podporované aktivity Vybudování kulturního a kreativního centra prostřednictvím rekonstrukce či přestavby stávajících objektů nebo rozšíření stávajícího kulturního a kreativního centra; Nákup potřebného vybavení pro aktivity kulturního a kreativního odvětví (pro nová i stávající kulturní a kreativní centra). Dokumenty k výzvě Text výzvy – 103. výzva 180.58 kB Platnost: 19. 11. 2025 stáhnout 180.58 kB Platnost: 19. 11. 2025 stáhnout Příloha č. 1 – Minimální obsah projektového záměru 162.38 kB Platnost: 19. 11. 2025 stáhnout 162.38 kB Platnost: 19. 11. 2025 stáhnout Příloha č. 2 – Metodika pro sledování indikátorů 270.09 kB Platnost: 19. 11. 2025 stáhnout 270.09 kB Platnost: 19. 11. 2025 stáhnout Příloha č. 3 – Kumulativní rozpočet projektu 13.65 kB Platnost: 19. 11. 2025 stáhnout 13.65 kB Platnost: 19",
-      "attachments": [
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763456080_VÝZVA 103_KKC KVK.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2025/11/19/1763546002_251114_P1_Minimální obsah projektového záměru_KKC_V103_final.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763455962_P2_Metodika pro sledování indikátorů_KKC_V103.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763455999_P3_Kumulativní rozpočet_KKC_V103.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763456025_P4_Prohlášení žadatele k souladu realizace projektu s podmínkami DNSH_KKC.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783670243_PrŽaP_OPST_ver34.pdf",
-          "format": "PDF"
-        }
-      ]
-    },
-    {
-      "id": 880388635015,
-      "title": "115. výzva IROP - Sociální bydlení II. KPSV+ SC 4.2 (MRR)",
-      "code": "115",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2024-02-21",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/06-Integrovany-regionalni-operacni-program/115-vyzva-IROP-Socialni-bydleni-KPSV-SC-4-2-(MRR)",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj",
-        "nezisk"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 115. výzva IROP - Sociální bydlení II. KPSV+ SC 4.2 (MRR) Číslo výzvy: 06_24_115 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Integrovaný regionální operační program Prioritní osa: Zlepšení kvality a dostupnosti sociálních a zdravotních služeb, vzdělávací infrastruktury a rozvoj kulturního dědictví Oprávnění žadatelé: Obce, kraje, organizace zřizované nebo zakládané kraji/obcemi, PO OSS, církve, církevní organizace, NNO, které min. 5 let bezprostředně před podáním žádosti nepřetržitě poskytovaly sociální bydlení či úspěšně realizovaly projekt sociálního bydlení v Operačním programu Zaměstnanost Zpřístupnění žádosti o podporu: 21. 2. 2024 Přidat do svého kalendáře Zahájení příjmu žádostí: 21. 2. 2024 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 31.01.2024 Změna datumu zpřístupnění: na 31.01.2024 01.02.2024 Změna stavu: na Finalizovaná 01.02.2024 Změna kódu stavu: na VP21 03.02.2024 Změna stavu: na Rozpracovaná 03.02.2024 Změna kódu stavu: na VP20 08.02.2024 Změna stavu: na Finalizovaná 08.02.2024 Změna kódu stavu: na VP21 09.02.2024 Změna stavu: na Rozpracovaná 09.02.2024 Změna kódu stavu: na VP20 10.02.2024 Změna stavu: na Vyhlášená 10.02.2024 Změna kódu stavu: na VP30 20.02.2024 Změna datumu zpřístupnění: na 21.02.2024 22.02.2024 Změna stavu: na Otevřená 22.02.2024 Změna kódu stavu: na VP31 01.03.2024 Změ",
-      "attachments": []
-    },
-    {
-      "id": 230566787893,
-      "title": "116. výzva IROP - Sociální bydlení II. KPSV+ - SC 4.2 (PR)",
-      "code": "116",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2024-02-21",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/06-Integrovany-regionalni-operacni-program/116-vyzva-IROP-Socialni-bydleni-II-KPSV-SC-4-2-(PR",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj",
-        "nezisk"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 116. výzva IROP - Sociální bydlení II. KPSV+ - SC 4.2 (PR) Číslo výzvy: 06_24_116 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Integrovaný regionální operační program Prioritní osa: Zlepšení kvality a dostupnosti sociálních a zdravotních služeb, vzdělávací infrastruktury a rozvoj kulturního dědictví Oprávnění žadatelé: Obce, kraje, organizace zřizované nebo zakládané kraji/obcemi, PO OSS, církve, církevní organizace, NNO, které min. 5 let bezprostředně před podáním žádosti nepřetržitě poskytovaly sociální bydlení či úspěšně realizovaly projekt sociálního bydlení v Operačním programu Zaměstnanost Zpřístupnění žádosti o podporu: 21. 2. 2024 Přidat do svého kalendáře Zahájení příjmu žádostí: 21. 2. 2024 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 31.01.2024 Změna datumu zpřístupnění: na 31.01.2024 08.02.2024 Změna stavu: na Finalizovaná 08.02.2024 Změna kódu stavu: na VP21 10.02.2024 Změna stavu: na Vyhlášená 10.02.2024 Změna kódu stavu: na VP30 20.02.2024 Změna datumu zpřístupnění: na 21.02.2024 22.02.2024 Změna stavu: na Otevřená 22.02.2024 Změna kódu stavu: na VP31 01.03.2024 Změna stavu: na Pozastavená 01.03.2024 Změna kódu stavu: na VU30 02.03.2024 Změna stavu: na Otevřená 02.03.2024 Změna kódu stavu: na VP31 31.01.2025 Změna datumu uzavření: na 23.02.2026 31.01.2025 Změna cílů: na Podpora socioekonomic",
-      "attachments": []
-    },
-    {
-      "id": 70714958786,
-      "title": "15. výzva OP FVB – Specifická akce SIENA",
-      "code": "15",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-06-11",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/15-vyzva-OP-FVB-Mezinarodni-vymena-informaci",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 15. výzva OP FVB – Specifická akce SIENA Číslo výzvy: 13_26_015 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Fondu pro vnitřní bezpečnost Prioritní osa: OP FVB Oprávnění žadatelé: Ministerstvo vnitra - Policie ČR Zpřístupnění žádosti o podporu: 11. 6. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 11. 6. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 03.12.2025 Změna datumu otevření: na 01.02.2026 03.12.2025 Změna datumu uzavření: na 01.04.2026 10.06.2026 Změna názvu: Název se změnil z 15. výzva OP FVB - Mezinárodní výměna informací na 15. výzva OP FVB – Specifická akce SIENA 10.06.2026 Změna datumu otevření: na 10.06.2026 10.06.2026 Změna datumu uzavření: na 31.08.2026 10.06.2026 Změna datumu zpřístupnění: na 10.06.2026 10.06.2026 Změna stavu: na Rozpracovaná 10.06.2026 Změna kódu stavu: na VP20 10.06.2026 Změna cílů: na Zlepšit a usnadnit výměnu informací mezi příslušnými orgány a příslušnými institucemi a jinými subjekty Unie a uvnitř těchto orgánů, institucí a subjektů a tam, kde je to relevantní, i se třetími zeměmi a mezinárodními organizacemi 10.06.2026 Změna cílů: na OP FVB 10.06.2026 Změna alokace v korunách: na 9400000 12.06.2026 Změna datumu otevření: na 11.06.2026 12.06.2026 Změna datumu zpřístupnění: na 11.06.2026 12.06.2026 Změna stavu: na Otevřená 12.06.2026 Změna",
-      "attachments": []
-    },
-    {
-      "id": 81992182813,
-      "title": "17. výzva OP FVB - Posílení kapacit pro předcházení trestné činnosti a boj proti ní",
-      "code": "17",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-05-26",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/17-vyzva-OP-FVB-Posileni-kapacit-pro-predchazeni-t",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 17. výzva OP FVB - Posílení kapacit pro předcházení trestné činnosti a boj proti ní Číslo výzvy: 13_26_017 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Fondu pro vnitřní bezpečnost Prioritní osa: OP FVB Oprávnění žadatelé: Ministerstvo vnitra - Policie ČR Zpřístupnění žádosti o podporu: 26. 5. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 26. 5. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 26.05.2026 Změna datumu otevření: na 26.05.2026 26.05.2026 Změna datumu uzavření: na 31.08.2026 26.05.2026 Změna datumu zpřístupnění: na 26.05.2026 26.05.2026 Změna stavu: na Rozpracovaná 26.05.2026 Změna kódu stavu: na VP20 26.05.2026 Změna cílů: na Podpořit posilování kapacit členských států v oblasti předcházení trestné činnosti, terorismu a radikalizaci a boje proti nim, jakož i řízení a řešení událostí, rizik a krizí souvisejících s bezpečností, a to i prostřednictvím intenzivnější spolupráce mezi veřejnými orgány, příslušnými institucemi a jinými subjekty Unie, občanskou společností a soukromými partnery v různých členských státech 26.05.2026 Změna cílů: na OP FVB 27.05.2026 Změna stavu: na Otevřená 27.05.2026 Změna kódu stavu: na VP31 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací úda",
-      "attachments": []
-    },
-    {
-      "id": 791969744168,
-      "title": "18. výzva OP FVB - Implementace směrnice o vymáhání a konfiskaci majetku",
-      "code": "18",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-06-19",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/18-vyzva-OP-FVB-Implementace-smernice-o-vymahani-a",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 18. výzva OP FVB - Implementace směrnice o vymáhání a konfiskaci majetku Číslo výzvy: 13_26_018 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: 13 Operační program Fondu pro vnitřní bezpečnost Oprávnění žadatelé: Ministerstvo vnitra Ministerstvo vnitra - Policie ČR Zahájení příjmu žádostí: 19. 6. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Stav výzvy: Plánovaná Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: 13 Operační program Fondu pro vnitřní bezpečnost Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "attachments": []
-    },
-    {
-      "id": 698449375385,
-      "title": "43. výzva OP AMIF - Specifická akce 2025/10: Podpora soudů v azylové a migrační oblasti",
-      "code": "43",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-05-06",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/12-Operacni-program-Azyloveho,-migracniho-a-integr/43-vyzva-OP-AMIF-Specificka-akce-2025-10-Podpora-s",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 43. výzva OP AMIF - Specifická akce 2025/10: Podpora soudů v azylové a migrační oblasti Číslo výzvy: 12_26_043 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Azylového, migračního a integračního fondu Prioritní osa: OP AMIF Oprávnění žadatelé: Ministerstvo spravedlnosti Zpřístupnění žádosti o podporu: 6. 5. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 6. 5. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 10.12.2025 Změna datumu otevření: na 18.02.2026 05.05.2026 Změna datumu otevření: na 06.05.2026 05.05.2026 Změna datumu uzavření: na 17.07.2026 05.05.2026 Změna datumu zpřístupnění: na 06.05.2026 05.05.2026 Změna stavu: na Finalizovaná 05.05.2026 Změna kódu stavu: na VP21 05.05.2026 Změna cílů: na Posílit a rozvíjet všechny aspekty společného evropského azylového systému včetně jeho vnějšího rozměru 05.05.2026 Změna cílů: na OP AMIF 07.05.2026 Změna datumu otevření: na 06.05.2026 07.05.2026 Změna datumu zpřístupnění: na 06.05.2026 07.05.2026 Změna stavu: na Vyhlášená 07.05.2026 Změna kódu stavu: na VP30 08.05.2026 Změna stavu: na Otevřená 08.05.2026 Změna kódu stavu: na VP31 17.07.2026 Změna datumu uzavření: na 17.08.2026 14.08.2026 Změna datumu uzavření: na 31.08.2026 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu",
-      "attachments": []
-    },
-    {
-      "id": 497109707397,
-      "title": "74. výzva - Příprava projektů pro veřejný sektor II – Ústecký kraj",
-      "code": "74",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-05-21",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://opst.cz/dotace/74-vyzva/",
-      "source_id": "opst-2021-2027",
-      "source_name": "OP Spravedlivá transformace",
-      "program": "OP ST",
-      "allocation_czk": 150000000,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
-      "regions": [
-        "Ústecký kraj"
-      ],
-      "for_business": true,
-      "summary": "Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení.",
-      "text": "Vyhledávání 74. výzva - Příprava projektů pro veřejný sektor II – Ústecký kraj Předmětem výzvy je podpora aktivity související s přípravnou fází projektů – zpracování projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 21. 5. 2026 - 31. 8. 2026 Alokace 150 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl Fondu spravedlivé transformace – umožnit regionům a lidem řešit (negativní) sociální, hospodářské a environmentální dopady transformace na klimaticky neutrální ekonomiku. Podporované aktivity Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Dokumenty k výzvě Text výzvy – 74. výzva 161.66 kB Platnost: 6. 5. 2026 stáhnout 161.66 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 1 – Tabulka pro vyhodnocení programu OPST 314.84 kB Platnost: 6. 5. 2026 stáhnout 314.84 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 2 – Kompletní seznam podpořených projektů OPST 374.78 kB Platnost: 6. 5. 2026 stáhnout 374.78 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 3 – Kompletní seznam provedených kontrol na místě 313.6 kB Platnost: 6. 5. 2026 stáhnout 313.6 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 4 – Popis řídicího a kontrolního systému 978.76 kB Platnost: 6. 5. 2026 stáhnout 978.76 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 5 – Metodické doporučení pro nastavení řídicího a kontrol",
-      "attachments": [
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049083_Vyzva_74_Priprava projektuII_ULK.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048886_Příloha č. 1 - Tabulka pro vyhodnocení programu_OPST_Příprava projektů II.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048936_Příloha č. 2 - Kompletní seznam podpořených projektů_OPST_Příprava projektů II.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048975_Příloha č. 3 - Kompletní seznam provedených kontrol na místě_OPST_Příprava projektů II.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049005_Příloha č. 4 - Popis řídicího a kontrolního systému_OPST - Příprava projektů II.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049040_Příloha č. 5 - Metodické doporučení k ŘKS_pro kraje ZPII.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778063590_Závazné pokyny PPVSII.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783673087_Příloha 06a - Pokyny pro zadávání zakázek v OPZP OPST 2021-2027 v08.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2024/08/22/1724312610_Příloha 08b - Formulář pro posouzení podniku v obtížích (kalkulačka).xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783670342_Příloha 8c - Stanovení velikosti a ekonomické skupiny podniku_do 07_2026.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/04/30/1777536193_Příloha 07 - Grafický manuál povinné publicity OPST.pdf",
-          "format": "PDF"
-        }
-      ]
-    },
-    {
-      "id": 666381841491,
-      "title": "75. výzva - Příprava projektů pro veřejný sektor II – Moravskoslezský kraj",
-      "code": "75",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-05-21",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://opst.cz/dotace/75-vyzva/",
-      "source_id": "opst-2021-2027",
-      "source_name": "OP Spravedlivá transformace",
-      "program": "OP ST",
-      "allocation_czk": 100000000,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
-      "regions": [
-        "Moravskoslezský kraj"
-      ],
-      "for_business": true,
-      "summary": "Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení.",
-      "text": "Vyhledávání 75. výzva - Příprava projektů pro veřejný sektor II – Moravskoslezský kraj Předmětem výzvy je podpora aktivity související s přípravnou fází projektů – zpracování projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 21. 5. 2026 - 31. 8. 2026 Alokace 100 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl Fondu spravedlivé transformace – umožnit regionům a lidem řešit (negativní) sociální, hospodářské a environmentální dopady transformace na klimaticky neutrální ekonomiku. Podporované aktivity Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Dokumenty k výzvě Text výzvy – 75. výzva 161.92 kB Platnost: 6. 5. 2026 stáhnout 161.92 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 1 – Tabulka pro vyhodnocení programu OPST 314.84 kB Platnost: 6. 5. 2026 stáhnout 314.84 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 2 – Kompletní seznam podpořených projektů OPST 374.78 kB Platnost: 6. 5. 2026 stáhnout 374.78 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 3 – Kompletní seznam provedených kontrol na místě 313.6 kB Platnost: 6. 5. 2026 stáhnout 313.6 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 4 – Popis řídicího a kontrolního systému 978.76 kB Platnost: 6. 5. 2026 stáhnout 978.76 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 5 – Metodické doporučení pro nastavení řídicího a",
-      "attachments": [
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049144_Vyzva_75_Priprava projektuII_MSK.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048886_Příloha č. 1 - Tabulka pro vyhodnocení programu_OPST_Příprava projektů II.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048936_Příloha č. 2 - Kompletní seznam podpořených projektů_OPST_Příprava projektů II.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048975_Příloha č. 3 - Kompletní seznam provedených kontrol na místě_OPST_Příprava projektů II.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049005_Příloha č. 4 - Popis řídicího a kontrolního systému_OPST - Příprava projektů II.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049040_Příloha č. 5 - Metodické doporučení k ŘKS_pro kraje ZPII.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778063590_Závazné pokyny PPVSII.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783673087_Příloha 06a - Pokyny pro zadávání zakázek v OPZP OPST 2021-2027 v08.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2024/08/22/1724312610_Příloha 08b - Formulář pro posouzení podniku v obtížích (kalkulačka).xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783670342_Příloha 8c - Stanovení velikosti a ekonomické skupiny podniku_do 07_2026.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "stáhnout",
-          "url": "https://opst.cz/files/documents/storage/2026/04/30/1777536193_Příloha 07 - Grafický manuál povinné publicity OPST.pdf",
-          "format": "PDF"
-        }
-      ]
-    },
-    {
-      "id": 408701011505,
-      "title": "80. výzva IROP - eHealth SC 1.1 (ČR)",
-      "code": "80",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2023-11-28",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/06-Integrovany-regionalni-operacni-program/80-vyzva-IROP-eHealth-SC-1-1-(CR)",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "vyzkumna_organizace",
-        "obec_kraj"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 80. výzva IROP - eHealth SC 1.1 (ČR) Číslo výzvy: 06_23_080 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Integrovaný regionální operační program Prioritní osa: Zlepšení výkonu veřejné správy Oprávnění žadatelé: \"Organizační složky státu; příspěvkové organizace organizačních složek státu; NNO zakládané zde uvedenými typy oprávněných žadatelů; subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů; kraje; obce; organizace zřizované nebo zakládané kraji / obcemi\" Zpřístupnění žádosti o podporu: 28. 11. 2023 Přidat do svého kalendáře Zahájení příjmu žádostí: 28. 11. 2023 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 06.01.2023 Změna datumu otevření: na 21.03.2023 29.03.2023 Změna datumu otevření: na 18.04.2023 29.03.2023 Změna datumu uzavření: na 30.04.2024 21.10.2023 Změna datumu otevření: na 28.11.2023 21.10.2023 Změna datumu uzavření: na 28.11.2024 21.10.2023 Změna datumu zpřístupnění: na 20.10.2023 21.10.2023 Změna stavu: na Rozpracovaná 21.10.2023 Změna kódu stavu: na VP20 21.10.2023 Změna cílů: na Využívání přínosů digitalizace 21.10.2023 Změna cílů: na Zlepšení výkonu veřejné správy 24.10.2023 Změna stavu: na Finalizovaná 24.10.2023 Změna kódu stavu: na",
-      "attachments": []
-    },
-    {
-      "id": 40066336926,
-      "title": "Sociální infrastruktura",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2024-02-21",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://irop.gov.cz/cs/irop-2021-2027/temata/socialni-infrastruktura",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "allocation_czk": 8800000000,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "Specifický cíl 4.2: Podpora socioekonomického začlenění marginalizovaných komunit, domácností s nízkými příjmy a znevýhodněných skupin včetně osob se zvláštními potřebami, pomocí integrovaných opatření, včetně bydlení a sociálních služeb",
-      "text": "Úvod > IROP 2021-2027 > Sociální infrastruktura Sociální infrastruktura Specifický cíl 4.2: Podpora socioekonomického začlenění marginalizovaných komunit, domácností s nízkými příjmy a znevýhodněných skupin včetně osob se zvláštními potřebami, pomocí integrovaných opatření, včetně bydlení a sociálních služeb Cílem této oblasti je zajištění vyšší dostupnosti a kvality služeb vedoucí k sociální inkluzi, podpora vzniku bytů určených pro sociální bydlení a dokončení deinstitucionalizace sociálních služeb. Celková částka na projekty: 8,8 mld. Kč Podporované aktivity: modernizace a budování infrastruktury sociálních služeb poskytovaných podle zákona č. 108/2006 Sb., o sociálních službách; deinstitucionalizace sociálních služeb za účelem sociálního začleňování; sociální bydlení – pořízení a adaptace bytů, bytových domů a nebytových prostor pro potřeby sociálního bydlení a pořízení nezbytného základního vybavení. Příklady projektů: rekonstrukce denního stacionáře a s tím spojené zvýšení jeho kapacity; deinstitucionalizace pobytové sociální služby, která je příspěvkovou organizací obce/kraje; výstavba sociálních bytů v obci. Konzultační místo: Konzultační servis IROP Další důležité informace, které by měli žadatelé vědět: mezi hlavní cílové skupiny jsou zařazeni senioři; projekt je v souladu se: Strategickým plánem sociálního začleňování / Plánem sociálního začleňování nebo; komunitním plánem nebo; krajským střednědobým plánem rozvoje sociálních služeb; projekt zaměřený na pobytové so",
-      "attachments": []
-    },
-    {
-      "id": 975718638971,
-      "title": "Centres of Vocational Excellence",
-      "code": "ERASMUS-EDU-2026-PEX-COVE",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2025-12-04",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "Erasmus+",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Centres of Vocational Excellence",
-      "text": "Centres of Vocational Excellence",
-      "attachments": []
-    },
-    {
-      "id": 726668188490,
-      "title": "Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment",
-      "code": "HORIZON-CL4-2026-SPACE-03-85",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-85",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "Horizon Europe",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment",
-      "text": "Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment",
-      "attachments": []
-    },
-    {
-      "id": 464591196885,
-      "title": "Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Digital-enablers-and-building-blocks-for-Earth-(1)",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "attachments": []
-    },
-    {
-      "id": 847385245193,
-      "title": "Microelectronic – Front-End Module (FEM)",
-      "code": "HORIZON-JU-SNS-2026-FEM-STREAM-B-02",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-05-26",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-FEM-STREAM-B-02",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "Horizon Europe",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Microelectronic – Front-End Module (FEM)",
-      "text": "Microelectronic – Front-End Module (FEM)",
-      "attachments": []
-    },
-    {
-      "id": 434186572372,
-      "title": "Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Preparing-demonstration-missions-for-Earth-Observa",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "attachments": []
-    },
-    {
-      "id": 1096483279256,
-      "title": "Reinforcing EU autonomous access to space through EU-based spaceports",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Reinforcing-EU-autonomous-access-to-space-through",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy Reinforcing EU autonomous access to space through EU-based spaceports Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "attachments": []
-    },
-    {
-      "id": 750801499910,
-      "title": "Scientific analysis and exploitation of space data",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Scientific-analysis-and-exploitation-of-space-data",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy Scientific analysis and exploitation of space data Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "attachments": []
-    },
-    {
-      "id": 302845791673,
-      "title": "Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities",
-      "code": "HORIZON-CL4-2026-SPACE-03-82",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-82",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "Horizon Europe",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities",
-      "text": "Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities",
-      "attachments": []
-    },
-    {
-      "id": 1018038926157,
-      "title": "Space critical EEE components for EU non-dependence – Radiation Hard FPGA on 7nm",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Space-critical-EEE-components-for-EU-non-depen-(3)",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy Space critical EEE components for EU non-dependence – Radiation Hard FPGA on 7nm Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "attachments": []
-    },
-    {
-      "id": 118039293197,
-      "title": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
-      "code": "HORIZON-CL4-2026-SPACE-03-86",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-10",
-      "closing_date": "2026-09-03",
-      "deadline": "2026-09-03",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-86",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "Horizon Europe",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
-      "text": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
-      "attachments": []
-    },
     {
       "id": 257829197710,
       "title": "Framework Partnership Agreements for operating grants to support non-profit organisations",
@@ -766,32 +75,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 846984301167,
-      "title": "119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR)",
-      "code": "119",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-31",
-      "closing_date": "2026-09-10",
-      "deadline": "2026-09-10",
-      "source_url": "https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/119vyzvaIROP",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "allocation_czk": 310287706,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 17. 3. 2026 vyhlašuje 119. výzvu IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR). Výzva podporuje výstavbu, modernizaci a rekonstrukci vyhrazených komunikací pro cyklisty a realizaci doprovodné cyklistické infrastruktury na území méně rozvinutých regionů, tj. Karlovarského, Ústeckého, Libereckého, K",
-      "text": "Úvod > Výzvy 2021-2027 > 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) doprava2 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 31. 3. 2026 Zahájení příjmu žádostí: 31. 3. 2026 Ukončení příjmu žádostí: 10. 9. 2026 Oprávnění žadatelé: Kraje, obce, dobrovolné svazky obcí, organizace zřizované nebo zakládané kraji, organizace zřizované nebo zakládané obcemi, organizace zřizované nebo zakládané dobrovolnými svazky obcí Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022",
-      "attachments": []
-    },
-    {
       "id": 899419828957,
       "title": "Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4)",
       "code": "085",
@@ -812,7 +95,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Číslo: 085 Platnost od: 29. 6. 2026 09:00 Platnost do: 14. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 6. 2026 12:00 Alokace v Kč: 180 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:41 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_085 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Soubory ke stažení: Text výzvy č. 085 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2_Podpora SOHZ v otevřených v",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Číslo: 085 Platnost od: 29. 6. 2026 09:00 Platnost do: 14. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 6. 2026 12:00 Alokace v Kč: 180 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:23 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_085 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Soubory ke stažení: Text výzvy č. 085 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2_Podpora SOHZ v otevřených vý",
       "attachments": []
     },
     {
@@ -1034,11 +317,11 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyplněný formulář žádosti prosím odešlete také prostřednictvím webového formuláře v zeleném poli níže.",
-      "text": "otevřené výzvy: 2026-D-5-4-43 Podpora kampaně oscarového kandidáta ČR Lhůta pro podání žádostí: od 31. 7. 2026 do 15. 9. 2026 Vyplněný formulář žádosti prosím odešlete také prostřednictvím webového formuláře v zeleném poli níže. Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF Žádost o podporu audiovize Stáhnout dokument DOC Tvůrčí a realizační test Stáhnout dokument XLS Rozpočet Stáhnout dokument XLS Finanční plán Stáhnout dokument XLS Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídlem v ČR Stáhnout dokument DOC Údaje pro ověření bezúhonnosti žadatele: zahraniční osoba Stáhnout dokument DOC Prohlášení žadatele o vyloučení osob z řízení o žádosti Stáhnout dokument DOC Všechny dokumenty Stáhnout balíček ZIP Název žadatele: E-mailová adresa: Vyplňená žádost: 2026-D-6-4-44 Periodické publikace a internetové portály v roce 2027 Lhůta pro podání žádostí: od 31. 7. 2026 do 31. 8. 2026 Vyplněný formulář žádosti prosím odešlete také prostřednictvím webového formuláře v zeleném poli níže. Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF Žádost o podporu audiovize Stáhnout dokument DOC Tvůrčí a realizační test Stáhnout dokument XLS Rozpočet Stáhnout dokument XLS Finanční plán Stáhnout dokument XLS Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídle",
+      "text": "otevřené výzvy: 2026-D-5-4-43 Podpora kampaně oscarového kandidáta ČR Lhůta pro podání žádostí: od 31. 7. 2026 do 15. 9. 2026 Vyplněný formulář žádosti prosím odešlete také prostřednictvím webového formuláře v zeleném poli níže. Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF Žádost o podporu audiovize Stáhnout dokument DOC Tvůrčí a realizační test Stáhnout dokument XLS Rozpočet Stáhnout dokument XLS Finanční plán Stáhnout dokument XLS Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídlem v ČR Stáhnout dokument DOC Údaje pro ověření bezúhonnosti žadatele: zahraniční osoba Stáhnout dokument DOC Prohlášení žadatele o vyloučení osob z řízení o žádosti Stáhnout dokument DOC Všechny dokumenty Stáhnout balíček ZIP Název žadatele: E-mailová adresa: Vyplňená žádost: 2026-D-5-5-47 Účast českých audiovizuálních děl na mezinárodních festivalech nebo při nominacích na mezinárodní ceny Lhůta pro podání žádostí: od 12. 5. 2026 do 30. 9. 2026 Vyplněný formulář žádosti prosím odešlete také prostřednictvím webového formuláře v zeleném poli níže. Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF Předpokládaná výše dotace Stáhnout dokument XLS Podporované koprodukční trhy a fóra Stáhnout dokument XLS Žádost o podporu audiovize Stáhnout dokument DOC Tvůrčí a realizační test Stáhnout dokument XLS Rozpočet Stáhnout dokument XLS Finanční plán Stáhnout dokument XLS",
       "attachments": [
         {
           "title": "Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/Vyzva-2026-D-5-4-43-Podpora-kampane-Oscar.pdf",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/09/Vyzva-2026-D-5-4-43-Podpora-kampane-Oscar-opr.pdf",
           "format": "PDF"
         },
         {
@@ -1083,96 +366,6 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/Vyzva-2026-D-4-44-Periodicke-publikace-a-internetove-portaly.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Žádost o podporu audiovize Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/A-Zadost-Periodicke-publikace-a-internetove-portaly2026-2.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Tvůrčí a realizační test Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/B-TRT-periodicke-publikace-a-internet-portaly2026-2.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "Rozpočet Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.1-rozpocet-periodicke-portaly2026-2.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "Finanční plán Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.2-financni-plan-periodicke-portaly2026-2.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.3-Udaje-pro-overeni-bezuhonnosti-zadatele-FO.doc",
-          "format": "DOC"
-        },
-        {
-          "title": "Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídlem v ČR Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.3-Udaje-pro-overeni-bezuhonnosti-zadatele-PO-se-sidlem-v-CR.doc",
-          "format": "DOC"
-        },
-        {
-          "title": "Údaje pro ověření bezúhonnosti žadatele: zahraniční osoba Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.3-Udaje-pro-overeni-bezuhonnosti-zadatele-zahranicni-osoba.doc",
-          "format": "DOC"
-        },
-        {
-          "title": "Prohlášení žadatele o vyloučení osob z řízení o žádosti Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.4-Prohlaseni-o-vylouceni-osob-z-rizeni.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Vyúčtování Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/08/Vyuctovani-periodicke-portaly2027.xls",
-          "format": "XLS"
-        },
-        {
-          "title": "Závěrečná zpráva Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/ZZ-publikace-periodika-portaly.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/08/Vyzva-2026-D-9-2-45-Filmove-festivaly-a-prehlidky-2027.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Žádost o podporu audiovize Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/A-zadost-Filmove-festivaly-a-prehlidky-2027.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Tvůrčí a realizační test Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/B-TRT-filmove-festivaly-2027.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "Rozpočet Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.1-Rozpocet-festivaly2027.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "Finanční plán Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/07/C.2-financni-plan-podpora-festivaly2027.xlsx",
-          "format": "XLSX"
-        },
-        {
-          "title": "Vyúčtování Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/08/Vyuctovani-festivaly2027.xls",
-          "format": "XLS"
-        },
-        {
-          "title": "Závěrečná zpráva Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/08/ZZ-Filmove-festivaly-a-prehlidky-2027.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF",
           "url": "https://fondkinematografie.cz/data/invitation/2026/05/Vyzva-2026-D-5-5-47-Ucast-ceskych-AVD-na-festivalech-a-cenach.pdf",
           "format": "PDF"
         },
@@ -1185,6 +378,96 @@ window.DOTACE_EXPORT = {
           "title": "Podporované koprodukční trhy a fóra Stáhnout dokument XLS",
           "url": "https://fondkinematografie.cz/data/invitation/2026/05/Podporovane-koprodukcni-trhy-fora.xlsx",
           "format": "XLSX"
+        },
+        {
+          "title": "Žádost o podporu audiovize Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/A-zadost-2026-D-5-5-47-Ucast-ceskych-AVD-na-festivalech-a-cenach.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Tvůrčí a realizační test Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/08/B-TRT-ucast-AVD-festivaly-ceny.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "Rozpočet Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/C.3-Rozpocet-propagace-mezinarodni-festivaly2026.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "Finanční plán Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/C.4-financni-plan-podpora-mezinar.festivaly2026.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-FO.doc",
+          "format": "DOC"
+        },
+        {
+          "title": "Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídlem v ČR Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-PO-se-sidlem-v-CR.doc",
+          "format": "DOC"
+        },
+        {
+          "title": "Údaje pro ověření bezúhonnosti žadatele: zahraniční osoba Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-zahranicni-osoba.doc",
+          "format": "DOC"
+        },
+        {
+          "title": "Prohlášení žadatele o vyloučení osob z řízení o žádosti Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/C.6-Prohlaseni-o-vylouceni-osob-z-rizeni.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Čestné prohlášení o českém AV díle Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/cestne-prohlaseni-o-CAD.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Závěrečná zpráva Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/05/ZZ-propagace-mezinarodni-festivaly2026.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Vyúčtování Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/07/10.Vyuctovani-ucast-na-MF-2025-26.xls",
+          "format": "XLS"
+        },
+        {
+          "title": "Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/06/Vyzva-2026-D-3-6-46-distribuce-prubezna.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Žádost o podporu audiovize Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/06/A-zadost-Distribuce-prubezna2026.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Tvůrčí a realizační test Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/08/B-TRT-distribuce-filmu.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "Rozpočet Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C3-Rozpocet-k-zadosti-distribuce-filmu2026.xls",
+          "format": "XLS"
+        },
+        {
+          "title": "Finanční plán Stáhnout dokument XLS",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C4-financni-plan-podpora-distribuce2026.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-FO.doc",
+          "format": "DOC"
+        },
+        {
+          "title": "Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídlem v ČR Stáhnout dokument DOC",
+          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-PO-se-sidlem-v-CR.doc",
+          "format": "DOC"
         }
       ]
     },
@@ -1270,6 +553,30 @@ window.DOTACE_EXPORT = {
       "for_business": true,
       "summary": "Producing battery-grade materials for electrodes through sustainable processing and refining of raw materials or developing bio-based materials (BATT4EU Partnership)",
       "text": "Producing battery-grade materials for electrodes through sustainable processing and refining of raw materials or developing bio-based materials (BATT4EU Partnership)",
+      "attachments": []
+    },
+    {
+      "id": 997068427352,
+      "title": "Protection of the euro against counterfeiting",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-02-19",
+      "closing_date": "2026-09-15",
+      "deadline": "2026-09-15",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Protection-of-the-euro-against-counterfeiting",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Protection of the euro against counterfeiting Programové období: 2021-2027 Operační program: Program za účelem ochrany eura proti padělání (Pericles IV) Prioritní osa: Rozvoj podnikání a konkurenceschopnosti malých a středních podniků Zahájení příjmu žádostí: 19. 2. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 15. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Program za účelem ochrany eura proti padělání (Pericles IV) Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
       "attachments": []
     },
     {
@@ -2104,8 +1411,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ NPL (pdf) 24. 8. 2026 Postup pro vyplnění a podání žádostí o podporu v IS KP21+ NPL",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/pzt-iv-prirucka-pro-podani-zadosti-o-podporu-v-iskp21-npl.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ NPL (pdf) 2. 9. 2026 Postup pro vyplnění a podání žádostí o podporu v IS KP21+ NPL",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/pzt-iv-prirucka-pro-podani-zadosti-o-podporu-v-iskp21-npl.pdf",
           "format": "PDF"
         },
         {
@@ -2124,6 +1431,32 @@ window.DOTACE_EXPORT = {
           "format": "ZIP"
         }
       ]
+    },
+    {
+      "id": 21278747557,
+      "title": "49. výzva OP AMIF - Poskytování asistenčních služeb na pobočkách OAMP",
+      "code": "49",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-01",
+      "closing_date": "2026-09-22",
+      "deadline": "2026-09-22",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/12-Operacni-program-Azyloveho,-migracniho-a-integr/49-vyzva-OP-AMIF-Poskytovani-asistencnich-sluzeb-n",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "nezisk"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 49. výzva OP AMIF - Poskytování asistenčních služeb na pobočkách OAMP Číslo výzvy: 12_26_049 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Azylového, migračního a integračního fondu Prioritní osa: OP AMIF Oprávnění žadatelé: • Nestátní neziskové organizace: - spolky (včetně pobočných) dle zákona č. 89/2012 Sb., občanský zákoník; - obecně prospěšné společnosti zřízené podle zákona č. 248/1995 Sb., o obecně prospěšných společnostech, ve znění pozdějších předpisů; - ústavy dle zákona č. 89/2012 Sb., občanský zákoník; - fundace (nadace a nadační fond) dle zákona č. 89/2012 Sb., občanský zákoník; - evidované právnické osoby zřízené podle zákona č. 3/2002 Sb., o svobodě náboženského vyznání a postavení církví a náboženských společností a o změně některých zákonů (zákon o církvích a náboženských společnostech); - datum vzniku organizace musí být starší než 13. 8. 2025. • VÚSC a jejich příspěvkové organizace: - podle ústavního zákona č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky, zákona č. 129/2000 Sb., o krajích (krajské zřízení) a zákona č. 131/2000 Sb., o hlavním městě Praze. Zpřístupnění žádosti o podporu: 13. 8. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 1. 9. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 22. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřen",
+      "attachments": []
     },
     {
       "id": 891765862803,
@@ -2874,7 +2207,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost, adaptabilita a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Číslo: 111 Platnost od: 30. 7. 2026 09:00 Platnost do: 24. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 30. 7. 2026 09:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:48 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost, adaptabilita a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_111 Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Soubory ke stažení: Texty výzvy č. 111 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Číslo: 111 Platnost od: 30. 7. 2026 09:00 Platnost do: 24. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 30. 7. 2026 09:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:29 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost, adaptabilita a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_111 Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Soubory ke stažení: Texty výzvy č. 111 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha",
       "attachments": []
     },
     {
@@ -3361,55 +2694,27 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 1048856753688,
-      "title": "121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR)",
-      "code": "121",
+      "id": 365746226612,
+      "title": "Call for applications: FRONTIERS Science Journalism Residency Program (Call 4)",
+      "code": "",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Probíhající",
       "status_code": "active",
-      "opening_date": "2026-04-14",
-      "closing_date": "2026-09-30",
-      "deadline": "2026-09-30",
-      "source_url": "https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/121vyzvaIROP",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "allocation_czk": 393737103,
+      "opening_date": "2026-02-25",
+      "closing_date": "2026-09-26",
+      "deadline": "2026-09-26",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Call-for-applications-FRONTIERS-Science-Journa-(3)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
       "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
+      "applicant_types": [],
       "regions": [],
       "for_business": false,
-      "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 31. 3. 2026 vyhlašuje 121. výzvu IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR). Výzva podporuje nákup silničních bezemisních vozidel k poskytování veřejných služeb v přepravě cestujících, konkrétně elektrobusů a vodíkových autobusů, na území méně rozvinutých regionů, tj. Karlovarského, Ústeckého, Liber",
-      "text": "Úvod > Výzvy 2021-2027 > 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) doprava2 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podpo",
-      "attachments": []
-    },
-    {
-      "id": 1011412313353,
-      "title": "122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR)",
-      "code": "122",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-04-14",
-      "closing_date": "2026-09-30",
-      "deadline": "2026-09-30",
-      "source_url": "https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/122vyzvaIROP",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "allocation_czk": 413920295,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 31. 3. 2026 vyhlašuje 122. výzvu IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR). Výzva podporuje nákup silničních bezemisních vozidel k poskytování veřejných služeb v přepravě cestujících, konkrétně elektrobusů a vodíkových autobusů, na území přechodových regionů, tj. Středočeského, Jihočeského, Plzeňské",
-      "text": "Úvod > Výzvy 2021-2027 > 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) doprava2 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 30. 9. 2026 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu",
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Call for applications: FRONTIERS Science Journalism Residency Program (Call 4) Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 25. 2. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 26. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
       "attachments": []
     },
     {
@@ -3555,32 +2860,6 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         }
       ]
-    },
-    {
-      "id": 142736086580,
-      "title": "Čistá a aktivní mobilita",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-04-14",
-      "closing_date": "2026-09-30",
-      "deadline": "2026-09-30",
-      "source_url": "https://irop.gov.cz/cs/irop-2021-2027/temata/cista-a-kvalitni-doprava",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "allocation_czk": 20400000000,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "obec_kraj"
-      ],
-      "regions": [],
-      "for_business": false,
-      "summary": "Specifický cíl 6.1: Podpora udržitelné multimodální městské mobility v rámci přechodu na uhlíkově neutrální hospodářství",
-      "text": "Úvod > IROP 2021-2027 > Čistá a aktivní mobilita Čistá a aktivní mobilita Specifický cíl 6.1: Podpora udržitelné multimodální městské mobility v rámci přechodu na uhlíkově neutrální hospodářství Cílem této oblasti je zavést inteligentní, propojenější a čistější systémy dopravy, zatraktivněním veřejné osobní dopravy a zlepšením podmínek pro aktivní mobilitu. A dále motivovat veřejnost k přesunu z individuální automobilové dopravy na dopravu veřejnou, cyklistickou a pěší, a tím přispět ke snížení emisí skleníkových plynů a znečišťujících látek, zejména ve městech. Celková částka na projekty: 20,4 mld. Kč Podporované aktivity: nákup silničních nízkoemisních a bezemisních vozidel pro veřejnou dopravu nebo bezemisních drážních vozidel pro městskou hromadnou dopravu; výstavba plnicích a dobíjecích stanic pro veřejnou dopravu; zavedení nebo modernizace telematiky pro veřejnou dopravu (např. systémy řízení dopravy, systémy poskytování aktuálních informací uživatelům veřejné dopravy atd.); posílení multimodality (propojení více druhů) osobní dopravy výstavbou nebo modernizací přestupních terminálů, parkovacích systémů, preferenčních a kapacitních opatření pro veřejnou dopravu; zvyšování bezpečnosti nemotorové dopravy výstavbou a rekonstrukcí komunikací pro pěší a stavebními úpravami pro nemotorovou dopravu v nehodových lokalitách; výstavba a rekonstrukce vyhrazených komunikací pro cyklisty a doprovodné cyklistické infrastruktury. Příklady projektů: obnova vozového parku dopravního pod",
-      "attachments": []
     },
     {
       "id": 1010002582637,
@@ -3819,8 +3098,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 22. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-step-investice-1.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ NPL (pdf) 3. 9. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+ NPL",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu--step-investice-v-iskp21-npl.pdf",
           "format": "PDF"
         },
         {
@@ -3834,8 +3113,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Archiv (zip) 7. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-step-investice.zip",
+          "title": "Archiv (zip) 3. 9. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/archiv-step-investice.zip",
           "format": "ZIP"
         }
       ]
@@ -3979,8 +3258,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 16. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-marketing-iii.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 9. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-marketingiii.pdf",
           "format": "PDF"
         },
         {
@@ -4184,8 +3463,8 @@ window.DOTACE_EXPORT = {
           "format": "XLSX"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 17. 6. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/06/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-ipcei.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 9. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-ipcei.pdf",
           "format": "PDF"
         }
       ]
@@ -4248,7 +3527,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vznik center duševního zdraví Vznik center duševního zdraví Číslo: 103 Platnost od: 5. 6. 2025 09:00 Platnost do: 30. 6. 2026 09:00 Zahájení příjmu žádostí o podporu: 19. 11. 2025 09:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:44 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_103 Vznik center duševního zdraví Soubory ke stažení: Text výzvy č. 103 OPZ+ aktualizace k 25. 5. 2026 - zkrácen termín ukončení příjmu žádostí z 18. 11. 2026 do 30. 6. 2026 do 9h, další možnost podpory na vznik CDZ bude předmětem připravovaného dotačního progra",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vznik center duševního zdraví Vznik center duševního zdraví Číslo: 103 Platnost od: 5. 6. 2025 09:00 Platnost do: 30. 6. 2026 09:00 Zahájení příjmu žádostí o podporu: 19. 11. 2025 09:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:26 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_103 Vznik center duševního zdraví Soubory ke stažení: Text výzvy č. 103 OPZ+ aktualizace k 25. 5. 2026 - zkrácen termín ukončení příjmu žádostí z 18. 11. 2026 do 30. 6. 2026 do 9h, další možnost podpory na vznik CDZ bude předmětem připravovaného dotačního program",
       "attachments": []
     },
     {
@@ -4274,7 +3553,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Ukončení příjmu žádostí: pro 1. kolo hodnocení: 20. 11. 2025 v 14:00, pro 2. kolo hodnocení: do vyčerpání alokace, nejpozději do 20. 11. 2026 do 14:00.",
-      "text": "02. října 2025 - 20. listopadu 2026 Zbývá 81 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 6 Předložené žádosti 3 552 mil. Kč Počet podpořených žádostí 0 Podpořené žádosti 0 Zbývající alokace 1 500 mil. Kč Aktualizováno 26. 8. 2026 Ukončení příjmu žádostí: pro 1. kolo hodnocení: 20. 11. 2025 v 14:00, pro 2. kolo hodnocení: do vyčerpání alokace, nejpozději do 20. 11. 2026 do 14:00. Cíl výzvy: Cílem výzvy Teaming-CZ III je posílit doplňkovost mezi fondy EU a programem Horizont Evropa a přispět k rozvoji zázemí a kapacit výzkumného prostředí v ČR tak, aby byly vytvořeny dostatečně kvalitní podmínky pro rozvoj špičkového výzkumu. Předmětem výzvy je komplementární podpora projektů úspěšných ve výzvě Teaming for Excellence programu Horizont Evropa ( HORIZON-WIDERA-2025-ACCESS-01-01-two-stage , dále jen „Teaming for Excellence (HE)“), která směřuje k rozvoji excelentních výzkumných center pomocí spolupráce se zahraniční vedoucí vědeckou institucí. Oprávnění žadatelé: Oprávněný žadatel musí patřit do jedné z následujících kategorií a zároveň splňovat všechny podmínky uvedené v kap. 5.3 PpŽP – specifická část. Oprávnění žadatelé pro první kolo: Subjekty, které podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a jejichž žádost úspěšně prošla prvním kolem hodnocení. Oprávnění žadatelé pro druhé kolo: Subjekty, které kumulativně splňují následující podmínky: podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a",
+      "text": "02. října 2025 - 20. listopadu 2026 Zbývá 74 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 6 Předložené žádosti 3 552 mil. Kč Počet podpořených žádostí 0 Podpořené žádosti 0 Zbývající alokace 1 500 mil. Kč Aktualizováno 2. 9. 2026 Ukončení příjmu žádostí: pro 1. kolo hodnocení: 20. 11. 2025 v 14:00, pro 2. kolo hodnocení: do vyčerpání alokace, nejpozději do 20. 11. 2026 do 14:00. Cíl výzvy: Cílem výzvy Teaming-CZ III je posílit doplňkovost mezi fondy EU a programem Horizont Evropa a přispět k rozvoji zázemí a kapacit výzkumného prostředí v ČR tak, aby byly vytvořeny dostatečně kvalitní podmínky pro rozvoj špičkového výzkumu. Předmětem výzvy je komplementární podpora projektů úspěšných ve výzvě Teaming for Excellence programu Horizont Evropa ( HORIZON-WIDERA-2025-ACCESS-01-01-two-stage , dále jen „Teaming for Excellence (HE)“), která směřuje k rozvoji excelentních výzkumných center pomocí spolupráce se zahraniční vedoucí vědeckou institucí. Oprávnění žadatelé: Oprávněný žadatel musí patřit do jedné z následujících kategorií a zároveň splňovat všechny podmínky uvedené v kap. 5.3 PpŽP – specifická část. Oprávnění žadatelé pro první kolo: Subjekty, které podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a jejichž žádost úspěšně prošla prvním kolem hodnocení. Oprávnění žadatelé pro druhé kolo: Subjekty, které kumulativně splňují následující podmínky: podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a j",
       "attachments": [
         {
           "title": "Výzva Teaming-CZ III",
@@ -4427,6 +3706,30 @@ window.DOTACE_EXPORT = {
           "format": "XLSX"
         }
       ]
+    },
+    {
+      "id": 200997569063,
+      "title": "Podpora osob s poruchou autistického spektra (PAS)",
+      "code": "112",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-02",
+      "closing_date": "2026-11-23",
+      "deadline": "2026-11-23",
+      "source_url": "https://www.esfcr.cz/prehled-vyzev-opz-plus/-/asset_publisher/SfUza2tXdZGm/content/id/22626726",
+      "source_id": "mpsv-esf-opz-plus",
+      "source_name": "MPSV / ESF ČR - OPZ+",
+      "program": "OPZ+",
+      "allocation_czk": 100000000,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování a inovace",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob s poruchou autistického spektra (PAS) Podpora osob s poruchou autistického spektra (PAS) Číslo: 112 Platnost od: 2. 9. 2026 09:00 Platnost do: 23. 11. 2026 14:00 Zahájení příjmu žádostí o podporu: 2. 9. 2026 12:00 Alokace v Kč: 100 000 000 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_112_Podpora osob s poruchou autistického spektra (PAS) Soubory ke stažení: Text výzvy č. 112 OPZ+ Příloha č. 1 - Pomůcka pro stanovení osobních nákladů Příloha č. 2 - Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2A - Údaje o sociální službě plán Seminář pro žadatele: 10. 9. 2026, online Uveřejněno: 2. 9. 2026 Aktualizováno: 2. 9. 2026 Vložil/a: Michala Trličíková Určeno pro: Žadatel 22626719",
+      "attachments": []
     },
     {
       "id": 492874727922,
@@ -4699,8 +4002,8 @@ window.DOTACE_EXPORT = {
           "format": "XLSX"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21apl-mezinarodni-spoluprace.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 9. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21apl-mezinarodni-spoluprace-1.pdf",
           "format": "PDF"
         },
         {
@@ -4746,7 +4049,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování a inovace",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora transformace Sídliště Šluknov Podpora transformace Sídliště Šluknov Číslo: 098 Platnost od: 29. 7. 2026 09:00 Platnost do: 30. 11. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 7. 2026 09:00 Alokace v Kč: 30 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:49 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 098 OPZ+ Uveřejněno: 29. 7. 2026 Aktualizováno: 28. 7. 2026 Vložil/a: Radka Pospíšilová Určeno pro: Veřejnost, Žadatel 22508162",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora transformace Sídliště Šluknov Podpora transformace Sídliště Šluknov Číslo: 098 Platnost od: 29. 7. 2026 09:00 Platnost do: 30. 11. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 7. 2026 09:00 Alokace v Kč: 30 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:29 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 098 OPZ+ Uveřejněno: 29. 7. 2026 Aktualizováno: 28. 7. 2026 Vložil/a: Radka Pospíšilová Určeno pro: Veřejnost, Žadatel 22508162",
       "attachments": []
     },
     {
@@ -5094,7 +4397,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Číslo: 062 Platnost od: 28. 5. 2026 09:00 Platnost do: 15. 12. 2026 14:00 Zahájení příjmu žádostí o podporu: 11. 6. 2026 09:00 Alokace v Kč: 273 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:28 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Pro tuto výzvu je oprávněným žadatelem Ministerstvo zdravotnictví ČR a Ministerstvo práce a sociálních věcí. Soubory ke stažení: Text výzvy č. 062 OPZ+ - aktualizace k 19. 6. 2026 - rozšíření/specifikace cílové skupiny pracovníci v",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Číslo: 062 Platnost od: 28. 5. 2026 09:00 Platnost do: 15. 12. 2026 14:00 Zahájení příjmu žádostí o podporu: 11. 6. 2026 09:00 Alokace v Kč: 273 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:11 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Pro tuto výzvu je oprávněným žadatelem Ministerstvo zdravotnictví ČR a Ministerstvo práce a sociálních věcí. Soubory ke stažení: Text výzvy č. 062 OPZ+ - aktualizace k 19. 6. 2026 - rozšíření/specifikace cílové skupiny pracovníci v o",
       "attachments": []
     },
     {
@@ -5322,6 +4625,78 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
+      "id": 864954468963,
+      "title": "FuseNet Call for the Organisation of Mini-Workshops in Fusion",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-02-18",
+      "closing_date": "2026-12-31",
+      "deadline": "2026-12-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/FuseNet-Call-for-the-Organisation-of-Mini-Workshop",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy FuseNet Call for the Organisation of Mini-Workshops in Fusion Programové období: 2021-2027 Operační program: Program EURATOM pro výzkum a odbornou přípravu Prioritní osa: Rozvoj podnikání a konkurenceschopnosti malých a středních podniků Zahájení příjmu žádostí: 18. 2. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 12. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Program EURATOM pro výzkum a odbornou přípravu Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 794061811219,
+      "title": "FuseNet Support of Master Students going on an internship abroad",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-02-18",
+      "closing_date": "2026-12-31",
+      "deadline": "2026-12-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/FuseNet-Support-of-Master-Students-going-on-an-int",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy FuseNet Support of Master Students going on an internship abroad Programové období: 2021-2027 Operační program: Program EURATOM pro výzkum a odbornou přípravu Prioritní osa: Rozvoj podnikání a konkurenceschopnosti malých a středních podniků Zahájení příjmu žádostí: 18. 2. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 12. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Program EURATOM pro výzkum a odbornou přípravu Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 962718565185,
+      "title": "FuseNet Support of Master Students in attending Educational Events",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-02-18",
+      "closing_date": "2026-12-31",
+      "deadline": "2026-12-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/FuseNet-Support-of-Master-Students-in-attending-Ed",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy FuseNet Support of Master Students in attending Educational Events Programové období: 2021-2027 Operační program: Program EURATOM pro výzkum a odbornou přípravu Prioritní osa: Rozvoj podnikání a konkurenceschopnosti malých a středních podniků Zahájení příjmu žádostí: 18. 2. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 12. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Program EURATOM pro výzkum a odbornou přípravu Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
       "id": 515608733396,
       "title": "Inovační vouchery – ochrana práv průmyslového vlastnictví – výzva III",
       "code": "III",
@@ -5382,8 +4757,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 9. 2. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/02/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-iv-ochrana-prav-prumysloveho-vlastnictvi-vyzva-iii-.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 9. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-in.v.-ochrana-prav-prumysloveho-vlastnictvi-vyzva-iii.pdf",
           "format": "PDF"
         },
         {
@@ -5626,6 +5001,32 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
+      "id": 632516785704,
+      "title": "Poradenství - výzva III.",
+      "code": "III",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-04",
+      "closing_date": "2027-02-01",
+      "deadline": "2027-02-01",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/01-Operacni-program-Technologie-a-aplikace-pro-kon/Poradenstvi-Jaderna-energetika-vyzva-I",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Poradenství - výzva III. Číslo výzvy: 01_26_091 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Operační program Technologie a aplikace pro konkurenceschopnost Prioritní osa: Rozvoj podnikání a konkurenceschopnosti MSP Oprávnění žadatelé: MSP Zpřístupnění žádosti o podporu: 21. 8. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 4. 9. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 1. 2. 2027 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 24.04.2026 Změna datumu otevření: na 26.10.2026 24.04.2026 Změna datumu uzavření: na 01.02.2027 02.07.2026 Změna názvu: Název se změnil z Poradenství - Jaderná energetika - výzva I. na Poradenství- výzva III. 02.07.2026 Změna datumu otevření: na 04.09.2026 11.07.2026 Změna názvu: Název se změnil z Poradenství- výzva III. na Poradenství - výzva III. 28.07.2026 Změna datumu zpřístupnění: na 21.08.2026 28.07.2026 Změna stavu: na Rozpracovaná 28.07.2026 Změna kódu stavu: na VP20 28.07.2026 Změna cílů: na Poradenství 28.07.2026 Změna cílů: na Rozvoj podnikání a konkurenceschopnosti MSP 20.08.2026 Změna stavu: na Schválená 20.08.2026 Změna kódu stavu: na VP22 22.08.2026 Změna stavu: na Vyhlášená 22.08.2026 Změna kódu stavu: na VP30 05.09.2026 Změna stavu: na Otevřená 05.09.2026 Změna kódu stavu: na VP31 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud",
+      "attachments": []
+    },
+    {
       "id": 889973626439,
       "title": "Poradenství – výzva III",
       "code": "III",
@@ -5686,6 +5087,11 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
+          "title": "Příručka pro podání žádosti o podporu v ISKP21+ NPL (pdf) 2. 9. 2026 Postup pro vyplnění a podání žádosti o podporu v IS KP21+ NPL",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/poradenstvi-iii-prirucka-pro-podani-zadosti-o-podporu-v-iskp21-npl.pdf",
+          "format": "PDF"
+        },
+        {
           "title": "Leták výzvy (pdf) 20. 8. 2026",
           "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/poradenstvi-vyzva-iii-web.pdf",
           "format": "PDF"
@@ -5694,6 +5100,266 @@ window.DOTACE_EXPORT = {
           "title": "Archiv (zip) 26. 8. 2026",
           "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/poradenstvi-vyzva-iii-archiv.zip",
           "format": "ZIP"
+        },
+        {
+          "title": "Resume Consulting – Call III (pdf) 1. 9. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/poradenstvi-vyzva-iii.en-.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "id": 846984301167,
+      "title": "119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR)",
+      "code": "119",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-03-31",
+      "closing_date": "2027-03-31",
+      "deadline": "2027-03-31",
+      "source_url": "https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/119vyzvaIROP",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "allocation_czk": 553357565,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 17. 3. 2026 vyhlašuje 119. výzvu IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR). Výzva podporuje výstavbu, modernizaci a rekonstrukci vyhrazených komunikací pro cyklisty a realizaci doprovodné cyklistické infrastruktury na území méně rozvinutých regionů, tj. Karlovarského, Ústeckého, Libereckého, K",
+      "text": "Úvod > Výzvy 2021-2027 > 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) doprava2 119. výzva IROP - Infrastruktura pro cyklistickou dopravu II. - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 31. 3. 2026 Zahájení příjmu žádostí: 31. 3. 2026 Ukončení příjmu žádostí: 31. 3. 2027 Oprávnění žadatelé: Kraje, obce, dobrovolné svazky obcí, organizace zřizované nebo zakládané kraji, organizace zřizované nebo zakládané obcemi, organizace zřizované nebo zakládané dobrovolnými svazky obcí Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022",
+      "attachments": []
+    },
+    {
+      "id": 1048856753688,
+      "title": "121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR)",
+      "code": "121",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-04-14",
+      "closing_date": "2027-03-31",
+      "deadline": "2027-03-31",
+      "source_url": "https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/121vyzvaIROP",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "allocation_czk": 685060360,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 31. 3. 2026 vyhlašuje 121. výzvu IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR). Výzva podporuje nákup silničních bezemisních vozidel k poskytování veřejných služeb v přepravě cestujících, konkrétně elektrobusů a vodíkových autobusů, na území méně rozvinutých regionů, tj. Karlovarského, Ústeckého, Liber",
+      "text": "Úvod > Výzvy 2021-2027 > 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) doprava2 121. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (MRR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 31. 3. 2027 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podpo",
+      "attachments": []
+    },
+    {
+      "id": 1011412313353,
+      "title": "122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR)",
+      "code": "122",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-04-14",
+      "closing_date": "2027-03-31",
+      "deadline": "2027-03-31",
+      "source_url": "https://irop.gov.cz/Vyzvy-2021-2027/Vyzvy/122vyzvaIROP",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "allocation_czk": 799472958,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 31. 3. 2026 vyhlašuje 122. výzvu IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR). Výzva podporuje nákup silničních bezemisních vozidel k poskytování veřejných služeb v přepravě cestujících, konkrétně elektrobusů a vodíkových autobusů, na území přechodových regionů, tj. Středočeského, Jihočeského, Plzeňské",
+      "text": "Úvod > Výzvy 2021-2027 > 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) doprava2 122. výzva IROP - Bezemisní vozidla pro veřejnou dopravu - SC 6.1 (PR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 14. 4. 2026 Zahájení příjmu žádostí: 14. 4. 2026 Ukončení příjmu žádostí: 31. 3. 2027 Oprávnění žadatelé: Kraje, obce, dopravci na základě smlouvy o veřejných službách v přepravě cestujících Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ PDF, 1.7 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 1. 4. 2022 do 27. 7. 2022 [ ZIP, 1.1 MB ] Postup pro podání žádosti o podporu v MS2021+ Postup pro podání žádosti o podporu",
+      "attachments": []
+    },
+    {
+      "id": 355831457386,
+      "title": "Výzva č. 02_25_043 Open Science III",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-07-20",
+      "closing_date": "2027-03-31",
+      "deadline": "2027-03-31",
+      "source_url": "https://opjak.cz/vyzvy/vyzva-c-02_25_043-open-science-iii/",
+      "source_id": "op-jak",
+      "source_name": "OP JAK",
+      "program": "OP JAK",
+      "allocation_czk": 500000000,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod.",
+      "text": "29. června 2026 - 31. března 2027 Zbývá 205 dní na podání Celková alokace 500 mil. Kč Počet předložených žádostí 61 Předložené žádosti 251 mil. Kč Počet podpořených žádostí 0 Podpořené žádosti 0 Zbývající alokace 500 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu: 20. 7. 2026. Příjem žádostí bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. Příjem žádostí o podporu bude ukončen nejpozději 31. 3. 2027 ve 14:00:00 hod. Cíl výzvy Výzva Open Science III je součástí komplexních intervencí OP JAK podporujících zavádění principů otevřené vědy do běžné praxe výzkumného prostředí. Cílí primárně na instituce nebo jejich části, které nemají s implementací principů otevřené vědy příliš zkušeností. Záměrem výzvy je především rozvoj lidských zdrojů a kompetencí v oblasti správy výzkumných dat, a to prostřednictvím posílení personálních kapacit umožňujících zavádění principů FAIR do práce s výzkumnými daty, ukotvení těchto principů v rámci institucí a napojení institucí do Národní datové infrastruktury. Podání žádosti o podporu: 20. 7. 2026 – 31. 3. 2027 do 14 hodin* * Příjem žádostí o podporu bude ukončen poté, co finanční objem v podaných žádostech o podporu dosáhne 120 % výše alokace výzvy, nejdříve však 4. 8. 2026 ve 14:00:00 hod. v aplikaci IS KP21+ na webu: iskp21.mssf.cz informační email k výzvě: os@msmt.gov.cz Text výzvy Open Science III 29. 06. 2026 - 06:04 | pdf | 776",
+      "attachments": [
+        {
+          "title": "Text výzvy Open Science III",
+          "url": "https://opjak.cz/wp-content/uploads/2026/06/Vyzva_Open_Science_III_web-1.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 1 Hodnoticí kritéria",
+          "url": "https://opjak.cz/wp-content/uploads/2026/06/Priloha_c1_Hodnotici-kriteria_OpenScienceIII_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 2 Rozdělení do pásem",
+          "url": "https://opjak.cz/wp-content/uploads/2026/06/Priloha_c2_Rozdeleni-do-pasem_OpenScienceIII_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Pravidla pro žadatele a příjemce – specifická část pro výzvu Open Science III, verze 1, účinná od 29.6.2026",
+          "url": "https://opjak.cz/wp-content/uploads/2026/06/PpZP_specificka_cast_vyzva_Open_Science_III_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024",
+          "url": "https://opjak.cz/wp-content/uploads/2024/06/PpZP_obecna_cast_OP_JAK_verze_3_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024",
+          "url": "https://opjak.cz/wp-content/uploads/2024/07/MD_1_PpZP_obecna_verze_3_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický dopis č. 2 (smlouva o výkonu funkce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 20. 10. 2025",
+          "url": "https://opjak.cz/wp-content/uploads/2025/10/MD_2_PpZP_obecna_verze_3_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický dopis č. 3 (logolink) k Pravidlům pro žadatele a příjemce – obecná část, verze 2 a 3, účinnost od 01. 05. 2026",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/MD_3_k_PpZP_obecna_verze2a3_na-web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Pravidla pro žadatele a příjemce – obecná část verze 2, účinnost od 06. 02. 2023",
+          "url": "https://opjak.cz/wp-content/uploads/2023/02/PpZP_obecna_cast_OP_JAK_verze_2_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Pravidla pro žadatele a příjemce – obecná část verze 2 ENG, účinnost od 06. 02. 2023",
+          "url": "https://opjak.cz/wp-content/uploads/2023/09/PpZP_obecna_cast_OP_JAK_verze_2_ENG.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický dopis č. 1 (publicita) k Pravidlům pro žadatele a příjemce – obecná část verze 2, účinnost od 01. 08. 2023",
+          "url": "https://opjak.cz/wp-content/uploads/2023/07/MD_c._1_k_PpZP_obecna_verze_2_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický dopis č. 2 (zákoník práce) k Pravidlům pro žadatele a příjemce – obecná část verze 2, účinnost od 01. 01. 2024",
+          "url": "https://opjak.cz/wp-content/uploads/2023/12/MD_2_k_PpZP_obecna_cast_verze_2_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Pravidla pro žadatele a příjemce – obecná část verze 1, účinnost od 17. 05. 2022",
+          "url": "https://opjak.cz/wp-content/uploads/2022/05/PpZP_obecna_cast_OP_JAK.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Pravidla pro žadatele a příjemce – obecná část verze 1 ENG, účinnost od 17. 05. 2022",
+          "url": "https://opjak.cz/wp-content/uploads/2022/10/PpZP_obecna_cast_OP_JAK_verze_1_ENG.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický dopis č. 1 (stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 1, účinnost od 11. 11. 2022",
+          "url": "https://opjak.cz/wp-content/uploads/2022/11/MD_c_1_k_PpZP_obecna_verze_1_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Způsobilost odpisů dlouhodobého nehmotného majetku v OP JAK, pro všechny verze PpŽP – obecná část",
+          "url": "https://opjak.cz/wp-content/uploads/2023/10/Metodicky-vyklad_odpisy_nehmotneho_majetku_OPJAK.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Dokladování uspořádaných akcí, pro PpŽP – obecná část, verze 1 a 2",
+          "url": "https://opjak.cz/wp-content/uploads/2023/11/Metodicky-vyklad-k-PpZP-obecna-cast-dokladovani-usporadanych_akci_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Změna finančních milníků a stanovení nových finančních milníků v případě prodloužení realizace projektu včetně souvisejících změn finančního plánu, pro PpŽP – obecná část verze 2 a 3",
+          "url": "https://opjak.cz/wp-content/uploads/2022/05/MV_k_PpZP_obecna_cast_verze_2_a_3_Zmena_financnich_milniku_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Způsobilost výdajů souvisejících s účastí členů realizačního týmu projektu a osob cílové skupiny projektu na akcích souvisejících s realizací projektů OP JAK, aktualizace pro PpŽP – obecná část, verze 2 a 3",
+          "url": "https://opjak.cz/wp-content/uploads/2025/01/MV_k_PpZP_obecna_cast_verze_2_a_3_RT_vs._CS.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Logolink pro PpŽP – obecná část verze 2 a 3",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/MV_LOGOLINK_k_PpZP_obecna_v.2a3_a_PpZP_ZP_v.2-1.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Základní povinnosti příjemce v oblasti publicity u projektů podporovaných z EFRR, u nichž celkové výdaje přesahují 500 000 EUR, nebo projektů z ESF+, u nichž celkové výdaje přesahují 100 000 EUR, s nebo bez hmotné investice, pro PpŽP – obecná část, verze 3",
+          "url": "https://opjak.cz/wp-content/uploads/2024/09/MV_publicita_k_PpZP_3_obecna_cast.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Hmotná investice k PpŽP – obecná část, verze 3",
+          "url": "https://opjak.cz/wp-content/uploads/2026/07/MV_Hmotna-investice_k_PpZP_3_web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Metodický výklad Podmínky a pravidla DNSH",
+          "url": "https://opjak.cz/wp-content/uploads/2026/07/Metodicky_vyklad_DNSH.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Tabulka pro výpočet stavebního odpadu",
+          "url": "https://opjak.cz/wp-content/uploads/2026/07/OPJAK_Vypocet_stavebni_odpad.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "Příloha č. 1 - Jednotný formulář pro vyřizování žádosti o přezkum",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/Priloha_c_1_Zadost_o_prezkum.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 2 – Formulář pro připomínky k podkladům ŘO v realizaci",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/Priloha_c_2_Formular_Pripominky.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 3 – Námitka podjatosti kontrolujícího",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/Priloha_c_3_Namitka_podjatosti_kontrolujiciho.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 4 - Námitka proti kontrolnímu zjištění",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/Priloha_c_4_Namitka_proti_kontrolnimu_zjisteni.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 5 - Námitka proti Opatření o nevyplacení části dotace",
+          "url": "https://opjak.cz/wp-content/uploads/2026/04/Priloha_c_5_Namitka_proti_Opatreni_o_nevyplaceni_casti_dotace.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 6 - Test kritérií podniku v obtížích",
+          "url": "https://opjak.cz/wp-content/uploads/2023/07/Priloha-c.-6_Test-kriterii-podniku-v-obtizich_lock.xlsx",
+          "format": "XLSX"
         }
       ]
     },
@@ -5726,6 +5392,32 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         }
       ]
+    },
+    {
+      "id": 142736086580,
+      "title": "Čistá a aktivní mobilita",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-04-14",
+      "closing_date": "2027-03-31",
+      "deadline": "2027-03-31",
+      "source_url": "https://irop.gov.cz/cs/irop-2021-2027/temata/cista-a-kvalitni-doprava",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "allocation_czk": 20400000000,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "Specifický cíl 6.1: Podpora udržitelné multimodální městské mobility v rámci přechodu na uhlíkově neutrální hospodářství",
+      "text": "Úvod > IROP 2021-2027 > Čistá a aktivní mobilita Čistá a aktivní mobilita Specifický cíl 6.1: Podpora udržitelné multimodální městské mobility v rámci přechodu na uhlíkově neutrální hospodářství Cílem této oblasti je zavést inteligentní, propojenější a čistější systémy dopravy, zatraktivněním veřejné osobní dopravy a zlepšením podmínek pro aktivní mobilitu. A dále motivovat veřejnost k přesunu z individuální automobilové dopravy na dopravu veřejnou, cyklistickou a pěší, a tím přispět ke snížení emisí skleníkových plynů a znečišťujících látek, zejména ve městech. Celková částka na projekty: 20,4 mld. Kč Podporované aktivity: nákup silničních nízkoemisních a bezemisních vozidel pro veřejnou dopravu nebo bezemisních drážních vozidel pro městskou hromadnou dopravu; výstavba plnicích a dobíjecích stanic pro veřejnou dopravu; zavedení nebo modernizace telematiky pro veřejnou dopravu (např. systémy řízení dopravy, systémy poskytování aktuálních informací uživatelům veřejné dopravy atd.); posílení multimodality (propojení více druhů) osobní dopravy výstavbou nebo modernizací přestupních terminálů, parkovacích systémů, preferenčních a kapacitních opatření pro veřejnou dopravu; zvyšování bezpečnosti nemotorové dopravy výstavbou a rekonstrukcí komunikací pro pěší a stavebními úpravami pro nemotorovou dopravu v nehodových lokalitách; výstavba a rekonstrukce vyhrazených komunikací pro cyklisty a doprovodné cyklistické infrastruktury. Příklady projektů: obnova vozového parku dopravního pod",
+      "attachments": []
     },
     {
       "id": 1049847322740,
@@ -5809,8 +5501,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 1. 4. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-inovacni-vouchery-iv.pdf",
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ (staré prostředí) (pdf) 2. 9. 2026 Postup vyplnění a podání žádosti o podporu v IS KP21+",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu-v-iskp21-inovacni-vouchery-iv.pdf",
           "format": "PDF"
         },
         {
@@ -5870,6 +5562,146 @@ window.DOTACE_EXPORT = {
       "for_business": true,
       "summary": "Vybrat dotace dle Programu: Typu žadatele: Hledat: Aktuálně nabízené dotace Uzavřené dotace Zrušit filtr 12.12.2025 Příjem žádostí: 15.1.2026 - 30.6.2027 Alokace: 300 000 000 Kč Výzva podpoří instalace nových agrofotovoltaických elektráren a systémů akumulace vyrobené elektřiny na zemědělsky obhospodařovaných pozemcích. Více informací 12.12.2025 Příjem žádostí: 2.2.2026 - 30.11.2026 Alokace: 960 000 000 Kč Výzva podp",
       "text": "Vybrat dotace dle Programu: Typu žadatele: Hledat: Aktuálně nabízené dotace Uzavřené dotace Zrušit filtr 12.12.2025 Příjem žádostí: 15.1.2026 - 30.6.2027 Alokace: 300 000 000 Kč Výzva podpoří instalace nových agrofotovoltaických elektráren a systémů akumulace vyrobené elektřiny na zemědělsky obhospodařovaných pozemcích. Více informací 12.12.2025 Příjem žádostí: 2.2.2026 - 30.11.2026 Alokace: 960 000 000 Kč Výzva podpoří provozovatele silniční nákladní dopravy při výměně nákladních aut se vznětovými motory za elektrická nákladní vozidla. Současně získají podporu i na instalaci dobíjecích stanic. Více informací 4.12.2025 Příjem žádostí: 10.12.2025 - 31.3.2027 Alokace: 7 175 000 000 Kč Výzva je určena pro Správu železnic a podpoří elektrifikaci železničních tratí za účelem energetických úspor a zvyšování energetické účinnosti v dopravě. Více informací 4.12.2025 Příjem žádostí: 15.12.2025 - 30.10.2026 Alokace: 3 500 000 000 Kč Výzva podpoří subjekty podnikající v nákladní železniční dopravě při výměně starých neekologických hnacích vozidel za moderní elektrické lokomotivy s vysoce účinným pohonem a nulovými emisemi. Více informací 7.11.2025 Příjem žádostí: 1.12.2025 - 31.3.2027 Alokace: 15 000 000 000 Kč V druhém kole výzvy na podporu energetických úspor v osobní železniční dopravy formou pořízení nových železničních vozidel mohou dopravci pověření kraji případně přímo kraje žádat o dotaci na projekty se souhlasným stanoviskem SFŽP ČR. Více informací 29.10.2025 Příjem žádostí: 15",
+      "attachments": []
+    },
+    {
+      "id": 129225782785,
+      "title": "Technologie pro MAS (CLLD) - výzva II. - přechodové regiony",
+      "code": "II",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-01",
+      "closing_date": "2027-09-01",
+      "deadline": "2027-09-01",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/01-Operacni-program-Technologie-a-aplikace-pro-kon/Technologie-pro-MAS-(CLLD)-vyzva-II",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Technologie pro MAS (CLLD) - výzva II. - přechodové regiony Číslo výzvy: 01_26_093 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Operační program Technologie a aplikace pro konkurenceschopnost Prioritní osa: Rozvoj podnikání a konkurenceschopnosti MSP Oprávnění žadatelé: Podnikající FO nebo PO Zpřístupnění žádosti o podporu: 3. 8. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 1. 9. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 1. 9. 2027 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 01.04.2026 Změna názvu: Název se změnil z Technologie pro MAS (CLLD) - výzva II. na Technologie pro MAS (CLLD) - výzva II. (PR) 01.04.2026 Změna datumu zpřístupnění: na 01.09.2026 01.04.2026 Změna stavu: na Rozpracovaná 01.04.2026 Změna kódu stavu: na VP20 01.04.2026 Změna cílů: na Technologie pro MAS (CLLD) 01.04.2026 Změna cílů: na Rozvoj podnikání a konkurenceschopnosti MSP 08.04.2026 Změna stavu: na Vyhlášená 08.04.2026 Změna kódu stavu: na VP30 04.07.2026 Změna datumu zpřístupnění: na 03.08.2026 11.08.2026 Změna názvu: Název se změnil z Technologie pro MAS (CLLD) - výzva II. (PR) na Technologie pro MAS (CLLD) - výzva II. - přechodové regiony 02.09.2026 Změna stavu: na Otevřená 02.09.2026 Změna kódu stavu: na VP31 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje r",
+      "attachments": []
+    },
+    {
+      "id": 340885480450,
+      "title": "Technologie pro MAS (CLLD) – výzva II",
+      "code": "II",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-01",
+      "closing_date": "2027-09-01",
+      "deadline": "2027-09-01",
+      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/technologie-pro-mas-optak/technologie-pro-mas-clld-vyzva-ii/",
+      "source_id": "api-agentura-optak",
+      "source_name": "API Agentura - OP TAK",
+      "program": "OP TAK",
+      "allocation_czk": 345000000,
+      "support_rate_pct": 50,
+      "applicant_types": [
+        "msp",
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Cílem výzvy je podpora malých a středních podniků ve venkovských oblastech prostřednictvím Místních akčních skupin se schváleným programovým rámcem.",
+      "text": "Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Technologie pro MAS (CLLD) – výzva II Vyhlášení výzvy 07. 04. 2026 Zahájení příjmu 01. 09. 2026 10:00:00 Ukončení příjmu 01. 09. 2027 10:00:00 Otevřená výzva Cílem výzvy je podpora malých a středních podniků ve venkovských oblastech prostřednictvím Místních akčních skupin se schváleným programovým rámcem. Upozornění pro žadatele a příjemce: 3. 7. 2026: Změna Textu výzvy Technologie pro MAS – CLLD, výzva II. z důvodu změny data zpřístupnění žádosti o podporu v MS2021+ z 1. září 2026 na 3.",
+      "attachments": [
+        {
+          "title": "Technologie pro MAS (CLLD) - výzva II (pdf) 3. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/text-vyzvy-technologie-pro-mas-clld-vyzva-ii.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 1 - Model hodnocení (pdf) 7. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-1-model-hodnoceni.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 7. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-2-pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 3 - Vymezení způsobilých výdajů (pdf) 7. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-3-vymezeni-zpusobilych-vydaju.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 14. 8. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/priloha-c.-4-vzor-rozhodnuti-o-poskytnuti-dotace.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 5 - Nepodporované kategorie CZ-NACE (pdf) 7. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-5-nepodporovane-kategorie-cz-nace.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 6 - Povinná Osnova Podnikatelského záměru (docx) 7. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-6-povinna-osnova-podnikatelskeho-zameru.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 7 - Formulář k DNSH (docx) 7. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-7-formular-k-dnsh.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příručka pro podání žádosti o podporu v IS KP21+ NPL (pdf) 2. 9. 2026 Postup pro vyplnění a podání žádostí o podporu v IS KP21+ NPL",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/prirucka-pro-podani-zadosti-o-podporu-techno-mas-ii.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Leták výzvy (pdf) 8. 4. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/technologie-pro-mas-vyzva-ii-web.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Technology for MAS (CLLD) – Call II resume (pdf) 4. 5. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/05/technologie-pro-mas-clld-vyzva-ii-002.english.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Archiv (zip) 3. 7. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-technologie-pro-masclld-ii.zip",
+          "format": "ZIP"
+        }
+      ]
+    },
+    {
+      "id": 710283017140,
+      "title": "Technologie pro MAS (CLLD) – výzva II. - méně rozvinuté regiony",
+      "code": "II",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-01",
+      "closing_date": "2027-09-01",
+      "deadline": "2027-09-01",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/01-Operacni-program-Technologie-a-aplikace-pro-kon/Technologie-pro-MAS-(CLLD)-–-vyzva-II",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Technologie pro MAS (CLLD) – výzva II. - méně rozvinuté regiony Číslo výzvy: 01_26_086 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Operační program Technologie a aplikace pro konkurenceschopnost Prioritní osa: Rozvoj podnikání a konkurenceschopnosti MSP Oprávnění žadatelé: Podnikající FO nebo PO Zpřístupnění žádosti o podporu: 3. 8. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 1. 9. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 1. 9. 2027 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 31.03.2026 Změna datumu otevření: na 01.09.2026 31.03.2026 Změna datumu uzavření: na 01.09.2027 31.03.2026 Změna alokace v korunách: na 345000000 01.04.2026 Změna názvu: Název se změnil z Technologie pro MAS (CLLD) – výzva II. na Technologie pro MAS (CLLD) – výzva II. (MRR) 01.04.2026 Změna datumu zpřístupnění: na 01.09.2026 01.04.2026 Změna stavu: na Rozpracovaná 01.04.2026 Změna kódu stavu: na VP20 08.04.2026 Změna stavu: na Vyhlášená 08.04.2026 Změna kódu stavu: na VP30 04.07.2026 Změna datumu zpřístupnění: na 03.08.2026 11.08.2026 Změna názvu: Název se změnil z Technologie pro MAS (CLLD) – výzva II. (MRR) na Technologie pro MAS (CLLD) – výzva II. - méně rozvinuté regiony 02.09.2026 Změna stavu: na Otevřená 02.09.2026 Změna kódu stavu: na VP31 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo.",
       "attachments": []
     },
     {
@@ -6129,7 +5961,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zv",
-      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1033 dní na podání Celková alokace 2 000 mil. Kč Počet předložených žádostí 1 Předložené žádosti 2 000 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 2 000 mil. Kč Zbývající alokace 0 Aktualizováno 26. 8. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ERDF 17. 08. 2022 - 05:51 | pdf | 464.93 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ERDF 17. 08. 2022 - 05:51 | pdf | 201.10 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.97 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhn",
+      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1026 dní na podání Celková alokace 2 000 mil. Kč Počet předložených žádostí 1 Předložené žádosti 2 000 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 2 000 mil. Kč Zbývající alokace 0 Aktualizováno 2. 9. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ERDF 17. 08. 2022 - 05:51 | pdf | 464.93 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ERDF 17. 08. 2022 - 05:51 | pdf | 201.10 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.97 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhno",
       "attachments": [
         {
           "title": "Text výzvy TP – ERDF",
@@ -6306,7 +6138,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zv",
-      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1033 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 1 Předložené žádosti 1 500 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 1 500 mil. Kč Zbývající alokace 0 Aktualizováno 26. 8. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 466.12 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 199.55 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.37 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhn",
+      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1026 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 1 Předložené žádosti 1 500 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 1 500 mil. Kč Zbývající alokace 0 Aktualizováno 2. 9. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 466.12 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 199.55 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.37 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhno",
       "attachments": [
         {
           "title": "Text výzvy TP – ESF+",
@@ -6881,7 +6713,7 @@ window.DOTACE_EXPORT = {
       ],
       "for_business": true,
       "summary": "Všechny informace a dokumenty týkající se OP TAK, které budou publikovány po 4. březnu, naleznete na nových webových stránkách .",
-      "text": "Dotace a podpora podnikání Všechny informace a dokumenty týkající se OP TAK, které budou publikovány po 4. březnu, naleznete na nových webových stránkách . Informace o uzavřených výzvách a další dokumentaci můžete nadále vyhledávat na webových stránkách MPO v sekci Podnikání. Byla schválena aktualizace Strategie podpory malých a středních podniků do roku 2027 2.2.2026 - Význam této aktualizované strategie spočívá v nastavení moderního koncepčního rámce státní podpory, který na základě expertních doporučení OECD cílí na posílení konkurenceschopnosti, inovací a digitální transformace českých malých a… Výzva k podávání žádostí o zařazení mezi externí hodnotitele projektů OP TAK 30.1.2026 - Ministerstvo průmyslu a obchodu vyhlašuje kontinuální výběrové řízení na pozice externích hodnotitelů / odborníků, kteří budou zpracovávat odborné posudky projektů v rámci Operačního programu Technologie a aplikace pro konkurenceschopnost… Vyhlášení 41. výzvy sítě Cornet 23.1.2026 - Do 25. března 2026 je otevřena 41. výzva sítě Cornet pro projekty mezinárodního kolektivního výzkumu. Zatímco v předchozích výzvách podávali čeští zájemci projekty mezinárodní spolupráce do výzev aktivity Spolupráce – klastry,… MPO koordinuje podporu kritických technologií v rámci iniciativy STEP v ČR 22.5.2025 - MPO uspořádalo 1. jednání Řídicího a koordinačního výboru Platformy strategických technologií pro Evropu. Veřejná konzultace k možnostem dodatečného připojování k sítím vysokorychlostního internetu 18.2.20",
+      "text": "Dotace a podpora podnikání Všechny informace a dokumenty týkající se OP TAK, které budou publikovány po 4. březnu, naleznete na nových webových stránkách . Informace o uzavřených výzvách a další dokumentaci můžete nadále vyhledávat na webových stránkách MPO v sekci Podnikání. Výzva IPCEI ME/CT – FID 3.9.2026 - Ministerstvo průmyslu a obchodu vyhlašuje navazující Výzvu IPCEI ME/CT – FID. Byla schválena aktualizace Strategie podpory malých a středních podniků do roku 2027 2.2.2026 - Význam této aktualizované strategie spočívá v nastavení moderního koncepčního rámce státní podpory, který na základě expertních doporučení OECD cílí na posílení konkurenceschopnosti, inovací a digitální transformace českých malých a… Výzva k podávání žádostí o zařazení mezi externí hodnotitele projektů OP TAK 30.1.2026 - Ministerstvo průmyslu a obchodu vyhlašuje kontinuální výběrové řízení na pozice externích hodnotitelů / odborníků, kteří budou zpracovávat odborné posudky projektů v rámci Operačního programu Technologie a aplikace pro konkurenceschopnost… Vyhlášení 41. výzvy sítě Cornet 23.1.2026 - Do 25. března 2026 je otevřena 41. výzva sítě Cornet pro projekty mezinárodního kolektivního výzkumu. Zatímco v předchozích výzvách podávali čeští zájemci projekty mezinárodní spolupráce do výzev aktivity Spolupráce – klastry,… MPO koordinuje podporu kritických technologií v rámci iniciativy STEP v ČR 22.5.2025 - MPO uspořádalo 1. jednání Řídicího a koordinačního výboru Platformy strategických technologi",
       "attachments": []
     },
     {
@@ -7400,7 +7232,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Od 4. 8. 2026 je spuštěno nové uživatelské prostředí aplikace ISKP21+, tzv. NPL. Bližší informace a aktualizované příručky naleznete na odkazu ZDE .",
-      "text": "27. března 2025 - 27. února 2026 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 46 Předložené žádosti 178 mil. Kč Počet podpořených žádostí 45 Podpořené žádosti 177 mil. Kč Zbývající alokace 323 mil. Kč Aktualizováno 26. 8. 2026 Datum zahájení příjmu žádostí o podporu 14. dubna 2025. Text výzvy Podpora poradenského systému 19. 12. 2025 - 08:46 | pdf | 678.45 kB Stáhnout Text výzvy Podpora poradenského systému - Neplatná verze 26. 03. 2025 - 07:29 | pdf | 617.09 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 03. 2025 - 07:29 | pdf | 287.62 kB Stáhnout Příloha č. 2 Přehled šablon a jejich věcný výklad 26. 03. 2025 - 07:29 | pdf | 1.15 MB Stáhnout Popis a zdůvodnění změn výzvy PPS 19. 12. 2025 - 08:46 | pdf | 172.55 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 2, účinnost od 20. 03. 2024 19. 03. 2024 - 09:23 | pdf | 3.66 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 19. 07. 2024 18. 07. 2024 - 08:01 | pdf | 650.25 kB Stáhnout Metodický dopis č. 2 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 01. 05. 2026 01. 04. 2026 - 06:00 | pdf | 607.52 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 1, účinnost od 17. 05. 2022 17. 05. 2022 - 07:31 | pdf | 2.09 MB Stáhnout Metodický výklad pro zjednodušené projekty k vykazování indikátoru 600 000 bez IS ESF; Relevatní pro výzvy 02_22",
+      "text": "27. března 2025 - 27. února 2026 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 46 Předložené žádosti 178 mil. Kč Počet podpořených žádostí 45 Podpořené žádosti 177 mil. Kč Zbývající alokace 323 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 14. dubna 2025. Text výzvy Podpora poradenského systému 19. 12. 2025 - 08:46 | pdf | 678.45 kB Stáhnout Text výzvy Podpora poradenského systému - Neplatná verze 26. 03. 2025 - 07:29 | pdf | 617.09 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 03. 2025 - 07:29 | pdf | 287.62 kB Stáhnout Příloha č. 2 Přehled šablon a jejich věcný výklad 26. 03. 2025 - 07:29 | pdf | 1.15 MB Stáhnout Popis a zdůvodnění změn výzvy PPS 19. 12. 2025 - 08:46 | pdf | 172.55 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 2, účinnost od 20. 03. 2024 19. 03. 2024 - 09:23 | pdf | 3.66 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 19. 07. 2024 18. 07. 2024 - 08:01 | pdf | 650.25 kB Stáhnout Metodický dopis č. 2 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 01. 05. 2026 01. 04. 2026 - 06:00 | pdf | 607.52 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 1, účinnost od 17. 05. 2022 17. 05. 2022 - 07:31 | pdf | 2.09 MB Stáhnout Metodický výklad pro zjednodušené projekty k vykazování indikátoru 600 000 bez IS ESF; Relevatní pro výzvy 02_22_",
       "attachments": [
         {
           "title": "Letak_Vyzva_Podpora_poradenskeho_systemu.pdf",
@@ -8784,6 +8616,146 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
+      "id": 66296825459,
+      "title": "Living labs to enhance soil health in Continental, Black Sea, Pannonian and Steppic biogeographical regions",
+      "code": "HORIZON-MISS-2027-05-SOIL-01-two-stage",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-04",
+      "closing_date": "2027-04-08",
+      "deadline": "2027-04-08",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-05-SOIL-01-two-stage",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Living labs to enhance soil health in Continental, Black Sea, Pannonian and Steppic biogeographical regions",
+      "text": "Living labs to enhance soil health in Continental, Black Sea, Pannonian and Steppic biogeographical regions",
+      "attachments": []
+    },
+    {
+      "id": 181842843344,
+      "title": "Participatory research on the health of communities in contact with polluted soils",
+      "code": "HORIZON-MISS-2027-05-SOIL-04-two-stage",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-04",
+      "closing_date": "2027-04-08",
+      "deadline": "2027-04-08",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-05-SOIL-04-two-stage",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Participatory research on the health of communities in contact with polluted soils",
+      "text": "Participatory research on the health of communities in contact with polluted soils",
+      "attachments": []
+    },
+    {
+      "id": 524869441799,
+      "title": "Clinical trials for advancing innovative interventions for neurodegenerative diseases",
+      "code": "HORIZON-HLTH-2027-02-DISEASE-14-two-stage",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-10",
+      "closing_date": "2027-04-13",
+      "deadline": "2027-04-13",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-DISEASE-14-two-stage",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Clinical trials for advancing innovative interventions for neurodegenerative diseases",
+      "text": "Clinical trials for advancing innovative interventions for neurodegenerative diseases",
+      "attachments": []
+    },
+    {
+      "id": 605756361684,
+      "title": "Portable and versatile Point-of-care diagnostics",
+      "code": "HORIZON-HLTH-2027-02-IND-02-two-stage",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-10",
+      "closing_date": "2027-04-13",
+      "deadline": "2027-04-13",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-IND-02-two-stage",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Portable and versatile Point-of-care diagnostics",
+      "text": "Portable and versatile Point-of-care diagnostics",
+      "attachments": []
+    },
+    {
+      "id": 535740736082,
+      "title": "Prevention and management of chronic non-communicable diseases in children and young people (GACD)",
+      "code": "HORIZON-HLTH-2027-01-DISEASE-10",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-10",
+      "closing_date": "2027-04-13",
+      "deadline": "2027-04-13",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-10",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Prevention and management of chronic non-communicable diseases in children and young people (GACD)",
+      "text": "Prevention and management of chronic non-communicable diseases in children and young people (GACD)",
+      "attachments": []
+    },
+    {
       "id": 933312154409,
       "title": "Assessing the effect of airport operations on air quality and noise in nearby communities",
       "code": "HORIZON-CL5-2027-03-D5-20",
@@ -9176,92 +9148,172 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 340885480450,
-      "title": "Technologie pro MAS (CLLD) – výzva II",
-      "code": "II",
+      "id": 948240510475,
+      "title": "Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries",
+      "code": "HORIZON-CL2-2027-02-HERITAGE-09-two-stage",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Připravované",
       "status_code": "upcoming",
-      "opening_date": "2026-09-01",
-      "closing_date": "2027-09-01",
-      "deadline": "2027-09-01",
-      "source_url": "https://apiagentura.gov.cz/cs/podporovane-aktivity-optak/technologie-pro-mas-optak/technologie-pro-mas-clld-vyzva-ii/",
-      "source_id": "api-agentura-optak",
-      "source_name": "API Agentura - OP TAK",
-      "program": "OP TAK",
-      "allocation_czk": 345000000,
-      "support_rate_pct": 50,
+      "opening_date": "2027-03-02",
+      "closing_date": "2027-05-04",
+      "deadline": "2027-05-04",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-02-HERITAGE-09-two-stage",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
       "applicant_types": [
         "msp",
-        "obec_kraj"
+        "velky_podnik",
+        "vyzkumna_organizace"
       ],
       "regions": [],
       "for_business": true,
-      "summary": "Cílem výzvy je podpora malých a středních podniků ve venkovských oblastech prostřednictvím Místních akčních skupin se schváleným programovým rámcem.",
-      "text": "Domů OP TAK Výzvy Statistiky Podporované aktivity Aplikace Inovace Potenciál Inovační vouchery Služby infrastruktury Proof of Concept Partnerství znalostního transferu Spolupráce Technologické platformy Digitální podnik Poradenství Marketing Spolupráce škol a firem Technologie pro MAS Renovace brownfieldů pro cestovní ruch Vysokorychlostní internet Úspory energie Obnovitelné zdroje energie Energetická infrastruktura Udržitelné hospodaření s vodou Oběhové hospodářství STEP – výzkum a vývoj STEP – Investice – vývoj a výroba Metodika Výběr dodavatele Velikost podniku Veřejná podpora a de minimis Ekonomické hodnocení Podnik v obtížích Povinná publicita Žádost o platbu a zprávy o realizaci IS KP21+ FAQ OP PIK Programy podpory Výzvy Metodika IS KP14+ Statistiky FAQ (OP PIK) OPPI O API Kariéra v API Úřední deska Povinně zveřejňované informace Veřejné zakázky Protikorupční program Ochrana oznamovatelů Aktuality Novinky OP TAK Novinky OP PIK Články Publikace Tiskové centrum API v médiích Akce Kontakty Technologie pro MAS (CLLD) – výzva II Vyhlášení výzvy 07. 04. 2026 Zahájení příjmu 01. 09. 2026 10:00:00 Ukončení příjmu 01. 09. 2027 10:00:00 Otevřená výzva Cílem výzvy je podpora malých a středních podniků ve venkovských oblastech prostřednictvím Místních akčních skupin se schváleným programovým rámcem. Upozornění pro žadatele a příjemce: 3. 7. 2026: Změna Textu výzvy Technologie pro MAS – CLLD, výzva II. z důvodu změny data zpřístupnění žádosti o podporu v MS2021+ z 1. září 2026 na 3.",
-      "attachments": [
-        {
-          "title": "Technologie pro MAS (CLLD) - výzva II (pdf) 3. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/text-vyzvy-technologie-pro-mas-clld-vyzva-ii.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Příloha č. 1 - Model hodnocení (pdf) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-1-model-hodnoceni.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce z OP TAK - zvláštní část (pdf) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-2-pravidla-pro-zadatele-a-prijemce-z-op-tak-zvlastni-cast.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Příloha č. 3 - Vymezení způsobilých výdajů (pdf) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-3-vymezeni-zpusobilych-vydaju.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Příloha č. 4 - Vzor Rozhodnutí o poskytnutí dotace (pdf) 14. 8. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/priloha-c.-4-vzor-rozhodnuti-o-poskytnuti-dotace.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Příloha č. 5 - Nepodporované kategorie CZ-NACE (pdf) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-5-nepodporovane-kategorie-cz-nace.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Příloha č. 6 - Povinná Osnova Podnikatelského záměru (docx) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-6-povinna-osnova-podnikatelskeho-zameru.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Příloha č. 7 - Formulář k DNSH (docx) 7. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/priloha-c.-7-formular-k-dnsh.docx",
-          "format": "DOCX"
-        },
-        {
-          "title": "Příručka pro podání žádosti o podporu v IS KP21+ NPL (pdf) 26. 8. 2026 Postup pro vyplnění a podání žádostí o podporu v IS KP21+ NPL",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/08/prirucka-pro-podani-zadosti-o-podporu-techno-mas-ii-v1-final.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Leták výzvy (pdf) 8. 4. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/04/technologie-pro-mas-vyzva-ii-web.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Technology for MAS (CLLD) – Call II resume (pdf) 4. 5. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/05/technologie-pro-mas-clld-vyzva-ii-002.english.pdf",
-          "format": "PDF"
-        },
-        {
-          "title": "Archiv (zip) 3. 7. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/07/archiv-technologie-pro-masclld-ii.zip",
-          "format": "ZIP"
-        }
-      ]
+      "summary": "Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries",
+      "text": "Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries",
+      "attachments": []
+    },
+    {
+      "id": 1020522968643,
+      "title": "Improving analytical capacity for sustainable competitiveness of the agricultural sector",
+      "code": "HORIZON-CL6-2027-03-GOVERNANCE-02",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-04",
+      "closing_date": "2027-05-11",
+      "deadline": "2027-05-11",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-03-GOVERNANCE-02",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Improving analytical capacity for sustainable competitiveness of the agricultural sector",
+      "text": "Improving analytical capacity for sustainable competitiveness of the agricultural sector",
+      "attachments": []
+    },
+    {
+      "id": 763972234803,
+      "title": "International dimension of the circular bio-based economy: seeking win-win opportunities",
+      "code": "HORIZON-CL6-2027-03-GOVERNANCE-03",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-04",
+      "closing_date": "2027-05-11",
+      "deadline": "2027-05-11",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-03-GOVERNANCE-03",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "International dimension of the circular bio-based economy: seeking win-win opportunities",
+      "text": "International dimension of the circular bio-based economy: seeking win-win opportunities",
+      "attachments": []
+    },
+    {
+      "id": 583660206903,
+      "title": "Digital enablers and building blocks for collaborative Earth Observation and Satellite telecommunications for Space solutions (Space Partnership)",
+      "code": "HORIZON-CL4-2027-SPACE-03-33",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-03-09",
+      "closing_date": "2027-09-02",
+      "deadline": "2027-09-02",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-33",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Digital enablers and building blocks for collaborative Earth Observation and Satellite telecommunications for Space solutions (Space Partnership)",
+      "text": "Digital enablers and building blocks for collaborative Earth Observation and Satellite telecommunications for Space solutions (Space Partnership)",
+      "attachments": []
+    },
+    {
+      "id": 885839851375,
+      "title": "Digital solutions for autonomy for space transportation systems, design and simulation tools - Digital enablers and building blocks (Space Partnership)",
+      "code": "HORIZON-CL4-2027-SPACE-03-12",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-03-09",
+      "closing_date": "2027-09-02",
+      "deadline": "2027-09-02",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-12",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Digital solutions for autonomy for space transportation systems, design and simulation tools - Digital enablers and building blocks (Space Partnership)",
+      "text": "Digital solutions for autonomy for space transportation systems, design and simulation tools - Digital enablers and building blocks (Space Partnership)",
+      "attachments": []
+    },
+    {
+      "id": 495848760623,
+      "title": "ISOS4I Pilot Mission Integrated Ground Test and consolidation of space-compatible USI solutions",
+      "code": "HORIZON-CL4-2027-SPACE-03-21",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-03-09",
+      "closing_date": "2027-09-02",
+      "deadline": "2027-09-02",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-21",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "ISOS4I Pilot Mission Integrated Ground Test and consolidation of space-compatible USI solutions",
+      "text": "ISOS4I Pilot Mission Integrated Ground Test and consolidation of space-compatible USI solutions",
+      "attachments": []
     },
     {
       "id": 81609640229,
@@ -9289,6 +9341,202 @@ window.DOTACE_EXPORT = {
       "for_business": true,
       "summary": "Preparing demonstration missions for collaborative Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
       "text": "Preparing demonstration missions for collaborative Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
+      "attachments": []
+    },
+    {
+      "id": 697527624908,
+      "title": "Quantum Space Gravimetry topic",
+      "code": "HORIZON-CL4-2027-SPACE-03-71",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-03-09",
+      "closing_date": "2027-09-02",
+      "deadline": "2027-09-02",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-71",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Quantum Space Gravimetry topic",
+      "text": "Quantum Space Gravimetry topic",
+      "attachments": []
+    },
+    {
+      "id": 979747691108,
+      "title": "Space critical EEE components for EU non-dependence",
+      "code": "HORIZON-CL4-2027-SPACE-03-83",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-03-09",
+      "closing_date": "2027-09-02",
+      "deadline": "2027-09-02",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-83",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Space critical EEE components for EU non-dependence",
+      "text": "Space critical EEE components for EU non-dependence",
+      "attachments": []
+    },
+    {
+      "id": 837626992996,
+      "title": "Space critical equipment for EU non-dependence",
+      "code": "HORIZON-CL4-2027-SPACE-03-84",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-03-09",
+      "closing_date": "2027-09-02",
+      "deadline": "2027-09-02",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-84",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Space critical equipment for EU non-dependence",
+      "text": "Space critical equipment for EU non-dependence",
+      "attachments": []
+    },
+    {
+      "id": 25903620471,
+      "title": "ERA Fellowships",
+      "code": "HORIZON-WIDERA-2027-03-WIDENING-01",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-04-07",
+      "closing_date": "2027-09-08",
+      "deadline": "2027-09-08",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-03-WIDENING-01",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "ERA Fellowships",
+      "text": "ERA Fellowships",
+      "attachments": []
+    },
+    {
+      "id": 487672920999,
+      "title": "Enhancing the involvement of philanthropic organisations in innovation ecosystems",
+      "code": "HORIZON-EIE-2027-01-CONNECT-03",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-06-01",
+      "closing_date": "2027-09-15",
+      "deadline": "2027-09-15",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIE-2027-01-CONNECT-03",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Enhancing the involvement of philanthropic organisations in innovation ecosystems",
+      "text": "Enhancing the involvement of philanthropic organisations in innovation ecosystems",
+      "attachments": []
+    },
+    {
+      "id": 698876232972,
+      "title": "Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)",
+      "code": "HORIZON-CL5-2027-05-D4-07",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-05-05",
+      "closing_date": "2027-09-15",
+      "deadline": "2027-09-15",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-07",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)",
+      "text": "Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)",
+      "attachments": []
+    },
+    {
+      "id": 982992071931,
+      "title": "Startup Europe",
+      "code": "HORIZON-EIE-2027-01-CONNECT-01",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-06-01",
+      "closing_date": "2027-09-15",
+      "deadline": "2027-09-15",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIE-2027-01-CONNECT-01",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Startup Europe",
+      "text": "Startup Europe",
       "attachments": []
     },
     {
@@ -9851,7 +10099,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Partnerství CET (Clean Energy Transition Partnership) je multilaterální strategické Partnerství s rámcovým cílem výrazně podpořit implementaci “Evropského strategického plánu pro energetické technologie” (European Strategic Energy Technology Plan).",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Clean Energy Transition (CET) Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Partnerství CET Call 2025: Výsledky mezinárodní výzvy Aktuality Clean Energy Transition Call 2025 14. 7. 2026 - Do mezinárodní výzvy Partnerství CET Call 2025, která byla zaměřená na výzkum v oblasti energetické transformace (čisté energie), se přihlásilo 44… POZVÁNKA: Partnerství CET workshop (TRI 1) Aktuality Clean Energy Transition Call 2024 Call 2025 Call 2026 14. 5. 2026 - Partnerství CET zve zájemce o témata v rámci TRI 1 (TRI 1: Integrated Net-zero-emissions Energy System) na workshop „Flexibility solutions for… Partnerství CET Call 2026: Blíží se vyhlášení mezinárodní",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Clean Energy Transition (CET) Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Pozvánka na informační webinář v rámci výzvy CET Call 2026 Aktuality Clean Energy Transition Call 2026 1. 9. 2026 - Sekretariát mezinárodní výzvy CET Call 2026 pořádá 9. září 2026 od 10:00 do 12:00 hodin (SEČ) informační webinář pro zájemce o zapojení do výzvy.… Partnerství CET Call 2025: Výsledky mezinárodní výzvy Aktuality Clean Energy Transition Call 2025 14. 7. 2026 - Do mezinárodní výzvy Partnerství CET Call 2025, která byla zaměřená na výzkum v oblasti energetické transformace (čisté energie), se přihlásilo 44… POZVÁNKA: Partnerství CET workshop (TRI 1) Aktuality Clean E",
       "attachments": []
     },
     {
@@ -14742,7 +14990,7 @@ window.DOTACE_EXPORT = {
       "source_id": "op-doprava",
       "source_name": "OP Doprava 2021-2027",
       "program": "OP Doprava",
-      "allocation_czk": 24150,
+      "allocation_czk": 24190,
       "support_rate_pct": 0,
       "applicant_types": [
         "obec_kraj"
@@ -16064,7 +16312,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Program na podporu aplikovaného výzkumu a inovací PRODEF (dále též “program”) byl schválen usnesením vlády České republiky č. 300 ze dne 7. května 2024 .",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program PRODEF Seznam soutěží Druhá veřejná soutěž Probíhá hodnocení návrhů projektů První veřejná soutěž Uzavřena Znění programu Program PRODEF Usnesení vlády České republiky Seznam členů a členek odborného poradního orgánu PRODEF Novinky Program PRODEF: Základní informace pro uchazeče k vyhlášení 2. veřejné soutěže PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 24. 6. 2026 - Technologická agentura České republiky připravila informační prezentaci pro uchazeče 2. veřejné soutěže v Programu Ministerstva obrany na podporu… Upozornění pro uchazeče 2. VS PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 15. 6. 2026 - Pro garantované posouzení projektu a zpracování povinné přílohy Potvrzení zájmu aplikačního garanta o využití výstupů/výsledků projektu, zašlete… Program",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program PRODEF Seznam soutěží Druhá veřejná soutěž Probíhá hodnocení návrhů projektů První veřejná soutěž Uzavřena Znění programu Program PRODEF Usnesení vlády České republiky Seznam členů a členek odborného poradního orgánu PRODEF Novinky Program PRODEF: Vyhlášení výsledků formální kontroly 2. veřejné soutěže, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 1. 9. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 2. veřejné soutěže… Program PRODEF: Základní informace pro uchazeče k vyhlášení 2. veřejné soutěže PRODEF, PP2 Aktuality Program PRODEF Druhá veřejná soutěž - PP2 24. 6. 2026 - Technologická agentura České republiky připravila informační prezentaci pro uchazeče 2. veřejné soutěže v Programu Minister",
       "attachments": [
         {
           "title": "Program PRODEF",
@@ -16163,7 +16411,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 .",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž Běží lhůta pro podávání návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací THÉTA 2 Seznam členů a členek Odborného poradního orgánu Usnesení vlády ČR o programu THÉTA 2 Novinky Program THÉTA 2: Vyhlášení 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 26. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila dne 26. 8. 2026 čtvrtou veřejnou soutěž v Programu na podporu aplikovaného… Program THÉTA 2: Oznámení předběžných parametrů 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 30. 6. 2026 - Technologická agentura ČR (dále jen „TA ČR”) informuje o přípravě 4. veřejné soutěže v Pro",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž Běží lhůta pro podávání návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací THÉTA 2 Seznam členů a členek Odborného poradního orgánu Usnesení vlády ČR o programu THÉTA 2 Novinky Program THÉTA 2: Upozornění pro uchazeče 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 7. 9. 2026 - Vážení uchazeči, dovolujeme si vás upozornit, že došlo k úpravě popisu prioritního výzkumného cíle PP1 – Návrh podpůrných analytických a… Program THÉTA 2: Vyhlášení 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 26. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila dne 26. 8. 2026 čtvrtou veřejnou sou",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací THÉTA 2",
@@ -16261,7 +16509,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Projděte si našeho průvodce pro uchazeče. Najdete zde pohromadě základní informace o všech aktuálních programech a mezinárodních výzvách. PŘEJÍT NA STRÁNKU >",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Aktuální možnosti podpory Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Program THÉTA 2 V přípravě Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerst",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Aktuální možnosti podpory Driving Urban Transitions (DUT) V přípravě Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Program THÉTA 2 V přípravě Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů M-ERA.NET Probíhá hodnocení n",
       "attachments": [
         {
           "title": "Harmonogram pro období 2026-2027 (PDF)",
@@ -17220,7 +17468,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Zde naleznete veškeré tiskové zprávy týkající se IROP v programovém období 2021-2027 i 2014-2020. V případě dotazů kontaktuje, prosím, Odbor komunikace MMR na emailové adrese media@mmr. gov. cz .",
-      "text": "Úvod > Pro média > Tiskové zprávy Tiskové zprávy Zde naleznete veškeré tiskové zprávy týkající se IROP v programovém období 2021-2027 i 2014-2020. V případě dotazů kontaktuje, prosím, Odbor komunikace MMR na emailové adrese media@mmr. gov. cz . Zobrazuje se z 465 zpráv Výpis článků IROP podporuje moderní dopravu v regionech. Na čistou mobilitu míří 14,8 miliardy korun Tiskové zprávy 28. 8. 2026 Ministerstvo pro místní rozvoj prostřednictvím Integrovaného regionálního operačního programu (IROP) podporuje modernizaci dopravy v regionech Česka. V období 2021–2027 už získalo podporu 1 108 dopravních projektů v celkové výši 23,02 miliardy korun z Evropského fondu pro regionální rozvoj (EFRR). Největší část prostředků nově směřuje do čisté a aktivní mobility, která zahrnuje modernizaci... více Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu Tiskové zprávy 3. 7. 2026 Projekt nové mateřské školy ve Fulneku, který vznikl díky podpoře Ministerstva pro místní rozvoj (MMR) z Integrovaného regionálního operačního programu (IROP) 2021–2027, získal nominaci na prestižní Českou cenu za architekturu. Evropský fond pro regionální rozvoj na jeho vznik přispěl částkou přes 84 milionů korun. Stavba je příkladem toho, jak mohou evropské prostředky pomoci vzniku kvalitních... více Dostupnost kvalitní a odborné paliativní péče pro pacienty i jejich rodiny v celé České republice posilují investice z MMR Tiskové zprávy 8. 6. 2026 Od 6. do 14. června 2026",
+      "text": "Úvod > Pro média > Tiskové zprávy Tiskové zprávy Zde naleznete veškeré tiskové zprávy týkající se IROP v programovém období 2021-2027 i 2014-2020. V případě dotazů kontaktuje, prosím, Odbor komunikace MMR na emailové adrese media@mmr. gov. cz . Zobrazuje se z 466 zpráv Výpis článků Začíná nový školní rok. IROP pomáhá žákům a studentům vytvářet moderní podmínky pro výuku Tiskové zprávy 2. 9. 2026 V září se žáci vracejí do lavic a začíná nový školní rok plný učení, objevování a získávání nových zkušeností. K tomu potřebují nejen kvalitní pedagogy, ale také moderní a dobře vybavené školy. Ministerstvo pro místní rozvoj (MMR) prostřednictvím Integrovaného regionálního operačního programu (IROP) podporuje modernizaci škol již od roku 2014. Ve stávajícím období IROP 2021–2027 podpora směřuje... více IROP podporuje moderní dopravu v regionech. Na čistou mobilitu míří 14,8 miliardy korun Tiskové zprávy 28. 8. 2026 Ministerstvo pro místní rozvoj prostřednictvím Integrovaného regionálního operačního programu (IROP) podporuje modernizaci dopravy v regionech Česka. V období 2021–2027 už získalo podporu 1 108 dopravních projektů v celkové výši 23,02 miliardy korun z Evropského fondu pro regionální rozvoj (EFRR). Největší část prostředků nově směřuje do čisté a aktivní mobility, která zahrnuje modernizaci... více Nová mateřská škola ve Fulneku podpořená z IROP získala nominaci na Českou cenu za architekturu Tiskové zprávy 3. 7. 2026 Projekt nové mateřské školy ve Fulneku, který vznikl díky",
       "attachments": []
     },
     {
@@ -17396,6 +17644,101 @@ window.DOTACE_EXPORT = {
       "summary": "Na stránce videoreportáží naleznete soubor regionálních videoreportáží IROP o úspěšných projektech v období 2014-2020, které jsou členěny podle jednotlivých krajů České republiky. Ve videích se dozvíte, kde všude fondy pomáhají.",
       "text": "Úvod > Pro média > Videoreportáže Videoreportáže Na stránce videoreportáží naleznete soubor regionálních videoreportáží IROP o úspěšných projektech v období 2014-2020, které jsou členěny podle jednotlivých krajů České republiky. Ve videích se dozvíte, kde všude fondy pomáhají. Jihočeský kraj Jihomoravský kraj Karlovarský kraj Královéhradecký kraj Liberecký kraj Moravskoslezský kraj Olomoucký kraj Pardubický kraj Plzeňský kraj Hlavní město Praha Středočeský kraj Ústecký kraj Kraj Vysočina Zlínský kraj",
       "attachments": []
+    },
+    {
+      "id": 993845802676,
+      "title": "Vouchery pro univerzity v Moravskoslezském kraji – 1. výzva",
+      "code": "1",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Neznámé",
+      "status_code": "unknown",
+      "opening_date": "",
+      "closing_date": "",
+      "deadline": "",
+      "source_url": "https://www.msk.cz/cs/temata/dotace/vouchery-pro-univerzity-v-moravskoslezskem-kraji-_-1--vyzva-21297/",
+      "source_id": "opst-2021-2027",
+      "source_name": "OP Spravedlivá transformace",
+      "program": "",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "vyzkumna_organizace",
+        "obec_kraj"
+      ],
+      "regions": [
+        "Moravskoslezský kraj"
+      ],
+      "for_business": true,
+      "summary": "Lhůta pro podávání žádostí je od 14. 4. 2025 10:00 hod. do 1. 11. 2026",
+      "text": "Vouchery pro univerzity v Moravskoslezském kraji – 1. výzva Lhůta pro podávání žádostí je od 14. 4. 2025 10:00 hod. do 1. 11. 2026 Rada kraje svým usnesením č. 4/285 ze dne 9. 12. 2024 schválila vyhlášení Programu, ve změně ve znění usnesení č. 13/715 ze dne 10. 3. 2025. Vyhlašovatelem Programu a poskytovatelem dotace je Moravskoslezský kraj, 28. října 2771/117, 702 00 Ostrava, IČ 70890692, zastoupený hejtmanem kraje. Podacím místem pro příjem žádostí je Krajský úřad Moravskoslezského kraje, odbor regionálního rozvoje a cestovního ruchu. Prostřednictvím e–podání lze zaslat: Žádost Průběžné vyúčtování Závěrečné vyúčtování Termín Lhůta pro podávání žádostí prostřednictvím systému e-Podatelny je stanovena od 14. 4. 2025 10:00 hod. do 1. 11. 2026. Neuplatní-li žadatel postup dle čl. X odst. 3 Programu musí ještě žádost doložit ve lhůtě 5 pracovních dní od odeslání žádosti v systému ePodatelna (blíže čl. X odst. 4 Programu). Kontakt Administrátorem Programu za poskytovatele dotace je ustanoven odbor regionálního rozvoje a cestovního ruchu. Kontaktní osoby administrátora: Ing. Adam Škáva odbor regionálního rozvoje a cestovního ruchu tel. 595 622 461 e‑mail adam.skava@msk.cz Dotazy týkající se technických aspektů systému ePodatelny žadatel směřuje na: Kontaktní místo podpory, tel. 595 622 600, e‑mail podpora@msk.cz Podmínky Podmínky dotačního programu Vouchery pro univerzity v Moravskoslezském kraji – 1. výzva Výsledky Výsledky dotačního programu Vouchery pro univerzity v Moravskosl",
+      "attachments": [
+        {
+          "title": "Příloha č. 1 – Závazné pokyny pro zastřešující projekty – Vouchery pro univerzity (formát pdf , velikost 741 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--1_zavazne-pokyny-pro-zastresujici-projekty---vouchery-pro-univerzity.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 2 – Formulář žádosti (formát pdf , velikost 419 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--2_formular-zadosti-_vzor_.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 3 – Kritéria formálních náležitostí – Hodnoticí list (formát pdf , velikost 133 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--3_kriteria-formalnich-nalezitosti-_-hodnotici-list.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 4 – Kritéria přijatelnosti – Hodnoticí list (formát pdf , velikost 158 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--4_kriteria-prijatelnosti-_-hodnotici-list.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 5 – Smlouva o poskytnutí dotace (formát pdf , velikost 132 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--5_smlouva-o-poskytnuti-dotace.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 5 – Smlouva o poskytnutí dotace (formát odt , velikost 90 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--5_smlouva-o-poskytnuti-dotace.odt",
+          "format": "ODT"
+        },
+        {
+          "title": "Příloha č. 5 – Smlouva o poskytnutí dotace (formát docx , velikost 80 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--5_smlouva-o-poskytnuti-dotace.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 6 – Hodnoticí list – Kontrola před uzavřením smlouvy (formát pdf , velikost 114 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--6_hodnotici-list-_-kontrola-pred-uzavrenim-smlouvy.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 7 – Formulář hlášení nepodstatných změn v projektu (formát pdf , velikost 106 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--7_formular-hlaseni-nepodstatnych-zmen-v-projektu.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 7 – Formulář hlášení nepodstatných změn v projektu (formát odt , velikost 108 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--7_formular-hlaseni-nepodstatnych-zmen-v-projektu.odt",
+          "format": "ODT"
+        },
+        {
+          "title": "Příloha č. 7 – Formulář hlášení nepodstatných změn v projektu (formát docx , velikost 108 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--7_formular-hlaseni-nepodstatnych-zmen-v-projektu.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Příloha č. 8 – Průběžné vyúčtování projektu (vzor) (formát pdf , velikost 183 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--8_prubezne-vyuctovani-projektu-_vzor_.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Příloha č. 9 – Závěrečné vyúčtování projektu (vzor) (formát pdf , velikost 210 kB)",
+          "url": "https://www.msk.cz/assets/temata/dotace/priloha-c--9_zaverecne-vyuctovani-projektu-_vzor_.pdf",
+          "format": "PDF"
+        }
+      ]
     },
     {
       "id": 187251608725,
@@ -18197,7 +18540,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Příjem žádostí o podporu probíhá od 2. 3. do 31. 8. 2026. Vzhledem k nedostatečné disponibilní alokaci OP JAK budou přijaté žádosti o podporu po hodnocení přesunuty do „zásobníku“. V případě uvolnění prostředků pro navýšení alokace výzvy budou projekty podpořeny v pořadí, ve kterém byly podány.",
-      "text": "02. srpna 2022 - 31. srpna 2026 Zbývá -0 dní na podání Celková alokace 1 395 mil. Kč Počet předložených žádostí 126 Předložené žádosti 2 872 mil. Kč Počet podpořených žádostí 75 Podpořené žádosti 1 349 mil. Kč Zbývající alokace 46 mil. Kč Aktualizováno 26. 8. 2026 Příjem žádostí o podporu probíhá od 2. 3. do 31. 8. 2026. Vzhledem k nedostatečné disponibilní alokaci OP JAK budou přijaté žádosti o podporu po hodnocení přesunuty do „zásobníku“. V případě uvolnění prostředků pro navýšení alokace výzvy budou projekty podpořeny v pořadí, ve kterém byly podány. Text výzvy MSCA Fellowships CZ, verze 3 12. 02. 2026 - 08:36 | pdf | 669.66 kB Stáhnout Text výzvy MSCA Fellowships CZ, verze 2 - Neplatná verze 01. 03. 2024 - 07:47 | pdf | 579.52 kB Stáhnout Text výzvy MSCA Fellowships CZ - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 579.73 kB Stáhnout MSCA_Fellowships_CZ_call_OP_JAK_en 12. 06. 2023 - 12:24 | pdf | 421.07 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 08. 2022 - 05:44 | pdf | 179.64 kB Stáhnout Příloha č. 2 Korekční koeficienty 17. 02. 2025 - 09:31 | pdf | 271.58 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 07. 05. 2024 - 08:23 | pdf | 201.88 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 290.01 kB Stáhnout Popis a zdůvodnění změn výzvy 12. 02. 2026 - 08:36 | pdf | 191.44 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu MSCA Fellowships CZ, verze 2 17. 02. 2025 - 09:31 | pdf | 2.37 MB St",
+      "text": "02. srpna 2022 - 31. srpna 2026 Žádost o podporu již není možné podat Celková alokace 1 395 mil. Kč Počet předložených žádostí 126 Předložené žádosti 2 872 mil. Kč Počet podpořených žádostí 75 Podpořené žádosti 1 349 mil. Kč Zbývající alokace 46 mil. Kč Aktualizováno 2. 9. 2026 Příjem žádostí o podporu probíhá od 2. 3. do 31. 8. 2026. Vzhledem k nedostatečné disponibilní alokaci OP JAK budou přijaté žádosti o podporu po hodnocení přesunuty do „zásobníku“. V případě uvolnění prostředků pro navýšení alokace výzvy budou projekty podpořeny v pořadí, ve kterém byly podány. Text výzvy MSCA Fellowships CZ, verze 3 12. 02. 2026 - 08:36 | pdf | 669.66 kB Stáhnout Text výzvy MSCA Fellowships CZ, verze 2 - Neplatná verze 01. 03. 2024 - 07:47 | pdf | 579.52 kB Stáhnout Text výzvy MSCA Fellowships CZ - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 579.73 kB Stáhnout MSCA_Fellowships_CZ_call_OP_JAK_en 12. 06. 2023 - 12:24 | pdf | 421.07 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 08. 2022 - 05:44 | pdf | 179.64 kB Stáhnout Příloha č. 2 Korekční koeficienty 17. 02. 2025 - 09:31 | pdf | 271.58 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 07. 05. 2024 - 08:23 | pdf | 201.88 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 290.01 kB Stáhnout Popis a zdůvodnění změn výzvy 12. 02. 2026 - 08:36 | pdf | 191.44 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu MSCA Fellowships CZ, verze 2 17. 02. 2025 - 09:31 | pd",
       "attachments": [
         {
           "title": "Letak_Vyzva_MSCA-Fellowships.pdf",
@@ -19154,7 +19497,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Závazné stanovisko Řídicího orgánu IROP se vydává v případě neodkladné nutnosti upřesnit, doplnit či nastavit pravidla ve vztahu k žadatelům a příjemcům.",
-      "text": "Úvod > IROP 2021-2027 > Závazná stanoviska ŘO IROP 2021-2027 Závazná stanoviska ŘO IROP 2021-2027 Závazné stanovisko Řídicího orgánu IROP se vydává v případě neodkladné nutnosti upřesnit, doplnit či nastavit pravidla ve vztahu k žadatelům a příjemcům. ZS ŘO IROP č. 48 - způsobilost smluvních pokut [ PDF, 242.5 KB ] ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu [ PDF, 204.8 KB ] Příloha ZS č. 47 - čestné prohlášení k fungování urgentního příjmu [ DOCX, 956.9 KB ] ZS ŘO IROP č. 46 - rozvolnění lhůt na hodnocení [ PDF, 248.9 KB ] ZS ŘO IROP č. 45 - povinná publicita - obecná pravidla [ PDF, 265 KB ] ZS ŘO IROP č. 44 - revize ZS č. 36 - změna limitu emisí od 1. 1. 2026 [ PDF, 303.9 KB ] ZS ŘO IROP č. 43 - změny názvů indikátorů v aktivitě sociální bydlení [ PDF, 231.6 KB ] ZS ŘO IROP č. 42 - zjednodušení vykazování způs. výdajů na nákup použitého majetku a nemovitostí [ PDF, 346.6 KB ] ZS ŘO IROP č. 41 - kybernetická bezpečnost - nový zákon [ PDF, 197.4 KB ] ZS ŘO IROP č. 40 - kolaudační rozhodnutí [ PDF, 286.2 KB ] ZS ŘO IROP č. 39 - změna Modelu pro kontrolu nadměrného vyrovnání ZS ŘO IROP č. 39 - změna Modelu pro kontrolu nadměrného vyrovnání [ PDF, 271.6 KB ] Příloha č. 1 Model pro kontrolu nadměrného vyrovnání [ XLSX, 2.2 MB ] ZS ŘO IROP č. 38 - vyhodnocení žadatele o podporu z pohledu podniku v obtížích ZS ŘO IROP č. 38 - vyhodnocení žadatele o podporu z pohledu podniku v o",
+      "text": "Úvod > IROP 2021-2027 > Závazná stanoviska ŘO IROP 2021-2027 Závazná stanoviska ŘO IROP 2021-2027 Závazné stanovisko Řídicího orgánu IROP se vydává v případě neodkladné nutnosti upřesnit, doplnit či nastavit pravidla ve vztahu k žadatelům a příjemcům. ZS ŘO IROP č. 49 - aktualizace zásady proporcionality při ukládání finan. oprav - platné od 1.9.2026 ZS ŘO IROP č. 49 - aktualizace zásady proporcionality při ukládání finan. oprav - platné od 1.9.2026 [ PDF, 162.8 KB ] Příloha č. 1 - postupy pro aplikaci zásady proporcionality v IROP 2021-2027 [ PDF, 528 KB ] ZS ŘO IROP č. 48 - způsobilost smluvních pokut [ PDF, 242.5 KB ] ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu [ PDF, 204.8 KB ] Příloha ZS č. 47 - čestné prohlášení k fungování urgentního příjmu [ DOCX, 956.9 KB ] ZS ŘO IROP č. 46 - rozvolnění lhůt na hodnocení [ PDF, 248.9 KB ] ZS ŘO IROP č. 45 - povinná publicita - obecná pravidla [ PDF, 265 KB ] ZS ŘO IROP č. 44 - revize ZS č. 36 - změna limitu emisí od 1. 1. 2026 [ PDF, 303.9 KB ] ZS ŘO IROP č. 43 - změny názvů indikátorů v aktivitě sociální bydlení [ PDF, 231.6 KB ] ZS ŘO IROP č. 42 - zjednodušení vykazování způs. výdajů na nákup použitého majetku a nemovitostí [ PDF, 346.6 KB ] ZS ŘO IROP č. 41 - kybernetická bezpečnost - nový zákon [ PDF, 197.4 KB ] ZS ŘO IROP č. 40 - kolaudační rozhodnutí [ PDF, 286.2 KB ] ZS ŘO IROP č. 39 - změna Modelu pro kontrolu nadměrného vy",
       "attachments": []
     },
     {
@@ -19312,7 +19655,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Pravidla spolufinancování jsou definována v PpŽP verze 3, kapitola 5.10.5, od strany 94. V rámci kontroly dokladování výdajů na soupisce účetních dokladů není předmětem administrativního ověřování kontrola podílu spolufinancování.",
-      "text": "16. prosince 2024 - 25. srpna 2025 Žádost o podporu již není možné podat Celková alokace 406 mil. Kč Počet předložených žádostí 108 Předložené žádosti 1 274 mil. Kč Počet podpořených žádostí 36 Podpořené žádosti 400 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 26. 8. 2026 Datum zahájení příjmu žádostí o podporu 16. 12. 2024. Text výzvy Podpora občanského vzdělávání a výchovy k demokracii, verze 2 07. 01. 2026 - 08:24 | pdf | 629.94 kB Stáhnout Text výzvy Podpora občanského vzdělávání a výchovy k demokracii - Neplatná verze 16. 12. 2024 - 07:50 | pdf | 566.34 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 16. 12. 2024 - 07:50 | pdf | 529.41 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | xlsx | 276.04 kB Stáhnout Popis a zdůvodnění změn výzvy Podpora občanského vzdělávání a výchovy k demokracii 27. 01. 2026 - 09:46 | pdf | 171.64 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora občanského vzdělávání a výchovy k demokracii, verze 1, účinná od 16. 12. 2024 16. 12. 2024 - 07:50 | pdf | 2.69 MB Stáhnout Pravidla pro žadatele a př",
+      "text": "16. prosince 2024 - 25. srpna 2025 Žádost o podporu již není možné podat Celková alokace 406 mil. Kč Počet předložených žádostí 108 Předložené žádosti 1 274 mil. Kč Počet podpořených žádostí 36 Podpořené žádosti 400 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 16. 12. 2024. Text výzvy Podpora občanského vzdělávání a výchovy k demokracii, verze 2 07. 01. 2026 - 08:24 | pdf | 629.94 kB Stáhnout Text výzvy Podpora občanského vzdělávání a výchovy k demokracii - Neplatná verze 16. 12. 2024 - 07:50 | pdf | 566.34 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 16. 12. 2024 - 07:50 | pdf | 529.41 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | xlsx | 276.04 kB Stáhnout Popis a zdůvodnění změn výzvy Podpora občanského vzdělávání a výchovy k demokracii 27. 01. 2026 - 09:46 | pdf | 171.64 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora občanského vzdělávání a výchovy k demokracii, verze 1, účinná od 16. 12. 2024 16. 12. 2024 - 07:50 | pdf | 2.69 MB Stáhnout Pravidla pro žadatele a pří",
       "attachments": [
         {
           "title": "Letak_Vyzva_Podpora-obcanskeho-vzdelavani_1.pdf",
@@ -19513,7 +19856,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob znevýhodněných na trhu práce (4) Podpora osob znevýhodněných na trhu práce (4) Číslo: 086 Platnost od: 16. 7. 2025 09:00 Platnost do: 16. 9. 2025 12:00 Zahájení příjmu žádostí o podporu: 21. 7. 2025 09:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:42 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_086 Podpora osob znevýhodněných na trhu práce (4) Soubory ke stažení: Text výzvy č. 086 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha č. 4 - Zdůvodnění dílčích alokací Zápis z jednání výběrové komise 10. - 12. 2. 2026 Semináře pro příjemce 4. 6. 2026 o",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob znevýhodněných na trhu práce (4) Podpora osob znevýhodněných na trhu práce (4) Číslo: 086 Platnost od: 16. 7. 2025 09:00 Platnost do: 16. 9. 2025 12:00 Zahájení příjmu žádostí o podporu: 21. 7. 2025 09:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:23 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_086 Podpora osob znevýhodněných na trhu práce (4) Soubory ke stažení: Text výzvy č. 086 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha č. 4 - Zdůvodnění dílčích alokací Zápis z jednání výběrové komise 10. - 12. 2. 2026 Semináře pro příjemce 4. 6. 2026 on",
       "attachments": []
     },
     {
@@ -20428,7 +20771,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Číslo: 104 Platnost od: 3. 9. 2025 12:00 Platnost do: 27. 11. 2025 12:00 Zahájení příjmu žádostí o podporu: 3. 9. 2025 12:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:44 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_104 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Soubory ke stažení: Text výzvy č. 104 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Popis naplnění základních pr",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Číslo: 104 Platnost od: 3. 9. 2025 12:00 Platnost do: 27. 11. 2025 12:00 Zahájení příjmu žádostí o podporu: 3. 9. 2025 12:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:26 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_104 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Soubory ke stažení: Text výzvy č. 104 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Popis naplnění základních pri",
       "attachments": []
     },
     {
@@ -20549,8 +20892,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 15. 7. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/07/priloha-c.-2-pravidla-pro-zadatele-a-prijemce-zvlastni-cast-poradenstvi-ii-fina-16.7.2025.pdf",
+          "title": "Příloha č. 2 - Pravidla pro žadatele a příjemce - zvláštní část (pdf) 4. 9. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/priloha-c.-2-pravidla-pro-zadatele-a-prijemce-zvlastni-cast-poradenstvi-ii-7.9.2026.pdf",
           "format": "PDF"
         },
         {
@@ -20609,8 +20952,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Archiv (zip) 15. 7. 2025",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2025/07/poradenstvi-vyzva-ii-archiv.zip",
+          "title": "Archiv (zip) 4. 9. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/poradenstvi-vyzva-ii-archiv.zip",
           "format": "ZIP"
         }
       ]
@@ -20662,7 +21005,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Systémová opatření v oblasti sociálního začleňování (2) Systémová opatření v oblasti sociálního začleňování (2) Číslo: 110 Platnost od: 30. 9. 2025 08:00 Platnost do: 12. 12. 2025 10:00 Zahájení příjmu žádostí o podporu: 7. 10. 2025 10:00 Alokace v Kč: 200 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:47 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 110 OPZ+ Zápisy z jednání hodnotící komise: Zápis z 1. jednání hodnoticí komise (5. 12. 2025) Zápis z 2. jednání hodnoticí komise (22. 12. 2025) Uveřejněno: 30. 9. 2025 Aktualizováno: 6. 1. 2026 Vložil/a: Magda Cab",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Systémová opatření v oblasti sociálního začleňování (2) Systémová opatření v oblasti sociálního začleňování (2) Číslo: 110 Platnost od: 30. 9. 2025 08:00 Platnost do: 12. 12. 2025 10:00 Zahájení příjmu žádostí o podporu: 7. 10. 2025 10:00 Alokace v Kč: 200 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:28 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 110 OPZ+ Zápisy z jednání hodnotící komise: Zápis z 1. jednání hodnoticí komise (5. 12. 2025) Zápis z 2. jednání hodnoticí komise (22. 12. 2025) Uveřejněno: 30. 9. 2025 Aktualizováno: 6. 1. 2026 Vložil/a: Magda Cabr",
       "attachments": []
     },
     {
@@ -20831,7 +21174,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podnikové vzdělávání (2) Podnikové vzdělávání (2) Číslo: 083 Platnost od: 3. 11. 2025 08:00 Platnost do: 8. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 3. 11. 2025 08:00 Alokace v Kč: 700 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:00 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_083 Podnikové vzdělávání (2) Hranice posledního podpořeného projektu je 50 bodů. Soubory ke stažení: Text výzvy č. 083 OPZ+ aktualizace k 7. 11. 2025: úprava v bodě 5.1 Místo realizace - odstranění části textu „a EU“ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Čestné prohlášení o počtu pracovníků Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce v rámci OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotac",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podnikové vzdělávání (2) Podnikové vzdělávání (2) Číslo: 083 Platnost od: 3. 11. 2025 08:00 Platnost do: 8. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 3. 11. 2025 08:00 Alokace v Kč: 700 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:00 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_083 Podnikové vzdělávání (2) Hranice posledního podpořeného projektu je 50 bodů. Soubory ke stažení: Text výzvy č. 083 OPZ+ aktualizace k 7. 11. 2025: úprava v bodě 5.1 Místo realizace - odstranění části textu „a EU“ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Čestné prohlášení o počtu pracovníků Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce v rámci OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace",
       "attachments": []
     },
     {
@@ -20855,7 +21198,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Služby prevence domácího a genderově podmíněného násilí (2) Služby prevence domácího a genderově podmíněného násilí (2) Číslo: 109 Platnost od: 15. 10. 2025 10:00 Platnost do: 15. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 10. 2025 10:00 Alokace v Kč: 80 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:47 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_109 Služby prevence domácího a genderově podmíněného násilí (2) Soubory ke stažení: Text výzvy č. 109 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2a Údaje o sociální službě plán PAUŠÁL Příloha č. 3 Čestné prohlášení VZOR Seminář pro žadatele: 5. 11. 2025 (on-line) , Prezentace k semináři Zápisy z výběrové komise: Zápis z jednání výběrové komise ze dne 27. 4. 2026 Podklady k evaluacím: Odkaz pro vy",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Služby prevence domácího a genderově podmíněného násilí (2) Služby prevence domácího a genderově podmíněného násilí (2) Číslo: 109 Platnost od: 15. 10. 2025 10:00 Platnost do: 15. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 10. 2025 10:00 Alokace v Kč: 80 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:28 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_109 Služby prevence domácího a genderově podmíněného násilí (2) Soubory ke stažení: Text výzvy č. 109 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2a Údaje o sociální službě plán PAUŠÁL Příloha č. 3 Čestné prohlášení VZOR Seminář pro žadatele: 5. 11. 2025 (on-line) , Prezentace k semináři Zápisy z výběrové komise: Zápis z jednání výběrové komise ze dne 27. 4. 2026 Podklady k evaluacím: Odkaz pro vyp",
       "attachments": []
     },
     {
@@ -20881,7 +21224,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sdílené péče o děti a další závislé osoby Podpora sdílené péče o děti a další závislé osoby Číslo: 082 Platnost od: 31. 10. 2025 13:00 Platnost do: 27. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 5. 11. 2025 10:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:00 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_082 Podpora sdílené péče o děti a další závislé osoby S ohledem na inovativní charakter výzvy a požadavek na komplexní řešení problematiky velmi doporučujeme konzultovat projektový záměr s poskytovatelem dotace. Termín konzultace si lze domluvit na emailu daniel.foch@mpsv.cz . Před konzultací je třeba zaslat alespoň 2 prac. dny předem vyplněné dokumenty Teorie změny a Evaluační plán . V rámci možností chceme poskytnout každému žadateli, který proje",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sdílené péče o děti a další závislé osoby Podpora sdílené péče o děti a další závislé osoby Číslo: 082 Platnost od: 31. 10. 2025 13:00 Platnost do: 27. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 5. 11. 2025 10:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:21 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_082 Podpora sdílené péče o děti a další závislé osoby S ohledem na inovativní charakter výzvy a požadavek na komplexní řešení problematiky velmi doporučujeme konzultovat projektový záměr s poskytovatelem dotace. Termín konzultace si lze domluvit na emailu daniel.foch@mpsv.cz . Před konzultací je třeba zaslat alespoň 2 prac. dny předem vyplněné dokumenty Teorie změny a Evaluační plán . V rámci možností chceme poskytnout každému žadateli, který projev",
       "attachments": []
     },
     {
@@ -20907,7 +21250,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů ESF – veřejná správa, sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět ALMA - mezinárodní mobilita znevýhodněné mládeže (2) ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Číslo: 097 Platnost od: 18. 8. 2025 12:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 1. 10. 2025 12:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:43 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – veřejná správa, sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_097 ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Zajímá Vás téma znevýhodněné mládeže a přemýšlíte nad tím, jak by bylo možné těmto mladým lidem pomoci? Máte v hlavě nové a originální způsoby řešení jejich problémů? Máte nápady, jak zefektivnit související procesy a propojit relevantní aktéry? Chcete Vaše zkušen",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět ALMA - mezinárodní mobilita znevýhodněné mládeže (2) ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Číslo: 097 Platnost od: 18. 8. 2025 12:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 1. 10. 2025 12:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:24 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – veřejná správa, sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_097 ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Zajímá Vás téma znevýhodněné mládeže a přemýšlíte nad tím, jak by bylo možné těmto mladým lidem pomoci? Máte v hlavě nové a originální způsoby řešení jejich problémů? Máte nápady, jak zefektivnit související procesy a propojit relevantní aktéry? Chcete Vaše zkušeno",
       "attachments": []
     },
     {
@@ -21285,7 +21628,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Toto je dáno pravidly vydavatele, u kterého je aktuálně publikace v recenzním řízení.",
-      "text": "31. srpna 2023 - 11. dubna 2024 Žádost o podporu již není možné podat Celková alokace 2 591 mil. Kč Počet předložených žádostí 38 Předložené žádosti 5 478 mil. Kč Počet podpořených žádostí 18 Podpořené žádosti 2 589 mil. Kč Zbývající alokace 2 mil. Kč Aktualizováno 26. 8. 2026 Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3 06. 02. 2025 - 08:12 | pdf | 1.19 MB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 2 - Neplatná verze 06. 01. 2025 - 12:56 | pdf | 264.43 kB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti - Neplatná verze 30. 08. 2023 - 09:36 | pdf | 462.56 kB Stáhnout Popis a zdůvodnění změn výzvy 01. 04. 2026 - 10:47 | pdf | 579.33 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 30. 08. 2023 - 09:36 | pdf | 442.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | pdf | 1.20 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | xlsx | 277.00 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koeficientu 30. 08. 2023 - 09:36 | pdf | 212.27 kB Stáhnout Příloha č. 4 Omezení počtu projektů 30. 08. 2023 - 09:36 | pdf | 156.31 kB Stáhnout Příloha č. 5 Karty tematických oblastí 30. 08. 2023 - 09:36 | pdf | 1.57 MB Stáhnout Příloha č. 6 Výčet povinně volitelných partnerů 30. 08. 2023 - 09:36 | pdf | 150.98 kB Stáhnout Příloha č.",
+      "text": "31. srpna 2023 - 11. dubna 2024 Žádost o podporu již není možné podat Celková alokace 2 591 mil. Kč Počet předložených žádostí 38 Předložené žádosti 5 478 mil. Kč Počet podpořených žádostí 18 Podpořené žádosti 2 589 mil. Kč Zbývající alokace 2 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3 06. 02. 2025 - 08:12 | pdf | 1.19 MB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 2 - Neplatná verze 06. 01. 2025 - 12:56 | pdf | 264.43 kB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti - Neplatná verze 30. 08. 2023 - 09:36 | pdf | 462.56 kB Stáhnout Popis a zdůvodnění změn výzvy 01. 04. 2026 - 10:47 | pdf | 579.33 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 30. 08. 2023 - 09:36 | pdf | 442.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | pdf | 1.20 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | xlsx | 277.00 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koeficientu 30. 08. 2023 - 09:36 | pdf | 212.27 kB Stáhnout Příloha č. 4 Omezení počtu projektů 30. 08. 2023 - 09:36 | pdf | 156.31 kB Stáhnout Příloha č. 5 Karty tematických oblastí 30. 08. 2023 - 09:36 | pdf | 1.57 MB Stáhnout Příloha č. 6 Výčet povinně volitelných partnerů 30. 08. 2023 - 09:36 | pdf | 150.98 kB Stáhnout Příloha č.",
       "attachments": [
         {
           "title": "Letak_Vyzva_SHUV-1.pdf",
@@ -21464,7 +21807,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Výplatu stipendia v rámci operačních programů dle § 91 zákona o vysokých školách považuje ŘO v obecné rovině za možné. U projektů výzvy Návraty však taková možnost není, jelikož Pravidla pro žadatele a příjemce – specifická část (SPpŽP) již v pojmech definují minimální personální náklady takto: „ Měsíční hrubá odměna náležící výzkumnému pracovníkovi, tj. mzda/plat, sociální a zdravotní pojištění hrazené zaměstnavatel",
-      "text": "21. listopadu 2024 - 30. dubna 2025 Žádost o podporu již není možné podat Celková alokace 1 542 mil. Kč Počet předložených žádostí 30 Předložené žádosti 1 582 mil. Kč Počet podpořených žádostí 29 Podpořené žádosti 1 541 mil. Kč Zbývající alokace 1 mil. Kč Aktualizováno 26. 8. 2026 Datum ukončení příjmu žádosti o podporu: 30. 04. 2025 Text výzvy Návraty, verze 2 18. 07. 2025 - 06:28 | pdf | 451.00 kB Stáhnout Text výzvy Návraty - Neplatná verze 20. 11. 2024 - 12:38 | pdf | 413.52 kB Stáhnout Popis a zdůvodnění změn výzvy 22. 01. 2026 - 08:08 | pdf | 197.22 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 11. 2024 - 12:38 | pdf | 311.42 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:38 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:39 | xlsx | 276.05 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koef. 20. 11. 2024 - 12:38 | pdf | 684.98 kB Stáhnout Přehled max. výše dotace pro jednotlivé oprávněné žadatele 20. 11. 2024 - 12:38 | pdf | 71.84 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2, účinnost od 15. 9. 2025 11. 09. 2025 - 13:34 | pdf | 3.89 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2 22. 01. 2026 - 08:08 | pdf | 624.04 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty 20. 11. 2024 - 12:38 | pdf | 3.81 MB Stáhnout Pravidla p",
+      "text": "21. listopadu 2024 - 30. dubna 2025 Žádost o podporu již není možné podat Celková alokace 1 542 mil. Kč Počet předložených žádostí 30 Předložené žádosti 1 582 mil. Kč Počet podpořených žádostí 29 Podpořené žádosti 1 541 mil. Kč Zbývající alokace 1 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 30. 04. 2025 Text výzvy Návraty, verze 2 18. 07. 2025 - 06:28 | pdf | 451.00 kB Stáhnout Text výzvy Návraty - Neplatná verze 20. 11. 2024 - 12:38 | pdf | 413.52 kB Stáhnout Popis a zdůvodnění změn výzvy 22. 01. 2026 - 08:08 | pdf | 197.22 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 11. 2024 - 12:38 | pdf | 311.42 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:38 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:39 | xlsx | 276.05 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koef. 20. 11. 2024 - 12:38 | pdf | 684.98 kB Stáhnout Přehled max. výše dotace pro jednotlivé oprávněné žadatele 20. 11. 2024 - 12:38 | pdf | 71.84 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2, účinnost od 15. 9. 2025 11. 09. 2025 - 13:34 | pdf | 3.89 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2 22. 01. 2026 - 08:08 | pdf | 624.04 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty 20. 11. 2024 - 12:38 | pdf | 3.81 MB Stáhnout Pravidla pr",
       "attachments": [
         {
           "title": "Vyzva_Navraty_navyseni_final.pdf",
@@ -21870,7 +22213,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Číslo: 088 Platnost od: 15. 12. 2025 08:00 Platnost do: 20. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 12. 2025 08:00 Alokace v Kč: 160 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:42 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_088 Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Soubory ke stažení: Text výzvy č. 088 OPZ+ Příloha č. 1 Specifikace podporovaných aktivit Příloha č. 2 Pomůcka pro stanovení osobních nákladů Příloha č. 3 Odůvodnění zacílení výzvy Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přím",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Číslo: 088 Platnost od: 15. 12. 2025 08:00 Platnost do: 20. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 12. 2025 08:00 Alokace v Kč: 160 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:24 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_088 Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Soubory ke stažení: Text výzvy č. 088 OPZ+ Příloha č. 1 Specifikace podporovaných aktivit Příloha č. 2 Pomůcka pro stanovení osobních nákladů Příloha č. 3 Odůvodnění zacílení výzvy Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímý",
       "attachments": []
     },
     {
@@ -21894,7 +22237,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Společně za vzděláváním (2) Společně za vzděláváním (2) Číslo: 071 Platnost od: 16. 12. 2025 08:00 Platnost do: 5. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 12. 2025 08:00 Alokace v Kč: 635 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:34 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_24_071 Společně za vzděláváním (2) Hranice posledního podpořeného projektu je 74,15 bodu. Soubory ke stažení: Text výzvy č. 071 OPZ+ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Prohlášení o počtu dalších zapojených subjektů Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce z OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace - jednotkové náklady - další vzdělávání Obecné pokyny k ovládání IS KP21+",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Společně za vzděláváním (2) Společně za vzděláváním (2) Číslo: 071 Platnost od: 16. 12. 2025 08:00 Platnost do: 5. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 12. 2025 08:00 Alokace v Kč: 635 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:00 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_24_071 Společně za vzděláváním (2) Hranice posledního podpořeného projektu je 74,15 bodu. Soubory ke stažení: Text výzvy č. 071 OPZ+ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Prohlášení o počtu dalších zapojených subjektů Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce z OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace - jednotkové náklady - další vzdělávání Obecné pokyny k ovládání IS KP21+",
       "attachments": []
     },
     {
@@ -22040,7 +22383,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Výdejny potravinových bank (2) Výdejny potravinových bank (2) Číslo: 089 Platnost od: 12. 12. 2025 08:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 12. 12. 2025 08:00 Alokace v Kč: 120 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:42 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Text výzvy č. 089 Příloha 1 - Pomůcka pro stanovení osobních nákladů Příloha 2 - vzor Prohlášení o partnerství Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímými a nepřímými náklady a pro pro",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Výdejny potravinových bank (2) Výdejny potravinových bank (2) Číslo: 089 Platnost od: 12. 12. 2025 08:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 12. 12. 2025 08:00 Alokace v Kč: 120 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:24 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Text výzvy č. 089 Příloha 1 - Pomůcka pro stanovení osobních nákladů Příloha 2 - vzor Prohlášení o partnerství Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímými a nepřímými náklady a pro proj",
       "attachments": []
     },
     {
@@ -22270,7 +22613,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Cílem výzvy je přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny děti, žáky a účastníky zájmového vzdělávání prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských zařízení pro zájmové vzdělávání, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí,",
-      "text": "23. září 2024 - 30. září 2025 Žádost o podporu již není možné podat Celková alokace 5 600 mil. Kč Počet předložených žádostí 7 413 Předložené žádosti 5 606 mil. Kč Počet podpořených žádostí 7 390 Podpořené žádosti 5 591 mil. Kč Zbývající alokace 9 mil. Kč Aktualizováno 26. 8. 2026 Datum zahájení příjmu žádostí o podporu 7. 10. 2024. Cíl výzvy Cílem výzvy je přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny děti, žáky a účastníky zájmového vzdělávání prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských zařízení pro zájmové vzdělávání, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí, žáků a účastníků zájmového vzdělávání ohrožených školním neúspěchem a z marginalizovaných skupin. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 7. 10. 2024 – 30. 09. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro MŠ a ZŠ II, verze 3 09. 10. 2025 - 05:55 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II, verze 2 - Neplatná verze 08. 09. 2025 - 06:38 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II - Neplatná verze 20. 09. 2024 - 07:31 | pdf | 595.13 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 09.",
+      "text": "23. září 2024 - 30. září 2025 Žádost o podporu již není možné podat Celková alokace 5 600 mil. Kč Počet předložených žádostí 7 413 Předložené žádosti 5 606 mil. Kč Počet podpořených žádostí 7 390 Podpořené žádosti 5 591 mil. Kč Zbývající alokace 9 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 7. 10. 2024. Cíl výzvy Cílem výzvy je přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny děti, žáky a účastníky zájmového vzdělávání prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských zařízení pro zájmové vzdělávání, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí, žáků a účastníků zájmového vzdělávání ohrožených školním neúspěchem a z marginalizovaných skupin. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 7. 10. 2024 – 30. 09. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro MŠ a ZŠ II, verze 3 09. 10. 2025 - 05:55 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II, verze 2 - Neplatná verze 08. 09. 2025 - 06:38 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II - Neplatná verze 20. 09. 2024 - 07:31 | pdf | 595.13 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 09.",
       "attachments": [
         {
           "title": "Letak_Sablony-SVC_II.pdf",
@@ -22450,7 +22793,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny žáky a studenty prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských výchovných a ubytovacích zařízení, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí a žáků ohrožených školním neúspěchem a z m",
-      "text": "26. září 2024 - 28. listopadu 2025 Žádost o podporu již není možné podat Celková alokace 2 210 mil. Kč Počet předložených žádostí 1 195 Předložené žádosti 2 213 mil. Kč Počet podpořených žádostí 1 189 Podpořené žádosti 2 203 mil. Kč Zbývající alokace 7 mil. Kč Aktualizováno 26. 8. 2026 Datum zahájení příjmu žádostí o podporu 10. 10. 2024. Cíl výzvy Přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny žáky a studenty prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských výchovných a ubytovacích zařízení, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí a žáků ohrožených školním neúspěchem a z marginalizovaných skupin. Ve výzvě dojde k ověření modelu institucionalizace podpůrných pedagogických pozic školního psychologa a školního speciálního pedagoga ve středních školách a konzervatořích, aby byla dlouhodobě zajištěna stabilita těchto pozic. Po vyhodnocení modelu a odpovídající úpravě právních předpisů se předpokládá jeho převzetí do národního financování. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 10. 10. 2024 – 28. 11. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro SŠ a VOŠ II, verze 2 10. 12. 2025 -",
+      "text": "26. září 2024 - 28. listopadu 2025 Žádost o podporu již není možné podat Celková alokace 2 210 mil. Kč Počet předložených žádostí 1 195 Předložené žádosti 2 213 mil. Kč Počet podpořených žádostí 1 189 Podpořené žádosti 2 203 mil. Kč Zbývající alokace 7 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 10. 10. 2024. Cíl výzvy Přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny žáky a studenty prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských výchovných a ubytovacích zařízení, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí a žáků ohrožených školním neúspěchem a z marginalizovaných skupin. Ve výzvě dojde k ověření modelu institucionalizace podpůrných pedagogických pozic školního psychologa a školního speciálního pedagoga ve středních školách a konzervatořích, aby byla dlouhodobě zajištěna stabilita těchto pozic. Po vyhodnocení modelu a odpovídající úpravě právních předpisů se předpokládá jeho převzetí do národního financování. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 10. 10. 2024 – 28. 11. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro SŠ a VOŠ II, verze 2 10. 12. 2025 - 0",
       "attachments": [
         {
           "title": "Letak_Sablony-SS-II.pdf",
@@ -22670,7 +23013,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sociálního podnikání (3) Podpora sociálního podnikání (3) Číslo: 107 Platnost od: 22. 12. 2025 09:00 Platnost do: 13. 4. 2026 12:00 Zahájení příjmu žádostí o podporu: 13. 1. 2026 12:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:00 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_107 Podpora sociálního podnikání (3) Soubory ke stažení: Text výzvy č. 107 OPZ+ Semináře pro žadatele: 13. 1. 2026 - online + Prezentace ze semináře pro žadatele Zápisy z hodnotící komise: Zápis z jednání hodnoticí komise ze dne 19. 5. 2026 Zápis z jednání hodnoticí komise ze dne 29. 5. 2026 Zápis z výběrové komise: Zápis z jednání výběrové komise ze dne 8. 6. 2026 Odkaz pro vyplnění dotazníku do závěrečné zprávy o realizaci projektu pro výzvu 107 Textová podoba dotazníku (společná část) Textová podoba dotazníku (specifické otázky pro vý",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sociálního podnikání (3) Podpora sociálního podnikání (3) Číslo: 107 Platnost od: 22. 12. 2025 09:00 Platnost do: 13. 4. 2026 12:00 Zahájení příjmu žádostí o podporu: 13. 1. 2026 12:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:29 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_107 Podpora sociálního podnikání (3) Soubory ke stažení: Text výzvy č. 107 OPZ+ Semináře pro žadatele: 13. 1. 2026 - online + Prezentace ze semináře pro žadatele Zápisy z hodnotící komise: Zápis z jednání hodnoticí komise ze dne 19. 5. 2026 Zápis z jednání hodnoticí komise ze dne 29. 5. 2026 Zápis z výběrové komise: Zápis z jednání výběrové komise ze dne 8. 6. 2026 Odkaz pro vyplnění dotazníku do závěrečné zprávy o realizaci projektu pro výzvu 107 Textová podoba dotazníku (společná část) Textová podoba dotazníku (specifické otázky pro výz",
       "attachments": []
     },
     {
@@ -23227,7 +23570,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Podpořit kvalitní vzdělávání prostřednictvím pozitivních změn v cílech, obsahu, metodách, formách a hodnocení ve vzdělávání a poskytováním systémové a centrálně koordinované podpory školám a zřizovatelům škol v oblasti řízení organizace, leadershipu a řízení pedagogického procesu. Školy budou podpořeny v práci s kurikulem a při zavádění inovativních metod a způsobů hodnocení do vzdělávání. Podpora bude poskytnuta ved",
-      "text": "30. června 2022 - 31. března 2023 Žádost o podporu již není možné podat Celková alokace 2 200 mil. Kč Počet předložených žádostí 5 Předložené žádosti 3 724 mil. Kč Počet podpořených žádostí 3 Podpořené žádosti 1 969 mil. Kč Zbývající alokace 231 mil. Kč Aktualizováno 26. 8. 2026 Cíle výzvy Podpořit kvalitní vzdělávání prostřednictvím pozitivních změn v cílech, obsahu, metodách, formách a hodnocení ve vzdělávání a poskytováním systémové a centrálně koordinované podpory školám a zřizovatelům škol v oblasti řízení organizace, leadershipu a řízení pedagogického procesu. Školy budou podpořeny v práci s kurikulem a při zavádění inovativních metod a způsobů hodnocení do vzdělávání. Podpora bude poskytnuta vedení škol prostřednictvím středních článků podpory, školním pedagogickým týmům v rámci webinářů i formou konkrétní metodické podpory přímo ve školách a dále pedagogickým pracovníkům napříč školami v rámci metodických kabinetů. Kvalita a efektivita vzdělávání bude také podpořena systematickým monitorováním a analýzou dat vzdělávací soustavy s cílem předcházet nerovnostem ve vzdělávání a podpořit rozvoj kompetencí dětí, žáků a studentů pro jejich úspěšný osobní i profesní život. Oprávnění žadatelé a podmínky partnerství Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 4: – Příspěvkové organizace zřízené MŠMT Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 5 nebo 6: – Organizační složky státu Partnerství – V případě volby",
+      "text": "30. června 2022 - 31. března 2023 Žádost o podporu již není možné podat Celková alokace 2 200 mil. Kč Počet předložených žádostí 5 Předložené žádosti 3 724 mil. Kč Počet podpořených žádostí 3 Podpořené žádosti 1 969 mil. Kč Zbývající alokace 231 mil. Kč Aktualizováno 2. 9. 2026 Cíle výzvy Podpořit kvalitní vzdělávání prostřednictvím pozitivních změn v cílech, obsahu, metodách, formách a hodnocení ve vzdělávání a poskytováním systémové a centrálně koordinované podpory školám a zřizovatelům škol v oblasti řízení organizace, leadershipu a řízení pedagogického procesu. Školy budou podpořeny v práci s kurikulem a při zavádění inovativních metod a způsobů hodnocení do vzdělávání. Podpora bude poskytnuta vedení škol prostřednictvím středních článků podpory, školním pedagogickým týmům v rámci webinářů i formou konkrétní metodické podpory přímo ve školách a dále pedagogickým pracovníkům napříč školami v rámci metodických kabinetů. Kvalita a efektivita vzdělávání bude také podpořena systematickým monitorováním a analýzou dat vzdělávací soustavy s cílem předcházet nerovnostem ve vzdělávání a podpořit rozvoj kompetencí dětí, žáků a studentů pro jejich úspěšný osobní i profesní život. Oprávnění žadatelé a podmínky partnerství Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 4: – Příspěvkové organizace zřízené MŠMT Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 5 nebo 6: – Organizační složky státu Partnerství – V případě volby p",
       "attachments": [
         {
           "title": "Text výzvy IPs Vzdělávání",
@@ -23406,7 +23749,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Výsledné hodnoticí tabulky projektu z 1. a 2. kroku hodnocení jsou k dispozici v IS KP21+ na záložce Hodnocení (popis viz str. 110 – 111 Uživatelské příručky ISKP Žádost o podporu, verze 1.3 ).",
-      "text": "14. července 2022 - 16. ledna 2023 Žádost o podporu již není možné podat Celková alokace 12 200 mil. Kč Počet předložených žádostí 76 Předložené žádosti 35 463 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 12 162 mil. Kč Zbývající alokace 38 mil. Kč Aktualizováno 26. 8. 2026 Text výzvy Špičkový výzkum, verze 3 22. 11. 2023 - 06:44 | pdf | 1.47 MB Stáhnout Text výzvy Špičkový výzkum, verze 2 - Neplatná verze 06. 11. 2023 - 08:06 | pdf | 782.29 kB Stáhnout Text výzvy Špičkový výzkum - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 1.48 MB Stáhnout Excellent Research 10. 08. 2022 - 10:51 | pdf | 614.41 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | pdf | 392.97 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | xlsx | 59.82 kB Stáhnout Přílohy č. 1 – Hodnoticí kritéria, verze 2 ENG 14. 10. 2022 - 10:07 | xlsx | 61.68 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 393.46 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | xlsx | 60.15 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | pdf | 2.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | xlsx | 257.26 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 2.07 MB Stáhnout Příloha č. 3 Přehled",
+      "text": "14. července 2022 - 16. ledna 2023 Žádost o podporu již není možné podat Celková alokace 12 200 mil. Kč Počet předložených žádostí 76 Předložené žádosti 35 463 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 12 162 mil. Kč Zbývající alokace 38 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Špičkový výzkum, verze 3 22. 11. 2023 - 06:44 | pdf | 1.47 MB Stáhnout Text výzvy Špičkový výzkum, verze 2 - Neplatná verze 06. 11. 2023 - 08:06 | pdf | 782.29 kB Stáhnout Text výzvy Špičkový výzkum - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 1.48 MB Stáhnout Excellent Research 10. 08. 2022 - 10:51 | pdf | 614.41 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | pdf | 392.97 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | xlsx | 59.82 kB Stáhnout Přílohy č. 1 – Hodnoticí kritéria, verze 2 ENG 14. 10. 2022 - 10:07 | xlsx | 61.68 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 393.46 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | xlsx | 60.15 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | pdf | 2.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | xlsx | 257.26 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 2.07 MB Stáhnout Příloha č. 3 Přehled",
       "attachments": [
         {
           "title": "Letak_Vyzva_final.pdf",
@@ -23585,7 +23928,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Řídicí orgán OP JAK dne 20. 8. 2026 zveřejňuje aktualizaci výzvy č. 02_22_012 – Rozvoj infrastrukturního zázemí doktorských studijních programů. Touto změnou dochází k posunu nejzazšího data pro ukončení fyzické realizace projektu a současně k prodloužení maximální doby realizace projektu podpořeného z této výzvy. Ostatní informace a podmínky uvedené ve výzvě a související dokumentaci se […]",
-      "text": "03. listopadu 2022 - 05. května 2023 Žádost o podporu již není možné podat Celková alokace 3 000 mil. Kč Počet předložených žádostí 28 Předložené žádosti 3 010 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 2 795 mil. Kč Zbývající alokace 205 mil. Kč Aktualizováno 26. 8. 2026 Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů, verze 2 20. 08. 2026 - 05:57 | pdf | 235.14 kB Stáhnout Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů - Neplatná verze 02. 11. 2022 - 09:57 | pdf | 548.70 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 11. 2022 - 09:57 | pdf | 232.94 kB Stáhnout Popis a zdůvodnění změn výzvy 20. 08. 2026 - 05:57 | pdf | 71.67 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Rozvoj infrastrukturního zázemí doktorských studijních programů verze 1 02. 11. 2022 - 09:57 | pdf | 2.43 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:21 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopis č. 2 (smlouva o výkonu funkce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 20. 10. 2025 15. 10. 2025 - 12:11 | pdf | 352.17 kB Stáhnout Metodický do",
+      "text": "03. listopadu 2022 - 05. května 2023 Žádost o podporu již není možné podat Celková alokace 3 000 mil. Kč Počet předložených žádostí 28 Předložené žádosti 3 010 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 2 795 mil. Kč Zbývající alokace 205 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů, verze 2 20. 08. 2026 - 05:57 | pdf | 235.14 kB Stáhnout Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů - Neplatná verze 02. 11. 2022 - 09:57 | pdf | 548.70 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 11. 2022 - 09:57 | pdf | 232.94 kB Stáhnout Popis a zdůvodnění změn výzvy 20. 08. 2026 - 05:57 | pdf | 71.67 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Rozvoj infrastrukturního zázemí doktorských studijních programů verze 1 02. 11. 2022 - 09:57 | pdf | 2.43 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:21 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopis č. 2 (smlouva o výkonu funkce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 20. 10. 2025 15. 10. 2025 - 12:11 | pdf | 352.17 kB Stáhnout Metodický dop",
       "attachments": [
         {
           "title": "Letak_Vyzva_Rozvoj-infrastrukturniho-zazemi_final.pdf",
@@ -23763,7 +24106,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Výzva je určena pro projekty schválené v Operačním programu Výzkum, vývoj a vzdělávání (dále jen „OP VVV“) ve výzvě č. 02_16_019 Excelentní výzkum, které se nepodařilo z objektivních důvodů dokončit a u nichž je rozfázování v zájmu ČR. Výzva podpoří dokončení aktivit, které se nepodařilo dokončit v předchozím programovém období. Ve výše uvedených projektech bude za účelem realizace tzv. orientovaného výzkumu na špičk",
-      "text": "13. dubna 2023 - 30. června 2023 Žádost o podporu již není možné podat Celková alokace 400 mil. Kč Počet předložených žádostí 1 Předložené žádosti 358 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 358 mil. Kč Zbývající alokace 42 mil. Kč Aktualizováno 26. 8. 2026 Cíl výzvy Výzva je určena pro projekty schválené v Operačním programu Výzkum, vývoj a vzdělávání (dále jen „OP VVV“) ve výzvě č. 02_16_019 Excelentní výzkum, které se nepodařilo z objektivních důvodů dokončit a u nichž je rozfázování v zájmu ČR. Výzva podpoří dokončení aktivit, které se nepodařilo dokončit v předchozím programovém období. Ve výše uvedených projektech bude za účelem realizace tzv. orientovaného výzkumu na špičkové vědecké úrovni umožněno pořízení nejmodernějších přístrojů, jež nebylo možné pořídit v rámci časových limitů výzvy Excelentní výzkum. Oprávněné aktivity Podrobnosti k níže uvedeným aktivitám jsou uvedeny v kapitole 5.7 Pravidel pro žadatele a příjemce (dále jen „PpŽP“) – specifická část. POVINNÉ AKTIVITY: Aktivita 1. Řízení projektu Aktivita 2. Dobudování, rekonstrukce či upgrade infrastruktury – materiálně, technicky a informačně podpořit a umožnit výzkumné aktivity v návaznosti na podporovanou aktivitu a)1 výzvy OP VVV č. 02_16_019 Excelentní výzkum „Podpora výzkumu, který dosáhne svou kvalitou a originalitou mezinárodní excelence, čímž dojde ke zvýšení výzkumného výkonu výzkumných center“ VYLOUČENÉ AKTIVITY Aktivity, které nebyly schváleny Řídicím orgánem OP VVV v rámci projektu p",
+      "text": "13. dubna 2023 - 30. června 2023 Žádost o podporu již není možné podat Celková alokace 400 mil. Kč Počet předložených žádostí 1 Předložené žádosti 358 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 358 mil. Kč Zbývající alokace 42 mil. Kč Aktualizováno 2. 9. 2026 Cíl výzvy Výzva je určena pro projekty schválené v Operačním programu Výzkum, vývoj a vzdělávání (dále jen „OP VVV“) ve výzvě č. 02_16_019 Excelentní výzkum, které se nepodařilo z objektivních důvodů dokončit a u nichž je rozfázování v zájmu ČR. Výzva podpoří dokončení aktivit, které se nepodařilo dokončit v předchozím programovém období. Ve výše uvedených projektech bude za účelem realizace tzv. orientovaného výzkumu na špičkové vědecké úrovni umožněno pořízení nejmodernějších přístrojů, jež nebylo možné pořídit v rámci časových limitů výzvy Excelentní výzkum. Oprávněné aktivity Podrobnosti k níže uvedeným aktivitám jsou uvedeny v kapitole 5.7 Pravidel pro žadatele a příjemce (dále jen „PpŽP“) – specifická část. POVINNÉ AKTIVITY: Aktivita 1. Řízení projektu Aktivita 2. Dobudování, rekonstrukce či upgrade infrastruktury – materiálně, technicky a informačně podpořit a umožnit výzkumné aktivity v návaznosti na podporovanou aktivitu a)1 výzvy OP VVV č. 02_16_019 Excelentní výzkum „Podpora výzkumu, který dosáhne svou kvalitou a originalitou mezinárodní excelence, čímž dojde ke zvýšení výzkumného výkonu výzkumných center“ VYLOUČENÉ AKTIVITY Aktivity, které nebyly schváleny Řídicím orgánem OP VVV v rámci projektu po",
       "attachments": [
         {
           "title": "Výzva Fázované projekty I",
@@ -23940,7 +24283,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vaší organizace se povinnost doložit vyjádření souhlasu zřizovatele netýká, jelikož pro to není splněna jedna ze dvou podmínek. Kromě právní formy zřizovatele by povinnost souhlasu zřizovatele veřejné výzkumné instituce s uzavřením partnerství musela být stanovena zákonem. Do změny zákona č. 341/2005 Sb., o veřejných výzkumných institucích, účinné od 1. 1. 2024, která mění podmínky pro veřejné výzkumné instituce zříz",
-      "text": "20. února 2023 - 25. srpna 2023 Žádost o podporu již není možné podat Celková alokace 3 420 mil. Kč Počet předložených žádostí 38 Předložené žádosti 3 749 mil. Kč Počet podpořených žádostí 32 Podpořené žádosti 3 420 mil. Kč Zbývající alokace 0 Aktualizováno 26. 8. 2026 Výzva Výzkumné infrastruktury I, verze 3 15. 01. 2026 - 07:39 | pdf | 452.97 kB Stáhnout Výzva Výzkumné infrastruktury I, verze 2 - Neplatná verze 19. 12. 2023 - 07:56 | pdf | 513.26 kB Stáhnout Výzva Výzkumné infrastruktury I - Neplatná verze 17. 02. 2023 - 10:44 | pdf | 1.06 MB Stáhnout Příloha č. 1 Hodnoticí kritéria 11. 08. 2023 - 08:32 | pdf | 379.24 kB Stáhnout Příloha č. 2 Karty tematických oblastí 17. 02. 2023 - 10:44 | pdf | 1.21 MB Stáhnout Příloha č. 3 Maximální výše způsobilých nákladů 17. 02. 2023 - 10:44 | pdf | 610.47 kB Stáhnout Popis a zdůvodnění změn výzvy 15. 01. 2026 - 07:39 | pdf | 187.53 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné infrastruktury I a Výzkumné e-infrastruktury I, verze 1 17. 02. 2023 - 10:44 | pdf | 1.11 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:35 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dop",
+      "text": "20. února 2023 - 25. srpna 2023 Žádost o podporu již není možné podat Celková alokace 3 420 mil. Kč Počet předložených žádostí 38 Předložené žádosti 3 749 mil. Kč Počet podpořených žádostí 32 Podpořené žádosti 3 420 mil. Kč Zbývající alokace 0 Aktualizováno 2. 9. 2026 Výzva Výzkumné infrastruktury I, verze 3 15. 01. 2026 - 07:39 | pdf | 452.97 kB Stáhnout Výzva Výzkumné infrastruktury I, verze 2 - Neplatná verze 19. 12. 2023 - 07:56 | pdf | 513.26 kB Stáhnout Výzva Výzkumné infrastruktury I - Neplatná verze 17. 02. 2023 - 10:44 | pdf | 1.06 MB Stáhnout Příloha č. 1 Hodnoticí kritéria 11. 08. 2023 - 08:32 | pdf | 379.24 kB Stáhnout Příloha č. 2 Karty tematických oblastí 17. 02. 2023 - 10:44 | pdf | 1.21 MB Stáhnout Příloha č. 3 Maximální výše způsobilých nákladů 17. 02. 2023 - 10:44 | pdf | 610.47 kB Stáhnout Popis a zdůvodnění změn výzvy 15. 01. 2026 - 07:39 | pdf | 187.53 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné infrastruktury I a Výzkumné e-infrastruktury I, verze 1 17. 02. 2023 - 10:44 | pdf | 1.11 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:35 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopi",
       "attachments": [
         {
           "title": "Letak_Vyzva_VYZKUMNE-INFRASTRUKTURY-I.pdf",
@@ -24120,7 +24463,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vámi uváděný odkaz na § 218, odst. 2) uvedený v PpŽP je již neaktuální. V průběhu času došlo k úpravě § 218, která zatím nebyla do PpŽP promítnuta. Ustanovení, na které mají PpŽP odkazovat, je nyní uvedeno v § 218, odst. 3). Princip pravidla pro způsobilou dovolenou však zůstává stejný: aby mohla být převedená dovolená způsobilá z OP JAK, musí být převod proveden souladu se zákoníkem práce.",
-      "text": "22. června 2023 - 30. června 2025 Žádost o podporu již není možné podat Celková alokace 2 300 mil. Kč Počet předložených žádostí 26 Předložené žádosti 4 359 mil. Kč Počet podpořených žádostí 15 Podpořené žádosti 2 138 mil. Kč Zbývající alokace 162 mil. Kč Aktualizováno 26. 8. 2026 Datum ukončení příjmu žádosti o podporu: 30. 06. 2025. Text výzvy APU – IDZ 22. 06. 2023 - 12:02 | pdf | 602.62 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 06. 2023 - 09:27 | pdf | 398.31 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | xlsx | 278.48 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | xlsx | 275.80 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | xlsx | 278.54 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:12 | pdf | 2.08 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023",
+      "text": "22. června 2023 - 30. června 2025 Žádost o podporu již není možné podat Celková alokace 2 300 mil. Kč Počet předložených žádostí 26 Předložené žádosti 4 359 mil. Kč Počet podpořených žádostí 15 Podpořené žádosti 2 138 mil. Kč Zbývající alokace 162 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 30. 06. 2025. Text výzvy APU – IDZ 22. 06. 2023 - 12:02 | pdf | 602.62 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 06. 2023 - 09:27 | pdf | 398.31 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | xlsx | 278.48 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | xlsx | 275.80 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | xlsx | 278.54 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:12 | pdf | 2.08 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023",
       "attachments": [
         {
           "title": "Letak_Vyzva_AKCNI-PLANOVANI-V-UZEMI-–-IDZ.pdf",
@@ -24297,7 +24640,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vámi uváděný odkaz na § 218, odst. 2) uvedený v PpŽP je již neaktuální. V průběhu času došlo k úpravě § 218, která zatím nebyla do PpŽP promítnuta. Ustanovení, na které mají PpŽP odkazovat, je nyní uvedeno v § 218, odst. 3). Princip pravidla pro způsobilou dovolenou však zůstává stejný: aby mohla být převedená dovolená způsobilá z OP JAK, musí být převod proveden souladu se zákoníkem práce.",
-      "text": "27. června 2023 - 31. ledna 2024 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 15 Předložené žádosti 462 mil. Kč Počet podpořených žádostí 14 Podpořené žádosti 449 mil. Kč Zbývající alokace 51 mil. Kč Aktualizováno 26. 8. 2026 Datum ukončení příjmu žádosti o podporu: 31. 01. 2024. Text výzvy Pregraduální příprava budoucích učitelů a učitelek 26. 06. 2023 - 06:04 | pdf | 541.90 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 06. 2023 - 06:04 | pdf | 254.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | pdf | 5.40 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | xlsx | 276.85 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | pdf | 2.09 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | xlsx | 275.59 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:11 | pdf | 180.62 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora pregraduální přípravy budoucích učitelů a učitelek, verze 1 26. 06. 2023 - 06:04 | pdf | 3.13 MB Stáhnout Metodický výklad k vykazování indikátoru 600 000 bez IS ESF 27. 03. 2024 - 16:03 | pdf | 194.93 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Met",
+      "text": "27. června 2023 - 31. ledna 2024 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 15 Předložené žádosti 462 mil. Kč Počet podpořených žádostí 14 Podpořené žádosti 449 mil. Kč Zbývající alokace 51 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 31. 01. 2024. Text výzvy Pregraduální příprava budoucích učitelů a učitelek 26. 06. 2023 - 06:04 | pdf | 541.90 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 06. 2023 - 06:04 | pdf | 254.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | pdf | 5.40 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | xlsx | 276.85 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | pdf | 2.09 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | xlsx | 275.59 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:11 | pdf | 180.62 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora pregraduální přípravy budoucích učitelů a učitelek, verze 1 26. 06. 2023 - 06:04 | pdf | 3.13 MB Stáhnout Metodický výklad k vykazování indikátoru 600 000 bez IS ESF 27. 03. 2024 - 16:03 | pdf | 194.93 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Meto",
       "attachments": [
         {
           "title": "Letak_Vyzva_PREGRADUALNI-PRIPRAVY-BUDOUCICH-UCITELU-A-UCITELEK.pdf",
@@ -24474,7 +24817,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Toto je dáno pravidly vydavatele, u kterého je aktuálně publikace v recenzním řízení.",
-      "text": "29. června 2023 - 28. února 2025 Žádost o podporu již není možné podat Celková alokace 2 740 mil. Kč Počet předložených žádostí 72 Předložené žádosti 3 948 mil. Kč Počet podpořených žádostí 39 Podpořené žádosti 2 395 mil. Kč Zbývající alokace 345 mil. Kč Aktualizováno 26. 8. 2026 Datum ukončení příjmu žádosti o podporu: 28. 02. 2025 Text výzvy Mezisektorová spolupráce pro ITI, verze 6 06. 06. 2025 - 07:12 | pdf | 438.80 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 5 - Neplatná verze 19. 02. 2025 - 05:32 | pdf | 438.93 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 4 - Neplatná verze 19. 12. 2024 - 09:21 | pdf | 436.81 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 3 - Neplatná verze 23. 10. 2023 - 06:50 | pdf | 543.75 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 2 - Neplatná verze 10. 08. 2023 - 06:56 | pdf | 545.95 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI - Neplatná verze 28. 06. 2023 - 06:12 | pdf | 545.80 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 28. 06. 2023 - 06:13 | pdf | 415.39 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:31 | pdf | 1.99 MB Stáhnout Přílo",
+      "text": "29. června 2023 - 28. února 2025 Žádost o podporu již není možné podat Celková alokace 2 740 mil. Kč Počet předložených žádostí 72 Předložené žádosti 3 948 mil. Kč Počet podpořených žádostí 39 Podpořené žádosti 2 395 mil. Kč Zbývající alokace 345 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 28. 02. 2025 Text výzvy Mezisektorová spolupráce pro ITI, verze 6 06. 06. 2025 - 07:12 | pdf | 438.80 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 5 - Neplatná verze 19. 02. 2025 - 05:32 | pdf | 438.93 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 4 - Neplatná verze 19. 12. 2024 - 09:21 | pdf | 436.81 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 3 - Neplatná verze 23. 10. 2023 - 06:50 | pdf | 543.75 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 2 - Neplatná verze 10. 08. 2023 - 06:56 | pdf | 545.95 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI - Neplatná verze 28. 06. 2023 - 06:12 | pdf | 545.80 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 28. 06. 2023 - 06:13 | pdf | 415.39 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:31 | pdf | 1.99 MB Stáhnout Příloh",
       "attachments": [
         {
           "title": "Letak_Vyzva_MEZISEKTOROVA-SPOLUPRACE-PRO-ITI.pdf",
@@ -24651,7 +24994,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vámi uváděný odkaz na § 218, odst. 2) uvedený v PpŽP je již neaktuální. V průběhu času došlo k úpravě § 218, která zatím nebyla do PpŽP promítnuta. Ustanovení, na které mají PpŽP odkazovat, je nyní uvedeno v § 218, odst. 3). Princip pravidla pro způsobilou dovolenou však zůstává stejný: aby mohla být převedená dovolená způsobilá z OP JAK, musí být převod proveden souladu se zákoníkem práce.",
-      "text": "24. června 2024 - 16. prosince 2024 Žádost o podporu již není možné podat Celková alokace 1 200 mil. Kč Počet předložených žádostí 86 Předložené žádosti 3 348 mil. Kč Počet podpořených žádostí 31 Podpořené žádosti 1 159 mil. Kč Zbývající alokace 41 mil. Kč Aktualizováno 26. 8. 2026 Text výzvy Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 510.87 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 24. 06. 2024 - 06:17 | pdf | 356.29 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | pdf | 4.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | xlsx | 278.55 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:07 | pdf | 180.81 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí, verze 2 – účinná od 2. 6. 2025 29. 05. 2025 - 10:33 | pdf | 2.74 MB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 2.97 MB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a pří",
+      "text": "24. června 2024 - 16. prosince 2024 Žádost o podporu již není možné podat Celková alokace 1 200 mil. Kč Počet předložených žádostí 86 Předložené žádosti 3 348 mil. Kč Počet podpořených žádostí 31 Podpořené žádosti 1 159 mil. Kč Zbývající alokace 41 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 510.87 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 24. 06. 2024 - 06:17 | pdf | 356.29 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | pdf | 4.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | xlsx | 278.55 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:07 | pdf | 180.81 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí, verze 2 – účinná od 2. 6. 2025 29. 05. 2025 - 10:33 | pdf | 2.74 MB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 2.97 MB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příj",
       "attachments": [
         {
           "title": "Letak_Vyzva_VYZKUMNE-PROSTREDI_revize.pdf",
@@ -24826,7 +25169,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora rozvoje služeb v oblasti duševního zdraví Podpora rozvoje služeb v oblasti duševního zdraví Číslo: 108 Platnost od: 18. 11. 2025 09:00 Platnost do: 29. 5. 2026 09:00 Zahájení příjmu žádostí o podporu: 2. 12. 2025 09:00 Alokace v Kč: 140 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:46 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_108 Podpora rozvoje služeb v oblasti duševního zdraví Soubory ke stažení: Text výzvy č. 108 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s techn",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora rozvoje služeb v oblasti duševního zdraví Podpora rozvoje služeb v oblasti duševního zdraví Číslo: 108 Platnost od: 18. 11. 2025 09:00 Platnost do: 29. 5. 2026 09:00 Zahájení příjmu žádostí o podporu: 2. 12. 2025 09:00 Alokace v Kč: 140 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:27 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_108 Podpora rozvoje služeb v oblasti duševního zdraví Soubory ke stažení: Text výzvy č. 108 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s techni",
       "attachments": []
     },
     {
@@ -24852,7 +25195,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Výzva reaguje na potřeby strategického řízení výzkumu, vývoje a inovací na národní úrovni a má povahu systémové intervence navazující na strategické dokumenty České republiky a Evropské unie, s celonárodním dopadem do prostředí VaVaI v ČR. Cílem výzvy je prostřednictvím individuálního projektu systémového podpořit rozvoj řízení a implementace Národní výzkumné a inovační strategie pro inteligentní specializaci ČR 2021",
-      "text": "20. března 2025 - 01. června 2026 Žádost o podporu již není možné podat Celková alokace 50 mil. Kč Počet předložených žádostí 1 Předložené žádosti 44 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 44 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 26. 8. 2026 Datum zahájení příjmu žádostí o podporu 3. 4. 2025. Cíle výzvy Výzva reaguje na potřeby strategického řízení výzkumu, vývoje a inovací na národní úrovni a má povahu systémové intervence navazující na strategické dokumenty České republiky a Evropské unie, s celonárodním dopadem do prostředí VaVaI v ČR. Cílem výzvy je prostřednictvím individuálního projektu systémového podpořit rozvoj řízení a implementace Národní výzkumné a inovační strategie pro inteligentní specializaci ČR 2021–2027 na národní úrovni. Podání žádosti o podporu 3. 4. 2025 – 1. 6. 2026 ve 14:00:00 v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Informační e-mail k výzvě: ipsvav@msmt.gov.cz Text výzvy IPs VaV II 19. 03. 2025 - 07:19 | pdf | 407.01 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 19. 03. 2025 - 07:19 | pdf | 315.75 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | pdf | 5.05 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 19. 03. 2025 - 07:19 | xlsx | 276.27 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV",
+      "text": "20. března 2025 - 01. června 2026 Žádost o podporu již není možné podat Celková alokace 50 mil. Kč Počet předložených žádostí 1 Předložené žádosti 44 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 44 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 3. 4. 2025. Cíle výzvy Výzva reaguje na potřeby strategického řízení výzkumu, vývoje a inovací na národní úrovni a má povahu systémové intervence navazující na strategické dokumenty České republiky a Evropské unie, s celonárodním dopadem do prostředí VaVaI v ČR. Cílem výzvy je prostřednictvím individuálního projektu systémového podpořit rozvoj řízení a implementace Národní výzkumné a inovační strategie pro inteligentní specializaci ČR 2021–2027 na národní úrovni. Podání žádosti o podporu 3. 4. 2025 – 1. 6. 2026 ve 14:00:00 v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Informační e-mail k výzvě: ipsvav@msmt.gov.cz Text výzvy IPs VaV II 19. 03. 2025 - 07:19 | pdf | 407.01 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 19. 03. 2025 - 07:19 | pdf | 315.75 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | pdf | 5.05 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 19. 03. 2025 - 07:19 | xlsx | 276.27 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV",
       "attachments": [
         {
           "title": "Text výzvy IPs VaV II",
@@ -25381,7 +25724,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů fondů EU – sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vybudování dětských skupin (4) Vybudování dětských skupin (4) Číslo: 090 Platnost od: 2. 4. 2026 08:00 Platnost do: 18. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 4. 2026 08:00 Alokace v Kč: 500 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:47 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: Dětské skupiny OPZ+ Plánujete vybudování nové dětské skupiny? Zjišťujete zájem cílové skupiny? Potřebujete si ověřit, že ve Vašem okolí již nevzniká jiná dětská skupina, kterou jsme podpořili v minulé výzvě, ale ještě není v evidenci? Pod následujícím odkazem naleznete mapu, která Vám tyto otázky může pomoci zodpovědět: Aktuálně vznikající DS z OPZ+ a NPO Doporučujeme také využít mapu stávajících dětských skupin s aktivním oprávněním , která Vám pomůže zorientovat se v aktuální nabídce ve Vaše",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vybudování dětských skupin (4) Vybudování dětských skupin (4) Číslo: 090 Platnost od: 2. 4. 2026 08:00 Platnost do: 18. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 4. 2026 08:00 Alokace v Kč: 500 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:28 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: Dětské skupiny OPZ+ Plánujete vybudování nové dětské skupiny? Zjišťujete zájem cílové skupiny? Potřebujete si ověřit, že ve Vašem okolí již nevzniká jiná dětská skupina, kterou jsme podpořili v minulé výzvě, ale ještě není v evidenci? Pod následujícím odkazem naleznete mapu, která Vám tyto otázky může pomoci zodpovědět: Aktuálně vznikající DS z OPZ+ a NPO Doporučujeme také využít mapu stávajících dětských skupin s aktivním oprávněním , která Vám pomůže zorientovat se v aktuální nabídce ve Vašem",
       "attachments": []
     },
     {
@@ -25405,7 +25748,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů fondů EU - sociální inovace a rovné příležitosti (83)",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Číslo: 030 Platnost od: 17. 12. 2025 08:00 Platnost do: 26. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 26. 1. 2026 08:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 24. 8. 2026 11:24:00 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU - sociální inovace a rovné příležitosti (83) Typ výzvy: otevřená Odkaz na související kluby fóra: 03_22_030 Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Před podáním projektové žádosti je potřeba absolvovat povinnou konzultaci, seznam termínů je dostupný na odkazu zde : https://airtable.com/app0VpCtU7R3Z3Wz2/shrB5D0pNqrTKCbRd Během přihlášení je třeba vložit přílohu projektového záměru. Prosíme o přihlašování a zaslání projektového záměru minim",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Číslo: 030 Platnost od: 17. 12. 2025 08:00 Platnost do: 26. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 26. 1. 2026 08:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 1. 9. 2026 15:02:46 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU - sociální inovace a rovné příležitosti (83) Typ výzvy: otevřená Odkaz na související kluby fóra: 03_22_030 Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Před podáním projektové žádosti je potřeba absolvovat povinnou konzultaci, seznam termínů je dostupný na odkazu zde : https://airtable.com/app0VpCtU7R3Z3Wz2/shrB5D0pNqrTKCbRd Během přihlášení je třeba vložit přílohu projektového záměru. Prosíme o přihlašování a zaslání projektového záměru minimá",
       "attachments": []
     },
     {
@@ -26417,6 +26760,697 @@ window.DOTACE_EXPORT = {
           "format": "ZIP"
         }
       ]
+    },
+    {
+      "id": 778119399901,
+      "title": "103. výzva - Kulturní a kreativní centra – Karlovarský kraj",
+      "code": "103",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2025-12-03",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://opst.cz/dotace/103-vyzva/",
+      "source_id": "opst-2021-2027",
+      "source_name": "OP Spravedlivá transformace",
+      "program": "OP ST",
+      "allocation_czk": 70000000,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj",
+        "nezisk"
+      ],
+      "regions": [
+        "Karlovarský kraj"
+      ],
+      "for_business": true,
+      "summary": "Žadatelé se řídí Pravidly pro žadatele a příjemce podpory pro programové období 2021–2027 (PrŽaP21+). Pro žadatele z této výzvy je při podání žádosti platné ustanovení části B.1.1, B.1.2, D (mimo D.1.2 – D.1.5) PrŽaP21+ podle verze č. 30. V dalších fázích administrace se žadatelé budou řídit tou verzí, která bude právě aktuální (tj. poslední verze). Jednotlivé verze dokumentu naleznete na této stránce.",
+      "text": "Vyhledávání 103. výzva - Kulturní a kreativní centra – Karlovarský kraj Cílem výzvy je podpořit rozvoj kulturních a kreativních odvětví v regionu vytvořením technického zázemí a infastruktury prostřednictvím dílčích či celkových rekonstrukcí stávajících objektů (včetně dlouhodobě nevyužívaných budov) a nákupu potřebného vybavení pro jejich aktivity. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 3. 12. 2025 - 31. 8. 2026 Alokace 70 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl Fondu spravedlivé transformace – umožnit regionům a lidem řešit (negativní) sociální, hospodářské a environmentální dopady transformace na klimaticky neutrální ekonomiku. Podporované aktivity Vybudování kulturního a kreativního centra prostřednictvím rekonstrukce či přestavby stávajících objektů nebo rozšíření stávajícího kulturního a kreativního centra; Nákup potřebného vybavení pro aktivity kulturního a kreativního odvětví (pro nová i stávající kulturní a kreativní centra). Dokumenty k výzvě Text výzvy – 103. výzva 180.58 kB Platnost: 19. 11. 2025 stáhnout 180.58 kB Platnost: 19. 11. 2025 stáhnout Příloha č. 1 – Minimální obsah projektového záměru 162.38 kB Platnost: 19. 11. 2025 stáhnout 162.38 kB Platnost: 19. 11. 2025 stáhnout Příloha č. 2 – Metodika pro sledování indikátorů 270.09 kB Platnost: 19. 11. 2025 stáhnout 270.09 kB Platnost: 19. 11. 2025 stáhnout Příloha č. 3 – Kumulativní rozpočet projektu 13.65 kB Platnost: 19. 11. 2025 stáhnout 13.65 kB Platnost: 19",
+      "attachments": [
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763456080_VÝZVA 103_KKC KVK.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2025/11/19/1763546002_251114_P1_Minimální obsah projektového záměru_KKC_V103_final.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763455962_P2_Metodika pro sledování indikátorů_KKC_V103.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763455999_P3_Kumulativní rozpočet_KKC_V103.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2025/11/18/1763456025_P4_Prohlášení žadatele k souladu realizace projektu s podmínkami DNSH_KKC.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783670243_PrŽaP_OPST_ver34.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "id": 880388635015,
+      "title": "115. výzva IROP - Sociální bydlení II. KPSV+ SC 4.2 (MRR)",
+      "code": "115",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2024-02-21",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/06-Integrovany-regionalni-operacni-program/115-vyzva-IROP-Socialni-bydleni-KPSV-SC-4-2-(MRR)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj",
+        "nezisk"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 115. výzva IROP - Sociální bydlení II. KPSV+ SC 4.2 (MRR) Číslo výzvy: 06_24_115 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Integrovaný regionální operační program Prioritní osa: Zlepšení kvality a dostupnosti sociálních a zdravotních služeb, vzdělávací infrastruktury a rozvoj kulturního dědictví Oprávnění žadatelé: Obce, kraje, organizace zřizované nebo zakládané kraji/obcemi, PO OSS, církve, církevní organizace, NNO, které min. 5 let bezprostředně před podáním žádosti nepřetržitě poskytovaly sociální bydlení či úspěšně realizovaly projekt sociálního bydlení v Operačním programu Zaměstnanost Zpřístupnění žádosti o podporu: 21. 2. 2024 Přidat do svého kalendáře Zahájení příjmu žádostí: 21. 2. 2024 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 31.01.2024 Změna datumu zpřístupnění: na 31.01.2024 01.02.2024 Změna stavu: na Finalizovaná 01.02.2024 Změna kódu stavu: na VP21 03.02.2024 Změna stavu: na Rozpracovaná 03.02.2024 Změna kódu stavu: na VP20 08.02.2024 Změna stavu: na Finalizovaná 08.02.2024 Změna kódu stavu: na VP21 09.02.2024 Změna stavu: na Rozpracovaná 09.02.2024 Změna kódu stavu: na VP20 10.02.2024 Změna stavu: na Vyhlášená 10.02.2024 Změna kódu stavu: na VP30 20.02.2024 Změna datumu zpřístupnění: na 21.02.2024 22.02.2024 Změna stavu: na Otevřená 22.02.2024 Změna kódu stavu: na VP31 01.03.2024 Změ",
+      "attachments": []
+    },
+    {
+      "id": 230566787893,
+      "title": "116. výzva IROP - Sociální bydlení II. KPSV+ - SC 4.2 (PR)",
+      "code": "116",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2024-02-21",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/06-Integrovany-regionalni-operacni-program/116-vyzva-IROP-Socialni-bydleni-II-KPSV-SC-4-2-(PR",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj",
+        "nezisk"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 116. výzva IROP - Sociální bydlení II. KPSV+ - SC 4.2 (PR) Číslo výzvy: 06_24_116 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Integrovaný regionální operační program Prioritní osa: Zlepšení kvality a dostupnosti sociálních a zdravotních služeb, vzdělávací infrastruktury a rozvoj kulturního dědictví Oprávnění žadatelé: Obce, kraje, organizace zřizované nebo zakládané kraji/obcemi, PO OSS, církve, církevní organizace, NNO, které min. 5 let bezprostředně před podáním žádosti nepřetržitě poskytovaly sociální bydlení či úspěšně realizovaly projekt sociálního bydlení v Operačním programu Zaměstnanost Zpřístupnění žádosti o podporu: 21. 2. 2024 Přidat do svého kalendáře Zahájení příjmu žádostí: 21. 2. 2024 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 31.01.2024 Změna datumu zpřístupnění: na 31.01.2024 08.02.2024 Změna stavu: na Finalizovaná 08.02.2024 Změna kódu stavu: na VP21 10.02.2024 Změna stavu: na Vyhlášená 10.02.2024 Změna kódu stavu: na VP30 20.02.2024 Změna datumu zpřístupnění: na 21.02.2024 22.02.2024 Změna stavu: na Otevřená 22.02.2024 Změna kódu stavu: na VP31 01.03.2024 Změna stavu: na Pozastavená 01.03.2024 Změna kódu stavu: na VU30 02.03.2024 Změna stavu: na Otevřená 02.03.2024 Změna kódu stavu: na VP31 31.01.2025 Změna datumu uzavření: na 23.02.2026 31.01.2025 Změna cílů: na Podpora socioekonomic",
+      "attachments": []
+    },
+    {
+      "id": 70714958786,
+      "title": "15. výzva OP FVB – Specifická akce SIENA",
+      "code": "15",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-06-11",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/15-vyzva-OP-FVB-Mezinarodni-vymena-informaci",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 15. výzva OP FVB – Specifická akce SIENA Číslo výzvy: 13_26_015 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Fondu pro vnitřní bezpečnost Prioritní osa: OP FVB Oprávnění žadatelé: Ministerstvo vnitra - Policie ČR Zpřístupnění žádosti o podporu: 11. 6. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 11. 6. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 03.12.2025 Změna datumu otevření: na 01.02.2026 03.12.2025 Změna datumu uzavření: na 01.04.2026 10.06.2026 Změna názvu: Název se změnil z 15. výzva OP FVB - Mezinárodní výměna informací na 15. výzva OP FVB – Specifická akce SIENA 10.06.2026 Změna datumu otevření: na 10.06.2026 10.06.2026 Změna datumu uzavření: na 31.08.2026 10.06.2026 Změna datumu zpřístupnění: na 10.06.2026 10.06.2026 Změna stavu: na Rozpracovaná 10.06.2026 Změna kódu stavu: na VP20 10.06.2026 Změna cílů: na Zlepšit a usnadnit výměnu informací mezi příslušnými orgány a příslušnými institucemi a jinými subjekty Unie a uvnitř těchto orgánů, institucí a subjektů a tam, kde je to relevantní, i se třetími zeměmi a mezinárodními organizacemi 10.06.2026 Změna cílů: na OP FVB 10.06.2026 Změna alokace v korunách: na 9400000 12.06.2026 Změna datumu otevření: na 11.06.2026 12.06.2026 Změna datumu zpřístupnění: na 11.06.2026 12.06.2026 Změna stavu: na Otevřená 12.06.2026 Změna",
+      "attachments": []
+    },
+    {
+      "id": 81992182813,
+      "title": "17. výzva OP FVB - Posílení kapacit pro předcházení trestné činnosti a boj proti ní",
+      "code": "17",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-05-26",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/17-vyzva-OP-FVB-Posileni-kapacit-pro-predchazeni-t",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 17. výzva OP FVB - Posílení kapacit pro předcházení trestné činnosti a boj proti ní Číslo výzvy: 13_26_017 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Fondu pro vnitřní bezpečnost Prioritní osa: OP FVB Oprávnění žadatelé: Ministerstvo vnitra - Policie ČR Zpřístupnění žádosti o podporu: 26. 5. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 26. 5. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 26.05.2026 Změna datumu otevření: na 26.05.2026 26.05.2026 Změna datumu uzavření: na 31.08.2026 26.05.2026 Změna datumu zpřístupnění: na 26.05.2026 26.05.2026 Změna stavu: na Rozpracovaná 26.05.2026 Změna kódu stavu: na VP20 26.05.2026 Změna cílů: na Podpořit posilování kapacit členských států v oblasti předcházení trestné činnosti, terorismu a radikalizaci a boje proti nim, jakož i řízení a řešení událostí, rizik a krizí souvisejících s bezpečností, a to i prostřednictvím intenzivnější spolupráce mezi veřejnými orgány, příslušnými institucemi a jinými subjekty Unie, občanskou společností a soukromými partnery v různých členských státech 26.05.2026 Změna cílů: na OP FVB 27.05.2026 Změna stavu: na Otevřená 27.05.2026 Změna kódu stavu: na VP31 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací úda",
+      "attachments": []
+    },
+    {
+      "id": 791969744168,
+      "title": "18. výzva OP FVB - Implementace směrnice o vymáhání a konfiskaci majetku",
+      "code": "18",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-06-19",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/18-vyzva-OP-FVB-Implementace-smernice-o-vymahani-a",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 18. výzva OP FVB - Implementace směrnice o vymáhání a konfiskaci majetku Číslo výzvy: 13_26_018 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: 13 Operační program Fondu pro vnitřní bezpečnost Oprávnění žadatelé: Ministerstvo vnitra Ministerstvo vnitra - Policie ČR Zahájení příjmu žádostí: 19. 6. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Stav výzvy: Plánovaná Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: 13 Operační program Fondu pro vnitřní bezpečnost Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 698449375385,
+      "title": "43. výzva OP AMIF - Specifická akce 2025/10: Podpora soudů v azylové a migrační oblasti",
+      "code": "43",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-05-06",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/12-Operacni-program-Azyloveho,-migracniho-a-integr/43-vyzva-OP-AMIF-Specificka-akce-2025-10-Podpora-s",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 43. výzva OP AMIF - Specifická akce 2025/10: Podpora soudů v azylové a migrační oblasti Číslo výzvy: 12_26_043 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Azylového, migračního a integračního fondu Prioritní osa: OP AMIF Oprávnění žadatelé: Ministerstvo spravedlnosti Zpřístupnění žádosti o podporu: 6. 5. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 6. 5. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 10.12.2025 Změna datumu otevření: na 18.02.2026 05.05.2026 Změna datumu otevření: na 06.05.2026 05.05.2026 Změna datumu uzavření: na 17.07.2026 05.05.2026 Změna datumu zpřístupnění: na 06.05.2026 05.05.2026 Změna stavu: na Finalizovaná 05.05.2026 Změna kódu stavu: na VP21 05.05.2026 Změna cílů: na Posílit a rozvíjet všechny aspekty společného evropského azylového systému včetně jeho vnějšího rozměru 05.05.2026 Změna cílů: na OP AMIF 07.05.2026 Změna datumu otevření: na 06.05.2026 07.05.2026 Změna datumu zpřístupnění: na 06.05.2026 07.05.2026 Změna stavu: na Vyhlášená 07.05.2026 Změna kódu stavu: na VP30 08.05.2026 Změna stavu: na Otevřená 08.05.2026 Změna kódu stavu: na VP31 17.07.2026 Změna datumu uzavření: na 17.08.2026 14.08.2026 Změna datumu uzavření: na 31.08.2026 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu",
+      "attachments": []
+    },
+    {
+      "id": 497109707397,
+      "title": "74. výzva - Příprava projektů pro veřejný sektor II – Ústecký kraj",
+      "code": "74",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-05-21",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://opst.cz/dotace/74-vyzva/",
+      "source_id": "opst-2021-2027",
+      "source_name": "OP Spravedlivá transformace",
+      "program": "OP ST",
+      "allocation_czk": 150000000,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [
+        "Ústecký kraj"
+      ],
+      "for_business": true,
+      "summary": "Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení.",
+      "text": "Vyhledávání 74. výzva - Příprava projektů pro veřejný sektor II – Ústecký kraj Předmětem výzvy je podpora aktivity související s přípravnou fází projektů – zpracování projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 21. 5. 2026 - 31. 8. 2026 Alokace 150 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl Fondu spravedlivé transformace – umožnit regionům a lidem řešit (negativní) sociální, hospodářské a environmentální dopady transformace na klimaticky neutrální ekonomiku. Podporované aktivity Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Dokumenty k výzvě Text výzvy – 74. výzva 161.66 kB Platnost: 6. 5. 2026 stáhnout 161.66 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 1 – Tabulka pro vyhodnocení programu OPST 314.84 kB Platnost: 6. 5. 2026 stáhnout 314.84 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 2 – Kompletní seznam podpořených projektů OPST 374.78 kB Platnost: 6. 5. 2026 stáhnout 374.78 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 3 – Kompletní seznam provedených kontrol na místě 313.6 kB Platnost: 6. 5. 2026 stáhnout 313.6 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 4 – Popis řídicího a kontrolního systému 978.76 kB Platnost: 6. 5. 2026 stáhnout 978.76 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 5 – Metodické doporučení pro nastavení řídicího a kontrol",
+      "attachments": [
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049083_Vyzva_74_Priprava projektuII_ULK.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048886_Příloha č. 1 - Tabulka pro vyhodnocení programu_OPST_Příprava projektů II.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048936_Příloha č. 2 - Kompletní seznam podpořených projektů_OPST_Příprava projektů II.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048975_Příloha č. 3 - Kompletní seznam provedených kontrol na místě_OPST_Příprava projektů II.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049005_Příloha č. 4 - Popis řídicího a kontrolního systému_OPST - Příprava projektů II.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049040_Příloha č. 5 - Metodické doporučení k ŘKS_pro kraje ZPII.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778063590_Závazné pokyny PPVSII.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783673087_Příloha 06a - Pokyny pro zadávání zakázek v OPZP OPST 2021-2027 v08.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2024/08/22/1724312610_Příloha 08b - Formulář pro posouzení podniku v obtížích (kalkulačka).xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783670342_Příloha 8c - Stanovení velikosti a ekonomické skupiny podniku_do 07_2026.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/04/30/1777536193_Příloha 07 - Grafický manuál povinné publicity OPST.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "id": 666381841491,
+      "title": "75. výzva - Příprava projektů pro veřejný sektor II – Moravskoslezský kraj",
+      "code": "75",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-05-21",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://opst.cz/dotace/75-vyzva/",
+      "source_id": "opst-2021-2027",
+      "source_name": "OP Spravedlivá transformace",
+      "program": "OP ST",
+      "allocation_czk": 100000000,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [
+        "Moravskoslezský kraj"
+      ],
+      "for_business": true,
+      "summary": "Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení.",
+      "text": "Vyhledávání 75. výzva - Příprava projektů pro veřejný sektor II – Moravskoslezský kraj Předmětem výzvy je podpora aktivity související s přípravnou fází projektů – zpracování projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 21. 5. 2026 - 31. 8. 2026 Alokace 100 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl Fondu spravedlivé transformace – umožnit regionům a lidem řešit (negativní) sociální, hospodářské a environmentální dopady transformace na klimaticky neutrální ekonomiku. Podporované aktivity Příprava projektové dokumentace v rozsahu stanoveném vyhláškou o dokumentaci staveb do stupně pro vydání stavebního povolení. Dokumenty k výzvě Text výzvy – 75. výzva 161.92 kB Platnost: 6. 5. 2026 stáhnout 161.92 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 1 – Tabulka pro vyhodnocení programu OPST 314.84 kB Platnost: 6. 5. 2026 stáhnout 314.84 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 2 – Kompletní seznam podpořených projektů OPST 374.78 kB Platnost: 6. 5. 2026 stáhnout 374.78 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 3 – Kompletní seznam provedených kontrol na místě 313.6 kB Platnost: 6. 5. 2026 stáhnout 313.6 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 4 – Popis řídicího a kontrolního systému 978.76 kB Platnost: 6. 5. 2026 stáhnout 978.76 kB Platnost: 6. 5. 2026 stáhnout Příloha č. 5 – Metodické doporučení pro nastavení řídicího a",
+      "attachments": [
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049144_Vyzva_75_Priprava projektuII_MSK.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048886_Příloha č. 1 - Tabulka pro vyhodnocení programu_OPST_Příprava projektů II.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048936_Příloha č. 2 - Kompletní seznam podpořených projektů_OPST_Příprava projektů II.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778048975_Příloha č. 3 - Kompletní seznam provedených kontrol na místě_OPST_Příprava projektů II.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049005_Příloha č. 4 - Popis řídicího a kontrolního systému_OPST - Příprava projektů II.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778049040_Příloha č. 5 - Metodické doporučení k ŘKS_pro kraje ZPII.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/05/06/1778063590_Závazné pokyny PPVSII.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783673087_Příloha 06a - Pokyny pro zadávání zakázek v OPZP OPST 2021-2027 v08.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2024/08/22/1724312610_Příloha 08b - Formulář pro posouzení podniku v obtížích (kalkulačka).xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/07/10/1783670342_Příloha 8c - Stanovení velikosti a ekonomické skupiny podniku_do 07_2026.xlsx",
+          "format": "XLSX"
+        },
+        {
+          "title": "stáhnout",
+          "url": "https://opst.cz/files/documents/storage/2026/04/30/1777536193_Příloha 07 - Grafický manuál povinné publicity OPST.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "id": 408701011505,
+      "title": "80. výzva IROP - eHealth SC 1.1 (ČR)",
+      "code": "80",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2023-11-28",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/06-Integrovany-regionalni-operacni-program/80-vyzva-IROP-eHealth-SC-1-1-(CR)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "vyzkumna_organizace",
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 80. výzva IROP - eHealth SC 1.1 (ČR) Číslo výzvy: 06_23_080 Druh výzvy: Průběžná Programové období: 2021-2027 Operační program: Integrovaný regionální operační program Prioritní osa: Zlepšení výkonu veřejné správy Oprávnění žadatelé: \"Organizační složky státu; příspěvkové organizace organizačních složek státu; NNO zakládané zde uvedenými typy oprávněných žadatelů; subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů; kraje; obce; organizace zřizované nebo zakládané kraji / obcemi\" Zpřístupnění žádosti o podporu: 28. 11. 2023 Přidat do svého kalendáře Zahájení příjmu žádostí: 28. 11. 2023 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 06.01.2023 Změna datumu otevření: na 21.03.2023 29.03.2023 Změna datumu otevření: na 18.04.2023 29.03.2023 Změna datumu uzavření: na 30.04.2024 21.10.2023 Změna datumu otevření: na 28.11.2023 21.10.2023 Změna datumu uzavření: na 28.11.2024 21.10.2023 Změna datumu zpřístupnění: na 20.10.2023 21.10.2023 Změna stavu: na Rozpracovaná 21.10.2023 Změna kódu stavu: na VP20 21.10.2023 Změna cílů: na Využívání přínosů digitalizace 21.10.2023 Změna cílů: na Zlepšení výkonu veřejné správy 24.10.2023 Změna stavu: na Finalizovaná 24.10.2023 Změna kódu stavu: na",
+      "attachments": []
+    },
+    {
+      "id": 40066336926,
+      "title": "Sociální infrastruktura",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2024-02-21",
+      "closing_date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "source_url": "https://irop.gov.cz/cs/irop-2021-2027/temata/socialni-infrastruktura",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "allocation_czk": 8800000000,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "Specifický cíl 4.2: Podpora socioekonomického začlenění marginalizovaných komunit, domácností s nízkými příjmy a znevýhodněných skupin včetně osob se zvláštními potřebami, pomocí integrovaných opatření, včetně bydlení a sociálních služeb",
+      "text": "Úvod > IROP 2021-2027 > Sociální infrastruktura Sociální infrastruktura Specifický cíl 4.2: Podpora socioekonomického začlenění marginalizovaných komunit, domácností s nízkými příjmy a znevýhodněných skupin včetně osob se zvláštními potřebami, pomocí integrovaných opatření, včetně bydlení a sociálních služeb Cílem této oblasti je zajištění vyšší dostupnosti a kvality služeb vedoucí k sociální inkluzi, podpora vzniku bytů určených pro sociální bydlení a dokončení deinstitucionalizace sociálních služeb. Celková částka na projekty: 8,8 mld. Kč Podporované aktivity: modernizace a budování infrastruktury sociálních služeb poskytovaných podle zákona č. 108/2006 Sb., o sociálních službách; deinstitucionalizace sociálních služeb za účelem sociálního začleňování; sociální bydlení – pořízení a adaptace bytů, bytových domů a nebytových prostor pro potřeby sociálního bydlení a pořízení nezbytného základního vybavení. Příklady projektů: rekonstrukce denního stacionáře a s tím spojené zvýšení jeho kapacity; deinstitucionalizace pobytové sociální služby, která je příspěvkovou organizací obce/kraje; výstavba sociálních bytů v obci. Konzultační místo: Konzultační servis IROP Další důležité informace, které by měli žadatelé vědět: mezi hlavní cílové skupiny jsou zařazeni senioři; projekt je v souladu se: Strategickým plánem sociálního začleňování / Plánem sociálního začleňování nebo; komunitním plánem nebo; krajským střednědobým plánem rozvoje sociálních služeb; projekt zaměřený na pobytové so",
+      "attachments": []
+    },
+    {
+      "id": 975718638971,
+      "title": "Centres of Vocational Excellence",
+      "code": "ERASMUS-EDU-2026-PEX-COVE",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2025-12-04",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Erasmus+",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Centres of Vocational Excellence",
+      "text": "Centres of Vocational Excellence",
+      "attachments": []
+    },
+    {
+      "id": 726668188490,
+      "title": "Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment",
+      "code": "HORIZON-CL4-2026-SPACE-03-85",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-85",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment",
+      "text": "Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment",
+      "attachments": []
+    },
+    {
+      "id": 464591196885,
+      "title": "Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Digital-enablers-and-building-blocks-for-Earth-(1)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 847385245193,
+      "title": "Microelectronic – Front-End Module (FEM)",
+      "code": "HORIZON-JU-SNS-2026-FEM-STREAM-B-02",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-05-26",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-FEM-STREAM-B-02",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Microelectronic – Front-End Module (FEM)",
+      "text": "Microelectronic – Front-End Module (FEM)",
+      "attachments": []
+    },
+    {
+      "id": 434186572372,
+      "title": "Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Preparing-demonstration-missions-for-Earth-Observa",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 1096483279256,
+      "title": "Reinforcing EU autonomous access to space through EU-based spaceports",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Reinforcing-EU-autonomous-access-to-space-through",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Reinforcing EU autonomous access to space through EU-based spaceports Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 750801499910,
+      "title": "Scientific analysis and exploitation of space data",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Scientific-analysis-and-exploitation-of-space-data",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Scientific analysis and exploitation of space data Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 302845791673,
+      "title": "Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities",
+      "code": "HORIZON-CL4-2026-SPACE-03-82",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-82",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities",
+      "text": "Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities",
+      "attachments": []
+    },
+    {
+      "id": 1018038926157,
+      "title": "Space critical EEE components for EU non-dependence – Radiation Hard FPGA on 7nm",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Unijni-programy/Space-critical-EEE-components-for-EU-non-depen-(3)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Space critical EEE components for EU non-dependence – Radiation Hard FPGA on 7nm Programové období: 2021-2027 Operační program: Horizont Evropa Zahájení příjmu žádostí: 10. 3. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 3. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Horizont Evropa Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 118039293197,
+      "title": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
+      "code": "HORIZON-CL4-2026-SPACE-03-86",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-03-10",
+      "closing_date": "2026-09-03",
+      "deadline": "2026-09-03",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-86",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
+      "text": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
+      "attachments": []
     }
   ],
   "sources": [
