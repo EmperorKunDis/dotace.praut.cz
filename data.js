@@ -1,13 +1,13 @@
 window.DOTACE_EXPORT = {
-  "generated_at": "2026-09-07T10:46:57+00:00",
+  "generated_at": "2026-09-14T11:02:48+00:00",
   "stats": {
-    "total": 547,
-    "active": 169,
-    "upcoming": 75,
+    "total": 553,
+    "active": 172,
+    "upcoming": 76,
     "completed": 89,
-    "unknown": 214,
-    "business": 415,
-    "attachments": 2561,
+    "unknown": 216,
+    "business": 418,
+    "attachments": 2566,
     "sources": 26
   },
   "warnings": [
@@ -19,59 +19,27 @@ window.DOTACE_EXPORT = {
   ],
   "items": [
     {
-      "id": 257829197710,
-      "title": "Framework Partnership Agreements for operating grants to support non-profit organisations",
-      "code": "LIFE-2026-NGO-OG-FPA",
+      "id": 70714958786,
+      "title": "15. výzva OP FVB – Specifická akce SIENA",
+      "code": "15",
       "type": "Dotace",
       "type_code": "grant",
       "status": "Probíhající",
       "status_code": "active",
-      "opening_date": "2026-05-12",
-      "closing_date": "2026-09-08",
-      "deadline": "2026-09-08",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-NGO-OG-FPA",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "LIFE",
+      "opening_date": "2026-06-11",
+      "closing_date": "2026-09-14",
+      "deadline": "2026-09-14",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/15-vyzva-OP-FVB-Mezinarodni-vymena-informaci",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
       "allocation_czk": 0,
       "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
+      "applicant_types": [],
       "regions": [],
-      "for_business": true,
-      "summary": "Framework Partnership Agreements for operating grants to support non-profit organisations",
-      "text": "Framework Partnership Agreements for operating grants to support non-profit organisations",
-      "attachments": []
-    },
-    {
-      "id": 313464352891,
-      "title": "ERA Fellowships",
-      "code": "HORIZON-WIDERA-2026-05-WIDENING-01",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-04-09",
-      "closing_date": "2026-09-09",
-      "deadline": "2026-09-09",
-      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-05-WIDENING-01",
-      "source_id": "eu-funding-tenders",
-      "source_name": "EU Funding & Tenders Portal",
-      "program": "Horizon Europe",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "velky_podnik",
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "ERA Fellowships",
-      "text": "ERA Fellowships",
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy 15. výzva OP FVB – Specifická akce SIENA Číslo výzvy: 13_26_015 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Fondu pro vnitřní bezpečnost Prioritní osa: OP FVB Oprávnění žadatelé: Ministerstvo vnitra - Policie ČR Zpřístupnění žádosti o podporu: 11. 6. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 11. 6. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 14. 9. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 03.12.2025 Změna datumu otevření: na 01.02.2026 03.12.2025 Změna datumu uzavření: na 01.04.2026 10.06.2026 Změna názvu: Název se změnil z 15. výzva OP FVB - Mezinárodní výměna informací na 15. výzva OP FVB – Specifická akce SIENA 10.06.2026 Změna datumu otevření: na 10.06.2026 10.06.2026 Změna datumu uzavření: na 31.08.2026 10.06.2026 Změna datumu zpřístupnění: na 10.06.2026 10.06.2026 Změna stavu: na Rozpracovaná 10.06.2026 Změna kódu stavu: na VP20 10.06.2026 Změna cílů: na Zlepšit a usnadnit výměnu informací mezi příslušnými orgány a příslušnými institucemi a jinými subjekty Unie a uvnitř těchto orgánů, institucí a subjektů a tam, kde je to relevantní, i se třetími zeměmi a mezinárodními organizacemi 10.06.2026 Změna cílů: na OP FVB 10.06.2026 Změna alokace v korunách: na 9400000 12.06.2026 Změna datumu otevření: na 11.06.2026 12.06.2026 Změna datumu zpřístupnění: na 11.06.2026 12.06.2026 Změna stavu: na Otevřená 12.06.2026 Změna",
       "attachments": []
     },
     {
@@ -95,7 +63,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Číslo: 085 Platnost od: 29. 6. 2026 09:00 Platnost do: 14. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 6. 2026 12:00 Alokace v Kč: 180 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:23 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_085 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Soubory ke stažení: Text výzvy č. 085 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2_Podpora SOHZ v otevřených vý",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Číslo: 085 Platnost od: 29. 6. 2026 09:00 Platnost do: 14. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 6. 2026 12:00 Alokace v Kč: 180 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:16 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_085 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (4) Soubory ke stažení: Text výzvy č. 085 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2_Podpora SOHZ v otevřených vý",
       "attachments": []
     },
     {
@@ -436,37 +404,37 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "Výzva k podávání žádostí o podporu audiovize Stáhnout dokument PDF",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/06/Vyzva-2026-D-3-6-46-distribuce-prubezna.pdf",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/08/Vyzva-distribuce-prubezna.pdf",
           "format": "PDF"
         },
         {
           "title": "Žádost o podporu audiovize Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/06/A-zadost-Distribuce-prubezna2026.docx",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/09/A-zadost-Distribuce-prubezna2025.docx",
           "format": "DOCX"
         },
         {
           "title": "Tvůrčí a realizační test Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/08/B-TRT-distribuce-filmu.xlsx",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/09/B-TRT-distribuce-filmu-KK26.xlsx",
           "format": "XLSX"
         },
         {
           "title": "Rozpočet Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C3-Rozpocet-k-zadosti-distribuce-filmu2026.xls",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/08/C3-Rozpocet-k-zadosti-distribuce-filmu2025.xls",
           "format": "XLS"
         },
         {
           "title": "Finanční plán Stáhnout dokument XLS",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C4-financni-plan-podpora-distribuce2026.xlsx",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/09/C4-financni-plan-podpora-distribuce2025.xlsx",
           "format": "XLSX"
         },
         {
           "title": "Údaje pro ověření bezúhonnosti žadatele: fyzická osoba – občan ČR Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-FO.doc",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/08/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-FO.doc",
           "format": "DOC"
         },
         {
           "title": "Údaje pro ověření bezúhonnosti žadatele: právnická osoba se sídlem v ČR Stáhnout dokument DOC",
-          "url": "https://fondkinematografie.cz/data/invitation/2026/06/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-PO-se-sidlem-v-CR.doc",
+          "url": "https://fondkinematografie.cz/data/invitation/2025/08/C.5-Udaje-pro-overeni-bezuhonnosti-zadatele-PO-se-sidlem-v-CR.doc",
           "format": "DOC"
         }
       ]
@@ -1278,36 +1246,6 @@ window.DOTACE_EXPORT = {
       "summary": "Understanding biomass flows in Europe",
       "text": "Understanding biomass flows in Europe",
       "attachments": []
-    },
-    {
-      "id": 132848802026,
-      "title": "Infrastruktura ve zdravotnictví",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2025-01-21",
-      "closing_date": "2026-09-21",
-      "deadline": "2026-09-21",
-      "source_url": "https://irop.gov.cz/cs/irop-2021-2027/temata/infrastruktura-ve-zdravotnictvi",
-      "source_id": "irop-2021-2027",
-      "source_name": "IROP 2021-2027",
-      "program": "IROP",
-      "allocation_czk": 9600000000,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "Specifický cíl 4.3: Zajišťování rovného přístupu ke zdravotní péči a posílení odolnosti systémů zdravotní péče včetně primární péče a podpora přechodu od institucionální péče k rodině a komunitně založené péči",
-      "text": "Úvod > IROP 2021-2027 > Infrastruktura ve zdravotnictví Infrastruktura ve zdravotnictví Specifický cíl 4.3: Zajišťování rovného přístupu ke zdravotní péči a posílení odolnosti systémů zdravotní péče včetně primární péče a podpora přechodu od institucionální péče k rodině a komunitně založené péči Cílem této oblasti je zlepšit kvalitu a zvýšit dostupnost zdravotních služeb, integrované, dlouhodobé a následné péče vč. paliativní a hospicové. Pokračovat v reformě psychiatrické péče a zlepšit funkčnost systému epidemiologické bdělosti a připravenosti systému ochrany veřejného zdraví na řešení možných hrozeb v oblasti infekčních onemocnění. Celková částka na projekty: 9,6 mld. Kč Podporované aktivity: vznik a modernizace urgentních příjmů (stavby, rekonstrukce, modernizace a přístrojové vybavení); podpora rozvoje a dostupnosti integrované péče: podpora rozvoje a dostupnosti zdravotní následné péče (stavby, rekonstrukce, modernizace a přístrojové vybavení pro rozvoj následné péče); podpora rozvoje a dostupnosti akutní a specializované lůžkové psychiatrické péče (stavby, rekonstrukce, modernizace a přístrojové vybavení pro zvýšení dostupnosti akutní lůžkové psychiatrické péče); podpora rozvoje a dostupnosti komunitní psychiatrické péče (stavby, rekonstrukce, modernizace, přístrojové vybavení, nákup automobilů pro zvýšení dostupnosti), komunitní psychiatrické péče (centra duševního zdraví - CDZ, ambulance s rozšířenou péčí, krizová péče); podpora rozvoje a dostupnosti paliativní péče",
-      "attachments": [
-        {
-          "title": "Metodický pokyn pro zřízení a vedení urgentních příjmů poskytovateli akutní lůžkové péče v ČR",
-          "url": "https://zachrannasluzba.cz/wp-content/uploads/2020/09/Vestnik-MZ_9-2020_UP.pdf",
-          "format": "PDF"
-        }
-      ]
     },
     {
       "id": 176171455744,
@@ -2207,7 +2145,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost, adaptabilita a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Číslo: 111 Platnost od: 30. 7. 2026 09:00 Platnost do: 24. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 30. 7. 2026 09:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:29 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost, adaptabilita a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_111 Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Soubory ke stažení: Texty výzvy č. 111 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Číslo: 111 Platnost od: 30. 7. 2026 09:00 Platnost do: 24. 9. 2026 12:00 Zahájení příjmu žádostí o podporu: 30. 7. 2026 09:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:23 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost, adaptabilita a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_111 Podpora zaměstnanosti v rámci regionálních partnerství paktů zaměstnanosti (2) Soubory ke stažení: Texty výzvy č. 111 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha",
       "attachments": []
     },
     {
@@ -2918,6 +2856,34 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
+      "id": 965996455997,
+      "title": "EdTech Accelerator",
+      "code": "DIGITAL-2026-SKILLS-10-EDTECH",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-04-21",
+      "closing_date": "2026-10-01",
+      "deadline": "2026-10-01",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Digital Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "EdTech Accelerator",
+      "text": "EdTech Accelerator",
+      "attachments": []
+    },
+    {
       "id": 1069163383380,
       "title": "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)",
       "code": "DIGITAL-2026-BESTUSE-10-NETWORKSICs",
@@ -3527,8 +3493,73 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vznik center duševního zdraví Vznik center duševního zdraví Číslo: 103 Platnost od: 5. 6. 2025 09:00 Platnost do: 30. 6. 2026 09:00 Zahájení příjmu žádostí o podporu: 19. 11. 2025 09:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:26 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_103 Vznik center duševního zdraví Soubory ke stažení: Text výzvy č. 103 OPZ+ aktualizace k 25. 5. 2026 - zkrácen termín ukončení příjmu žádostí z 18. 11. 2026 do 30. 6. 2026 do 9h, další možnost podpory na vznik CDZ bude předmětem připravovaného dotačního program",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vznik center duševního zdraví Vznik center duševního zdraví Číslo: 103 Platnost od: 5. 6. 2025 09:00 Platnost do: 30. 6. 2026 09:00 Zahájení příjmu žádostí o podporu: 19. 11. 2025 09:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:19 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_103 Vznik center duševního zdraví Soubory ke stažení: Text výzvy č. 103 OPZ+ aktualizace k 25. 5. 2026 - zkrácen termín ukončení příjmu žádostí z 18. 11. 2026 do 30. 6. 2026 do 9h, další možnost podpory na vznik CDZ bude předmětem připravovaného dotačního program",
       "attachments": []
+    },
+    {
+      "id": 1012453428413,
+      "title": "Výzva pro podávání izraelsko-českých projektů",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "",
+      "closing_date": "2026-11-18",
+      "deadline": "2026-11-18",
+      "source_url": "https://gacr.cz/vyzva-pro-podavani-izraelsko-ceskych-projektu/",
+      "source_id": "gacr",
+      "source_name": "GA ČR - grantové soutěže",
+      "program": "",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "Grantová agentura České republiky (GA ČR) ve spolupráci s izraelskou agenturou Israel Science Foundation (ISF) vyhlašuje výzvu pro podávání návrhů projektů na principu hodnocení Lead Agency s předpokládaným počátkem řešení v roce 2028. GA ČR v této výzvě vystupuje v roli partnerské organizace – projekty hodnotí ISF a GA ČR výsledky hodnocení přejímá.",
+      "text": "08. 09. 2026 Grantová agentura České republiky (GA ČR) ve spolupráci s izraelskou agenturou Israel Science Foundation (ISF) vyhlašuje výzvu pro podávání návrhů projektů na principu hodnocení Lead Agency s předpokládaným počátkem řešení v roce 2028. GA ČR v této výzvě vystupuje v roli partnerské organizace – projekty hodnotí ISF a GA ČR výsledky hodnocení přejímá. Lhůta pro podávání návrhů projektů začíná 8. 9. 2026. Českou část návrhu projektu je možné podávat nejpozději do 18. 11. 2026 , tedy do 8 dnů po oficiálním termínu, který ISF pro izraelské uchazeče stanovila na 10. 11. 2026. Upozorňujeme, že v aplikaci pro podávání projektů GRIS je potřeba projekt založit ve výzvě Lead Agency – Partner Organization – 2028 – Israel (ISF). Upozorňujeme, že je nezbytné ze strany společného mezinárodního týmu zajistit podání návrhu projektu ve výše uvedených lhůtách jak k ISF (podle příslušných pravidel ISF), tak ke GA ČR, tj. izraelským navrhovatelem k ISF a českým navrhovatelem ke GA ČR. Nedojde-li ke spárování obou žádostí o grant, je návrh projektu z hodnocení vyřazen. Upozorňujeme, že izraelský navrhovatel projektu se musí v souladu s pravidly ISF nejpozději do 28. 10. 2026 předregistrovat v aplikaci ISF pro podávání projektů. Na českou část projektu se toto pravidlo nevztahuje. Všichni izraelští navrhovatelé také musí mít číslo ORCID. V projektu mohou za izraelskou část figurovat maximálně čtyři navrhovatelé. Pravidla pro podávání návrhů projektů a formulář čestného prohlášení k pr",
+      "attachments": [
+        {
+          "title": "Vzor čestného prohlášení pro uchazeče",
+          "url": "https://gacr.cz/wp-content/uploads/2026/01/Vzor-cestneho-prohlaseni-pro-zadatele-o-verejnou-podporu.docx",
+          "format": "DOCX"
+        },
+        {
+          "title": "Praktické informace – Mezinárodní projekty – Lead Agency 2027",
+          "url": "https://gacr.cz/wp-content/uploads/2026/02/Prakticke_informace_MEZI-LA_2027.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "id": 132848802026,
+      "title": "Infrastruktura ve zdravotnictví",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2025-01-21",
+      "closing_date": "2026-11-20",
+      "deadline": "2026-11-20",
+      "source_url": "https://irop.gov.cz/cs/irop-2021-2027/temata/infrastruktura-ve-zdravotnictvi",
+      "source_id": "irop-2021-2027",
+      "source_name": "IROP 2021-2027",
+      "program": "IROP",
+      "allocation_czk": 9600000000,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "Specifický cíl 4.3: Zajišťování rovného přístupu ke zdravotní péči a posílení odolnosti systémů zdravotní péče včetně primární péče a podpora přechodu od institucionální péče k rodině a komunitně založené péči",
+      "text": "Úvod > IROP 2021-2027 > Infrastruktura ve zdravotnictví Infrastruktura ve zdravotnictví Specifický cíl 4.3: Zajišťování rovného přístupu ke zdravotní péči a posílení odolnosti systémů zdravotní péče včetně primární péče a podpora přechodu od institucionální péče k rodině a komunitně založené péči Cílem této oblasti je zlepšit kvalitu a zvýšit dostupnost zdravotních služeb, integrované, dlouhodobé a následné péče vč. paliativní a hospicové. Pokračovat v reformě psychiatrické péče a zlepšit funkčnost systému epidemiologické bdělosti a připravenosti systému ochrany veřejného zdraví na řešení možných hrozeb v oblasti infekčních onemocnění. Celková částka na projekty: 9,6 mld. Kč Podporované aktivity: vznik a modernizace urgentních příjmů (stavby, rekonstrukce, modernizace a přístrojové vybavení); podpora rozvoje a dostupnosti integrované péče: podpora rozvoje a dostupnosti zdravotní následné péče (stavby, rekonstrukce, modernizace a přístrojové vybavení pro rozvoj následné péče); podpora rozvoje a dostupnosti akutní a specializované lůžkové psychiatrické péče (stavby, rekonstrukce, modernizace a přístrojové vybavení pro zvýšení dostupnosti akutní lůžkové psychiatrické péče); podpora rozvoje a dostupnosti komunitní psychiatrické péče (stavby, rekonstrukce, modernizace, přístrojové vybavení, nákup automobilů pro zvýšení dostupnosti), komunitní psychiatrické péče (centra duševního zdraví - CDZ, ambulance s rozšířenou péčí, krizová péče); podpora rozvoje a dostupnosti paliativní péče",
+      "attachments": [
+        {
+          "title": "Metodický pokyn pro zřízení a vedení urgentních příjmů poskytovateli akutní lůžkové péče v ČR",
+          "url": "https://zachrannasluzba.cz/wp-content/uploads/2020/09/Vestnik-MZ_9-2020_UP.pdf",
+          "format": "PDF"
+        }
+      ]
     },
     {
       "id": 380423867190,
@@ -3553,7 +3584,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Ukončení příjmu žádostí: pro 1. kolo hodnocení: 20. 11. 2025 v 14:00, pro 2. kolo hodnocení: do vyčerpání alokace, nejpozději do 20. 11. 2026 do 14:00.",
-      "text": "02. října 2025 - 20. listopadu 2026 Zbývá 74 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 6 Předložené žádosti 3 552 mil. Kč Počet podpořených žádostí 0 Podpořené žádosti 0 Zbývající alokace 1 500 mil. Kč Aktualizováno 2. 9. 2026 Ukončení příjmu žádostí: pro 1. kolo hodnocení: 20. 11. 2025 v 14:00, pro 2. kolo hodnocení: do vyčerpání alokace, nejpozději do 20. 11. 2026 do 14:00. Cíl výzvy: Cílem výzvy Teaming-CZ III je posílit doplňkovost mezi fondy EU a programem Horizont Evropa a přispět k rozvoji zázemí a kapacit výzkumného prostředí v ČR tak, aby byly vytvořeny dostatečně kvalitní podmínky pro rozvoj špičkového výzkumu. Předmětem výzvy je komplementární podpora projektů úspěšných ve výzvě Teaming for Excellence programu Horizont Evropa ( HORIZON-WIDERA-2025-ACCESS-01-01-two-stage , dále jen „Teaming for Excellence (HE)“), která směřuje k rozvoji excelentních výzkumných center pomocí spolupráce se zahraniční vedoucí vědeckou institucí. Oprávnění žadatelé: Oprávněný žadatel musí patřit do jedné z následujících kategorií a zároveň splňovat všechny podmínky uvedené v kap. 5.3 PpŽP – specifická část. Oprávnění žadatelé pro první kolo: Subjekty, které podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a jejichž žádost úspěšně prošla prvním kolem hodnocení. Oprávnění žadatelé pro druhé kolo: Subjekty, které kumulativně splňují následující podmínky: podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a j",
+      "text": "02. října 2025 - 20. listopadu 2026 Zbývá 67 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 6 Předložené žádosti 3 552 mil. Kč Počet podpořených žádostí 0 Podpořené žádosti 0 Zbývající alokace 1 500 mil. Kč Aktualizováno 9. 9. 2026 Ukončení příjmu žádostí: pro 1. kolo hodnocení: 20. 11. 2025 v 14:00, pro 2. kolo hodnocení: do vyčerpání alokace, nejpozději do 20. 11. 2026 do 14:00. Cíl výzvy: Cílem výzvy Teaming-CZ III je posílit doplňkovost mezi fondy EU a programem Horizont Evropa a přispět k rozvoji zázemí a kapacit výzkumného prostředí v ČR tak, aby byly vytvořeny dostatečně kvalitní podmínky pro rozvoj špičkového výzkumu. Předmětem výzvy je komplementární podpora projektů úspěšných ve výzvě Teaming for Excellence programu Horizont Evropa ( HORIZON-WIDERA-2025-ACCESS-01-01-two-stage , dále jen „Teaming for Excellence (HE)“), která směřuje k rozvoji excelentních výzkumných center pomocí spolupráce se zahraniční vedoucí vědeckou institucí. Oprávnění žadatelé: Oprávněný žadatel musí patřit do jedné z následujících kategorií a zároveň splňovat všechny podmínky uvedené v kap. 5.3 PpŽP – specifická část. Oprávnění žadatelé pro první kolo: Subjekty, které podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a jejichž žádost úspěšně prošla prvním kolem hodnocení. Oprávnění žadatelé pro druhé kolo: Subjekty, které kumulativně splňují následující podmínky: podaly žádost do výzvy Teaming for Excellence (HE) jako koordinátor projektu a j",
       "attachments": [
         {
           "title": "Výzva Teaming-CZ III",
@@ -3728,7 +3759,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování a inovace",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob s poruchou autistického spektra (PAS) Podpora osob s poruchou autistického spektra (PAS) Číslo: 112 Platnost od: 2. 9. 2026 09:00 Platnost do: 23. 11. 2026 14:00 Zahájení příjmu žádostí o podporu: 2. 9. 2026 12:00 Alokace v Kč: 100 000 000 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_112_Podpora osob s poruchou autistického spektra (PAS) Soubory ke stažení: Text výzvy č. 112 OPZ+ Příloha č. 1 - Pomůcka pro stanovení osobních nákladů Příloha č. 2 - Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2A - Údaje o sociální službě plán Seminář pro žadatele: 10. 9. 2026, online Uveřejněno: 2. 9. 2026 Aktualizováno: 2. 9. 2026 Vložil/a: Michala Trličíková Určeno pro: Žadatel 22626719",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob s poruchou autistického spektra (PAS) Podpora osob s poruchou autistického spektra (PAS) Číslo: 112 Platnost od: 2. 9. 2026 09:00 Platnost do: 23. 11. 2026 14:00 Zahájení příjmu žádostí o podporu: 2. 9. 2026 12:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:24 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_112_Podpora osob s poruchou autistického spektra (PAS) Soubory ke stažení: Text výzvy č. 112 OPZ+ Příloha č. 1 - Pomůcka pro stanovení osobních nákladů Příloha č. 2 - Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2A - Údaje o sociální službě plán Seminář pro žadatele: 10. 9. 2026, online Uveřejněno: 2. 9. 2026 Aktualizováno: 2. 9. 2026 Vložil/a: Michala Trličíková Určeno pro: Žadatel 22626719",
       "attachments": []
     },
     {
@@ -3917,13 +3948,13 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "ČP příjemce k RoPD - tuzemský partner (pdf) 5. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/cp-prijemce-k-ropd-tuzemsky-partner.pdf",
+          "title": "ČP příjemce k RoPD - tuzemský partner (pdf) 8. 9. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/cp-prijemce-k-ropd-tuzemsky-partner-v2.pdf",
           "format": "PDF"
         },
         {
-          "title": "ČP příjemce k RoPD - tuzemský partner VO (pdf) 5. 1. 2026",
-          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/01/cp-prijemce-k-ropd-tuzemsky-partner-vo.pdf",
+          "title": "ČP příjemce k RoPD - tuzemský partner VO (pdf) 8. 9. 2026",
+          "url": "https://apiagentura.gov.cz/wp-content/uploads/2026/09/cp-prijemce-k-ropd-tuzemsky-partner-vo-v2.pdf",
           "format": "PDF"
         },
         {
@@ -4049,7 +4080,57 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování a inovace",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora transformace Sídliště Šluknov Podpora transformace Sídliště Šluknov Číslo: 098 Platnost od: 29. 7. 2026 09:00 Platnost do: 30. 11. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 7. 2026 09:00 Alokace v Kč: 30 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:29 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 098 OPZ+ Uveřejněno: 29. 7. 2026 Aktualizováno: 28. 7. 2026 Vložil/a: Radka Pospíšilová Určeno pro: Veřejnost, Žadatel 22508162",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora transformace Sídliště Šluknov Podpora transformace Sídliště Šluknov Číslo: 098 Platnost od: 29. 7. 2026 09:00 Platnost do: 30. 11. 2026 12:00 Zahájení příjmu žádostí o podporu: 29. 7. 2026 09:00 Alokace v Kč: 30 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:24 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování a inovace Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 098 OPZ+ Uveřejněno: 29. 7. 2026 Aktualizováno: 28. 7. 2026 Vložil/a: Radka Pospíšilová Určeno pro: Veřejnost, Žadatel 22508162",
+      "attachments": []
+    },
+    {
+      "id": 1025586384157,
+      "title": "Výzva pro předkládání projektů v rámci opatření 09 - infrastruktura pro alternativní paliva - podpora rozvoje infrastruktury běžných dobíjecích stanic ve městech a obcích",
+      "code": "04_26_045",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-14",
+      "closing_date": "2026-11-30",
+      "deadline": "2026-11-30",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/04-Operacni-program-Doprava-2021-2027/Vyzva-pro-predkladani-projektu-v-ramci-opatre-(34)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Výzva pro předkládání projektů v rámci opatření 09 - infrastruktura pro alternativní paliva - podpora rozvoje infrastruktury běžných dobíjecích stanic ve městech a obcích Číslo výzvy: 04_26_045 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Doprava 2021-2027 Prioritní osa: Udržitelná městská mobilita (a alternativní paliva) Oprávnění žadatelé: vlastníci dotčené infrastruktury s veřejným přístupem Zpřístupnění žádosti o podporu: 31. 8. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 14. 9. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 30. 11. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Rozpracovaná Informace o výzvě Aktuality 31.07.2026 Změna datumu zpřístupnění: na 01.09.2026 31.07.2026 Změna stavu: na Rozpracovaná 31.07.2026 Změna kódu stavu: na VP20 31.07.2026 Změna cílů: na Infrastruktura pro alternativní paliva 31.07.2026 Změna cílů: na Udržitelná městská mobilita (a alternativní paliva) 22.08.2026 Změna datumu uzavření: na 30.11.2026 22.08.2026 Změna datumu zpřístupnění: na 31.08.2026 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Operační program Doprava 2021-2027 Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "attachments": []
+    },
+    {
+      "id": 115558326787,
+      "title": "Výzva pro předkládání projektů v rámci opatření 09 - infrastruktura pro alternativní paliva - podpora rozvoje rychlodobíjecí infrastruktury pro osobní vozidla - prioritní oblasti",
+      "code": "04_26_044",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2026-09-14",
+      "closing_date": "2026-11-30",
+      "deadline": "2026-11-30",
+      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/04-Operacni-program-Doprava-2021-2027/Vyzva-pro-predkladani-projektu-v-ramci-opatre-(35)",
+      "source_id": "dotaceeu-vyzvy",
+      "source_name": "DotaceEU - centrální přehled výzev",
+      "program": "OP TAK",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": false,
+      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
+      "text": "Všechny výzvy Výzva pro předkládání projektů v rámci opatření 09 - infrastruktura pro alternativní paliva - podpora rozvoje rychlodobíjecí infrastruktury pro osobní vozidla - prioritní oblasti Číslo výzvy: 04_26_044 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Doprava 2021-2027 Prioritní osa: Udržitelná městská mobilita (a alternativní paliva) Oprávnění žadatelé: vlastníci dotčené infrastruktury s veřejným přístupem Zpřístupnění žádosti o podporu: 31. 8. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 14. 9. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 30. 11. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Rozpracovaná Informace o výzvě Aktuality 31.07.2026 Změna datumu zpřístupnění: na 01.09.2026 31.07.2026 Změna stavu: na Rozpracovaná 31.07.2026 Změna kódu stavu: na VP20 31.07.2026 Změna cílů: na Infrastruktura pro alternativní paliva 31.07.2026 Změna cílů: na Udržitelná městská mobilita (a alternativní paliva) 22.08.2026 Změna datumu uzavření: na 30.11.2026 22.08.2026 Změna datumu zpřístupnění: na 31.08.2026 Odebírejte aktualizace této stránky X Pro odběr aktualizací musíte být přihlášeni. Zadejte svou e-mailovou adresu a heslo. Pokud nemáte přihlašovací údaje registrujte se . E-mail: Heslo: Operační program Doprava 2021-2027 Tisknout Stáhnout PDF Všechny výzvy ©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
       "attachments": []
     },
     {
@@ -4397,7 +4478,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Číslo: 062 Platnost od: 28. 5. 2026 09:00 Platnost do: 15. 12. 2026 14:00 Zahájení příjmu žádostí o podporu: 11. 6. 2026 09:00 Alokace v Kč: 273 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:11 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Pro tuto výzvu je oprávněným žadatelem Ministerstvo zdravotnictví ČR a Ministerstvo práce a sociálních věcí. Soubory ke stažení: Text výzvy č. 062 OPZ+ - aktualizace k 19. 6. 2026 - rozšíření/specifikace cílové skupiny pracovníci v o",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Komplexní podpora a rozvoj služeb na sociálně zdravotním pomezí Číslo: 062 Platnost od: 28. 5. 2026 09:00 Platnost do: 15. 12. 2026 14:00 Zahájení příjmu žádostí o podporu: 11. 6. 2026 09:00 Alokace v Kč: 273 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:00 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Pro tuto výzvu je oprávněným žadatelem Ministerstvo zdravotnictví ČR a Ministerstvo práce a sociálních věcí. Soubory ke stažení: Text výzvy č. 062 OPZ+ - aktualizace k 19. 6. 2026 - rozšíření/specifikace cílové skupiny pracovníci v o",
       "attachments": []
     },
     {
@@ -4524,7 +4605,7 @@ window.DOTACE_EXPORT = {
       "source_id": "opzp-2021-2027",
       "source_name": "OPŽP 2021-2027",
       "program": "OPŽP",
-      "allocation_czk": 2000000000,
+      "allocation_czk": 2600000000,
       "support_rate_pct": 0,
       "applicant_types": [
         "vyzkumna_organizace",
@@ -4535,11 +4616,11 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Žadatelé se řídí Pravidly pro žadatele a příjemce podpory pro programové období 2021–2027 (PrŽaP21+). Pro žadatele z této výzvy je při podání žádosti platné ustanovení části B.1.1, B.1.2, D.1 – D.6 a E.1 PrŽaP21+ podle verze č. 16 . V dalších fázích administrace se žadatelé budou řídit tou verzí, která bude právě aktuální (tj. poslední verze). Jednotlivé verze dokumentu naleznete na této stránce .",
-      "text": "Vyhledávání 109. výzva – Protipovodňová opatření Výzva podpoří projekty zaměřené na zvýšení ochrany před povodněmi a posílení přirozené retenční schopnosti krajiny. Podporována budou zejména přírodě blízká protipovodňová opatření, vytváření prostoru pro bezpečný rozliv povodní v údolních nivách, úpravy koryt vodních toků, budování či rekonstrukce suchých a retenčních nádrží a poldrů, stejně jako zakládání povodňových parků nebo odstraňování nevyhovujících staveb v korytech toků. Cílem výzvy je zvýšit bezpečnost území ohrožených povodněmi a podpořit účinné zadržování vody v krajině. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 16. 7. 2026 - 17. 12. 2026 Alokace 2 000 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl 1.3 – Podpora přizpůsobení se změně klimatu, prevence rizika katastrof a odolnosti vůči nim s přihlédnutím k ekosystémovým přístupům Opatření 1.3.3 – Realizace protipovodňových opatření Dokumenty k výzvě Text výzvy – 109. výzva 175.38 kB Platnost: 2. 7. 2026 stáhnout Doporučení pro stanovení typu veřejné podpory pro specifický cíl 1.3 (opatření 1.3.3 a 1.3.4) 208.86 kB Platnost: 19. 2. 2026 stáhnout Kumulativní rozpočet – 109. výzva 48.56 kB Platnost: 2. 7. 2026 stáhnout Podání žádosti v jedné výzvě na více opatření s různou mírou dotace 322.14 kB Platnost: 31. 8. 2022 stáhnout SPD a indikátory pro 1.3.3 a 1.3.4 – návod pro žadatele 153.31 kB Platnost: 2. 7. 2026 stáhnout Základní dokumenty Pravidla pro žadatele a příjemce podpory",
+      "text": "Vyhledávání 109. výzva – Protipovodňová opatření Výzva podpoří projekty zaměřené na zvýšení ochrany před povodněmi a posílení přirozené retenční schopnosti krajiny. Podporována budou zejména přírodě blízká protipovodňová opatření, vytváření prostoru pro bezpečný rozliv povodní v údolních nivách, úpravy koryt vodních toků, budování či rekonstrukce suchých a retenčních nádrží a poldrů, stejně jako zakládání povodňových parků nebo odstraňování nevyhovujících staveb v korytech toků. Cílem výzvy je zvýšit bezpečnost území ohrožených povodněmi a podpořit účinné zadržování vody v krajině. Stav výzvy Příjem žádostí probíhá Druh výzvy Průběžná Podání žádosti 16. 7. 2026 - 17. 12. 2026 Alokace 2 600 000 000 Kč Podat žádost Správa žádostí Popis Specifický cíl 1.3 – Podpora přizpůsobení se změně klimatu, prevence rizika katastrof a odolnosti vůči nim s přihlédnutím k ekosystémovým přístupům Opatření 1.3.3 – Realizace protipovodňových opatření Dokumenty k výzvě Text výzvy – 109. výzva 190.94 kB Platnost: 11. 9. 2026 stáhnout Doporučení pro stanovení typu veřejné podpory pro specifický cíl 1.3 (opatření 1.3.3 a 1.3.4) 208.86 kB Platnost: 19. 2. 2026 stáhnout Kumulativní rozpočet – 109. výzva 48.56 kB Platnost: 2. 7. 2026 stáhnout Podání žádosti v jedné výzvě na více opatření s různou mírou dotace 322.14 kB Platnost: 31. 8. 2022 stáhnout SPD a indikátory pro 1.3.3 a 1.3.4 – návod pro žadatele 153.31 kB Platnost: 2. 7. 2026 stáhnout Základní dokumenty Pravidla pro žadatele a příjemce podpory",
       "attachments": [
         {
           "title": "stáhnout",
-          "url": "https://opzp.cz/files/documents/storage/2026/07/01/1782891515_109. výzva SC 1.3 Opatření 1.3.3_final.pdf",
+          "url": "https://opzp.cz/files/documents/storage/2026/09/10/1789044517_109. výzva SC 1.3 Opatření 1.3.3_1. změna.pdf",
           "format": "PDF"
         },
         {
@@ -4777,6 +4858,33 @@ window.DOTACE_EXPORT = {
           "format": "ZIP"
         }
       ]
+    },
+    {
+      "id": 7926950134,
+      "title": "ŽIVEL 1 - Obnova majetku po krizových stavech",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Probíhající",
+      "status_code": "active",
+      "opening_date": "2025-01-31",
+      "closing_date": "2026-12-31",
+      "deadline": "2026-12-31",
+      "source_url": "https://mmr.gov.cz/cs/narodni-dotace/zivel-1-obnova-majetku-po-krizovych-stavech",
+      "source_id": "mmr-narodni-dotace",
+      "source_name": "MMR - národní dotace",
+      "program": "",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "obec_kraj"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Ministerstvo pro místní rozvoj vyhlašuje dne 20. 12. 2024 výzvu č. 1/2025/117D7601 k podávání žádostí o poskytnutí dotace z podprogramu 117D7601 ŽIVEL 1 - Obnova obecního a krajského majetku po krizových stavech programu 117D76 Podpora obnovy a rozvoje regionů. Výzva se týká živelní pohromy – povodně ze září roku 2024 – po níž byl pro území Moravskoslezského kraje, Olomouckého kraje a správního obvodu ORP Frýdlant vy",
+      "text": "Národní dotace > ŽIVEL 1 - Obnova majetku po krizových stavech ŽIVEL 1 - Obnova majetku po krizových stavech Ministerstvo pro místní rozvoj vyhlašuje dne 20. 12. 2024 výzvu č. 1/2025/117D7601 k podávání žádostí o poskytnutí dotace z podprogramu 117D7601 ŽIVEL 1 - Obnova obecního a krajského majetku po krizových stavech programu 117D76 Podpora obnovy a rozvoje regionů. Výzva se týká živelní pohromy – povodně ze září roku 2024 – po níž byl pro území Moravskoslezského kraje, Olomouckého kraje a správního obvodu ORP Frýdlant vyhlášen krizový stav. Oprávněnými žadateli o dotaci jsou kraj Moravskoslezský, Olomoucký a Liberecký, obce na území Moravskoslezského a Olomouckého kraje a správního obvodu ORP Frýdlant, příspěvková organizace výše uvedeného kraje nebo obce právnická osoba vykonávající činnost školy nebo školského zařízení Zahájení příjmu žádostí: 31. ledna 2025 Ukončení příjmu žádostí: 31. prosince 2026 ZKRÁCENO do 7. října 2026 Elektronický formulář Žádosti: http://www3.mmr.cz/zad zpřístupnění formuláře žádosti: 31. ledna 2025, od 15:00 hod Poskytovatel dotace provedl k 31. 01. 2025 aktualizaci dokumentu Výzva a její přílohy č. 1 Zásady podprogramu za účelem zpřesnění, formálních úprav a zmírnění některých podmínek. Dne 12. 02. 2025 provedl poskytovatel dotace aktualizaci dokumentu přílohy č. 1 Výzvy, Zásady podprogramu. Došlo ke zpřesnění bodu 4.2.4 a opravě čísla platné vyhlášky v bodech 10.2.3 a 11.4. dokumentu. Poskytovatel dotace dne 07. 04. 2025 uveřejnil \"Aktualizac",
+      "attachments": []
     },
     {
       "id": 528858209147,
@@ -5961,7 +6069,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zv",
-      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1026 dní na podání Celková alokace 2 000 mil. Kč Počet předložených žádostí 1 Předložené žádosti 2 000 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 2 000 mil. Kč Zbývající alokace 0 Aktualizováno 2. 9. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ERDF 17. 08. 2022 - 05:51 | pdf | 464.93 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ERDF 17. 08. 2022 - 05:51 | pdf | 201.10 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.97 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhno",
+      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1019 dní na podání Celková alokace 2 000 mil. Kč Počet předložených žádostí 1 Předložené žádosti 2 000 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 2 000 mil. Kč Zbývající alokace 0 Aktualizováno 9. 9. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ERDF 17. 08. 2022 - 05:51 | pdf | 464.93 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ERDF 17. 08. 2022 - 05:51 | pdf | 201.10 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.97 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhno",
       "attachments": [
         {
           "title": "Text výzvy TP – ERDF",
@@ -6138,7 +6246,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zv",
-      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1026 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 1 Předložené žádosti 1 500 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 1 500 mil. Kč Zbývající alokace 0 Aktualizováno 2. 9. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 466.12 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 199.55 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.37 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhno",
+      "text": "17. srpna 2022 - 29. června 2029 Zbývá 1019 dní na podání Celková alokace 1 500 mil. Kč Počet předložených žádostí 1 Předložené žádosti 1 500 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 1 500 mil. Kč Zbývající alokace 0 Aktualizováno 9. 9. 2026 Cíl výzvy Cílem výzvy je zajištění aktivit pro podporu implementační struktury OP JAK. Je nezbytné zajistit dostatečnou administrativní kapacitu pro efektivní administraci OP JAK. Dále je nutné zajistit externí služby a aktivity zaměřené na informovanost, publicitu a absorpční kapacitu, které vytváří komplexní a jednotný systém informování veřejnosti o OP JAK a společně s vytvořenými nástroji zajišťují a vhodnými opatřeními zvyšují absorpční kapacitu. Oprávněný žadatel: Organizační složka státu – Ministerstvo školství, mládeže a tělovýchovy Oprávněná aktivita: Zajištění všech činností souvisejících s funkcí ŘO OP JAK a dále s ukončováním a uzavíráním předchozích programových období a přípravou navazujícího programového období. Podání žádosti o podporu: 17. 8. 2022 – 29. 6. 2029 V aplikaci IS KP21+: https://iskp21.mssf.cz/ Délka projektu: 6 – 96 měsíců Informační e-mail k výzvě: opjak@msmt.cz Text výzvy TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 466.12 kB Stáhnout Příloha č. 1 Hodnoticí kritéria TP – ESF+ 17. 08. 2022 - 05:51 | pdf | 199.55 kB Stáhnout Popis a zdůvodnění změn výzvy 05. 01. 2026 - 13:26 | pdf | 170.37 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část, verze 3 04. 11. 2025 - 08:50 | pdf | 2.15 MB Stáhno",
       "attachments": [
         {
           "title": "Text výzvy TP – ESF+",
@@ -6367,7 +6475,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Ministerstvo pro místní rozvoj ČR, které spravuje Integrovaný regionální operační program (IROP), dne 18. 12. 2024 vyhlašuje 103. výzvu IROP - Vznik a modernizace urgentních příjmů – SC 4.3 (MRR), 104. výzvu IROP - Vznik a modernizace urgentních příjmů – SC 4.3 (PR) a 105. výzvu IROP - Vznik a modernizace urgentních příjmů – SC 4.3 (ČR). Výzvy jsou zaměřeny na vznik a modernizaci urgentních příjmů 97 nemocnic, které",
-      "text": "Úvod > Výzvy 2021-2027 > 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) zdravy 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 21. 9. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidla",
+      "text": "Úvod > Výzvy 2021-2027 > 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) zdravy 105. výzva IROP - Vznik a modernizace sítě urgentních příjmů - SC 4.3 (ČR) Stav výzvy: Otevřená Druh výzvy: Průběžná Zpřístupnění žádosti o podporu: 21. 1. 2025 Zahájení příjmu žádostí: 21. 1. 2025 Ukončení příjmu žádostí: 20. 11. 2026 Oprávnění žadatelé: PO OSS, kraje, obce, organizace zřizované nebo zakládané kraji/obcemi a další subjekty poskytující veřejnou službu v oblasti zdravotní péče podle zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách) Bližší informace k oprávněnosti žadatelů jsou uvedeny v textu výzvy. Připojené soubory Obecná pravidla pro žadatele a příjemce IROP 2021-2027 Obecná pravidla pro žadatele a příjemce od 5. 12. 2025 [ PDF, 1.9 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 5. 12. 2025 [ ZIP, 2 MB ] Archiv obecných pravidel Obecná pravidla pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 27. 11. 2024 do 4. 12. 2025 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ PDF, 1.4 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 14. 8. 2023 do 26. 11. 2024 [ ZIP, 1.7 MB ] Obecná pravidla pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ PDF, 1.3 MB ] Přílohy obecných pravidel pro žadatele a příjemce od 28. 7. 2022 do 13. 8. 2023 [ ZIP, 1.1 MB ] Obecná pravidl",
       "attachments": []
     },
     {
@@ -6617,7 +6725,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Program Ministerstva dopravy na podporu aplikovaného výzkumu a inovací v oblasti dopravy – DOPRAVA 2030 (dále jen „program“) byl schválen usnesením vlády č. 750 ze dne 7. září 2022. Poskytovatelem a realizátorem programu je Technologická agentura ČR.",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program DOPRAVA 2030 Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Čtvrtá veřejná soutěž Probíhá hodnocení návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030 Seznam členů a členek kolegia odborníků V6 Seznam členů a členek Odborného poradního orgánu Novinky Program DOPRAVA 2030: Vyhlášení výsledků formální kontroly 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 24. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 4. veřejné soutěže… Program DOPRAVA 2030: Prezentace a videozáznam z webináře pro uchazeče 4. veřejné soutěže Aktuality Doprava 2",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program DOPRAVA 2030 Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Čtvrtá veřejná soutěž Probíhá hodnocení návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030 Seznam členů a členek kolegia odborníků V7 Seznam členů a členek Odborného poradního orgánu Novinky Program DOPRAVA 2030: Vyhlášení výsledků formální kontroly 4. veřejné soutěže Aktuality Doprava 2030 Čtvrtá veřejná soutěž 24. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlašuje výsledky formální kontroly návrhů projektů podaných do 4. veřejné soutěže… Program DOPRAVA 2030: Prezentace a videozáznam z webináře pro uchazeče 4. veřejné soutěže Aktuality Doprava 2",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací v oblasti dopravy DOPRAVA 2030",
@@ -6625,8 +6733,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Seznam členů a členek kolegia odborníků V6",
-          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2025/11/25/1764054774_DOPRAVA 2030 Seznam členů a členek kolegia odborníků V6.pdf",
+          "title": "Seznam členů a členek kolegia odborníků V7",
+          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/09/09/1788961501_DOPRAVA 2030 Seznam členů a členek kolegia odborníků V7.docx.pdf",
           "format": "PDF"
         },
         {
@@ -7232,7 +7340,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Od 4. 8. 2026 je spuštěno nové uživatelské prostředí aplikace ISKP21+, tzv. NPL. Bližší informace a aktualizované příručky naleznete na odkazu ZDE .",
-      "text": "27. března 2025 - 27. února 2026 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 46 Předložené žádosti 178 mil. Kč Počet podpořených žádostí 45 Podpořené žádosti 177 mil. Kč Zbývající alokace 323 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 14. dubna 2025. Text výzvy Podpora poradenského systému 19. 12. 2025 - 08:46 | pdf | 678.45 kB Stáhnout Text výzvy Podpora poradenského systému - Neplatná verze 26. 03. 2025 - 07:29 | pdf | 617.09 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 03. 2025 - 07:29 | pdf | 287.62 kB Stáhnout Příloha č. 2 Přehled šablon a jejich věcný výklad 26. 03. 2025 - 07:29 | pdf | 1.15 MB Stáhnout Popis a zdůvodnění změn výzvy PPS 19. 12. 2025 - 08:46 | pdf | 172.55 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 2, účinnost od 20. 03. 2024 19. 03. 2024 - 09:23 | pdf | 3.66 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 19. 07. 2024 18. 07. 2024 - 08:01 | pdf | 650.25 kB Stáhnout Metodický dopis č. 2 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 01. 05. 2026 01. 04. 2026 - 06:00 | pdf | 607.52 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 1, účinnost od 17. 05. 2022 17. 05. 2022 - 07:31 | pdf | 2.09 MB Stáhnout Metodický výklad pro zjednodušené projekty k vykazování indikátoru 600 000 bez IS ESF; Relevatní pro výzvy 02_22_",
+      "text": "27. března 2025 - 27. února 2026 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 46 Předložené žádosti 178 mil. Kč Počet podpořených žádostí 45 Podpořené žádosti 177 mil. Kč Zbývající alokace 323 mil. Kč Aktualizováno 9. 9. 2026 Datum zahájení příjmu žádostí o podporu 14. dubna 2025. Text výzvy Podpora poradenského systému 19. 12. 2025 - 08:46 | pdf | 678.45 kB Stáhnout Text výzvy Podpora poradenského systému - Neplatná verze 26. 03. 2025 - 07:29 | pdf | 617.09 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 03. 2025 - 07:29 | pdf | 287.62 kB Stáhnout Příloha č. 2 Přehled šablon a jejich věcný výklad 26. 03. 2025 - 07:29 | pdf | 1.15 MB Stáhnout Popis a zdůvodnění změn výzvy PPS 19. 12. 2025 - 08:46 | pdf | 172.55 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 2, účinnost od 20. 03. 2024 19. 03. 2024 - 09:23 | pdf | 3.66 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 19. 07. 2024 18. 07. 2024 - 08:01 | pdf | 650.25 kB Stáhnout Metodický dopis č. 2 k Pravidlům pro žadatele a příjemce zjednodušených projektů, verze 2, účinnost od 01. 05. 2026 01. 04. 2026 - 06:00 | pdf | 607.52 kB Stáhnout Pravidla pro žadatele a příjemce zjednodušených projektů – verze 1, účinnost od 17. 05. 2022 17. 05. 2022 - 07:31 | pdf | 2.09 MB Stáhnout Metodický výklad pro zjednodušené projekty k vykazování indikátoru 600 000 bez IS ESF; Relevatní pro výzvy 02_22_",
       "attachments": [
         {
           "title": "Letak_Vyzva_Podpora_poradenskeho_systemu.pdf",
@@ -7385,32 +7493,6 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         }
       ]
-    },
-    {
-      "id": 858531888382,
-      "title": "Water4All",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Probíhající",
-      "status_code": "active",
-      "opening_date": "2026-03-03",
-      "closing_date": "",
-      "deadline": "",
-      "source_url": "https://tacr.gov.cz/program/water4all/",
-      "source_id": "tacr-souteze",
-      "source_name": "TA ČR - veřejné soutěže",
-      "program": "DOPRAVA 2030",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "vyzkumna_organizace"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Bezpečnost vody znamená schopnost obyvatelstva zajistit si udržitelný přístup k dostatečnému množství vody přijatelné kvality pro udržení živobytí, lidského blahobytu a socioekonomické rovnováhy, pro zajištění ochrany před znečištěním vody a souvisejícími katastrofami a pro zajištění udržitelného rozvoje, zachování ekosystémů v prostředí míru a politické stability. Vizí Partnerství Water4All je podpořit systémové tra",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Water4All Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Water4All TAP Action on Water and Biodiversity výzva uzavřena Call 2022 výzva uzavřena Novinky Water4All Call 2026: Mezinárodní výzva pro udržitelné hospodaření s vodou se blíží! Aktuality Water4All Call 2026 25. 6. 2026 - Dne 8. září 2026 bude vyhlášena mezinárodní výzva Water4All Call 2026 s názvem „Sustainable Water Management“. Termín pro příjem zkrácených návrhů… Most mezi obory i státy: Výsledky dvouleté mezinárodní spolupráce v rámci TAP Action Aktuality Water4All TAP Action 31. 3. 2026 - Výzva Thematic Annual Programming (TAP Action) v rámci partnerství Water4All úspěšně završila svůj dvouletý cyklus závěrečným setkáním klastru AQUA… Znovuotevření v",
-      "attachments": []
     },
     {
       "id": 81286420399,
@@ -8641,6 +8723,34 @@ window.DOTACE_EXPORT = {
       "for_business": true,
       "summary": "Living labs to enhance soil health in Continental, Black Sea, Pannonian and Steppic biogeographical regions",
       "text": "Living labs to enhance soil health in Continental, Black Sea, Pannonian and Steppic biogeographical regions",
+      "attachments": []
+    },
+    {
+      "id": 700268588009,
+      "title": "Long-term drivers and consequences of soil degradation: learning from the past to improve future soil health",
+      "code": "HORIZON-MISS-2027-05-SOIL-06-two-stage",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Připravované",
+      "status_code": "upcoming",
+      "opening_date": "2027-02-04",
+      "closing_date": "2027-04-08",
+      "deadline": "2027-04-08",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-05-SOIL-06-two-stage",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Long-term drivers and consequences of soil degradation: learning from the past to improve future soil health",
+      "text": "Long-term drivers and consequences of soil degradation: learning from the past to improve future soil health",
       "attachments": []
     },
     {
@@ -10887,7 +10997,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Partnerství DUT (Driving Urban Transitions to a Sustainable Future) je novým programem strategické sítě JPI Urban Europe, který začíná v roce 2022. Pomocí výzkumu a inovací pomáhá městům, obcím, podnikům a občanům rozvíjet nástroje a dovednosti potřebné k řešení výzev spojených s životem ve městě. Cílem Partnerství je zlepšit kvalitu života ve městech a učinit městský život více udržitelný.",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Driving Urban Transitions (DUT) Seznam soutěží Call 2026 V přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 probíhá hodnocení návrhů projektů CALL 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Blíží se vyhlášení páté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2026 24. 7. 2026 - V září 2026 dostanou výzkumníci příležitost zapojit se již do páté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzva… Driving Urban Transitions (DUT) Call 2025: Mezinárodní výzva je otevřená Aktuality Driving Urban Transitions Call 2025 1. 9. 2025 - Mezinárodní výzva Evropského partnerství Driving Urban Transitions (DUT) Call 2025 je otevřena od 1. 9. 2025. Výzva je zaměřena na podporu… Blíží se vyhlášení čtvrté mezinárodní výz",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Driving Urban Transitions (DUT) Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 probíhá hodnocení návrhů projektů CALL 2023 výzva uzavřena Call 2022 výzva uzavřena Novinky Driving Urban Transitions (DUT) Call 2026: Mezinárodní výzva je otevřená Aktuality Driving Urban Transitions Call 2026 8. 9. 2026 - Mezinárodní výzva Evropského partnerství Driving Urban Transitions (DUT) Call 2026 je otevřena od 1. 9. 2026. Výzva je zaměřena na podporu… Blíží se vyhlášení páté mezinárodní výzvy v Evropském partnerství DUT Aktuality Driving Urban Transitions Call 2026 24. 7. 2026 - V září 2026 dostanou výzkumníci příležitost zapojit se již do páté mezinárodní výzvy Evropského partnerství Driving Urban Transitions (DUT). Výzva… Driving Urba",
       "attachments": []
     },
     {
@@ -12072,8 +12182,8 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "Vzor prohlášení k ŽoP o dodržování zásady DNSH",
-          "url": "https://mpo.gov.cz/assets/cz/podnikani/narodni-plan-obnovy/vyzvy/2022/4/Vzor-prohlaseni-k-ZoP-o-dodrzovani-zasady-DNSH.pdf",
-          "format": "PDF"
+          "url": "https://mpo.gov.cz/assets/cz/podnikani/narodni-plan-obnovy/vyzvy/2026/9/Vzor-prohlaseni-k-ZoP-o-dodrzovani-zasady-DNSH.docx",
+          "format": "DOCX"
         },
         {
           "title": "Vzor substituční plné moci",
@@ -14990,7 +15100,7 @@ window.DOTACE_EXPORT = {
       "source_id": "op-doprava",
       "source_name": "OP Doprava 2021-2027",
       "program": "OP Doprava",
-      "allocation_czk": 24190,
+      "allocation_czk": 24260,
       "support_rate_pct": 0,
       "applicant_types": [
         "obec_kraj"
@@ -15216,7 +15326,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Pravidla financování českého uchazeče navazují na pravidla programu SIGMA DC4 – Mezinárodní spolupráce. Partnerství je spolufinancováno Evropskou unií prostřednictvím Horizontu Evropa.",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Partnerství Innovative SMEs / Eurostars Seznam soutěží Partnerství Eurostars 3 - Call 11 Běží lhůta pro podávání návrhů projektů Partnerství Eurostars 3 - Call 10 Probíhá hodnocení návrhů projektů Partnerství Eurostars 3 - Call 9 výzva uzavřena Novinky Eurostars 3 – Call 11: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars Call 11 9. 7. 2026 - Od 9. 7. 2026 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Eurostars 3 – Call 10: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars 3 Call 10 16. 1. 2026 - V pondělí 26. ledna 2026, 10:0",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Partnerství Innovative SMEs / Eurostars Seznam soutěží Aktuálně nejsou aktivní žádné soutěže Partnerství Eurostars 3 - Call 11 Běží lhůta pro podávání návrhů projektů Partnerství Eurostars 3 - Call 10 Probíhá hodnocení návrhů projektů Partnerství Eurostars 3 - Call 9 výzva uzavřena Novinky Eurostars 3 – Call 11: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars Call 11 9. 7. 2026 - Od 9. 7. 2026 je otevřena mezinárodní výzva programu Eurostars spadajícího pod evropské Partnerství Innovative SMEs. Cílem výzvy s názvem Eurostars… Eurostars 3 – Call 10: Mezinárodní výzva na podporu inovativních malých a středních podniků je otevřena Aktuality Partnerství Innovative SMEs / Eurostars Eurostars 3 Call 10 16. 1.",
       "attachments": []
     },
     {
@@ -15242,7 +15352,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Pravidla financování českého uchazeče navazují na pravidla programu Prostředí pro život.",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Partnerství pro biodiverzitu Podpora biodiverzity a ochrana ekosystémů Seznam soutěží Call 2026 v přípravě Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Call 2021 výzva uzavřena Novinky Po létě plném lesních požárů a veder je potřeba obnovy přírody zjevnější než kdy dříve Aktuality Partnerství pro biodiverzitu 31. 8. 2026 - Po létě, které v Evropě přineslo rekordní vlny veder a zničující lesní požáry se význam obnovy odolných ekosystémů stal nepopiratelným. Zdravé a… Partnerství pro biodiverzitu Call 2026: Blíží se vyhlášení další mezinárodní výzvy v oblasti biodiverzity Aktuality Partnerství pro biodiverzitu Call 2026 18. 6. 2026 - Dne 9. září 2026 bude vyhlášena již šestá a poslední mezinárodní výzva evropského Partnerst",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Partnerství pro biodiverzitu Podpora biodiverzity a ochrana ekosystémů Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Call 2022 výzva uzavřena Call 2021 výzva uzavřena Novinky Partnerství pro biodiverzitu Call 2026: Mezinárodní výzva je otevřená Aktuality Partnerství pro biodiverzitu Call 2026 9. 9. 2026 - Od 9. 9. 2026 je otevřena šestá a poslední mezinárodní výzva evropského Partnerství pro biodiverzitu Call 2026: “Novel ecosystems: biodiversity,… Po létě plném lesních požárů a veder je potřeba obnovy přírody zjevnější než kdy dříve Aktuality Partnerství pro biodiverzitu 31. 8. 2026 - Po létě, které v Evropě přineslo rekordní vlny veder a zničující lesní požáry se význam obnovy odol",
       "attachments": [
         {
           "title": "návrh",
@@ -16069,7 +16179,7 @@ window.DOTACE_EXPORT = {
       "attachments": [
         {
           "title": "(stáhnout)",
-          "url": "https://sfzp.gov.cz/files/documents/storage/2026/04/28/1777378636_Grafickým manuál ModF_2026.pdf",
+          "url": "https://sfzp.gov.cz/files/documents/storage/2026/09/11/1789129755_Grafickým manuál ModF_2026.pdf",
           "format": "PDF"
         },
         {
@@ -16354,7 +16464,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Program na podporu aplikovaného výzkumu a inovací SIGMA (dále jen „program“) byl schválen usnesením vlády ČR ze dne 18. května 2022 č. 414. Program byl upraven a znovu schválen usnesením vlády ČR ze dne 7. května 2025 č. 328.",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program SIGMA Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Seznam soutěží Osmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ V přípravě Čtvrtá národní výzva - Dílčí cíl 4: Seal of Excellence - EIC Accelerator - 06/2026 Běží lhůta pro podávání návrhů projektů Sedmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 2: Industrial Chairs Probíhá hodnocení návrhů projektů Zobrazit další soutěže Šestnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 4: Bilaterální spolupráce Probíhá hodnocení návrhů projektů Patnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 3: Podpora inovačního potenciálu společenských věd, humanitních věd a umění Probíhá hodnocení návrhů projektů Čtrnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ Uzavřena Třináctá veř",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program SIGMA Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Seznam soutěží 5. výzva pro projekty vybrané na mezinárodní úrovni: EIC PRE-Akcelerátor Seal of Excellence - 01/2027 V přípravě Osmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 1: Podpora komercializace VaVaI+ Běží lhůta pro podávání návrhů projektů Čtvrtá národní výzva - Dílčí cíl 4: Seal of Excellence - EIC Accelerator - 06/2026 Běží lhůta pro podávání návrhů projektů Zobrazit další soutěže Sedmnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 2: Industrial Chairs Probíhá hodnocení návrhů projektů Šestnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 4: Bilaterální spolupráce Probíhá hodnocení návrhů projektů Patnáctá veřejná soutěž –⁠⁠⁠⁠⁠⁠ Dílčí cíl 3: Podpora inovačního potenciálu společenských věd, humanitních",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací SIGMA - s účinností do 6. 9. 2023",
@@ -16362,8 +16472,8 @@ window.DOTACE_EXPORT = {
           "format": "PDF"
         },
         {
-          "title": "Seznam členů a členek Odborného poradního orgánu pro dílčí cíl 1",
-          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/07/22/1784708381_SIGMA - Seznam členů Odborného poradního orgánu V34.pdf",
+          "title": "Seznam členů a členek Odborného poradního orgánu",
+          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/09/09/1788960428_SIGMA - seznam členů Odborného poradního orgánu V36.pdf",
           "format": "PDF"
         },
         {
@@ -16411,7 +16521,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Program na podporu aplikovaného výzkumu a inovací THÉTA 2 (dále též “program”) byl schválen usnesením vlády České republiky č. 320 ze dne 3. května 2023 .",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž Běží lhůta pro podávání návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací THÉTA 2 Seznam členů a členek Odborného poradního orgánu Usnesení vlády ČR o programu THÉTA 2 Novinky Program THÉTA 2: Upozornění pro uchazeče 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 7. 9. 2026 - Vážení uchazeči, dovolujeme si vás upozornit, že došlo k úpravě popisu prioritního výzkumného cíle PP1 – Návrh podpůrných analytických a… Program THÉTA 2: Vyhlášení 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veřejná soutěž 26. 8. 2026 - Technologická agentura České republiky (dále jen „TA ČR”) vyhlásila dne 26. 8. 2026 čtvrtou veřejnou sou",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Program THÉTA 2 Seznam soutěží Čtvrtá veřejná soutěž Běží lhůta pro podávání návrhů projektů Třetí veřejná soutěž Uzavřena Druhá veřejná soutěž Uzavřena První veřejná soutěž Uzavřena Znění programu Program na podporu aplikovaného výzkumu a inovací THÉTA 2 Seznam členů a členek Odborného poradního orgánu Usnesení vlády ČR o programu THÉTA 2 Novinky Zveřejnění postupů Ministerstva průmyslu a obchodu, Energetického regulačního úřadu a Státního úřadu pro jadernou bezpečnost pro poskytnutí role aplikačního garanta Aktuality Théta 2 Čtvrtá veřejná soutěž 8. 9. 2026 - Technologická agentura ČR informuje, že Ministerstvo průmyslu a obchodu, Energetický regulační úřad a Státní úřad pro jadernou bezpečnost postupně… Program THÉTA 2: Upozornění pro uchazeče 4. veřejné soutěže Aktuality Théta 2 Čtvrtá veře",
       "attachments": [
         {
           "title": "Program na podporu aplikovaného výzkumu a inovací THÉTA 2",
@@ -16509,7 +16619,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Projděte si našeho průvodce pro uchazeče. Najdete zde pohromadě základní informace o všech aktuálních programech a mezinárodních výzvách. PŘEJÍT NA STRÁNKU >",
-      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Aktuální možnosti podpory Driving Urban Transitions (DUT) V přípravě Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Program THÉTA 2 V přípravě Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Partnerství Innovative SMEs / Eurostars Běží lhůta pro podávání návrhů projektů M-ERA.NET Probíhá hodnocení n",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Programy a soutěže Aktuální možnosti podpory Partnerství pro biodiverzitu Běží lhůta pro podávání návrhů projektů Podpora biodiverzity a ochrana ekosystémů Water4All V přípravě Program SIGMA Probíhá hodnocení návrhů projektů Komplexní nástroj podpory VaVaI napříč obory orientovaný na potřeby společnosti a hospodářství Driving Urban Transitions (DUT) Běží lhůta pro podávání návrhů projektů Clean Energy Transition (CET) Běží lhůta pro podávání návrhů projektů Program THÉTA 2 V přípravě RAMP Běží lhůta pro podávání návrhů projektů těžba, zpracování a recyklace nerostných surovin Program BETA3 Otevřen Program veřejných zakázek v aplikovaném výzkumu a inovacích pro potřeby státní správy Všechny programy Harmonogram VEŘEJNÝCH SOUTĚŽÍ Harmonogram pro období 2026-2027 (PDF) Program SIGMA Probíhá hodnoc",
       "attachments": [
         {
           "title": "Harmonogram pro období 2026-2027 (PDF)",
@@ -17358,7 +17468,7 @@ window.DOTACE_EXPORT = {
       "source_id": "irop-2021-2027",
       "source_name": "IROP 2021-2027",
       "program": "OP ST",
-      "allocation_czk": 404617615,
+      "allocation_czk": 653649999,
       "support_rate_pct": 0,
       "applicant_types": [
         "obec_kraj",
@@ -18540,7 +18650,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Příjem žádostí o podporu probíhá od 2. 3. do 31. 8. 2026. Vzhledem k nedostatečné disponibilní alokaci OP JAK budou přijaté žádosti o podporu po hodnocení přesunuty do „zásobníku“. V případě uvolnění prostředků pro navýšení alokace výzvy budou projekty podpořeny v pořadí, ve kterém byly podány.",
-      "text": "02. srpna 2022 - 31. srpna 2026 Žádost o podporu již není možné podat Celková alokace 1 395 mil. Kč Počet předložených žádostí 126 Předložené žádosti 2 872 mil. Kč Počet podpořených žádostí 75 Podpořené žádosti 1 349 mil. Kč Zbývající alokace 46 mil. Kč Aktualizováno 2. 9. 2026 Příjem žádostí o podporu probíhá od 2. 3. do 31. 8. 2026. Vzhledem k nedostatečné disponibilní alokaci OP JAK budou přijaté žádosti o podporu po hodnocení přesunuty do „zásobníku“. V případě uvolnění prostředků pro navýšení alokace výzvy budou projekty podpořeny v pořadí, ve kterém byly podány. Text výzvy MSCA Fellowships CZ, verze 3 12. 02. 2026 - 08:36 | pdf | 669.66 kB Stáhnout Text výzvy MSCA Fellowships CZ, verze 2 - Neplatná verze 01. 03. 2024 - 07:47 | pdf | 579.52 kB Stáhnout Text výzvy MSCA Fellowships CZ - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 579.73 kB Stáhnout MSCA_Fellowships_CZ_call_OP_JAK_en 12. 06. 2023 - 12:24 | pdf | 421.07 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 08. 2022 - 05:44 | pdf | 179.64 kB Stáhnout Příloha č. 2 Korekční koeficienty 17. 02. 2025 - 09:31 | pdf | 271.58 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 07. 05. 2024 - 08:23 | pdf | 201.88 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 290.01 kB Stáhnout Popis a zdůvodnění změn výzvy 12. 02. 2026 - 08:36 | pdf | 191.44 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu MSCA Fellowships CZ, verze 2 17. 02. 2025 - 09:31 | pd",
+      "text": "02. srpna 2022 - 31. srpna 2026 Žádost o podporu již není možné podat Celková alokace 1 395 mil. Kč Počet předložených žádostí 126 Předložené žádosti 2 872 mil. Kč Počet podpořených žádostí 76 Podpořené žádosti 1 354 mil. Kč Zbývající alokace 41 mil. Kč Aktualizováno 9. 9. 2026 Příjem žádostí o podporu probíhá od 2. 3. do 31. 8. 2026. Vzhledem k nedostatečné disponibilní alokaci OP JAK budou přijaté žádosti o podporu po hodnocení přesunuty do „zásobníku“. V případě uvolnění prostředků pro navýšení alokace výzvy budou projekty podpořeny v pořadí, ve kterém byly podány. Text výzvy MSCA Fellowships CZ, verze 3 12. 02. 2026 - 08:36 | pdf | 669.66 kB Stáhnout Text výzvy MSCA Fellowships CZ, verze 2 - Neplatná verze 01. 03. 2024 - 07:47 | pdf | 579.52 kB Stáhnout Text výzvy MSCA Fellowships CZ - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 579.73 kB Stáhnout MSCA_Fellowships_CZ_call_OP_JAK_en 12. 06. 2023 - 12:24 | pdf | 421.07 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 08. 2022 - 05:44 | pdf | 179.64 kB Stáhnout Příloha č. 2 Korekční koeficienty 17. 02. 2025 - 09:31 | pdf | 271.58 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 07. 05. 2024 - 08:23 | pdf | 201.88 kB Stáhnout Příloha č. 2 Korekční koeficienty - Neplatná verze 02. 08. 2022 - 05:44 | pdf | 290.01 kB Stáhnout Popis a zdůvodnění změn výzvy 12. 02. 2026 - 08:36 | pdf | 191.44 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu MSCA Fellowships CZ, verze 2 17. 02. 2025 - 09:31 | pd",
       "attachments": [
         {
           "title": "Letak_Vyzva_MSCA-Fellowships.pdf",
@@ -18719,7 +18829,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "V případě, že se celý text části „Cíle projektu – text k převodu do ZPP“ z Podrobného popisu projektu nevejde do pole „Cíle projektu“ v ISKP21+, uvede žadatel do tohoto pole odkaz na textové pole „Cíle projektu – text k převodu do ZPP“ v Podrobném popisu projektu, kde je uvedeno plné znění.",
-      "text": "10. července 2025 - 01. března 2027 Zbývá 182 dní na podání Celková alokace 1 000 mil. Kč Počet předložených žádostí 7 Předložené žádosti 536 mil. Kč Počet podpořených žádostí 2 Podpořené žádosti 198 mil. Kč Zbývající alokace 802 mil. Kč Aktualizováno 26. 8. 2026 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Text výzvy Smart Akcelerátor+ II 09. 07. 2025 - 06:42 | pdf | 506.32 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 09. 07. 2025 - 06:41 | pdf | 315.27 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2026 15. 04. 2026 - 08:37 | pdf | 4.98 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2026 15. 04. 2026 - 08:50 | xlsx | 279.58 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2025 15. 04. 2026 - 08:40 | pdf | 5.07 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2025 15. 04. 2026 - 08:40 | xlsx | 276.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 15. 10. 2025 - 06:19 | pdf | 5.10 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 15. 10. 2025 - 06:19 | xlsx | 279.10 kB Stáhnout Popis a zdůvodnění změn výzvy Smart Akcelerátor II 20. 07. 2026 - 06:05 | pdf | 187.56 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Smart Akcelerátor+ II, verze 2, účinná od 20. 7. 2026 20. 07. 2026 - 06:05 | pdf | 3.93 MB Stáhnout Pravidl",
+      "text": "10. července 2025 - 01. března 2027 Zbývá 168 dní na podání Celková alokace 1 000 mil. Kč Počet předložených žádostí 7 Předložené žádosti 536 mil. Kč Počet podpořených žádostí 2 Podpořené žádosti 198 mil. Kč Zbývající alokace 802 mil. Kč Aktualizováno 9. 9. 2026 Datum zahájení příjmu žádostí o podporu 24. 7. 2025. Text výzvy Smart Akcelerátor+ II 09. 07. 2025 - 06:42 | pdf | 506.32 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 09. 07. 2025 - 06:41 | pdf | 315.27 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2026 15. 04. 2026 - 08:37 | pdf | 4.98 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2026 15. 04. 2026 - 08:50 | xlsx | 279.58 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2025 15. 04. 2026 - 08:40 | pdf | 5.07 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2025 15. 04. 2026 - 08:40 | xlsx | 276.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 15. 10. 2025 - 06:19 | pdf | 5.10 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 15. 10. 2025 - 06:19 | xlsx | 279.10 kB Stáhnout Popis a zdůvodnění změn výzvy Smart Akcelerátor II 20. 07. 2026 - 06:05 | pdf | 187.56 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Smart Akcelerátor+ II, verze 2, účinná od 20. 7. 2026 20. 07. 2026 - 06:05 | pdf | 3.93 MB Stáhnout Pravidla",
       "attachments": [
         {
           "title": "Letak_Vyzva_Smart-AkceleratorII.pdf",
@@ -18923,6 +19033,32 @@ window.DOTACE_EXPORT = {
       "for_business": true,
       "summary": "Rozvoj komunikace a sdílení poznatků a know-how mezi podnikovou a výzkumnou sférou.",
       "text": "Všechny výzvy OPPIK Otevřené výzvy Vyhlášení výzvy Zahájení příjmu Ukončení příjmu Program podpory Zaměření programu podpory Uzavřené výzvy Vyhlášení výzvy Zahájení příjmu Ukončení příjmu Program podpory Zaměření programu podpory 1. 7. 2020 15. 7. 2020 08:00:00 31. 12. 2022 23:59:59 Inovační vouchery – Výzva VI Rozvoj komunikace a sdílení poznatků a know-how mezi podnikovou a výzkumnou sférou. 2. 8. 2021 16. 8. 2021 10:00:00 31. 12. 2021 10:00:00 Nemovitosti – Výzva VI Pomoc po tornádu modernizace výrobních provozů, rekonstrukce stávající zastaralé podnikatelské infrastruktury a objektů typu brownfield 8. 2. 2021 1. 3. 2021 08:00:00 31. 12. 2021 15:59:59 Poradenství – Výzva II Poradenské služby pro MSP poradenské služby pro začínající malé a střední podniky poskytované provozovateli inovační infrastruktury 15. 8. 2021 15. 9. 2021 09:00:00 1. 10. 2021 16:00:00 ICT a sdílené služby – Výzva V Digitální podnik tvorba nových IS/ICT řešení, zřizování a provoz center sdílených služeb, budování a modernizace datových center 17. 8. 2020 17. 10. 2020 09:00:00 16. 9. 2021 09:00:00 Vysokorychlostní internet – Výzva III Vznik a rozvoj digitálních technických map veřejnoprávních subjektů (DTM VPS) rozšíření infrastruktury umožňující vysokorychlostní přístup k internetu (přístupové sítě nové generace) 16. 4. 2020 15. 5. 2020 09:00:00 16. 9. 2021 09:00:00 Vysokorychlostní internet – Výzva III Vznik a rozvoj digitálních technických map krajů (DTM) rozšíření infrastruktury umožňující vysokoryc",
+      "attachments": []
+    },
+    {
+      "id": 858531888382,
+      "title": "Water4All",
+      "code": "",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Neznámé",
+      "status_code": "unknown",
+      "opening_date": "",
+      "closing_date": "",
+      "deadline": "",
+      "source_url": "https://tacr.gov.cz/program/water4all/",
+      "source_id": "tacr-souteze",
+      "source_name": "TA ČR - veřejné soutěže",
+      "program": "DOPRAVA 2030",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Bezpečnost vody znamená schopnost obyvatelstva zajistit si udržitelný přístup k dostatečnému množství vody přijatelné kvality pro udržení živobytí, lidského blahobytu a socioekonomické rovnováhy, pro zajištění ochrany před znečištěním vody a souvisejícími katastrofami a pro zajištění udržitelného rozvoje, zachování ekosystémů v prostředí míru a politické stability. Vizí Partnerství Water4All je podpořit systémové tra",
+      "text": "SISTA Helpdesk Vyhledávání en ISTA Helpdesk en Vyhledávání ISTA Helpdesk Úvodní stránka Programy a soutěže Metodická podpora Všeobecné podmínky Povinná publicita podpořených projektů Vnitřní předpisy Dokumenty VaVaI Inovace v zadávání veřejných zakázek IPR ochrana vlastnictví Právní stanoviska TA ČR O SISTA VÝSLEDKY A VÝSTUPY Analýzy Evaluace a hodnocení programů Certifikované metodiky TA ČR Expo Starfos Výsledky závěrečných oponentních řízení Gazely O nás Organizační struktura Úřední deska Volná místa Mezinárodní spolupráce Pro média 15 let TA ČR Vizuální identita Veřejné zakázky Interní projekty Genderová rovnost GDPR v TA ČR Kontakty Poradenství TA ČR Kontaktní informace Zaměstnanci Water4All Seznam soutěží Call 2026 Běží lhůta pro podávání návrhů projektů Call 2025 Probíhá hodnocení návrhů projektů Call 2024 výzva uzavřena Call 2023 výzva uzavřena Water4All TAP Action on Water and Biodiversity výzva uzavřena Call 2022 výzva uzavřena Novinky Mezinárodní výzva Water4All Call 2026 je otevřena Aktuality Water4All Call 2026 9. 9. 2026 - Od 8. září je otevřena pátá mezinárodní výzva Evropského partnerství Water4All Call 2026: Sustainable Water Management. Výzva je zaměřena na… Water4All Call 2026: Mezinárodní výzva pro udržitelné hospodaření s vodou se blíží! Aktuality Water4All Call 2026 25. 6. 2026 - Dne 8. září 2026 bude vyhlášena mezinárodní výzva Water4All Call 2026 s názvem „Sustainable Water Management“. Termín pro příjem zkrácených návrhů… Most mezi obory i státy: Výsle",
       "attachments": []
     },
     {
@@ -19406,6 +19542,46 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
+      "id": 699577047956,
+      "title": "Záruka Ukrajina",
+      "code": "",
+      "type": "Stránka",
+      "type_code": "page",
+      "status": "Neznámé",
+      "status_code": "unknown",
+      "opening_date": "",
+      "closing_date": "",
+      "deadline": "",
+      "source_url": "https://www.nrb.cz/produkt/zaruka-ukrajina/",
+      "source_id": "nrb",
+      "source_name": "Národní rozvojová banka",
+      "program": "Expanze",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [],
+      "regions": [],
+      "for_business": true,
+      "summary": "Finanční záruky otevírají cestu k realizaci investičních projektů, které přispívají k obnově a rozvoji Ukrajiny. Podporují financování strategických investic, snižují rizika pro financující instituce a pomáhají mobilizovat soukromý kapitál do oblastí, které jsou klíčové pro hospodářskou obnovu, modernizaci a dlouhodobou prosperitu země.",
+      "text": "Finanční záruky otevírají cestu k realizaci investičních projektů, které přispívají k obnově a rozvoji Ukrajiny. Podporují financování strategických investic, snižují rizika pro financující instituce a pomáhají mobilizovat soukromý kapitál do oblastí, které jsou klíčové pro hospodářskou obnovu, modernizaci a dlouhodobou prosperitu země. Cílem programu Záruka Obnova Ukrajiny je poskytnout individuální záruky subjektům (soukromé společnosti či veřejný sektor mimo státu) registrovaným na území Ukrajiny za úvěry poskytované ukrajinskými partnerskými bankami nebo Českou exportní bankou. Příjem žádostí je umožněn po celou dobu otevření programu. Výzva programu Záruka Obnova Ukrajiny je několikakolová, přičemž první kolo příjmu žádostí pro vyhodnocení končí 11. 11. 2026. Více informací najdete ve výzvě programu ZDE .",
+      "attachments": [
+        {
+          "title": "ZDE",
+          "url": "https://www.nrb.cz/wp-content/uploads/2021/08/Vyzva_FINAL-1.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Výzva programu",
+          "url": "https://www.nrb.cz/wp-content/uploads/2021/08/Vyzva_FINAL.pdf",
+          "format": "PDF"
+        },
+        {
+          "title": "Leták programu",
+          "url": "https://www.nrb.cz/wp-content/uploads/2026/09/Ukrajina-Zaruka-Onepager-CZ.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
       "id": 60997766395,
       "title": "Záruka ZRS",
       "code": "",
@@ -19497,7 +19673,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Závazné stanovisko Řídicího orgánu IROP se vydává v případě neodkladné nutnosti upřesnit, doplnit či nastavit pravidla ve vztahu k žadatelům a příjemcům.",
-      "text": "Úvod > IROP 2021-2027 > Závazná stanoviska ŘO IROP 2021-2027 Závazná stanoviska ŘO IROP 2021-2027 Závazné stanovisko Řídicího orgánu IROP se vydává v případě neodkladné nutnosti upřesnit, doplnit či nastavit pravidla ve vztahu k žadatelům a příjemcům. ZS ŘO IROP č. 49 - aktualizace zásady proporcionality při ukládání finan. oprav - platné od 1.9.2026 ZS ŘO IROP č. 49 - aktualizace zásady proporcionality při ukládání finan. oprav - platné od 1.9.2026 [ PDF, 162.8 KB ] Příloha č. 1 - postupy pro aplikaci zásady proporcionality v IROP 2021-2027 [ PDF, 528 KB ] ZS ŘO IROP č. 48 - způsobilost smluvních pokut [ PDF, 242.5 KB ] ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu [ PDF, 204.8 KB ] Příloha ZS č. 47 - čestné prohlášení k fungování urgentního příjmu [ DOCX, 956.9 KB ] ZS ŘO IROP č. 46 - rozvolnění lhůt na hodnocení [ PDF, 248.9 KB ] ZS ŘO IROP č. 45 - povinná publicita - obecná pravidla [ PDF, 265 KB ] ZS ŘO IROP č. 44 - revize ZS č. 36 - změna limitu emisí od 1. 1. 2026 [ PDF, 303.9 KB ] ZS ŘO IROP č. 43 - změny názvů indikátorů v aktivitě sociální bydlení [ PDF, 231.6 KB ] ZS ŘO IROP č. 42 - zjednodušení vykazování způs. výdajů na nákup použitého majetku a nemovitostí [ PDF, 346.6 KB ] ZS ŘO IROP č. 41 - kybernetická bezpečnost - nový zákon [ PDF, 197.4 KB ] ZS ŘO IROP č. 40 - kolaudační rozhodnutí [ PDF, 286.2 KB ] ZS ŘO IROP č. 39 - změna Modelu pro kontrolu nadměrného vy",
+      "text": "Úvod > IROP 2021-2027 > Závazná stanoviska ŘO IROP 2021-2027 Závazná stanoviska ŘO IROP 2021-2027 Závazné stanovisko Řídicího orgánu IROP se vydává v případě neodkladné nutnosti upřesnit, doplnit či nastavit pravidla ve vztahu k žadatelům a příjemcům. ZS ŘO IROP č. 49 - aktualizace zásady proporcionality při ukládání fin. oprav - platné od 1. 9. 2026 ZS ŘO IROP č. 49 - aktualizace zásady proporcionality při ukládání fin. oprav - platné od 1. 9. 2026 [ PDF, 162.8 KB ] Příloha č. 1 - postupy pro aplikaci zásady proporcionality v IROP 2021-2027 [ PDF, 528 KB ] ZS ŘO IROP č. 48 - způsobilost smluvních pokut [ PDF, 242.5 KB ] ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu ZS ŘO IROP č. 47 - vzor čestného prohlášení k fungování urgentního příjmu [ PDF, 204.8 KB ] Příloha ZS č. 47 - čestné prohlášení k fungování urgentního příjmu [ DOCX, 956.9 KB ] ZS ŘO IROP č. 46 - rozvolnění lhůt na hodnocení [ PDF, 248.9 KB ] ZS ŘO IROP č. 45 - povinná publicita - obecná pravidla [ PDF, 265 KB ] ZS ŘO IROP č. 44 - revize ZS č. 36 - změna limitu emisí od 1. 1. 2026 [ PDF, 303.9 KB ] ZS ŘO IROP č. 43 - změny názvů indikátorů v aktivitě sociální bydlení [ PDF, 231.6 KB ] ZS ŘO IROP č. 42 - zjednodušení vykazování způs. výdajů na nákup použitého majetku a nemovitostí [ PDF, 346.6 KB ] ZS ŘO IROP č. 41 - kybernetická bezpečnost - nový zákon [ PDF, 197.4 KB ] ZS ŘO IROP č. 40 - kolaudační rozhodnutí [ PDF, 286.2 KB ] ZS ŘO IROP č. 39 - změna Modelu pro kontrolu nadměrného vy",
       "attachments": []
     },
     {
@@ -19655,7 +19831,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Pravidla spolufinancování jsou definována v PpŽP verze 3, kapitola 5.10.5, od strany 94. V rámci kontroly dokladování výdajů na soupisce účetních dokladů není předmětem administrativního ověřování kontrola podílu spolufinancování.",
-      "text": "16. prosince 2024 - 25. srpna 2025 Žádost o podporu již není možné podat Celková alokace 406 mil. Kč Počet předložených žádostí 108 Předložené žádosti 1 274 mil. Kč Počet podpořených žádostí 36 Podpořené žádosti 400 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 16. 12. 2024. Text výzvy Podpora občanského vzdělávání a výchovy k demokracii, verze 2 07. 01. 2026 - 08:24 | pdf | 629.94 kB Stáhnout Text výzvy Podpora občanského vzdělávání a výchovy k demokracii - Neplatná verze 16. 12. 2024 - 07:50 | pdf | 566.34 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 16. 12. 2024 - 07:50 | pdf | 529.41 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | xlsx | 276.04 kB Stáhnout Popis a zdůvodnění změn výzvy Podpora občanského vzdělávání a výchovy k demokracii 27. 01. 2026 - 09:46 | pdf | 171.64 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora občanského vzdělávání a výchovy k demokracii, verze 1, účinná od 16. 12. 2024 16. 12. 2024 - 07:50 | pdf | 2.69 MB Stáhnout Pravidla pro žadatele a pří",
+      "text": "16. prosince 2024 - 25. srpna 2025 Žádost o podporu již není možné podat Celková alokace 406 mil. Kč Počet předložených žádostí 108 Předložené žádosti 1 274 mil. Kč Počet podpořených žádostí 36 Podpořené žádosti 400 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 9. 9. 2026 Datum zahájení příjmu žádostí o podporu 16. 12. 2024. Text výzvy Podpora občanského vzdělávání a výchovy k demokracii, verze 2 07. 01. 2026 - 08:24 | pdf | 629.94 kB Stáhnout Text výzvy Podpora občanského vzdělávání a výchovy k demokracii - Neplatná verze 16. 12. 2024 - 07:50 | pdf | 566.34 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 16. 12. 2024 - 07:50 | pdf | 529.41 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:01 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 16. 12. 2024 - 07:50 | xlsx | 276.04 kB Stáhnout Popis a zdůvodnění změn výzvy Podpora občanského vzdělávání a výchovy k demokracii 27. 01. 2026 - 09:46 | pdf | 171.64 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora občanského vzdělávání a výchovy k demokracii, verze 1, účinná od 16. 12. 2024 16. 12. 2024 - 07:50 | pdf | 2.69 MB Stáhnout Pravidla pro žadatele a pří",
       "attachments": [
         {
           "title": "Letak_Vyzva_Podpora-obcanskeho-vzdelavani_1.pdf",
@@ -19856,7 +20032,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob znevýhodněných na trhu práce (4) Podpora osob znevýhodněných na trhu práce (4) Číslo: 086 Platnost od: 16. 7. 2025 09:00 Platnost do: 16. 9. 2025 12:00 Zahájení příjmu žádostí o podporu: 21. 7. 2025 09:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:23 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_086 Podpora osob znevýhodněných na trhu práce (4) Soubory ke stažení: Text výzvy č. 086 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha č. 4 - Zdůvodnění dílčích alokací Zápis z jednání výběrové komise 10. - 12. 2. 2026 Semináře pro příjemce 4. 6. 2026 on",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora osob znevýhodněných na trhu práce (4) Podpora osob znevýhodněných na trhu práce (4) Číslo: 086 Platnost od: 16. 7. 2025 09:00 Platnost do: 16. 9. 2025 12:00 Zahájení příjmu žádostí o podporu: 21. 7. 2025 09:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:17 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_086 Podpora osob znevýhodněných na trhu práce (4) Soubory ke stažení: Text výzvy č. 086 OPZ+ Příloha č. 1 - Popis podporovaných aktivit Příloha č. 2 - Vymezení cílových skupin Příloha č. 3 - Pomůcka pro stanovení osobních nákladů Příloha č. 4 - Zdůvodnění dílčích alokací Zápis z jednání výběrové komise 10. - 12. 2. 2026 Semináře pro příjemce 4. 6. 2026 on",
       "attachments": []
     },
     {
@@ -20607,7 +20783,7 @@ window.DOTACE_EXPORT = {
         },
         {
           "title": "Seznam zástupců Rady programu",
-          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/06/04/1780570050_BETA3_Seznam členů Rady programu V11.pdf",
+          "url": "https://tacr.gov.cz/wp-content/uploads/documents/2026/09/09/1788962039_BETA3_Seznam členů Rady programu V12.pdf",
           "format": "PDF"
         },
         {
@@ -20771,7 +20947,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Číslo: 104 Platnost od: 3. 9. 2025 12:00 Platnost do: 27. 11. 2025 12:00 Zahájení příjmu žádostí o podporu: 3. 9. 2025 12:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:26 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_104 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Soubory ke stažení: Text výzvy č. 104 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Popis naplnění základních pri",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Číslo: 104 Platnost od: 3. 9. 2025 12:00 Platnost do: 27. 11. 2025 12:00 Zahájení příjmu žádostí o podporu: 3. 9. 2025 12:00 Alokace v Kč: 350 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:20 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_104 Podpora služeb pro ohrožené děti, rodiny a mladé dospělé (3) Soubory ke stažení: Text výzvy č. 104 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Popis naplnění základních pri",
       "attachments": []
     },
     {
@@ -21005,7 +21181,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Systémová opatření v oblasti sociálního začleňování (2) Systémová opatření v oblasti sociálního začleňování (2) Číslo: 110 Platnost od: 30. 9. 2025 08:00 Platnost do: 12. 12. 2025 10:00 Zahájení příjmu žádostí o podporu: 7. 10. 2025 10:00 Alokace v Kč: 200 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:28 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 110 OPZ+ Zápisy z jednání hodnotící komise: Zápis z 1. jednání hodnoticí komise (5. 12. 2025) Zápis z 2. jednání hodnoticí komise (22. 12. 2025) Uveřejněno: 30. 9. 2025 Aktualizováno: 6. 1. 2026 Vložil/a: Magda Cabr",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Systémová opatření v oblasti sociálního začleňování (2) Systémová opatření v oblasti sociálního začleňování (2) Číslo: 110 Platnost od: 30. 9. 2025 08:00 Platnost do: 12. 12. 2025 10:00 Zahájení příjmu žádostí o podporu: 7. 10. 2025 10:00 Alokace v Kč: 200 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:22 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Soubory ke stažení: Text výzvy č. 110 OPZ+ Zápisy z jednání hodnotící komise: Zápis z 1. jednání hodnoticí komise (5. 12. 2025) Zápis z 2. jednání hodnoticí komise (22. 12. 2025) Uveřejněno: 30. 9. 2025 Aktualizováno: 6. 1. 2026 Vložil/a: Magda Cabr",
       "attachments": []
     },
     {
@@ -21127,33 +21303,6 @@ window.DOTACE_EXPORT = {
       ]
     },
     {
-      "id": 7926950134,
-      "title": "ŽIVEL 1 - Obnova majetku po krizových stavech",
-      "code": "",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "opening_date": "2025-01-31",
-      "closing_date": "2025-12-31",
-      "deadline": "2025-12-31",
-      "source_url": "https://mmr.gov.cz/cs/narodni-dotace/zivel-1-obnova-majetku-po-krizovych-stavech",
-      "source_id": "mmr-narodni-dotace",
-      "source_name": "MMR - národní dotace",
-      "program": "",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [
-        "msp",
-        "obec_kraj"
-      ],
-      "regions": [],
-      "for_business": true,
-      "summary": "Ministerstvo pro místní rozvoj vyhlašuje dne 20. 12. 2024 výzvu č. 1/2025/117D7601 k podávání žádostí o poskytnutí dotace z podprogramu 117D7601 ŽIVEL 1 - Obnova obecního a krajského majetku po krizových stavech programu 117D76 Podpora obnovy a rozvoje regionů. Výzva se týká živelní pohromy – povodně ze září roku 2024 – po níž byl pro území Moravskoslezského kraje, Olomouckého kraje a správního obvodu ORP Frýdlant vy",
-      "text": "Národní dotace > ŽIVEL 1 - Obnova majetku po krizových stavech ŽIVEL 1 - Obnova majetku po krizových stavech Ministerstvo pro místní rozvoj vyhlašuje dne 20. 12. 2024 výzvu č. 1/2025/117D7601 k podávání žádostí o poskytnutí dotace z podprogramu 117D7601 ŽIVEL 1 - Obnova obecního a krajského majetku po krizových stavech programu 117D76 Podpora obnovy a rozvoje regionů. Výzva se týká živelní pohromy – povodně ze září roku 2024 – po níž byl pro území Moravskoslezského kraje, Olomouckého kraje a správního obvodu ORP Frýdlant vyhlášen krizový stav. Oprávněnými žadateli o dotaci jsou kraj Moravskoslezský, Olomoucký a Liberecký, obce na území Moravskoslezského a Olomouckého kraje a správního obvodu ORP Frýdlant, příspěvková organizace výše uvedeného kraje nebo obce právnická osoba vykonávající činnost školy nebo školského zařízení Zahájení příjmu žádostí: 31. ledna 2025 Ukončení příjmu žádostí: 31. prosince 2025 PRODLOUŽENO do 31. prosince 2026 Elektronický formulář Žádosti: http://www3.mmr.cz/zad zpřístupnění formuláře žádosti: 31. ledna 2025, od 15:00 hod Poskytovatel dotace provedl k 31. 01. 2025 aktualizaci dokumentu Výzva a její přílohy č. 1 Zásady podprogramu za účelem zpřesnění, formálních úprav a zmírnění některých podmínek. Dne 12. 02. 2025 provedl poskytovatel dotace aktualizaci dokumentu přílohy č. 1 Výzvy, Zásady podprogramu. Došlo ke zpřesnění bodu 4.2.4 a opravě čísla platné vyhlášky v bodech 10.2.3 a 11.4. dokumentu. Poskytovatel dotace dne 07. 04. 2025 uveřejnil \"Akt",
-      "attachments": []
-    },
-    {
       "id": 966352534640,
       "title": "Podnikové vzdělávání (2)",
       "code": "083",
@@ -21174,7 +21323,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podnikové vzdělávání (2) Podnikové vzdělávání (2) Číslo: 083 Platnost od: 3. 11. 2025 08:00 Platnost do: 8. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 3. 11. 2025 08:00 Alokace v Kč: 700 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:00 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_083 Podnikové vzdělávání (2) Hranice posledního podpořeného projektu je 50 bodů. Soubory ke stažení: Text výzvy č. 083 OPZ+ aktualizace k 7. 11. 2025: úprava v bodě 5.1 Místo realizace - odstranění části textu „a EU“ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Čestné prohlášení o počtu pracovníků Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce v rámci OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podnikové vzdělávání (2) Podnikové vzdělávání (2) Číslo: 083 Platnost od: 3. 11. 2025 08:00 Platnost do: 8. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 3. 11. 2025 08:00 Alokace v Kč: 700 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:15 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_083 Podnikové vzdělávání (2) Hranice posledního podpořeného projektu je 50 bodů. Soubory ke stažení: Text výzvy č. 083 OPZ+ aktualizace k 7. 11. 2025: úprava v bodě 5.1 Místo realizace - odstranění části textu „a EU“ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Čestné prohlášení o počtu pracovníků Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce v rámci OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace",
       "attachments": []
     },
     {
@@ -21198,7 +21347,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Služby prevence domácího a genderově podmíněného násilí (2) Služby prevence domácího a genderově podmíněného násilí (2) Číslo: 109 Platnost od: 15. 10. 2025 10:00 Platnost do: 15. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 10. 2025 10:00 Alokace v Kč: 80 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:28 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_109 Služby prevence domácího a genderově podmíněného násilí (2) Soubory ke stažení: Text výzvy č. 109 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2a Údaje o sociální službě plán PAUŠÁL Příloha č. 3 Čestné prohlášení VZOR Seminář pro žadatele: 5. 11. 2025 (on-line) , Prezentace k semináři Zápisy z výběrové komise: Zápis z jednání výběrové komise ze dne 27. 4. 2026 Podklady k evaluacím: Odkaz pro vyp",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Služby prevence domácího a genderově podmíněného násilí (2) Služby prevence domácího a genderově podmíněného násilí (2) Číslo: 109 Platnost od: 15. 10. 2025 10:00 Platnost do: 15. 1. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 10. 2025 10:00 Alokace v Kč: 80 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:22 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_109 Služby prevence domácího a genderově podmíněného násilí (2) Soubory ke stažení: Text výzvy č. 109 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Příloha č. 2 Podpora sociálních služeb v otevřených výzvách OPZ+ Příloha č. 2a Údaje o sociální službě plán PAUŠÁL Příloha č. 3 Čestné prohlášení VZOR Seminář pro žadatele: 5. 11. 2025 (on-line) , Prezentace k semináři Zápisy z výběrové komise: Zápis z jednání výběrové komise ze dne 27. 4. 2026 Podklady k evaluacím: Odkaz pro vyp",
       "attachments": []
     },
     {
@@ -21224,7 +21373,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sdílené péče o děti a další závislé osoby Podpora sdílené péče o děti a další závislé osoby Číslo: 082 Platnost od: 31. 10. 2025 13:00 Platnost do: 27. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 5. 11. 2025 10:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:21 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_082 Podpora sdílené péče o děti a další závislé osoby S ohledem na inovativní charakter výzvy a požadavek na komplexní řešení problematiky velmi doporučujeme konzultovat projektový záměr s poskytovatelem dotace. Termín konzultace si lze domluvit na emailu daniel.foch@mpsv.cz . Před konzultací je třeba zaslat alespoň 2 prac. dny předem vyplněné dokumenty Teorie změny a Evaluační plán . V rámci možností chceme poskytnout každému žadateli, který projev",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sdílené péče o děti a další závislé osoby Podpora sdílené péče o děti a další závislé osoby Číslo: 082 Platnost od: 31. 10. 2025 13:00 Platnost do: 27. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 5. 11. 2025 10:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:00 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_082 Podpora sdílené péče o děti a další závislé osoby S ohledem na inovativní charakter výzvy a požadavek na komplexní řešení problematiky velmi doporučujeme konzultovat projektový záměr s poskytovatelem dotace. Termín konzultace si lze domluvit na emailu daniel.foch@mpsv.cz . Před konzultací je třeba zaslat alespoň 2 prac. dny předem vyplněné dokumenty Teorie změny a Evaluační plán . V rámci možností chceme poskytnout každému žadateli, který projev",
       "attachments": []
     },
     {
@@ -21250,7 +21399,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů ESF – veřejná správa, sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět ALMA - mezinárodní mobilita znevýhodněné mládeže (2) ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Číslo: 097 Platnost od: 18. 8. 2025 12:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 1. 10. 2025 12:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:24 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – veřejná správa, sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_097 ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Zajímá Vás téma znevýhodněné mládeže a přemýšlíte nad tím, jak by bylo možné těmto mladým lidem pomoci? Máte v hlavě nové a originální způsoby řešení jejich problémů? Máte nápady, jak zefektivnit související procesy a propojit relevantní aktéry? Chcete Vaše zkušeno",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět ALMA - mezinárodní mobilita znevýhodněné mládeže (2) ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Číslo: 097 Platnost od: 18. 8. 2025 12:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 1. 10. 2025 12:00 Alokace v Kč: 150 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:18 Specifický cíl: 1.1 Zlepšit přístup k zaměstnání a aktivačním opatřením pro všechny uchazeče o zaměstnání, zejména mladé lidi, především prováděním systému záruk pro mladé lidi, dále pro dlouhodobě nezaměstnané a znevýhodněné skupiny na trhu práce a pro neaktivní osoby, jakož i podporu samostatné výdělečné činnosti a sociální ekonomiky Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů ESF – veřejná správa, sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_097 ALMA - mezinárodní mobilita znevýhodněné mládeže (2) Zajímá Vás téma znevýhodněné mládeže a přemýšlíte nad tím, jak by bylo možné těmto mladým lidem pomoci? Máte v hlavě nové a originální způsoby řešení jejich problémů? Máte nápady, jak zefektivnit související procesy a propojit relevantní aktéry? Chcete Vaše zkušeno",
       "attachments": []
     },
     {
@@ -21628,7 +21777,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Toto je dáno pravidly vydavatele, u kterého je aktuálně publikace v recenzním řízení.",
-      "text": "31. srpna 2023 - 11. dubna 2024 Žádost o podporu již není možné podat Celková alokace 2 591 mil. Kč Počet předložených žádostí 38 Předložené žádosti 5 478 mil. Kč Počet podpořených žádostí 18 Podpořené žádosti 2 589 mil. Kč Zbývající alokace 2 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3 06. 02. 2025 - 08:12 | pdf | 1.19 MB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 2 - Neplatná verze 06. 01. 2025 - 12:56 | pdf | 264.43 kB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti - Neplatná verze 30. 08. 2023 - 09:36 | pdf | 462.56 kB Stáhnout Popis a zdůvodnění změn výzvy 01. 04. 2026 - 10:47 | pdf | 579.33 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 30. 08. 2023 - 09:36 | pdf | 442.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | pdf | 1.20 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | xlsx | 277.00 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koeficientu 30. 08. 2023 - 09:36 | pdf | 212.27 kB Stáhnout Příloha č. 4 Omezení počtu projektů 30. 08. 2023 - 09:36 | pdf | 156.31 kB Stáhnout Příloha č. 5 Karty tematických oblastí 30. 08. 2023 - 09:36 | pdf | 1.57 MB Stáhnout Příloha č. 6 Výčet povinně volitelných partnerů 30. 08. 2023 - 09:36 | pdf | 150.98 kB Stáhnout Příloha č.",
+      "text": "31. srpna 2023 - 11. dubna 2024 Žádost o podporu již není možné podat Celková alokace 2 591 mil. Kč Počet předložených žádostí 38 Předložené žádosti 5 478 mil. Kč Počet podpořených žádostí 18 Podpořené žádosti 2 589 mil. Kč Zbývající alokace 2 mil. Kč Aktualizováno 9. 9. 2026 Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3 06. 02. 2025 - 08:12 | pdf | 1.19 MB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 2 - Neplatná verze 06. 01. 2025 - 12:56 | pdf | 264.43 kB Stáhnout Text výzvy Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti - Neplatná verze 30. 08. 2023 - 09:36 | pdf | 462.56 kB Stáhnout Popis a zdůvodnění změn výzvy 01. 04. 2026 - 10:47 | pdf | 579.33 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 30. 08. 2023 - 09:36 | pdf | 442.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | pdf | 1.20 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 30. 08. 2023 - 09:36 | xlsx | 277.00 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koeficientu 30. 08. 2023 - 09:36 | pdf | 212.27 kB Stáhnout Příloha č. 4 Omezení počtu projektů 30. 08. 2023 - 09:36 | pdf | 156.31 kB Stáhnout Příloha č. 5 Karty tematických oblastí 30. 08. 2023 - 09:36 | pdf | 1.57 MB Stáhnout Příloha č. 6 Výčet povinně volitelných partnerů 30. 08. 2023 - 09:36 | pdf | 150.98 kB Stáhnout Příloha č.",
       "attachments": [
         {
           "title": "Letak_Vyzva_SHUV-1.pdf",
@@ -21807,7 +21956,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Výplatu stipendia v rámci operačních programů dle § 91 zákona o vysokých školách považuje ŘO v obecné rovině za možné. U projektů výzvy Návraty však taková možnost není, jelikož Pravidla pro žadatele a příjemce – specifická část (SPpŽP) již v pojmech definují minimální personální náklady takto: „ Měsíční hrubá odměna náležící výzkumnému pracovníkovi, tj. mzda/plat, sociální a zdravotní pojištění hrazené zaměstnavatel",
-      "text": "21. listopadu 2024 - 30. dubna 2025 Žádost o podporu již není možné podat Celková alokace 1 542 mil. Kč Počet předložených žádostí 30 Předložené žádosti 1 582 mil. Kč Počet podpořených žádostí 29 Podpořené žádosti 1 541 mil. Kč Zbývající alokace 1 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 30. 04. 2025 Text výzvy Návraty, verze 2 18. 07. 2025 - 06:28 | pdf | 451.00 kB Stáhnout Text výzvy Návraty - Neplatná verze 20. 11. 2024 - 12:38 | pdf | 413.52 kB Stáhnout Popis a zdůvodnění změn výzvy 22. 01. 2026 - 08:08 | pdf | 197.22 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 11. 2024 - 12:38 | pdf | 311.42 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:38 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:39 | xlsx | 276.05 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koef. 20. 11. 2024 - 12:38 | pdf | 684.98 kB Stáhnout Přehled max. výše dotace pro jednotlivé oprávněné žadatele 20. 11. 2024 - 12:38 | pdf | 71.84 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2, účinnost od 15. 9. 2025 11. 09. 2025 - 13:34 | pdf | 3.89 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2 22. 01. 2026 - 08:08 | pdf | 624.04 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty 20. 11. 2024 - 12:38 | pdf | 3.81 MB Stáhnout Pravidla pr",
+      "text": "21. listopadu 2024 - 30. dubna 2025 Žádost o podporu již není možné podat Celková alokace 1 542 mil. Kč Počet předložených žádostí 30 Předložené žádosti 1 582 mil. Kč Počet podpořených žádostí 29 Podpořené žádosti 1 541 mil. Kč Zbývající alokace 1 mil. Kč Aktualizováno 9. 9. 2026 Datum ukončení příjmu žádosti o podporu: 30. 04. 2025 Text výzvy Návraty, verze 2 18. 07. 2025 - 06:28 | pdf | 451.00 kB Stáhnout Text výzvy Návraty - Neplatná verze 20. 11. 2024 - 12:38 | pdf | 413.52 kB Stáhnout Popis a zdůvodnění změn výzvy 22. 01. 2026 - 08:08 | pdf | 197.22 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 11. 2024 - 12:38 | pdf | 311.42 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:38 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 20. 11. 2024 - 12:39 | xlsx | 276.05 kB Stáhnout Příloha č. 3 Přehled hodnot korekčního koef. 20. 11. 2024 - 12:38 | pdf | 684.98 kB Stáhnout Přehled max. výše dotace pro jednotlivé oprávněné žadatele 20. 11. 2024 - 12:38 | pdf | 71.84 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2, účinnost od 15. 9. 2025 11. 09. 2025 - 13:34 | pdf | 3.89 MB Stáhnout Metodický dopis č. 1 k Pravidlům pro žadatele a příjemce – specifická část pro výzvu Návraty, verze 2 22. 01. 2026 - 08:08 | pdf | 624.04 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Návraty 20. 11. 2024 - 12:38 | pdf | 3.81 MB Stáhnout Pravidla pr",
       "attachments": [
         {
           "title": "Vyzva_Navraty_navyseni_final.pdf",
@@ -22213,7 +22362,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Číslo: 088 Platnost od: 15. 12. 2025 08:00 Platnost do: 20. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 12. 2025 08:00 Alokace v Kč: 160 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:24 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_088 Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Soubory ke stažení: Text výzvy č. 088 OPZ+ Příloha č. 1 Specifikace podporovaných aktivit Příloha č. 2 Pomůcka pro stanovení osobních nákladů Příloha č. 3 Odůvodnění zacílení výzvy Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímý",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Číslo: 088 Platnost od: 15. 12. 2025 08:00 Platnost do: 20. 2. 2026 12:00 Zahájení příjmu žádostí o podporu: 15. 12. 2025 08:00 Alokace v Kč: 160 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:17 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_088 Posílení kompetencí žen znevýhodněných na trhu práce a v podnikání (2) Soubory ke stažení: Text výzvy č. 088 OPZ+ Příloha č. 1 Specifikace podporovaných aktivit Příloha č. 2 Pomůcka pro stanovení osobních nákladů Příloha č. 3 Odůvodnění zacílení výzvy Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímý",
       "attachments": []
     },
     {
@@ -22237,7 +22386,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Společně za vzděláváním (2) Společně za vzděláváním (2) Číslo: 071 Platnost od: 16. 12. 2025 08:00 Platnost do: 5. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 12. 2025 08:00 Alokace v Kč: 635 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:00 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_24_071 Společně za vzděláváním (2) Hranice posledního podpořeného projektu je 74,15 bodu. Soubory ke stažení: Text výzvy č. 071 OPZ+ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Prohlášení o počtu dalších zapojených subjektů Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce z OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace - jednotkové náklady - další vzdělávání Obecné pokyny k ovládání IS KP21+",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Společně za vzděláváním (2) Společně za vzděláváním (2) Číslo: 071 Platnost od: 16. 12. 2025 08:00 Platnost do: 5. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 12. 2025 08:00 Alokace v Kč: 635 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:08 Specifický cíl: 1.3 Prosazovat přizpůsobení pracovníků, podniků a podnikatelů změnám, aktivní a zdravé stárnutí a zdravé a vhodně přizpůsobené pracovní prostředí s ohledem na zdravotní rizika Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů fondů EU – zaměstnanost a adaptabilita Typ výzvy: otevřená Odkaz na související kluby fóra: 03_24_071 Společně za vzděláváním (2) Hranice posledního podpořeného projektu je 74,15 bodu. Soubory ke stažení: Text výzvy č. 071 OPZ+ Příloha č. 1 Informace o typech a specifikacích podpory Příloha č. 2 Prohlášení o počtu dalších zapojených subjektů Obecná část pravidel pro žadatele a příjemce z OPZ+ Specifická část pravidel pro žadatele a příjemce z OPZ+ pro projekty s jednotkovými náklady zaměřené na další profesní vzdělávání Vzor rozhodnutí o poskytnutí dotace - jednotkové náklady - další vzdělávání Obecné pokyny k ovládání IS KP21+",
       "attachments": []
     },
     {
@@ -22383,7 +22532,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Výdejny potravinových bank (2) Výdejny potravinových bank (2) Číslo: 089 Platnost od: 12. 12. 2025 08:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 12. 12. 2025 08:00 Alokace v Kč: 120 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:24 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Text výzvy č. 089 Příloha 1 - Pomůcka pro stanovení osobních nákladů Příloha 2 - vzor Prohlášení o partnerství Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímými a nepřímými náklady a pro proj",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Výdejny potravinových bank (2) Výdejny potravinových bank (2) Číslo: 089 Platnost od: 12. 12. 2025 08:00 Platnost do: 31. 3. 2026 12:00 Zahájení příjmu žádostí o podporu: 12. 12. 2025 08:00 Alokace v Kč: 120 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:17 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: uzavřená Text výzvy č. 089 Příloha 1 - Pomůcka pro stanovení osobních nákladů Příloha 2 - vzor Prohlášení o partnerství Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s technickou podporou Pokyny k vyplnění žádosti o podporu v IS KP21+ pro projekty s přímými a nepřímými náklady a pro proj",
       "attachments": []
     },
     {
@@ -22613,7 +22762,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Cílem výzvy je přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny děti, žáky a účastníky zájmového vzdělávání prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských zařízení pro zájmové vzdělávání, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí,",
-      "text": "23. září 2024 - 30. září 2025 Žádost o podporu již není možné podat Celková alokace 5 600 mil. Kč Počet předložených žádostí 7 413 Předložené žádosti 5 606 mil. Kč Počet podpořených žádostí 7 390 Podpořené žádosti 5 591 mil. Kč Zbývající alokace 9 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 7. 10. 2024. Cíl výzvy Cílem výzvy je přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny děti, žáky a účastníky zájmového vzdělávání prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských zařízení pro zájmové vzdělávání, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí, žáků a účastníků zájmového vzdělávání ohrožených školním neúspěchem a z marginalizovaných skupin. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 7. 10. 2024 – 30. 09. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro MŠ a ZŠ II, verze 3 09. 10. 2025 - 05:55 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II, verze 2 - Neplatná verze 08. 09. 2025 - 06:38 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II - Neplatná verze 20. 09. 2024 - 07:31 | pdf | 595.13 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 09.",
+      "text": "23. září 2024 - 30. září 2025 Žádost o podporu již není možné podat Celková alokace 5 600 mil. Kč Počet předložených žádostí 7 413 Předložené žádosti 5 606 mil. Kč Počet podpořených žádostí 7 390 Podpořené žádosti 5 591 mil. Kč Zbývající alokace 9 mil. Kč Aktualizováno 9. 9. 2026 Datum zahájení příjmu žádostí o podporu 7. 10. 2024. Cíl výzvy Cílem výzvy je přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny děti, žáky a účastníky zájmového vzdělávání prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských zařízení pro zájmové vzdělávání, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí, žáků a účastníků zájmového vzdělávání ohrožených školním neúspěchem a z marginalizovaných skupin. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 7. 10. 2024 – 30. 09. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro MŠ a ZŠ II, verze 3 09. 10. 2025 - 05:55 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II, verze 2 - Neplatná verze 08. 09. 2025 - 06:38 | pdf | 631.92 kB Stáhnout Text výzvy Šablony pro MŠ a ZŠ II - Neplatná verze 20. 09. 2024 - 07:31 | pdf | 595.13 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 09.",
       "attachments": [
         {
           "title": "Letak_Sablony-SVC_II.pdf",
@@ -22793,7 +22942,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny žáky a studenty prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských výchovných a ubytovacích zařízení, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí a žáků ohrožených školním neúspěchem a z m",
-      "text": "26. září 2024 - 28. listopadu 2025 Žádost o podporu již není možné podat Celková alokace 2 210 mil. Kč Počet předložených žádostí 1 195 Předložené žádosti 2 213 mil. Kč Počet podpořených žádostí 1 189 Podpořené žádosti 2 203 mil. Kč Zbývající alokace 7 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 10. 10. 2024. Cíl výzvy Přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny žáky a studenty prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských výchovných a ubytovacích zařízení, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí a žáků ohrožených školním neúspěchem a z marginalizovaných skupin. Ve výzvě dojde k ověření modelu institucionalizace podpůrných pedagogických pozic školního psychologa a školního speciálního pedagoga ve středních školách a konzervatořích, aby byla dlouhodobě zajištěna stabilita těchto pozic. Po vyhodnocení modelu a odpovídající úpravě právních předpisů se předpokládá jeho převzetí do národního financování. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 10. 10. 2024 – 28. 11. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro SŠ a VOŠ II, verze 2 10. 12. 2025 - 0",
+      "text": "26. září 2024 - 28. listopadu 2025 Žádost o podporu již není možné podat Celková alokace 2 210 mil. Kč Počet předložených žádostí 1 195 Předložené žádosti 2 213 mil. Kč Počet podpořených žádostí 1 189 Podpořené žádosti 2 203 mil. Kč Zbývající alokace 7 mil. Kč Aktualizováno 9. 9. 2026 Datum zahájení příjmu žádostí o podporu 10. 10. 2024. Cíl výzvy Přispět k zajištění rovného přístupu ke kvalitnímu a inkluzivnímu vzdělávání pro všechny žáky a studenty prostřednictvím podpůrných personálních pozic, vzdělávání pracovníků škol a školských výchovných a ubytovacích zařízení, podpory zavádění inovativních metod vzdělávání za účelem přípravy výuky v souladu s připravovanou revizí rámcových vzdělávacích programů a podpory dětí a žáků ohrožených školním neúspěchem a z marginalizovaných skupin. Ve výzvě dojde k ověření modelu institucionalizace podpůrných pedagogických pozic školního psychologa a školního speciálního pedagoga ve středních školách a konzervatořích, aby byla dlouhodobě zajištěna stabilita těchto pozic. Po vyhodnocení modelu a odpovídající úpravě právních předpisů se předpokládá jeho převzetí do národního financování. Grafický přehled šablon dle oprávněných žadatelů: Podání žádosti o podporu: 10. 10. 2024 – 28. 11. 2025 do 14:00:00 hodin v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Konzultační linka pro šablony OP JAK: e-mail: dotazyZP@msmt.gov.cz , tel. 234 814 777 (každý pracovní den od 9 do 15 hodin). Text výzvy Šablony pro SŠ a VOŠ II, verze 2 10. 12. 2025 - 0",
       "attachments": [
         {
           "title": "Letak_Sablony-SS-II.pdf",
@@ -23013,7 +23162,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sociálního podnikání (3) Podpora sociálního podnikání (3) Číslo: 107 Platnost od: 22. 12. 2025 09:00 Platnost do: 13. 4. 2026 12:00 Zahájení příjmu žádostí o podporu: 13. 1. 2026 12:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:29 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_107 Podpora sociálního podnikání (3) Soubory ke stažení: Text výzvy č. 107 OPZ+ Semináře pro žadatele: 13. 1. 2026 - online + Prezentace ze semináře pro žadatele Zápisy z hodnotící komise: Zápis z jednání hodnoticí komise ze dne 19. 5. 2026 Zápis z jednání hodnoticí komise ze dne 29. 5. 2026 Zápis z výběrové komise: Zápis z jednání výběrové komise ze dne 8. 6. 2026 Odkaz pro vyplnění dotazníku do závěrečné zprávy o realizaci projektu pro výzvu 107 Textová podoba dotazníku (společná část) Textová podoba dotazníku (specifické otázky pro výz",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora sociálního podnikání (3) Podpora sociálního podnikání (3) Číslo: 107 Platnost od: 22. 12. 2025 09:00 Platnost do: 13. 4. 2026 12:00 Zahájení příjmu žádostí o podporu: 13. 1. 2026 12:00 Alokace v Kč: 100 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:23 Specifický cíl: 2.1 Posilovat aktivní začleňování, a podpořit tak rovné příležitosti, nediskriminaci a aktivní účast a zlepšit zaměstnatelnost, zejména v případě znevýhodněných skupin Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_26_107 Podpora sociálního podnikání (3) Soubory ke stažení: Text výzvy č. 107 OPZ+ Semináře pro žadatele: 13. 1. 2026 - online + Prezentace ze semináře pro žadatele Zápisy z hodnotící komise: Zápis z jednání hodnoticí komise ze dne 19. 5. 2026 Zápis z jednání hodnoticí komise ze dne 29. 5. 2026 Zápis z výběrové komise: Zápis z jednání výběrové komise ze dne 8. 6. 2026 Odkaz pro vyplnění dotazníku do závěrečné zprávy o realizaci projektu pro výzvu 107 Textová podoba dotazníku (společná část) Textová podoba dotazníku (specifické otázky pro výz",
       "attachments": []
     },
     {
@@ -23570,7 +23719,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Podpořit kvalitní vzdělávání prostřednictvím pozitivních změn v cílech, obsahu, metodách, formách a hodnocení ve vzdělávání a poskytováním systémové a centrálně koordinované podpory školám a zřizovatelům škol v oblasti řízení organizace, leadershipu a řízení pedagogického procesu. Školy budou podpořeny v práci s kurikulem a při zavádění inovativních metod a způsobů hodnocení do vzdělávání. Podpora bude poskytnuta ved",
-      "text": "30. června 2022 - 31. března 2023 Žádost o podporu již není možné podat Celková alokace 2 200 mil. Kč Počet předložených žádostí 5 Předložené žádosti 3 724 mil. Kč Počet podpořených žádostí 3 Podpořené žádosti 1 969 mil. Kč Zbývající alokace 231 mil. Kč Aktualizováno 2. 9. 2026 Cíle výzvy Podpořit kvalitní vzdělávání prostřednictvím pozitivních změn v cílech, obsahu, metodách, formách a hodnocení ve vzdělávání a poskytováním systémové a centrálně koordinované podpory školám a zřizovatelům škol v oblasti řízení organizace, leadershipu a řízení pedagogického procesu. Školy budou podpořeny v práci s kurikulem a při zavádění inovativních metod a způsobů hodnocení do vzdělávání. Podpora bude poskytnuta vedení škol prostřednictvím středních článků podpory, školním pedagogickým týmům v rámci webinářů i formou konkrétní metodické podpory přímo ve školách a dále pedagogickým pracovníkům napříč školami v rámci metodických kabinetů. Kvalita a efektivita vzdělávání bude také podpořena systematickým monitorováním a analýzou dat vzdělávací soustavy s cílem předcházet nerovnostem ve vzdělávání a podpořit rozvoj kompetencí dětí, žáků a studentů pro jejich úspěšný osobní i profesní život. Oprávnění žadatelé a podmínky partnerství Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 4: – Příspěvkové organizace zřízené MŠMT Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 5 nebo 6: – Organizační složky státu Partnerství – V případě volby p",
+      "text": "30. června 2022 - 31. března 2023 Žádost o podporu již není možné podat Celková alokace 2 200 mil. Kč Počet předložených žádostí 5 Předložené žádosti 3 724 mil. Kč Počet podpořených žádostí 3 Podpořené žádosti 1 969 mil. Kč Zbývající alokace 231 mil. Kč Aktualizováno 9. 9. 2026 Cíle výzvy Podpořit kvalitní vzdělávání prostřednictvím pozitivních změn v cílech, obsahu, metodách, formách a hodnocení ve vzdělávání a poskytováním systémové a centrálně koordinované podpory školám a zřizovatelům škol v oblasti řízení organizace, leadershipu a řízení pedagogického procesu. Školy budou podpořeny v práci s kurikulem a při zavádění inovativních metod a způsobů hodnocení do vzdělávání. Podpora bude poskytnuta vedení škol prostřednictvím středních článků podpory, školním pedagogickým týmům v rámci webinářů i formou konkrétní metodické podpory přímo ve školách a dále pedagogickým pracovníkům napříč školami v rámci metodických kabinetů. Kvalita a efektivita vzdělávání bude také podpořena systematickým monitorováním a analýzou dat vzdělávací soustavy s cílem předcházet nerovnostem ve vzdělávání a podpořit rozvoj kompetencí dětí, žáků a studentů pro jejich úspěšný osobní i profesní život. Oprávnění žadatelé a podmínky partnerství Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 4: – Příspěvkové organizace zřízené MŠMT Oprávnění žadatelé pro povinné aktivity a při volbě povinně volitelné aktivity 5 nebo 6: – Organizační složky státu Partnerství – V případě volby p",
       "attachments": [
         {
           "title": "Text výzvy IPs Vzdělávání",
@@ -23749,7 +23898,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Výsledné hodnoticí tabulky projektu z 1. a 2. kroku hodnocení jsou k dispozici v IS KP21+ na záložce Hodnocení (popis viz str. 110 – 111 Uživatelské příručky ISKP Žádost o podporu, verze 1.3 ).",
-      "text": "14. července 2022 - 16. ledna 2023 Žádost o podporu již není možné podat Celková alokace 12 200 mil. Kč Počet předložených žádostí 76 Předložené žádosti 35 463 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 12 162 mil. Kč Zbývající alokace 38 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Špičkový výzkum, verze 3 22. 11. 2023 - 06:44 | pdf | 1.47 MB Stáhnout Text výzvy Špičkový výzkum, verze 2 - Neplatná verze 06. 11. 2023 - 08:06 | pdf | 782.29 kB Stáhnout Text výzvy Špičkový výzkum - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 1.48 MB Stáhnout Excellent Research 10. 08. 2022 - 10:51 | pdf | 614.41 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | pdf | 392.97 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | xlsx | 59.82 kB Stáhnout Přílohy č. 1 – Hodnoticí kritéria, verze 2 ENG 14. 10. 2022 - 10:07 | xlsx | 61.68 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 393.46 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | xlsx | 60.15 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | pdf | 2.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | xlsx | 257.26 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 2.07 MB Stáhnout Příloha č. 3 Přehled",
+      "text": "14. července 2022 - 16. ledna 2023 Žádost o podporu již není možné podat Celková alokace 12 200 mil. Kč Počet předložených žádostí 76 Předložené žádosti 35 463 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 12 162 mil. Kč Zbývající alokace 38 mil. Kč Aktualizováno 9. 9. 2026 Text výzvy Špičkový výzkum, verze 3 22. 11. 2023 - 06:44 | pdf | 1.47 MB Stáhnout Text výzvy Špičkový výzkum, verze 2 - Neplatná verze 06. 11. 2023 - 08:06 | pdf | 782.29 kB Stáhnout Text výzvy Špičkový výzkum - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 1.48 MB Stáhnout Excellent Research 10. 08. 2022 - 10:51 | pdf | 614.41 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | pdf | 392.97 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 2 04. 10. 2022 - 11:59 | xlsx | 59.82 kB Stáhnout Přílohy č. 1 – Hodnoticí kritéria, verze 2 ENG 14. 10. 2022 - 10:07 | xlsx | 61.68 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 393.46 kB Stáhnout Příloha č.1 Hodnotící kritéria_verze 1 - Neplatná verze 14. 07. 2022 - 07:12 | xlsx | 60.15 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | pdf | 2.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru_pololetí 2022 04. 10. 2022 - 11:59 | xlsx | 257.26 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru - Neplatná verze 14. 07. 2022 - 07:12 | pdf | 2.07 MB Stáhnout Příloha č. 3 Přehled",
       "attachments": [
         {
           "title": "Letak_Vyzva_final.pdf",
@@ -23928,7 +24077,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Řídicí orgán OP JAK dne 20. 8. 2026 zveřejňuje aktualizaci výzvy č. 02_22_012 – Rozvoj infrastrukturního zázemí doktorských studijních programů. Touto změnou dochází k posunu nejzazšího data pro ukončení fyzické realizace projektu a současně k prodloužení maximální doby realizace projektu podpořeného z této výzvy. Ostatní informace a podmínky uvedené ve výzvě a související dokumentaci se […]",
-      "text": "03. listopadu 2022 - 05. května 2023 Žádost o podporu již není možné podat Celková alokace 3 000 mil. Kč Počet předložených žádostí 28 Předložené žádosti 3 010 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 2 795 mil. Kč Zbývající alokace 205 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů, verze 2 20. 08. 2026 - 05:57 | pdf | 235.14 kB Stáhnout Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů - Neplatná verze 02. 11. 2022 - 09:57 | pdf | 548.70 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 11. 2022 - 09:57 | pdf | 232.94 kB Stáhnout Popis a zdůvodnění změn výzvy 20. 08. 2026 - 05:57 | pdf | 71.67 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Rozvoj infrastrukturního zázemí doktorských studijních programů verze 1 02. 11. 2022 - 09:57 | pdf | 2.43 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:21 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopis č. 2 (smlouva o výkonu funkce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 20. 10. 2025 15. 10. 2025 - 12:11 | pdf | 352.17 kB Stáhnout Metodický dop",
+      "text": "03. listopadu 2022 - 05. května 2023 Žádost o podporu již není možné podat Celková alokace 3 000 mil. Kč Počet předložených žádostí 28 Předložené žádosti 3 010 mil. Kč Počet podpořených žádostí 26 Podpořené žádosti 2 795 mil. Kč Zbývající alokace 205 mil. Kč Aktualizováno 9. 9. 2026 Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů, verze 2 20. 08. 2026 - 05:57 | pdf | 235.14 kB Stáhnout Text výzvy Rozvoj infrastrukturního zázemí doktorských studijních programů - Neplatná verze 02. 11. 2022 - 09:57 | pdf | 548.70 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 02. 11. 2022 - 09:57 | pdf | 232.94 kB Stáhnout Popis a zdůvodnění změn výzvy 20. 08. 2026 - 05:57 | pdf | 71.67 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Rozvoj infrastrukturního zázemí doktorských studijních programů verze 1 02. 11. 2022 - 09:57 | pdf | 2.43 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:21 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopis č. 2 (smlouva o výkonu funkce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 20. 10. 2025 15. 10. 2025 - 12:11 | pdf | 352.17 kB Stáhnout Metodický dop",
       "attachments": [
         {
           "title": "Letak_Vyzva_Rozvoj-infrastrukturniho-zazemi_final.pdf",
@@ -24106,7 +24255,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Výzva je určena pro projekty schválené v Operačním programu Výzkum, vývoj a vzdělávání (dále jen „OP VVV“) ve výzvě č. 02_16_019 Excelentní výzkum, které se nepodařilo z objektivních důvodů dokončit a u nichž je rozfázování v zájmu ČR. Výzva podpoří dokončení aktivit, které se nepodařilo dokončit v předchozím programovém období. Ve výše uvedených projektech bude za účelem realizace tzv. orientovaného výzkumu na špičk",
-      "text": "13. dubna 2023 - 30. června 2023 Žádost o podporu již není možné podat Celková alokace 400 mil. Kč Počet předložených žádostí 1 Předložené žádosti 358 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 358 mil. Kč Zbývající alokace 42 mil. Kč Aktualizováno 2. 9. 2026 Cíl výzvy Výzva je určena pro projekty schválené v Operačním programu Výzkum, vývoj a vzdělávání (dále jen „OP VVV“) ve výzvě č. 02_16_019 Excelentní výzkum, které se nepodařilo z objektivních důvodů dokončit a u nichž je rozfázování v zájmu ČR. Výzva podpoří dokončení aktivit, které se nepodařilo dokončit v předchozím programovém období. Ve výše uvedených projektech bude za účelem realizace tzv. orientovaného výzkumu na špičkové vědecké úrovni umožněno pořízení nejmodernějších přístrojů, jež nebylo možné pořídit v rámci časových limitů výzvy Excelentní výzkum. Oprávněné aktivity Podrobnosti k níže uvedeným aktivitám jsou uvedeny v kapitole 5.7 Pravidel pro žadatele a příjemce (dále jen „PpŽP“) – specifická část. POVINNÉ AKTIVITY: Aktivita 1. Řízení projektu Aktivita 2. Dobudování, rekonstrukce či upgrade infrastruktury – materiálně, technicky a informačně podpořit a umožnit výzkumné aktivity v návaznosti na podporovanou aktivitu a)1 výzvy OP VVV č. 02_16_019 Excelentní výzkum „Podpora výzkumu, který dosáhne svou kvalitou a originalitou mezinárodní excelence, čímž dojde ke zvýšení výzkumného výkonu výzkumných center“ VYLOUČENÉ AKTIVITY Aktivity, které nebyly schváleny Řídicím orgánem OP VVV v rámci projektu po",
+      "text": "13. dubna 2023 - 30. června 2023 Žádost o podporu již není možné podat Celková alokace 400 mil. Kč Počet předložených žádostí 1 Předložené žádosti 358 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 358 mil. Kč Zbývající alokace 42 mil. Kč Aktualizováno 9. 9. 2026 Cíl výzvy Výzva je určena pro projekty schválené v Operačním programu Výzkum, vývoj a vzdělávání (dále jen „OP VVV“) ve výzvě č. 02_16_019 Excelentní výzkum, které se nepodařilo z objektivních důvodů dokončit a u nichž je rozfázování v zájmu ČR. Výzva podpoří dokončení aktivit, které se nepodařilo dokončit v předchozím programovém období. Ve výše uvedených projektech bude za účelem realizace tzv. orientovaného výzkumu na špičkové vědecké úrovni umožněno pořízení nejmodernějších přístrojů, jež nebylo možné pořídit v rámci časových limitů výzvy Excelentní výzkum. Oprávněné aktivity Podrobnosti k níže uvedeným aktivitám jsou uvedeny v kapitole 5.7 Pravidel pro žadatele a příjemce (dále jen „PpŽP“) – specifická část. POVINNÉ AKTIVITY: Aktivita 1. Řízení projektu Aktivita 2. Dobudování, rekonstrukce či upgrade infrastruktury – materiálně, technicky a informačně podpořit a umožnit výzkumné aktivity v návaznosti na podporovanou aktivitu a)1 výzvy OP VVV č. 02_16_019 Excelentní výzkum „Podpora výzkumu, který dosáhne svou kvalitou a originalitou mezinárodní excelence, čímž dojde ke zvýšení výzkumného výkonu výzkumných center“ VYLOUČENÉ AKTIVITY Aktivity, které nebyly schváleny Řídicím orgánem OP VVV v rámci projektu po",
       "attachments": [
         {
           "title": "Výzva Fázované projekty I",
@@ -24283,7 +24432,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vaší organizace se povinnost doložit vyjádření souhlasu zřizovatele netýká, jelikož pro to není splněna jedna ze dvou podmínek. Kromě právní formy zřizovatele by povinnost souhlasu zřizovatele veřejné výzkumné instituce s uzavřením partnerství musela být stanovena zákonem. Do změny zákona č. 341/2005 Sb., o veřejných výzkumných institucích, účinné od 1. 1. 2024, která mění podmínky pro veřejné výzkumné instituce zříz",
-      "text": "20. února 2023 - 25. srpna 2023 Žádost o podporu již není možné podat Celková alokace 3 420 mil. Kč Počet předložených žádostí 38 Předložené žádosti 3 749 mil. Kč Počet podpořených žádostí 32 Podpořené žádosti 3 420 mil. Kč Zbývající alokace 0 Aktualizováno 2. 9. 2026 Výzva Výzkumné infrastruktury I, verze 3 15. 01. 2026 - 07:39 | pdf | 452.97 kB Stáhnout Výzva Výzkumné infrastruktury I, verze 2 - Neplatná verze 19. 12. 2023 - 07:56 | pdf | 513.26 kB Stáhnout Výzva Výzkumné infrastruktury I - Neplatná verze 17. 02. 2023 - 10:44 | pdf | 1.06 MB Stáhnout Příloha č. 1 Hodnoticí kritéria 11. 08. 2023 - 08:32 | pdf | 379.24 kB Stáhnout Příloha č. 2 Karty tematických oblastí 17. 02. 2023 - 10:44 | pdf | 1.21 MB Stáhnout Příloha č. 3 Maximální výše způsobilých nákladů 17. 02. 2023 - 10:44 | pdf | 610.47 kB Stáhnout Popis a zdůvodnění změn výzvy 15. 01. 2026 - 07:39 | pdf | 187.53 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné infrastruktury I a Výzkumné e-infrastruktury I, verze 1 17. 02. 2023 - 10:44 | pdf | 1.11 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:35 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopi",
+      "text": "20. února 2023 - 25. srpna 2023 Žádost o podporu již není možné podat Celková alokace 3 420 mil. Kč Počet předložených žádostí 38 Předložené žádosti 3 749 mil. Kč Počet podpořených žádostí 32 Podpořené žádosti 3 420 mil. Kč Zbývající alokace 0 Aktualizováno 9. 9. 2026 Výzva Výzkumné infrastruktury I, verze 3 15. 01. 2026 - 07:39 | pdf | 452.97 kB Stáhnout Výzva Výzkumné infrastruktury I, verze 2 - Neplatná verze 19. 12. 2023 - 07:56 | pdf | 513.26 kB Stáhnout Výzva Výzkumné infrastruktury I - Neplatná verze 17. 02. 2023 - 10:44 | pdf | 1.06 MB Stáhnout Příloha č. 1 Hodnoticí kritéria 11. 08. 2023 - 08:32 | pdf | 379.24 kB Stáhnout Příloha č. 2 Karty tematických oblastí 17. 02. 2023 - 10:44 | pdf | 1.21 MB Stáhnout Příloha č. 3 Maximální výše způsobilých nákladů 17. 02. 2023 - 10:44 | pdf | 610.47 kB Stáhnout Popis a zdůvodnění změn výzvy 15. 01. 2026 - 07:39 | pdf | 187.53 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné infrastruktury I a Výzkumné e-infrastruktury I, verze 1 17. 02. 2023 - 10:44 | pdf | 1.11 MB Stáhnout Metodický výklad Zahájení udržitelnosti, pro vybrané SPpŽP 23. 12. 2024 - 08:35 | pdf | 177.99 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příjemce – obecná část verze 3, účinnost od 19. 07. 2024 18. 07. 2024 - 12:50 | pdf | 746.26 kB Stáhnout Metodický dopi",
       "attachments": [
         {
           "title": "Letak_Vyzva_VYZKUMNE-INFRASTRUKTURY-I.pdf",
@@ -24463,7 +24612,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vámi uváděný odkaz na § 218, odst. 2) uvedený v PpŽP je již neaktuální. V průběhu času došlo k úpravě § 218, která zatím nebyla do PpŽP promítnuta. Ustanovení, na které mají PpŽP odkazovat, je nyní uvedeno v § 218, odst. 3). Princip pravidla pro způsobilou dovolenou však zůstává stejný: aby mohla být převedená dovolená způsobilá z OP JAK, musí být převod proveden souladu se zákoníkem práce.",
-      "text": "22. června 2023 - 30. června 2025 Žádost o podporu již není možné podat Celková alokace 2 300 mil. Kč Počet předložených žádostí 26 Předložené žádosti 4 359 mil. Kč Počet podpořených žádostí 15 Podpořené žádosti 2 138 mil. Kč Zbývající alokace 162 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 30. 06. 2025. Text výzvy APU – IDZ 22. 06. 2023 - 12:02 | pdf | 602.62 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 06. 2023 - 09:27 | pdf | 398.31 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | xlsx | 278.48 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | xlsx | 275.80 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | xlsx | 278.54 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:12 | pdf | 2.08 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023",
+      "text": "22. června 2023 - 30. června 2025 Žádost o podporu již není možné podat Celková alokace 2 300 mil. Kč Počet předložených žádostí 26 Předložené žádosti 4 359 mil. Kč Počet podpořených žádostí 15 Podpořené žádosti 2 138 mil. Kč Zbývající alokace 162 mil. Kč Aktualizováno 9. 9. 2026 Datum ukončení příjmu žádosti o podporu: 30. 06. 2025. Text výzvy APU – IDZ 22. 06. 2023 - 12:02 | pdf | 602.62 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 20. 06. 2023 - 09:27 | pdf | 398.31 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | pdf | 5.06 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 11:54 | xlsx | 278.48 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:21 | xlsx | 275.80 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:26 | xlsx | 278.54 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:12 | pdf | 2.08 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023",
       "attachments": [
         {
           "title": "Letak_Vyzva_AKCNI-PLANOVANI-V-UZEMI-–-IDZ.pdf",
@@ -24640,7 +24789,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vámi uváděný odkaz na § 218, odst. 2) uvedený v PpŽP je již neaktuální. V průběhu času došlo k úpravě § 218, která zatím nebyla do PpŽP promítnuta. Ustanovení, na které mají PpŽP odkazovat, je nyní uvedeno v § 218, odst. 3). Princip pravidla pro způsobilou dovolenou však zůstává stejný: aby mohla být převedená dovolená způsobilá z OP JAK, musí být převod proveden souladu se zákoníkem práce.",
-      "text": "27. června 2023 - 31. ledna 2024 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 15 Předložené žádosti 462 mil. Kč Počet podpořených žádostí 14 Podpořené žádosti 449 mil. Kč Zbývající alokace 51 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 31. 01. 2024. Text výzvy Pregraduální příprava budoucích učitelů a učitelek 26. 06. 2023 - 06:04 | pdf | 541.90 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 06. 2023 - 06:04 | pdf | 254.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | pdf | 5.40 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | xlsx | 276.85 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | pdf | 2.09 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | xlsx | 275.59 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:11 | pdf | 180.62 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora pregraduální přípravy budoucích učitelů a učitelek, verze 1 26. 06. 2023 - 06:04 | pdf | 3.13 MB Stáhnout Metodický výklad k vykazování indikátoru 600 000 bez IS ESF 27. 03. 2024 - 16:03 | pdf | 194.93 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Meto",
+      "text": "27. června 2023 - 31. ledna 2024 Žádost o podporu již není možné podat Celková alokace 500 mil. Kč Počet předložených žádostí 15 Předložené žádosti 462 mil. Kč Počet podpořených žádostí 14 Podpořené žádosti 449 mil. Kč Zbývající alokace 51 mil. Kč Aktualizováno 9. 9. 2026 Datum ukončení příjmu žádosti o podporu: 31. 01. 2024. Text výzvy Pregraduální příprava budoucích učitelů a učitelek 26. 06. 2023 - 06:04 | pdf | 541.90 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 26. 06. 2023 - 06:04 | pdf | 254.12 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | pdf | 5.40 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 26. 06. 2023 - 06:04 | xlsx | 276.85 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | pdf | 2.09 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2023 18. 10. 2023 - 08:14 | xlsx | 275.59 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:11 | pdf | 180.62 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Podpora pregraduální přípravy budoucích učitelů a učitelek, verze 1 26. 06. 2023 - 06:04 | pdf | 3.13 MB Stáhnout Metodický výklad k vykazování indikátoru 600 000 bez IS ESF 27. 03. 2024 - 16:03 | pdf | 194.93 kB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Meto",
       "attachments": [
         {
           "title": "Letak_Vyzva_PREGRADUALNI-PRIPRAVY-BUDOUCICH-UCITELU-A-UCITELEK.pdf",
@@ -24817,7 +24966,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Toto je dáno pravidly vydavatele, u kterého je aktuálně publikace v recenzním řízení.",
-      "text": "29. června 2023 - 28. února 2025 Žádost o podporu již není možné podat Celková alokace 2 740 mil. Kč Počet předložených žádostí 72 Předložené žádosti 3 948 mil. Kč Počet podpořených žádostí 39 Podpořené žádosti 2 395 mil. Kč Zbývající alokace 345 mil. Kč Aktualizováno 2. 9. 2026 Datum ukončení příjmu žádosti o podporu: 28. 02. 2025 Text výzvy Mezisektorová spolupráce pro ITI, verze 6 06. 06. 2025 - 07:12 | pdf | 438.80 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 5 - Neplatná verze 19. 02. 2025 - 05:32 | pdf | 438.93 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 4 - Neplatná verze 19. 12. 2024 - 09:21 | pdf | 436.81 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 3 - Neplatná verze 23. 10. 2023 - 06:50 | pdf | 543.75 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 2 - Neplatná verze 10. 08. 2023 - 06:56 | pdf | 545.95 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI - Neplatná verze 28. 06. 2023 - 06:12 | pdf | 545.80 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 28. 06. 2023 - 06:13 | pdf | 415.39 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:31 | pdf | 1.99 MB Stáhnout Příloh",
+      "text": "29. června 2023 - 28. února 2025 Žádost o podporu již není možné podat Celková alokace 2 740 mil. Kč Počet předložených žádostí 72 Předložené žádosti 3 948 mil. Kč Počet podpořených žádostí 39 Podpořené žádosti 2 395 mil. Kč Zbývající alokace 345 mil. Kč Aktualizováno 9. 9. 2026 Datum ukončení příjmu žádosti o podporu: 28. 02. 2025 Text výzvy Mezisektorová spolupráce pro ITI, verze 6 06. 06. 2025 - 07:12 | pdf | 438.80 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 5 - Neplatná verze 19. 02. 2025 - 05:32 | pdf | 438.93 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 4 - Neplatná verze 19. 12. 2024 - 09:21 | pdf | 436.81 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 3 - Neplatná verze 23. 10. 2023 - 06:50 | pdf | 543.75 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI, verze 2 - Neplatná verze 10. 08. 2023 - 06:56 | pdf | 545.95 kB Stáhnout Text výzvy Mezisektorová spolupráce pro ITI - Neplatná verze 28. 06. 2023 - 06:12 | pdf | 545.80 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 28. 06. 2023 - 06:13 | pdf | 415.39 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | pdf | 5.00 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:23 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2024 12. 04. 2024 - 09:31 | pdf | 1.99 MB Stáhnout Příloh",
       "attachments": [
         {
           "title": "Letak_Vyzva_MEZISEKTOROVA-SPOLUPRACE-PRO-ITI.pdf",
@@ -24994,7 +25143,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vámi uváděný odkaz na § 218, odst. 2) uvedený v PpŽP je již neaktuální. V průběhu času došlo k úpravě § 218, která zatím nebyla do PpŽP promítnuta. Ustanovení, na které mají PpŽP odkazovat, je nyní uvedeno v § 218, odst. 3). Princip pravidla pro způsobilou dovolenou však zůstává stejný: aby mohla být převedená dovolená způsobilá z OP JAK, musí být převod proveden souladu se zákoníkem práce.",
-      "text": "24. června 2024 - 16. prosince 2024 Žádost o podporu již není možné podat Celková alokace 1 200 mil. Kč Počet předložených žádostí 86 Předložené žádosti 3 348 mil. Kč Počet podpořených žádostí 31 Podpořené žádosti 1 159 mil. Kč Zbývající alokace 41 mil. Kč Aktualizováno 2. 9. 2026 Text výzvy Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 510.87 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 24. 06. 2024 - 06:17 | pdf | 356.29 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | pdf | 4.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | xlsx | 278.55 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:07 | pdf | 180.81 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí, verze 2 – účinná od 2. 6. 2025 29. 05. 2025 - 10:33 | pdf | 2.74 MB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 2.97 MB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příj",
+      "text": "24. června 2024 - 16. prosince 2024 Žádost o podporu již není možné podat Celková alokace 1 200 mil. Kč Počet předložených žádostí 86 Předložené žádosti 3 348 mil. Kč Počet podpořených žádostí 31 Podpořené žádosti 1 159 mil. Kč Zbývající alokace 41 mil. Kč Aktualizováno 9. 9. 2026 Text výzvy Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 510.87 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 24. 06. 2024 - 06:17 | pdf | 356.29 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | pdf | 4.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 11. 2024 15. 10. 2024 - 07:26 | xlsx | 275.77 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | pdf | 1.99 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 24. 06. 2024 - 06:17 | xlsx | 278.55 kB Stáhnout Popis a zdůvodnění změn výzvy 25. 11. 2025 - 12:07 | pdf | 180.81 kB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí, verze 2 – účinná od 2. 6. 2025 29. 05. 2025 - 10:33 | pdf | 2.74 MB Stáhnout Pravidla pro žadatele a příjemce – specifická část pro výzvu Výzkumné prostředí 24. 06. 2024 - 06:17 | pdf | 2.97 MB Stáhnout Pravidla pro žadatele a příjemce – obecná část verze 3, účinnost od 21. 06. 2024 21. 06. 2024 - 07:33 | pdf | 6.63 MB Stáhnout Metodický dopis č. 1 (publicita a stavební práce) k Pravidlům pro žadatele a příj",
       "attachments": [
         {
           "title": "Letak_Vyzva_VYZKUMNE-PROSTREDI_revize.pdf",
@@ -25169,7 +25318,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora rozvoje služeb v oblasti duševního zdraví Podpora rozvoje služeb v oblasti duševního zdraví Číslo: 108 Platnost od: 18. 11. 2025 09:00 Platnost do: 29. 5. 2026 09:00 Zahájení příjmu žádostí o podporu: 2. 12. 2025 09:00 Alokace v Kč: 140 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:27 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_108 Podpora rozvoje služeb v oblasti duševního zdraví Soubory ke stažení: Text výzvy č. 108 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s techni",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora rozvoje služeb v oblasti duševního zdraví Podpora rozvoje služeb v oblasti duševního zdraví Číslo: 108 Platnost od: 18. 11. 2025 09:00 Platnost do: 29. 5. 2026 09:00 Zahájení příjmu žádostí o podporu: 2. 12. 2025 09:00 Alokace v Kč: 140 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:21 Specifický cíl: 2.2 Zvyšovat rovný a včasný přístup ke kvalitním, udržitelným a cenově dostupným službám, včetně služeb, které podporují přístup k bydlení a individuální péči, včetně zdravotní péče; modernizovat systémy sociální ochrany, včetně prosazování přístupu k sociální ochraně se zvláštním důrazem na děti a znevýhodněné skupiny; zlepšovat přístupnost, a to i pro osoby se zdravotním postižením, účinnost a odolnost systémů zdravotní péče a služeb dlouhodobé péče Priorita: Priorita 2 - Sociální začleňování Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - odbor realizace programů ESF – sociální začleňování Typ výzvy: otevřená Odkaz na související kluby fóra: 03_25_108 Podpora rozvoje služeb v oblasti duševního zdraví Soubory ke stažení: Text výzvy č. 108 OPZ+ Příloha č. 1 Pomůcka pro stanovení osobních nákladů Dokumenty OPZ+ Obecné pokyny k ovládání IS KP21+ a ke komunikaci s techni",
       "attachments": []
     },
     {
@@ -25195,7 +25344,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Výzva reaguje na potřeby strategického řízení výzkumu, vývoje a inovací na národní úrovni a má povahu systémové intervence navazující na strategické dokumenty České republiky a Evropské unie, s celonárodním dopadem do prostředí VaVaI v ČR. Cílem výzvy je prostřednictvím individuálního projektu systémového podpořit rozvoj řízení a implementace Národní výzkumné a inovační strategie pro inteligentní specializaci ČR 2021",
-      "text": "20. března 2025 - 01. června 2026 Žádost o podporu již není možné podat Celková alokace 50 mil. Kč Počet předložených žádostí 1 Předložené žádosti 44 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 44 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 2. 9. 2026 Datum zahájení příjmu žádostí o podporu 3. 4. 2025. Cíle výzvy Výzva reaguje na potřeby strategického řízení výzkumu, vývoje a inovací na národní úrovni a má povahu systémové intervence navazující na strategické dokumenty České republiky a Evropské unie, s celonárodním dopadem do prostředí VaVaI v ČR. Cílem výzvy je prostřednictvím individuálního projektu systémového podpořit rozvoj řízení a implementace Národní výzkumné a inovační strategie pro inteligentní specializaci ČR 2021–2027 na národní úrovni. Podání žádosti o podporu 3. 4. 2025 – 1. 6. 2026 ve 14:00:00 v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Informační e-mail k výzvě: ipsvav@msmt.gov.cz Text výzvy IPs VaV II 19. 03. 2025 - 07:19 | pdf | 407.01 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 19. 03. 2025 - 07:19 | pdf | 315.75 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | pdf | 5.05 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 19. 03. 2025 - 07:19 | xlsx | 276.27 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV",
+      "text": "20. března 2025 - 01. června 2026 Žádost o podporu již není možné podat Celková alokace 50 mil. Kč Počet předložených žádostí 1 Předložené žádosti 44 mil. Kč Počet podpořených žádostí 1 Podpořené žádosti 44 mil. Kč Zbývající alokace 6 mil. Kč Aktualizováno 9. 9. 2026 Datum zahájení příjmu žádostí o podporu 3. 4. 2025. Cíle výzvy Výzva reaguje na potřeby strategického řízení výzkumu, vývoje a inovací na národní úrovni a má povahu systémové intervence navazující na strategické dokumenty České republiky a Evropské unie, s celonárodním dopadem do prostředí VaVaI v ČR. Cílem výzvy je prostřednictvím individuálního projektu systémového podpořit rozvoj řízení a implementace Národní výzkumné a inovační strategie pro inteligentní specializaci ČR 2021–2027 na národní úrovni. Podání žádosti o podporu 3. 4. 2025 – 1. 6. 2026 ve 14:00:00 v aplikaci IS KP21+ na adrese https://iskp21.mssf.cz/ Informační e-mail k výzvě: ipsvav@msmt.gov.cz Text výzvy IPs VaV II 19. 03. 2025 - 07:19 | pdf | 407.01 kB Stáhnout Příloha č. 1 Hodnoticí kritéria 19. 03. 2025 - 07:19 | pdf | 315.75 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | pdf | 5.05 MB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru platná od 1. 5. 2025 15. 04. 2025 - 12:31 | xlsx | 278.83 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV pro mzdovou a platovou sféru 19. 03. 2025 - 07:19 | xlsx | 276.27 kB Stáhnout Příloha č. 2 Výsledky šetření ISPV",
       "attachments": [
         {
           "title": "Text výzvy IPs VaV II",
@@ -25724,7 +25873,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": true,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů fondů EU – sociální inovace a rovné příležitosti",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vybudování dětských skupin (4) Vybudování dětských skupin (4) Číslo: 090 Platnost od: 2. 4. 2026 08:00 Platnost do: 18. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 4. 2026 08:00 Alokace v Kč: 500 000 000 Poslední aktualizace dat: 1. 9. 2026 15:03:28 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: Dětské skupiny OPZ+ Plánujete vybudování nové dětské skupiny? Zjišťujete zájem cílové skupiny? Potřebujete si ověřit, že ve Vašem okolí již nevzniká jiná dětská skupina, kterou jsme podpořili v minulé výzvě, ale ještě není v evidenci? Pod následujícím odkazem naleznete mapu, která Vám tyto otázky může pomoci zodpovědět: Aktuálně vznikající DS z OPZ+ a NPO Doporučujeme také využít mapu stávajících dětských skupin s aktivním oprávněním , která Vám pomůže zorientovat se v aktuální nabídce ve Vašem",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Vybudování dětských skupin (4) Vybudování dětských skupin (4) Číslo: 090 Platnost od: 2. 4. 2026 08:00 Platnost do: 18. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 16. 4. 2026 08:00 Alokace v Kč: 500 000 000 Poslední aktualizace dat: 7. 9. 2026 14:58:00 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU – sociální inovace a rovné příležitosti Typ výzvy: otevřená Odkaz na související kluby fóra: Dětské skupiny OPZ+ Plánujete vybudování nové dětské skupiny? Zjišťujete zájem cílové skupiny? Potřebujete si ověřit, že ve Vašem okolí již nevzniká jiná dětská skupina, kterou jsme podpořili v minulé výzvě, ale ještě není v evidenci? Pod následujícím odkazem naleznete mapu, která Vám tyto otázky může pomoci zodpovědět: Aktuálně vznikající DS z OPZ+ a NPO Doporučujeme také využít mapu stávajících dětských skupin s aktivním oprávněním , která Vám pomůže zorientovat se v aktuální nabídce ve Vašem",
       "attachments": []
     },
     {
@@ -25748,7 +25897,7 @@ window.DOTACE_EXPORT = {
       "regions": [],
       "for_business": false,
       "summary": "Vyhlašovatel: MPSV - Odbor realizace programů fondů EU - sociální inovace a rovné příležitosti (83)",
-      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Číslo: 030 Platnost od: 17. 12. 2025 08:00 Platnost do: 26. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 26. 1. 2026 08:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 1. 9. 2026 15:02:46 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU - sociální inovace a rovné příležitosti (83) Typ výzvy: otevřená Odkaz na související kluby fóra: 03_22_030 Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Před podáním projektové žádosti je potřeba absolvovat povinnou konzultaci, seznam termínů je dostupný na odkazu zde : https://airtable.com/app0VpCtU7R3Z3Wz2/shrB5D0pNqrTKCbRd Během přihlášení je třeba vložit přílohu projektového záměru. Prosíme o přihlašování a zaslání projektového záměru minimá",
+      "text": "OPZ+ 2021-2027 Aktuality OPZ+ Akce OPZ+ Dokumenty OPZ+ Výzvy OPZ+ Přehled výzev Úvěry pro sociální podniky Harmonogram výzev Monitorovací výbor OPZ+ Zadávací řízení Ochrana osobních údajů PROJEKTY Starší operační programy OBDOBÍ 2028 - 2034 Zpět Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Číslo: 030 Platnost od: 17. 12. 2025 08:00 Platnost do: 26. 6. 2026 12:00 Zahájení příjmu žádostí o podporu: 26. 1. 2026 08:00 Alokace v Kč: 50 000 000 Poslední aktualizace dat: 7. 9. 2026 14:57:34 Specifický cíl: 1.2 Prosazovat genderově vyváženou účast na trhu práce, rovné pracovní podmínky a lepší rovnováhu mezi prací a osobním životem, mimo jiné pomocí přístupu k cenově dostupné péči o děti a péči o závislé osoby Priorita: Priorita 1 - Budoucnost práce Operační program: 03 Operační program Zaměstnanost plus Programové období: 2021-2027 Vyhlašovatel: MPSV - Odbor realizace programů fondů EU - sociální inovace a rovné příležitosti (83) Typ výzvy: otevřená Odkaz na související kluby fóra: 03_22_030 Podpora zaměstnavatelů při implementaci spravedlivého a transparentního odměňování Před podáním projektové žádosti je potřeba absolvovat povinnou konzultaci, seznam termínů je dostupný na odkazu zde : https://airtable.com/app0VpCtU7R3Z3Wz2/shrB5D0pNqrTKCbRd Během přihlášení je třeba vložit přílohu projektového záměru. Prosíme o přihlašování a zaslání projektového záměru minimá",
       "attachments": []
     },
     {
@@ -26876,30 +27025,6 @@ window.DOTACE_EXPORT = {
       "attachments": []
     },
     {
-      "id": 70714958786,
-      "title": "15. výzva OP FVB – Specifická akce SIENA",
-      "code": "15",
-      "type": "Dotace",
-      "type_code": "grant",
-      "status": "Ukončené",
-      "status_code": "completed",
-      "opening_date": "2026-06-11",
-      "closing_date": "2026-08-31",
-      "deadline": "2026-08-31",
-      "source_url": "https://www.dotaceeu.cz/Jak-ziskat-dotaci/Vyzvy/Obdobi-2021-2027/13-Operacni-program-Fondu-pro-vnitrni-bezpecnost/15-vyzva-OP-FVB-Mezinarodni-vymena-informaci",
-      "source_id": "dotaceeu-vyzvy",
-      "source_name": "DotaceEU - centrální přehled výzev",
-      "program": "OP TAK",
-      "allocation_czk": 0,
-      "support_rate_pct": 0,
-      "applicant_types": [],
-      "regions": [],
-      "for_business": false,
-      "summary": "©2026 Ministerstvo pro místní rozvoj, všechna práva vyhrazena",
-      "text": "Všechny výzvy 15. výzva OP FVB – Specifická akce SIENA Číslo výzvy: 13_26_015 Druh výzvy: Kolová Programové období: 2021-2027 Operační program: Operační program Fondu pro vnitřní bezpečnost Prioritní osa: OP FVB Oprávnění žadatelé: Ministerstvo vnitra - Policie ČR Zpřístupnění žádosti o podporu: 11. 6. 2026 Přidat do svého kalendáře Zahájení příjmu žádostí: 11. 6. 2026 Přidat do svého kalendáře Ukončení příjmu žádostí: 31. 8. 2026 Přidat do svého kalendáře Více informací na: Na tomto webovém odkazu Stav výzvy: Otevřená Informace o výzvě Aktuality 03.12.2025 Změna datumu otevření: na 01.02.2026 03.12.2025 Změna datumu uzavření: na 01.04.2026 10.06.2026 Změna názvu: Název se změnil z 15. výzva OP FVB - Mezinárodní výměna informací na 15. výzva OP FVB – Specifická akce SIENA 10.06.2026 Změna datumu otevření: na 10.06.2026 10.06.2026 Změna datumu uzavření: na 31.08.2026 10.06.2026 Změna datumu zpřístupnění: na 10.06.2026 10.06.2026 Změna stavu: na Rozpracovaná 10.06.2026 Změna kódu stavu: na VP20 10.06.2026 Změna cílů: na Zlepšit a usnadnit výměnu informací mezi příslušnými orgány a příslušnými institucemi a jinými subjekty Unie a uvnitř těchto orgánů, institucí a subjektů a tam, kde je to relevantní, i se třetími zeměmi a mezinárodními organizacemi 10.06.2026 Změna cílů: na OP FVB 10.06.2026 Změna alokace v korunách: na 9400000 12.06.2026 Změna datumu otevření: na 11.06.2026 12.06.2026 Změna datumu zpřístupnění: na 11.06.2026 12.06.2026 Změna stavu: na Otevřená 12.06.2026 Změna",
-      "attachments": []
-    },
-    {
       "id": 81992182813,
       "title": "17. výzva OP FVB - Posílení kapacit pro předcházení trestné činnosti a boj proti ní",
       "code": "17",
@@ -27450,6 +27575,62 @@ window.DOTACE_EXPORT = {
       "for_business": true,
       "summary": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
       "text": "Space critical Equipment for EU non-dependence – Space Refuelling Interface",
+      "attachments": []
+    },
+    {
+      "id": 257829197710,
+      "title": "Framework Partnership Agreements for operating grants to support non-profit organisations",
+      "code": "LIFE-2026-NGO-OG-FPA",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-05-12",
+      "closing_date": "2026-09-08",
+      "deadline": "2026-09-08",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-NGO-OG-FPA",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "LIFE",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "Framework Partnership Agreements for operating grants to support non-profit organisations",
+      "text": "Framework Partnership Agreements for operating grants to support non-profit organisations",
+      "attachments": []
+    },
+    {
+      "id": 313464352891,
+      "title": "ERA Fellowships",
+      "code": "HORIZON-WIDERA-2026-05-WIDENING-01",
+      "type": "Dotace",
+      "type_code": "grant",
+      "status": "Ukončené",
+      "status_code": "completed",
+      "opening_date": "2026-04-09",
+      "closing_date": "2026-09-09",
+      "deadline": "2026-09-09",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-05-WIDENING-01",
+      "source_id": "eu-funding-tenders",
+      "source_name": "EU Funding & Tenders Portal",
+      "program": "Horizon Europe",
+      "allocation_czk": 0,
+      "support_rate_pct": 0,
+      "applicant_types": [
+        "msp",
+        "velky_podnik",
+        "vyzkumna_organizace"
+      ],
+      "regions": [],
+      "for_business": true,
+      "summary": "ERA Fellowships",
+      "text": "ERA Fellowships",
       "attachments": []
     }
   ],
